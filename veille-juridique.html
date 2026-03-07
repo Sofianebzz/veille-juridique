@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Veille Juridique — Droit du Numérique & IT</title>
+  <!-- Données juridiques collectées automatiquement -->
+  <script>window.AUTO_VEILLE=[];window.AUTO_VEILLE_UPDATED=null;</script>
+  <script src="veille-auto.js"></script>
+  <!-- Données tech collectées automatiquement -->
+  <script>window.AUTO_TECH=[];window.AUTO_TECH_UPDATED=null;</script>
+  <script src="tech-auto.js"></script>
+  <style>
+    :root {
+      --bg: #f7f7f5;
+      --surface: #ffffff;
+      --border: #e8e8e6;
+      --accent: #2c5f8a;
+      --accent-light: #eef4fa;
+      --text: #1a1a1a;
+      --muted: #6b7280;
+      --tag-bg: #f0f4f8;
+      --tag-color: #4a6fa5;
+      --green: #15803d;
+      --green-bg: #f0fdf4;
+      --green-border: #bbf7d0;
+      --orange: #c2410c;
+      --orange-bg: #fff7ed;
+      --orange-border: #fed7aa;
+      --amber: #b45309;
+      --amber-bg: #fffbeb;
+      --amber-border: #fde68a;
+      --blue: #1d4ed8;
+      --blue-bg: #eff6ff;
+      --blue-border: #bfdbfe;
+      /* Tech accent — violet/indigo */
+      --tech: #6d28d9;
+      --tech-light: #f5f3ff;
+      --tech-tag-bg: #ede9fe;
+      --tech-tag-color: #5b21b6;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Georgia', serif;
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 2rem 2rem 0;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 1.75rem;
+      font-weight: normal;
+      letter-spacing: -0.5px;
+      color: var(--accent);
+    }
+
+    header p.subtitle {
+      margin-top: 0.3rem;
+      color: var(--muted);
+      font-size: 0.88rem;
+      font-style: italic;
+    }
+
+    /* ── TAB NAVIGATION ── */
+    .tab-nav {
+      display: flex;
+      justify-content: center;
+      gap: 0;
+      margin-top: 1.6rem;
+    }
+
+    .tab-btn {
+      padding: 0.65rem 2rem;
+      font-family: 'Arial', sans-serif;
+      font-size: 0.88rem;
+      font-weight: 600;
+      border: none;
+      border-bottom: 3px solid transparent;
+      background: none;
+      color: var(--muted);
+      cursor: pointer;
+      letter-spacing: 0.2px;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    .tab-btn:hover { color: var(--accent); }
+
+    .tab-btn.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    .tab-btn[data-page="tech"]:hover { color: var(--tech); }
+    .tab-btn[data-page="tech"].active {
+      color: var(--tech);
+      border-bottom-color: var(--tech);
+    }
+
+    .tab-btn .tab-icon { margin-right: 0.4rem; }
+
+    /* ── PAGE CONTAINERS ── */
+    .page { display: none; }
+    .page.active { display: block; }
+
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 5rem;
+    }
+
+    /* ── SECTION INTRO ── */
+    .page-intro {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--accent);
+      border-radius: 8px;
+      padding: 1.2rem 1.5rem;
+      margin-bottom: 2rem;
+      font-size: 0.93rem;
+      color: var(--muted);
+      font-family: 'Arial', sans-serif;
+    }
+
+    .page-intro.tech-intro { border-left-color: var(--tech); }
+    .page-intro strong { color: var(--text); }
+
+    /* ════════════════════════════════════════
+       PAGE 1 — TEXTES APPLICABLES
+    ════════════════════════════════════════ */
+
+    .normes-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
+    }
+
+    .norme-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.1rem 1.4rem;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.5rem 1rem;
+      align-items: start;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+
+    .norme-card:hover {
+      border-color: #c5d5e8;
+      box-shadow: 0 2px 8px rgba(44, 95, 138, 0.07);
+    }
+
+    .norme-card.user-added { border-left: 3px solid var(--tag-color); }
+    .norme-left { min-width: 0; }
+
+    .norme-top {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.3rem;
+    }
+
+    .norme-card a {
+      color: var(--accent);
+      text-decoration: none;
+      font-family: 'Arial', sans-serif;
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+
+    .norme-card a:hover { text-decoration: underline; }
+
+    .badge-type {
+      font-size: 0.68rem;
+      font-family: 'Arial', sans-serif;
+      padding: 0.15rem 0.55rem;
+      border-radius: 10px;
+      background: var(--tag-bg);
+      color: var(--tag-color);
+      white-space: nowrap;
+    }
+
+    .norme-desc {
+      font-size: 0.85rem;
+      color: var(--muted);
+      font-family: 'Arial', sans-serif;
+      margin-bottom: 0.5rem;
+      line-height: 1.5;
+    }
+
+    .norme-dates { display: flex; gap: 1.2rem; flex-wrap: wrap; }
+
+    .norme-date-item {
+      font-size: 0.77rem;
+      font-family: 'Arial', sans-serif;
+      color: var(--muted);
+    }
+
+    .norme-date-item span { font-weight: 600; color: var(--text); }
+
+    /* STATUS BADGES */
+    .badge-status {
+      font-size: 0.73rem;
+      font-family: 'Arial', sans-serif;
+      font-weight: 600;
+      padding: 0.3rem 0.75rem;
+      border-radius: 20px;
+      white-space: nowrap;
+      text-align: center;
+      align-self: start;
+    }
+
+    .status-en-vigueur  { background: var(--green-bg);  color: var(--green);  border: 1px solid var(--green-border); }
+    .status-progressive { background: var(--orange-bg); color: var(--orange); border: 1px solid var(--orange-border); }
+    .status-transposition { background: var(--amber-bg); color: var(--amber); border: 1px solid var(--amber-border); }
+    .status-a-venir     { background: var(--blue-bg);   color: var(--blue);   border: 1px solid var(--blue-border); }
+
+    .norme-actions { display: flex; align-items: center; gap: 0.5rem; align-self: start; }
+
+    .delete-btn {
+      background: none;
+      border: none;
+      color: #d1d5db;
+      font-size: 0.85rem;
+      cursor: pointer;
+      padding: 0.1rem 0.3rem;
+      transition: color 0.15s;
+      line-height: 1;
+    }
+    .delete-btn:hover { color: #c0392b; }
+
+    /* LEGEND */
+    .legend {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+      font-family: 'Arial', sans-serif;
+      font-size: 0.78rem;
+    }
+
+    .legend-item { display: flex; align-items: center; gap: 0.4rem; color: var(--muted); }
+    .legend-dot  { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+    /* ════════════════════════════════════════
+       PAGES 2 & 3 — FEED PARTAGÉ
+    ════════════════════════════════════════ */
+
+    .veille-toolbar {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+
+    .filter-label {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.78rem;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .filter-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; flex: 1; }
+
+    .filter-tag {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.75rem;
+      padding: 0.2rem 0.7rem;
+      border-radius: 14px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .filter-tag:hover        { border-color: var(--accent); color: var(--accent); }
+    .filter-tag.active       { background: var(--accent); color: white; border-color: var(--accent); }
+    .filter-tag.tech:hover   { border-color: var(--tech); color: var(--tech); }
+    .filter-tag.tech.active  { background: var(--tech); color: white; border-color: var(--tech); }
+
+    .btn-add-veille {
+      padding: 0.45rem 1.1rem;
+      background: var(--accent);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-family: 'Arial', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: opacity 0.15s;
+      margin-left: auto;
+    }
+
+    .btn-add-veille.tech-btn { background: var(--tech); }
+    .btn-add-veille:hover { opacity: 0.9; }
+
+    /* FEED */
+    .veille-feed { display: flex; flex-direction: column; gap: 0.75rem; }
+
+    .veille-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.1rem 1.4rem;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 0 1rem;
+      align-items: start;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+
+    .veille-card:hover {
+      border-color: #c5d5e8;
+      box-shadow: 0 2px 8px rgba(44, 95, 138, 0.07);
+    }
+
+    .veille-card.tech-card:hover {
+      border-color: #c4b5fd;
+      box-shadow: 0 2px 8px rgba(109, 40, 217, 0.07);
+    }
+
+    .veille-date-col { text-align: center; min-width: 54px; padding-top: 0.1rem; }
+
+    .veille-date-day {
+      font-family: 'Arial', sans-serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+    }
+
+    .tech-card .veille-date-day { color: var(--tech); }
+
+    .veille-date-month {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.7rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .veille-content { min-width: 0; }
+
+    .veille-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.25rem;
+    }
+
+    .veille-source {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.73rem;
+      color: var(--muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+
+    .veille-tag {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.68rem;
+      padding: 0.1rem 0.5rem;
+      border-radius: 10px;
+      background: var(--tag-bg);
+      color: var(--tag-color);
+    }
+
+    .tech-card .veille-tag {
+      background: var(--tech-tag-bg);
+      color: var(--tech-tag-color);
+    }
+
+    .veille-title a {
+      color: var(--text);
+      text-decoration: none;
+      font-family: 'Arial', sans-serif;
+      font-weight: 600;
+      font-size: 0.95rem;
+      line-height: 1.4;
+    }
+
+    .veille-title a:hover { color: var(--accent); text-decoration: underline; }
+    .tech-card .veille-title a:hover { color: var(--tech); }
+
+    .veille-desc {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.84rem;
+      color: var(--muted);
+      margin-top: 0.3rem;
+      line-height: 1.5;
+    }
+
+    .veille-empty {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+      font-family: 'Arial', sans-serif;
+      font-size: 0.9rem;
+      border: 1px dashed var(--border);
+      border-radius: 10px;
+      background: var(--surface);
+    }
+
+    .veille-empty p { margin-top: 0.5rem; font-size: 0.82rem; }
+
+    /* ── AUTO BADGE & STATUS ── */
+    .badge-auto {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.65rem;
+      padding: 0.1rem 0.45rem;
+      border-radius: 8px;
+      background: #f0fdf4;
+      color: #15803d;
+      border: 1px solid #bbf7d0;
+      letter-spacing: 0.2px;
+    }
+
+    .auto-status-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-family: 'Arial', sans-serif;
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-bottom: 1.2rem;
+      padding: 0.65rem 1rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+
+    .auto-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #d1d5db;
+      flex-shrink: 0;
+      transition: background 0.3s;
+    }
+
+    .auto-dot.active  { background: #15803d; box-shadow: 0 0 0 2px #dcfce7; }
+    .auto-dot.pending { background: #f59e0b; box-shadow: 0 0 0 2px #fef3c7; }
+
+    .auto-count {
+      margin-left: auto;
+      font-size: 0.75rem;
+      background: var(--accent-light);
+      color: var(--accent);
+      padding: 0.1rem 0.55rem;
+      border-radius: 10px;
+      white-space: nowrap;
+    }
+
+    .auto-count.tech-count {
+      background: var(--tech-light);
+      color: var(--tech);
+    }
+
+    /* ── SHARED BOTTOM BUTTON ── */
+    .add-norme-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.4rem;
+      margin-top: 1rem;
+      padding: 0.6rem;
+      border: 1px dashed var(--border);
+      border-radius: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-family: 'Arial', sans-serif;
+      cursor: pointer;
+      background: none;
+      width: 100%;
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .add-norme-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── MODAL ── */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.35);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+    .modal-overlay.open { display: flex; }
+
+    .modal {
+      background: var(--surface);
+      border-radius: 12px;
+      padding: 1.8rem;
+      width: 100%;
+      max-width: 500px;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+      max-height: 90vh;
+      overflow-y: auto;
+    }
+
+    .modal h3 {
+      font-size: 1rem;
+      font-family: 'Arial', sans-serif;
+      font-weight: 700;
+      margin-bottom: 1.2rem;
+      color: var(--text);
+    }
+
+    .modal label {
+      display: block;
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-family: 'Arial', sans-serif;
+      margin-bottom: 0.25rem;
+      margin-top: 0.9rem;
+    }
+
+    .modal label:first-of-type { margin-top: 0; }
+
+    .modal input, .modal textarea, .modal select {
+      width: 100%;
+      padding: 0.55rem 0.8rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.9rem;
+      font-family: 'Arial', sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    .modal input:focus, .modal textarea:focus, .modal select:focus { border-color: var(--accent); }
+    .modal.tech-modal input:focus, .modal.tech-modal textarea:focus, .modal.tech-modal select:focus { border-color: var(--tech); }
+    .modal textarea { resize: vertical; min-height: 65px; }
+
+    .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; }
+
+    .modal-actions { display: flex; gap: 0.6rem; justify-content: flex-end; margin-top: 1.4rem; }
+
+    .btn-cancel {
+      padding: 0.5rem 1.1rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: none;
+      color: var(--muted);
+      font-family: 'Arial', sans-serif;
+      font-size: 0.88rem;
+      cursor: pointer;
+    }
+
+    .btn-save {
+      padding: 0.5rem 1.3rem;
+      border: none;
+      border-radius: 6px;
+      background: var(--accent);
+      color: white;
+      font-family: 'Arial', sans-serif;
+      font-size: 0.88rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .btn-save.tech-save { background: var(--tech); }
+    .btn-save:hover { opacity: 0.9; }
+
+    /* ── FOOTER ── */
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.75rem;
+      font-family: 'Arial', sans-serif;
+      padding: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.35rem; }
+      main { padding: 1.5rem 1rem 4rem; }
+      .norme-card { grid-template-columns: 1fr; }
+      .norme-actions { flex-direction: row; }
+      .veille-card { grid-template-columns: auto 1fr; }
+      .veille-card .delete-btn { display: none; }
+      .form-row { grid-template-columns: 1fr; }
+      .tab-btn { padding: 0.6rem 1rem; font-size: 0.8rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══════════════ HEADER ══════════════ -->
+<header>
+  <h1>Veille Juridique — Droit du Numérique & IT</h1>
+  <p class="subtitle">Protection des données · IA · Cybersécurité · Plateformes · Contrats IT</p>
+  <nav class="tab-nav">
+    <button class="tab-btn active" data-page="normes">
+      <span class="tab-icon">📜</span>Textes applicables
+    </button>
+    <button class="tab-btn" data-page="veille">
+      <span class="tab-icon">⚖️</span>Veille Juridique
+    </button>
+    <button class="tab-btn" data-page="tech">
+      <span class="tab-icon">💡</span>Actualités Tech & Innovation
+    </button>
+  </nav>
+</header>
+
+<main>
+
+  <!-- ══════════════════════════════════════
+       PAGE 1 — TEXTES APPLICABLES
+  ══════════════════════════════════════ -->
+  <section id="page-normes" class="page active">
+
+    <div class="page-intro">
+      Référentiel des <strong>textes en vigueur</strong> en droit du numérique et IT. Consultez le statut d'application de chaque instrument juridique et accédez au texte officiel.
+    </div>
+
+    <div class="legend">
+      <span class="legend-item"><span class="legend-dot" style="background:#15803d"></span>En vigueur</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#c2410c"></span>Application progressive</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#b45309"></span>Transposition en cours</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#1d4ed8"></span>À venir</span>
+    </div>
+
+    <div class="normes-grid" id="normes-grid"></div>
+    <button class="add-norme-btn" onclick="openNormeModal()">+ Ajouter un texte</button>
+
+  </section>
+
+  <!-- ══════════════════════════════════════
+       PAGE 2 — VEILLE JURIDIQUE
+  ══════════════════════════════════════ -->
+  <section id="page-veille" class="page">
+
+    <div class="page-intro">
+      Flux d'actualités <strong>juridiques collectées automatiquement tous les 2 jours</strong> depuis les sources officielles (CNIL, EDPB, ANSSI, Commission UE). Complétez avec vos propres ajouts manuels.
+    </div>
+
+    <div class="auto-status-bar">
+      <span class="auto-dot" id="auto-dot"></span>
+      <span id="auto-status-text">Collecte automatique : en attente de la première exécution</span>
+      <span class="auto-count" id="auto-count" style="display:none"></span>
+    </div>
+
+    <div class="veille-toolbar">
+      <span class="filter-label">Filtrer :</span>
+      <div class="filter-tags" id="filter-tags"></div>
+      <button class="btn-add-veille" onclick="openVeilleModal()">+ Ajouter manuellement</button>
+    </div>
+
+    <div class="veille-feed" id="veille-feed"></div>
+
+  </section>
+
+  <!-- ══════════════════════════════════════
+       PAGE 3 — ACTUALITÉS TECH & INNOVATION
+  ══════════════════════════════════════ -->
+  <section id="page-tech" class="page">
+
+    <div class="page-intro tech-intro">
+      Actualités <strong>tech et innovation collectées automatiquement tous les 2 jours</strong> : IA et modèles, Big Tech, startups, open source, hardware, cloud. Sources : The Verge, TechCrunch, MIT Tech Review, Ars Technica, WebSearch.
+    </div>
+
+    <div class="auto-status-bar">
+      <span class="auto-dot" id="tech-auto-dot"></span>
+      <span id="tech-auto-status-text">Collecte automatique : en attente de la première exécution</span>
+      <span class="auto-count tech-count" id="tech-auto-count" style="display:none"></span>
+    </div>
+
+    <div class="veille-toolbar">
+      <span class="filter-label">Filtrer :</span>
+      <div class="filter-tags" id="tech-filter-tags"></div>
+      <button class="btn-add-veille tech-btn" onclick="openTechModal()">+ Ajouter manuellement</button>
+    </div>
+
+    <div class="veille-feed" id="tech-feed"></div>
+
+  </section>
+
+</main>
+
+<!-- ══════════════ MODAL — AJOUTER UN TEXTE ══════════════ -->
+<div class="modal-overlay" id="modal-norme">
+  <div class="modal">
+    <h3>Ajouter un texte réglementaire</h3>
+    <label>Titre / Nom officiel *</label>
+    <input type="text" id="n-title" placeholder="ex. Règlement (UE) 2022/868 — Data Governance Act" />
+    <label>URL du texte officiel *</label>
+    <input type="url" id="n-url" placeholder="https://eur-lex.europa.eu/..." />
+    <div class="form-row">
+      <div>
+        <label>Type</label>
+        <select id="n-type">
+          <option>Règlement UE</option>
+          <option>Directive UE</option>
+          <option>Loi française</option>
+          <option>Ordonnance</option>
+          <option>Décret</option>
+          <option>Recommandation</option>
+          <option>Autre</option>
+        </select>
+      </div>
+      <div>
+        <label>Statut</label>
+        <select id="n-status">
+          <option value="en-vigueur">En vigueur</option>
+          <option value="progressive">Application progressive</option>
+          <option value="transposition">Transposition en cours</option>
+          <option value="a-venir">À venir</option>
+        </select>
+      </div>
+    </div>
+    <div class="form-row">
+      <div>
+        <label>Entrée en vigueur</label>
+        <input type="text" id="n-date-vigueur" placeholder="ex. 25 mai 2018" />
+      </div>
+      <div>
+        <label>Application complète</label>
+        <input type="text" id="n-date-appli" placeholder="ex. 2 août 2026" />
+      </div>
+    </div>
+    <label>Description courte</label>
+    <textarea id="n-desc" placeholder="Résumé des obligations principales..."></textarea>
+    <div class="modal-actions">
+      <button class="btn-cancel" onclick="closeModal('modal-norme')">Annuler</button>
+      <button class="btn-save" onclick="saveNorme()">Ajouter</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════ MODAL — AJOUTER UNE RESSOURCE VEILLE JURIDIQUE ══════════════ -->
+<div class="modal-overlay" id="modal-veille">
+  <div class="modal">
+    <h3>Ajouter une ressource à la veille juridique</h3>
+    <label>Titre *</label>
+    <input type="text" id="v-title" placeholder="Titre de l'article, décision, communiqué..." />
+    <label>URL *</label>
+    <input type="url" id="v-url" placeholder="https://..." />
+    <div class="form-row">
+      <div>
+        <label>Source</label>
+        <input type="text" id="v-source" placeholder="ex. CNIL, Dalloz, EDPB..." />
+      </div>
+      <div>
+        <label>Date de publication</label>
+        <input type="date" id="v-date" />
+      </div>
+    </div>
+    <label>Catégorie</label>
+    <select id="v-cat">
+      <option value="RGPD">RGPD</option>
+      <option value="IA">Intelligence artificielle</option>
+      <option value="Cybersécurité">Cybersécurité</option>
+      <option value="Plateformes">Plateformes numériques</option>
+      <option value="PI numérique">PI numérique</option>
+      <option value="Contrats IT">Contrats IT & Cloud</option>
+      <option value="Jurisprudence">Jurisprudence</option>
+      <option value="Doctrine">Doctrine</option>
+      <option value="International">International</option>
+    </select>
+    <label>Résumé / Note</label>
+    <textarea id="v-desc" placeholder="Points clés, pourquoi c'est important pour votre veille..."></textarea>
+    <div class="modal-actions">
+      <button class="btn-cancel" onclick="closeModal('modal-veille')">Annuler</button>
+      <button class="btn-save" onclick="saveVeilleEntry()">Ajouter</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════ MODAL — AJOUTER UNE ACTU TECH ══════════════ -->
+<div class="modal-overlay" id="modal-tech">
+  <div class="modal tech-modal">
+    <h3>Ajouter une actualité tech</h3>
+    <label>Titre *</label>
+    <input type="text" id="t-title" placeholder="Titre de l'article, annonce, analyse..." />
+    <label>URL *</label>
+    <input type="url" id="t-url" placeholder="https://..." />
+    <div class="form-row">
+      <div>
+        <label>Source</label>
+        <input type="text" id="t-source" placeholder="ex. TechCrunch, The Verge, Wired..." />
+      </div>
+      <div>
+        <label>Date de publication</label>
+        <input type="date" id="t-date" />
+      </div>
+    </div>
+    <label>Catégorie</label>
+    <select id="t-cat">
+      <option value="IA & Modèles">IA & Modèles</option>
+      <option value="Big Tech">Big Tech</option>
+      <option value="Startups & VC">Startups & VC</option>
+      <option value="Open Source">Open Source</option>
+      <option value="Hardware">Hardware</option>
+      <option value="Cloud & Infra">Cloud & Infra</option>
+      <option value="Sécurité">Sécurité</option>
+      <option value="Numérique & Société">Numérique & Société</option>
+    </select>
+    <label>Résumé / Note</label>
+    <textarea id="t-desc" placeholder="Ce que cette actu change, pourquoi ça compte..."></textarea>
+    <div class="modal-actions">
+      <button class="btn-cancel" onclick="closeModal('modal-tech')">Annuler</button>
+      <button class="btn-save tech-save" onclick="saveTechEntry()">Ajouter</button>
+    </div>
+  </div>
+</div>
+
+<footer>
+  Veille Juridique · Droit du Numérique & IT &mdash; Données sauvegardées localement dans votre navigateur
+</footer>
+
+<script>
+// ════════════════════════════════════════
+// UTILITAIRE
+// ════════════════════════════════════════
+function esc(str) {
+  return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ════════════════════════════════════════
+// DONNÉES PAR DÉFAUT
+// ════════════════════════════════════════
+
+const DEFAULT_NORMES = [
+  {
+    id: 1, userAdded: false,
+    title: "RGPD — Règlement général sur la protection des données",
+    type: "Règlement UE", status: "en-vigueur",
+    dateVigueur: "25 mai 2018", dateAppli: "—",
+    desc: "Cadre juridique unifié pour le traitement des données personnelles dans l'UE. Droits des personnes, obligations des responsables de traitement et sous-traitants, sanctions jusqu'à 4 % du CA mondial.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679"
+  },
+  {
+    id: 2, userAdded: false,
+    title: "Loi Informatique & Libertés (n° 78-17)",
+    type: "Loi française", status: "en-vigueur",
+    dateVigueur: "6 janvier 1978", dateAppli: "Révisée 2019",
+    desc: "Loi fondatrice du droit français des données personnelles, transposant le RGPD et la Directive Police-Justice. Règles nationales complémentaires au RGPD.",
+    url: "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460"
+  },
+  {
+    id: 3, userAdded: false,
+    title: "AI Act — Règlement sur l'intelligence artificielle (2024/1689)",
+    type: "Règlement UE", status: "progressive",
+    dateVigueur: "2 août 2024", dateAppli: "2 août 2026 (haut risque)",
+    desc: "Classification des systèmes IA par niveau de risque. Interdictions : 2 fév. 2025. GPAI & codes de pratiques : 2 août 2025. Systèmes à haut risque : 2 août 2026.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202401689"
+  },
+  {
+    id: 4, userAdded: false,
+    title: "DORA — Résilience opérationnelle numérique (2022/2554)",
+    type: "Règlement UE", status: "en-vigueur",
+    dateVigueur: "17 janvier 2025", dateAppli: "17 janvier 2025",
+    desc: "Obligations de gestion des risques ICT pour les entités financières : tests de résilience, gestion des incidents, encadrement des prestataires tiers.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022R2554"
+  },
+  {
+    id: 5, userAdded: false,
+    title: "NIS 2 — Sécurité des réseaux et systèmes d'information (2022/2555)",
+    type: "Directive UE", status: "transposition",
+    dateVigueur: "16 janvier 2023", dateAppli: "Transposition FR en attente",
+    desc: "Élargit le champ des entités concernées (essentielles et importantes), renforce les obligations de sécurité et de notification d'incidents, durcit les sanctions.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022L2555"
+  },
+  {
+    id: 6, userAdded: false,
+    title: "DSA — Digital Services Act (2022/2065)",
+    type: "Règlement UE", status: "en-vigueur",
+    dateVigueur: "17 février 2024", dateAppli: "17 février 2024",
+    desc: "Obligations graduées pour les plateformes en ligne : suppression des contenus illicites, transparence algorithmique, interdiction de dark patterns, obligations renforcées pour les VLOP.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022R2065"
+  },
+  {
+    id: 7, userAdded: false,
+    title: "DMA — Digital Markets Act (2022/1925)",
+    type: "Règlement UE", status: "en-vigueur",
+    dateVigueur: "2 mai 2023", dateAppli: "2 mai 2023",
+    desc: "Régulation ex ante des contrôleurs d'accès (gatekeepers). Obligations d'interopérabilité, interdiction de l'auto-préférence, portabilité des données.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022R1925"
+  },
+  {
+    id: 8, userAdded: false,
+    title: "Data Act — Règlement sur les données (2023/2854)",
+    type: "Règlement UE", status: "en-vigueur",
+    dateVigueur: "12 septembre 2025", dateAppli: "12 septembre 2025",
+    desc: "Accès et partage des données générées par les objets connectés et services associés. Droit de portabilité inter-cloud, encadrement des contrats de partage de données.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202302854"
+  },
+  {
+    id: 9, userAdded: false,
+    title: "Cyber Resilience Act (2024/2847)",
+    type: "Règlement UE", status: "progressive",
+    dateVigueur: "11 décembre 2024", dateAppli: "11 décembre 2027 (exigences)",
+    desc: "Exigences de cybersécurité pour les produits numériques. Obligations de signalement d'incidents : déc. 2026. Exigences essentielles de sécurité : déc. 2027.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202402847"
+  },
+  {
+    id: 10, userAdded: false,
+    title: "eIDAS 2 — Identité numérique européenne (2024/1183)",
+    type: "Règlement UE", status: "progressive",
+    dateVigueur: "20 mai 2024", dateAppli: "Portefeuille numérique : 2026",
+    desc: "Cadre révisé pour l'identité numérique européenne, les signatures électroniques et les services de confiance. Déploiement du portefeuille EU Digital Identity Wallet.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202401183"
+  },
+  {
+    id: 11, userAdded: false,
+    title: "Data Governance Act (2022/868)",
+    type: "Règlement UE", status: "en-vigueur",
+    dateVigueur: "24 septembre 2023", dateAppli: "24 septembre 2023",
+    desc: "Cadre pour le partage de données entre acteurs publics et privés. Réutilisation des données du secteur public, services d'intermédiation de données, altruisme des données.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022R0868"
+  }
+];
+
+const VEILLE_CATS = ["RGPD","IA","Cybersécurité","Plateformes","PI numérique","Contrats IT","Jurisprudence","Doctrine","International"];
+const TECH_CATS   = ["IA & Modèles","Big Tech","Startups & VC","Open Source","Hardware","Cloud & Infra","Sécurité","Numérique & Société"];
+
+// ════════════════════════════════════════
+// PERSISTENCE
+// ════════════════════════════════════════
+
+function loadNormes() {
+  try { const s = localStorage.getItem('vj-normes'); return s ? JSON.parse(s) : JSON.parse(JSON.stringify(DEFAULT_NORMES)); }
+  catch { return JSON.parse(JSON.stringify(DEFAULT_NORMES)); }
+}
+function loadVeille() {
+  try { const s = localStorage.getItem('vj-veille'); return s ? JSON.parse(s) : []; }
+  catch { return []; }
+}
+function loadTech() {
+  try { const s = localStorage.getItem('vj-tech'); return s ? JSON.parse(s) : []; }
+  catch { return []; }
+}
+
+function saveNormes() { localStorage.setItem('vj-normes', JSON.stringify(normes)); }
+function saveVeille()  { localStorage.setItem('vj-veille', JSON.stringify(veille)); }
+function saveTech()    { localStorage.setItem('vj-tech',   JSON.stringify(tech)); }
+
+let normes = loadNormes();
+let veille = loadVeille();
+let tech   = loadTech();
+let activeFilter     = null;
+let techActiveFilter = null;
+
+// ════════════════════════════════════════
+// PAGE NAVIGATION
+// ════════════════════════════════════════
+
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('page-' + btn.dataset.page).classList.add('active');
+  });
+});
+
+// ════════════════════════════════════════
+// RENDER — NORMES
+// ════════════════════════════════════════
+
+const STATUS_LABELS = {
+  'en-vigueur':   { label: 'En vigueur',             cls: 'status-en-vigueur' },
+  'progressive':  { label: 'Application progressive', cls: 'status-progressive' },
+  'transposition':{ label: 'Transposition en cours',  cls: 'status-transposition' },
+  'a-venir':      { label: 'À venir',                cls: 'status-a-venir' }
+};
+
+function renderNormes() {
+  const grid = document.getElementById('normes-grid');
+  grid.innerHTML = '';
+  normes.forEach((n, i) => {
+    const s = STATUS_LABELS[n.status] || STATUS_LABELS['en-vigueur'];
+    const card = document.createElement('div');
+    card.className = 'norme-card' + (n.userAdded ? ' user-added' : '');
+    card.innerHTML = `
+      <div class="norme-left">
+        <div class="norme-top">
+          <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+          <span class="badge-type">${esc(n.type)}</span>
+        </div>
+        <p class="norme-desc">${esc(n.desc)}</p>
+        <div class="norme-dates">
+          <span class="norme-date-item">Entrée en vigueur : <span>${esc(n.dateVigueur)}</span></span>
+          ${n.dateAppli && n.dateAppli !== '—' ? `<span class="norme-date-item">Application complète : <span>${esc(n.dateAppli)}</span></span>` : ''}
+        </div>
+      </div>
+      <div class="norme-actions">
+        <span class="badge-status ${s.cls}">${s.label}</span>
+        <button class="delete-btn" onclick="deleteNorme(${i})" title="Supprimer">✕</button>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+}
+
+function deleteNorme(i) {
+  if (!confirm('Supprimer ce texte ?')) return;
+  normes.splice(i, 1); saveNormes(); renderNormes();
+}
+
+// ════════════════════════════════════════
+// RENDER — VEILLE JURIDIQUE
+// ════════════════════════════════════════
+
+function renderFilterTags() {
+  const container = document.getElementById('filter-tags');
+  container.innerHTML = '';
+  const allItems = [...veille, ...(window.AUTO_VEILLE || [])];
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-tag' + (activeFilter === null ? ' active' : '');
+  allBtn.textContent = 'Tout';
+  allBtn.onclick = () => { activeFilter = null; renderFilterTags(); renderVeille(); };
+  container.appendChild(allBtn);
+  [...new Set(allItems.map(v => v.cat))].sort().forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-tag' + (activeFilter === cat ? ' active' : '');
+    btn.textContent = cat;
+    btn.onclick = () => { activeFilter = cat; renderFilterTags(); renderVeille(); };
+    container.appendChild(btn);
+  });
+}
+
+function renderVeille() {
+  const feed = document.getElementById('veille-feed');
+  feed.innerHTML = '';
+  const urlsSeen = new Set();
+  const allItems = [
+    ...veille.map(v => ({...v, isAuto: false})),
+    ...(window.AUTO_VEILLE || []).map(v => ({...v, isAuto: true}))
+  ].filter(item => { if (urlsSeen.has(item.url)) return false; urlsSeen.add(item.url); return true; });
+
+  const sorted = (activeFilter ? allItems.filter(v => v.cat === activeFilter) : allItems)
+    .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  if (sorted.length === 0) {
+    feed.innerHTML = `<div class="veille-empty"><div style="font-size:2rem">📭</div>
+      <p>${activeFilter ? `Aucune ressource dans « ${activeFilter} ».` : 'Aucune ressource pour l\'instant.'}</p>
+      <p>La collecte automatique s'exécute tous les 2 jours. Vous pouvez aussi cliquer sur <strong>+ Ajouter manuellement</strong>.</p></div>`;
+    return;
+  }
+  sorted.forEach(item => renderFeedCard(feed, item, veille, deleteVeille, false));
+}
+
+function deleteVeille(i) {
+  if (!confirm('Supprimer cette ressource ?')) return;
+  veille.splice(i, 1); saveVeille(); renderFilterTags(); renderVeille();
+}
+
+// ════════════════════════════════════════
+// RENDER — TECH & INNOVATION
+// ════════════════════════════════════════
+
+function renderTechFilterTags() {
+  const container = document.getElementById('tech-filter-tags');
+  container.innerHTML = '';
+  const allItems = [...tech, ...(window.AUTO_TECH || [])];
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-tag tech' + (techActiveFilter === null ? ' active' : '');
+  allBtn.textContent = 'Tout';
+  allBtn.onclick = () => { techActiveFilter = null; renderTechFilterTags(); renderTech(); };
+  container.appendChild(allBtn);
+  [...new Set(allItems.map(v => v.cat))].sort().forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-tag tech' + (techActiveFilter === cat ? ' active' : '');
+    btn.textContent = cat;
+    btn.onclick = () => { techActiveFilter = cat; renderTechFilterTags(); renderTech(); };
+    container.appendChild(btn);
+  });
+}
+
+function renderTech() {
+  const feed = document.getElementById('tech-feed');
+  feed.innerHTML = '';
+  const urlsSeen = new Set();
+  const allItems = [
+    ...tech.map(v => ({...v, isAuto: false})),
+    ...(window.AUTO_TECH || []).map(v => ({...v, isAuto: true}))
+  ].filter(item => { if (urlsSeen.has(item.url)) return false; urlsSeen.add(item.url); return true; });
+
+  const sorted = (techActiveFilter ? allItems.filter(v => v.cat === techActiveFilter) : allItems)
+    .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  if (sorted.length === 0) {
+    feed.innerHTML = `<div class="veille-empty"><div style="font-size:2rem">🚀</div>
+      <p>${techActiveFilter ? `Aucune actu dans « ${techActiveFilter} ».` : 'Aucune actualité pour l\'instant.'}</p>
+      <p>La collecte automatique s'exécute tous les 2 jours. Vous pouvez aussi cliquer sur <strong>+ Ajouter manuellement</strong>.</p></div>`;
+    return;
+  }
+  sorted.forEach(item => renderFeedCard(feed, item, tech, deleteTech, true));
+}
+
+function deleteTech(i) {
+  if (!confirm('Supprimer cette actualité ?')) return;
+  tech.splice(i, 1); saveTech(); renderTechFilterTags(); renderTech();
+}
+
+// ── Fonction de rendu partagée ─────────────────────────
+function renderFeedCard(feed, item, manualList, deleteFn, isTechPage) {
+  const d = new Date((item.date || new Date().toISOString().slice(0,10)) + 'T12:00:00');
+  const day   = d.toLocaleDateString('fr-FR', { day: '2-digit' });
+  const month = d.toLocaleDateString('fr-FR', { month: 'short' });
+  const year  = d.getFullYear();
+  const manualIdx = manualList.findIndex(v => v.url === item.url);
+  const card = document.createElement('div');
+  card.className = 'veille-card' + (isTechPage ? ' tech-card' : '');
+  card.innerHTML = `
+    <div class="veille-date-col">
+      <div class="veille-date-day">${day}</div>
+      <div class="veille-date-month">${month} ${year}</div>
+    </div>
+    <div class="veille-content">
+      <div class="veille-meta">
+        ${item.source ? `<span class="veille-source">${esc(item.source)}</span>` : ''}
+        <span class="veille-tag">${esc(item.cat)}</span>
+        ${item.isAuto ? '<span class="badge-auto">🤖 auto</span>' : ''}
+      </div>
+      <div class="veille-title"><a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(item.title)}</a></div>
+      ${item.desc ? `<p class="veille-desc">${esc(item.desc)}</p>` : ''}
+    </div>
+    ${!item.isAuto && manualIdx >= 0
+      ? `<button class="delete-btn" onclick="(${deleteFn.name})(${manualIdx})" title="Supprimer">✕</button>`
+      : '<span></span>'}
+  `;
+  feed.appendChild(card);
+}
+
+// ════════════════════════════════════════
+// MODALS
+// ════════════════════════════════════════
+
+function openNormeModal() {
+  ['n-title','n-url','n-date-vigueur','n-date-appli','n-desc'].forEach(id => document.getElementById(id).value = '');
+  document.getElementById('n-type').value = 'Règlement UE';
+  document.getElementById('n-status').value = 'en-vigueur';
+  document.getElementById('modal-norme').classList.add('open');
+}
+
+function openVeilleModal() {
+  ['v-title','v-url','v-source','v-desc'].forEach(id => document.getElementById(id).value = '');
+  document.getElementById('v-date').value = new Date().toISOString().slice(0,10);
+  document.getElementById('v-cat').value = 'RGPD';
+  document.getElementById('modal-veille').classList.add('open');
+}
+
+function openTechModal() {
+  ['t-title','t-url','t-source','t-desc'].forEach(id => document.getElementById(id).value = '');
+  document.getElementById('t-date').value = new Date().toISOString().slice(0,10);
+  document.getElementById('t-cat').value = 'IA & Modèles';
+  document.getElementById('modal-tech').classList.add('open');
+}
+
+function closeModal(id) { document.getElementById(id).classList.remove('open'); }
+
+function saveNorme() {
+  const title = document.getElementById('n-title').value.trim();
+  const url   = document.getElementById('n-url').value.trim();
+  if (!title || !url) { alert('Le titre et l\'URL sont obligatoires.'); return; }
+  normes.push({
+    id: Date.now(), userAdded: true, title, url,
+    type:        document.getElementById('n-type').value,
+    status:      document.getElementById('n-status').value,
+    dateVigueur: document.getElementById('n-date-vigueur').value.trim() || '—',
+    dateAppli:   document.getElementById('n-date-appli').value.trim() || '—',
+    desc:        document.getElementById('n-desc').value.trim()
+  });
+  saveNormes(); renderNormes(); closeModal('modal-norme');
+}
+
+function saveVeilleEntry() {
+  const title = document.getElementById('v-title').value.trim();
+  const url   = document.getElementById('v-url').value.trim();
+  if (!title || !url) { alert('Le titre et l\'URL sont obligatoires.'); return; }
+  veille.push({
+    id: Date.now(), title, url,
+    source: document.getElementById('v-source').value.trim(),
+    date:   document.getElementById('v-date').value || new Date().toISOString().slice(0,10),
+    cat:    document.getElementById('v-cat').value,
+    desc:   document.getElementById('v-desc').value.trim()
+  });
+  saveVeille(); renderFilterTags(); renderVeille(); closeModal('modal-veille');
+}
+
+function saveTechEntry() {
+  const title = document.getElementById('t-title').value.trim();
+  const url   = document.getElementById('t-url').value.trim();
+  if (!title || !url) { alert('Le titre et l\'URL sont obligatoires.'); return; }
+  tech.push({
+    id: Date.now(), title, url,
+    source: document.getElementById('t-source').value.trim(),
+    date:   document.getElementById('t-date').value || new Date().toISOString().slice(0,10),
+    cat:    document.getElementById('t-cat').value,
+    desc:   document.getElementById('t-desc').value.trim()
+  });
+  saveTech(); renderTechFilterTags(); renderTech(); closeModal('modal-tech');
+}
+
+// Close on overlay click
+['modal-norme','modal-veille','modal-tech'].forEach(id => {
+  document.getElementById(id).addEventListener('click', function(e) {
+    if (e.target === this) closeModal(id);
+  });
+});
+
+// ════════════════════════════════════════
+// INIT
+// ════════════════════════════════════════
+
+renderNormes();
+renderFilterTags();
+renderVeille();
+renderTechFilterTags();
+renderTech();
+
+// ── Statut collecte — Veille Juridique ───────────────────────────────────────
+(function() {
+  const dot = document.getElementById('auto-dot');
+  const txt = document.getElementById('auto-status-text');
+  const cnt = document.getElementById('auto-count');
+  const n   = (window.AUTO_VEILLE || []).length;
+  if (window.AUTO_VEILLE_UPDATED) {
+    const d = new Date(window.AUTO_VEILLE_UPDATED);
+    dot.classList.add('active');
+    txt.textContent = 'Dernière collecte : ' +
+      d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }) +
+      ' à ' + d.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+    if (n > 0) { cnt.style.display = ''; cnt.textContent = n + ' article' + (n > 1 ? 's' : '') + ' collecté' + (n > 1 ? 's' : ''); }
+  } else {
+    dot.classList.add('pending');
+    txt.textContent = 'Collecte automatique programmée — 1ère exécution à venir (tous les 2 jours)';
+  }
+})();
+
+// ── Statut collecte — Tech & Innovation ──────────────────────────────────────
+(function() {
+  const dot = document.getElementById('tech-auto-dot');
+  const txt = document.getElementById('tech-auto-status-text');
+  const cnt = document.getElementById('tech-auto-count');
+  const n   = (window.AUTO_TECH || []).length;
+  if (window.AUTO_TECH_UPDATED) {
+    const d = new Date(window.AUTO_TECH_UPDATED);
+    dot.classList.add('active');
+    txt.textContent = 'Dernière collecte : ' +
+      d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }) +
+      ' à ' + d.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+    if (n > 0) { cnt.style.display = ''; cnt.textContent = n + ' article' + (n > 1 ? 's' : '') + ' collecté' + (n > 1 ? 's' : ''); }
+  } else {
+    dot.classList.add('pending');
+    txt.textContent = 'Collecte automatique programmée — 1ère exécution à venir (tous les 2 jours)';
+  }
+})();
+</script>
+
+</body>
+</html>

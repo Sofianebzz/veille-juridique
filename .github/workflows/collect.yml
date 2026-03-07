@@ -1,0 +1,38 @@
+name: 🤖 Collecte automatique — Veille & Tech
+
+on:
+  schedule:
+    - cron: '0 8 */2 * *'   # Toutes les 2 jours à 8h UTC
+  workflow_dispatch:          # ← Déclenchement MANUEL depuis GitHub (téléphone ou navigateur)
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: 🐍 Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: ⚖️ Collecter la veille juridique
+        run: python scripts/collect_legal.py
+
+      - name: 💡 Collecter les actus tech
+        run: python scripts/collect_tech.py
+
+      - name: 💾 Sauvegarder les mises à jour
+        run: |
+          git config --global user.name  "Veille Bot"
+          git config --global user.email "veille-bot@noreply.github.com"
+          git add veille-auto.js tech-auto.js data/
+          git diff --staged --quiet && echo "Rien de nouveau." || (
+            git commit -m "🤖 Collecte auto $(date '+%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ Mise à jour publiée."
+          )
