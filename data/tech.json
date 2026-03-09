@@ -1,5 +1,85 @@
 [
   {
+    "id": "tech-1773052264-0",
+    "title": "Apple is going high-end with new ‘Ultra’ products next",
+    "url": "https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next",
+    "source": "The Verge",
+    "date": "2026-03-09",
+    "cat": "Big Tech",
+    "desc": "Fresh off launching the low-cost MacBook Neo, Apple is reportedly preparing at least three new products that will fit into its highest-end \"ultra\" lineup. According to Bloomberg's Mark Gurman, the next batch of releases may not bear the \"ultra\" name, like its Watch, but will all command price premiums over their mainline counterparts. There's the [",
+    "auto": true
+  },
+  {
+    "id": "tech-1773052264-1",
+    "title": "Listen to this: Mabe Fratti’s experimental cello pop",
+    "url": "https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review",
+    "source": "The Verge",
+    "date": "2026-03-09",
+    "cat": "Numérique & Société",
+    "desc": "The opening notes of \"Kravitz,\" which kicks off Mabe Fratti's 2024 record Sentir Que No Sabes, are lodged in my brain permanently. It's not a showy album, by any means. But there's something about the buzzing of her cello, plucked as you might an upright bass. The way they ring out before coming to an [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1773052264-2",
+    "title": "Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation",
+    "url": "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/",
+    "source": "TechCrunch",
+    "date": "2026-03-08",
+    "cat": "Startups & VC",
+    "desc": "The company launched its first product, a Game Boy-style handheld device called the Chromatic, in 2024.",
+    "auto": true
+  },
+  {
+    "id": "tech-1773052264-3",
+    "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+    "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+    "source": "TechCrunch",
+    "date": "2026-03-08",
+    "cat": "IA & Modèles",
+    "desc": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+    "auto": true
+  },
+  {
+    "id": "tech-1773052264-4",
+    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+    "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+    "source": "TechCrunch",
+    "date": "2026-03-08",
+    "cat": "Hardware",
+    "desc": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+    "auto": true
+  },
+  {
+    "id": "tech-1773052264-5",
+    "title": "A roadmap for AI, if anyone will listen",
+    "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+    "source": "TechCrunch",
+    "date": "2026-03-08",
+    "cat": "IA & Modèles",
+    "desc": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+    "auto": true
+  },
+  {
+    "id": "tech-1773052264-6",
+    "title": "Google just gave Sundar Pichai a $692M pay package",
+    "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+    "source": "TechCrunch",
+    "date": "2026-03-08",
+    "cat": "Big Tech",
+    "desc": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+    "auto": true
+  },
+  {
+    "id": "tech-1773052264-7",
+    "title": "Jessica Jones joins the fray in Daredevil: Born Again trailer",
+    "url": "https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/",
+    "source": "Ars Technica",
+    "date": "2026-03-08",
+    "cat": "Numérique & Société",
+    "desc": "\"I'm gonna take this city back.\"",
+    "auto": true
+  },
+  {
     "id": "tech-1772923807-0",
     "title": "Time’s running out to get a free gift card when you preorder a new MacBook",
     "url": "https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale",

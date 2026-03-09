@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-07T23:49:57
+// Dernière collecte : 2026-03-09T10:31:04
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1773052262-0",
+    title: "Le 8 mars à la CNIL : paroles et regards autour des droits des femmes et de l’égalité professionnelle",
+    url: "https://www.cnil.fr/fr/journee-internationale-droits-des-femmes-2026",
+    source: "CNIL",
+    date: "2026-03-09",
+    cat: "RGPD",
+    desc: "À l’occasion de la Journée internationale des droits des femmes, célébrée le 8&amp;nbsp;mars 2026, la CNIL a donné la parole à trois anciennes agentes afin de mettre en perspective les évolutions intervenues en matière d’égalité professionnelle et de droits des femmes.",
+    auto: true
+  },
   {
     id: "auto-1772923797-0",
     title: "Clôture de l’injonction prononcée à l’encontre de la société KASPR",
@@ -402,4 +412,4 @@ window.AUTO_VEILLE = [
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-07T23:49:57";
+window.AUTO_VEILLE_UPDATED = "2026-03-09T10:31:04";
