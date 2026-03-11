@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-11T10:01:49
+// Dernière collecte : 2026-03-11T10:04:32
 window.AUTO_VEILLE = [
   {
     id: "auto-1773223307-0",
@@ -9,6 +9,76 @@ window.AUTO_VEILLE = [
     date: "2026-03-10",
     cat: "RGPD",
     desc: "Le règlement sur la gouvernance des données (DGA) crée un statut d’organisation altruiste en matière de données reconnue dans l’UE (OAD). Ces organisations altruistes partagent volontairement des données pour des objectifs d’intérêt général et non lucratifs. Que faut-il retenir&amp;nbsp;?",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-10",
+    title: "Injonction de blocage dynamique : l'obligation de filtrage ciblé des plateformes en ligne",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/injonction-de-blocage-dynamique-l-obligation-de-filtrage-cible-des-plateformes-en-ligne-DNU100e1",
+    source: "Lextenso",
+    date: "2026-03-09",
+    cat: "Plateformes",
+    desc: "La d&eacute;cision constitue une &eacute;tape d&eacute;cisive concernant le r&eacute;gime de responsabilit&eacute; des plateformes en ligne face aux annonces illicites diffus&eacute;es. En imposant &agrave; Meta une obligation de filtrage cibl&eacute;, l&#039;arr&ecirc;t consacre une solution efficace de pr&eacute;vention de la publicit&eacute; con",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-11",
+    title: "Le groupe français OVH soumis aux cours canadiennes du fait de ses pratiques organisationnelles et commerciales",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/le-groupe-francais-ovh-soumis-aux-cours-canadiennes-du-fait-de-ses-pratiques-organisationnelles-et-commerciales-DNU100e0",
+    source: "Lextenso",
+    date: "2026-03-09",
+    cat: "Jurisprudence",
+    desc: "Dans une affaire relevant de la s&eacute;curit&eacute; nationale, une ordonnance de production demandait au groupe fran&ccedil;ais OVH de produire les donn&eacute;es de comptes li&eacute;es &agrave; des adresses IP en France, au Royaume-Uni et en Australie. La Cour de justice de l&#039;Ontario a confirm&eacute; l&#039;ordonnance &agrave; raison d&#",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-12",
+    title: "Hébergement des données de santé : la souveraineté numérique dans le domaine de la santé reconsidérée",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/hebergement-des-donnees-de-sante-la-souverainete-numerique-dans-le-domaine-de-la-sante-reconsideree-DNU100d9",
+    source: "Lextenso",
+    date: "2026-03-09",
+    cat: "RGPD",
+    desc: "Le gouvernement change de cap en acc&eacute;l&eacute;rant la proc&eacute;dure permettant de choisir le nouvel h&eacute;bergeur de donn&eacute;es de sant&eacute;. Cette acc&eacute;l&eacute;ration met en tension des objectifs pour l&#039;instant difficiles &agrave; concilier que sont la souverainet&eacute; num&eacute;rique en mati&egrave;re de sant&e",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-13",
+    title: "La place de l'Open Source au cœur de la souveraineté européenne : vers des écosystèmes numériques ouverts européens",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/la-place-de-l-open-source-au-coeur-de-la-souverainete-europeenne-vers-des-ecosystemes-numeriques-ouverts-europeens-DNU100d8",
+    source: "Lextenso",
+    date: "2026-03-09",
+    cat: "RGPD",
+    desc: "En janvier 2026, la Commission europ&eacute;enne a lanc&eacute; une consultation publique intitul&eacute;e &quot;&nbsp;vers des &eacute;cosyst&egrave;mes num&eacute;riques ouverts europ&eacute;ens&nbsp;&quot;, ayant recueilli 1&nbsp;658 contributions. L&#039;initiative place l&#039;Open Source au c&oelig;ur d&#039;une strat&eacute;gie industrielle ",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-14",
+    title: "TikTok : une conception addictive contraire au DSA selon un avis préliminaire de la Commission",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/tiktok-une-conception-addictive-contraire-au-dsa-selon-un-avis-preliminaire-de-la-commission-DNU100d7",
+    source: "Lextenso",
+    date: "2026-03-09",
+    cat: "Plateformes",
+    desc: "Le 6&nbsp;f&eacute;vrier 2026, la Commission europ&eacute;enne a conclu, &agrave; titre pr&eacute;liminaire, dans le cadre d&#039;une proc&eacute;dure formelle, que TikTok avait enfreint le DSA en raison de sa conception addictive. Le d&eacute;filement infini, la lecture automatique, les notifications instantan&eacute;es, ainsi que le syst&egrave;m",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-15",
+    title: "Responsabilité civile de l'hébergeur : défaut de notification et promptitude de l'intervention",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/responsabilite-civile-de-l-hebergeur-defaut-de-notification-et-promptitude-de-l-intervention-DNU100d6",
+    source: "Lextenso",
+    date: "2026-03-09",
+    cat: "RGPD",
+    desc: "&Agrave; d&eacute;faut de notification, l&#039;h&eacute;bergeur n&#039;engage pas sa responsabilit&eacute; civile pour ne pas avoir retir&eacute; un contenu attentatoire &agrave; des droits de propri&eacute;t&eacute; intellectuelle, d&egrave;s lors que l&#039;illic&eacute;it&eacute; dudit contenu n&#039;&eacute;tait pas manifeste. De plus, a agi &q",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-16",
+    title: "La décision contraignante du CEPD devant le Tribunal de l'Union ; du renvoi préjudiciel au recours direct",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/la-decision-contraignante-du-cepd-devant-le-tribunal-de-l-union-du-renvoi-prejudiciel-au-recours-direct-DNU100d5",
+    source: "Lextenso",
+    date: "2026-03-09",
+    cat: "Jurisprudence",
+    desc: "Par son arr&ecirc;t du 10&nbsp;f&eacute;vrier 2026, la grande chambre de la Cour de justice clarifie la possibilit&eacute; de contester en justice les d&eacute;cisions contraignantes du CEPD adopt&eacute;es sur le fondement de l&#039;article 65 du RGPD. En censurant l&#039;ordonnance du Tribunal qui avait d&eacute;clar&eacute; irrecevable le recour",
     auto: true
   },
   {
@@ -222,6 +292,76 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1773223459-17",
+    title: "Précisions sur l'identification du demandeur dans l'accès aux informations environnementales",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/precisions-sur-l-identification-du-demandeur-dans-l-acces-aux-informations-environnementales-DNU100d2",
+    source: "Lextenso",
+    date: "2026-02-09",
+    cat: "Jurisprudence",
+    desc: "La CJUE pr&eacute;cise que la directive 2003/4 sur l&#039;acc&egrave;s aux informations environnementales n&#039;exige pas l&#039;identification nominative du demandeur, mais n&#039;interdit pas aux &Eacute;tats membres d&#039;imposer une telle exigence. Cette latitude accord&eacute;e aux l&eacute;gislations nationales reste n&eacute;anmoins encadr",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-18",
+    title: "Des caméras-piétons de contrôleurs dans les services de transport",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/des-cameras-pietons-de-controleurs-dans-les-services-de-transport-DNU100c8",
+    source: "Lextenso",
+    date: "2026-02-09",
+    cat: "Jurisprudence",
+    desc: "La CJUE juge que le recours &agrave; des cam&eacute;ras-pi&eacute;tons par des contr&ocirc;leurs dans les services de transport de passagers requiert une information pr&eacute;alable sur son principe par affichage public, compl&eacute;t&eacute;e par une information compl&egrave;te en un lieu accessible aux passagers. CJUE, 18&nbsp;d&eacute;c.&nbsp;",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-19",
+    title: "Airbnb n'est pas un hébergeur au sens de l'article 6, I, 2, de la LCEN",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/airbnb-n-est-pas-un-hebergeur-au-sens-de-l-article-6-i-2-de-la-lcen-DNU100c9",
+    source: "Lextenso",
+    date: "2026-02-09",
+    cat: "Plateformes",
+    desc: "En ce qu&#039;elle endosse un r&ocirc;le actif de nature &agrave; lui confier une connaissance ou un contr&ocirc;le des offres d&eacute;pos&eacute;es sur sa plateforme, la soci&eacute;t&eacute; Airbnb ne saurait revendiquer la qualit&eacute; d&#039;h&eacute;bergeur, au sens de l&#039;article 6, I, 2, de la LCEN, et peut, en cons&eacute;quence, enga",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-20",
+    title: "Affaire Pormanove/Kick.com : en quête de proportionnalité entre blocage, mesures ciblées et obligation générale de surveillance",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/affaire-pormanove-kick-com-en-quete-de-proportionnalite-entre-blocage-mesures-ciblees-et-obligation-generale-de-surveillance-DNU100d0",
+    source: "Lextenso",
+    date: "2026-02-09",
+    cat: "Plateformes",
+    desc: "Par un jugement du 19&nbsp;d&eacute;cembre 2025, le tribunal judiciaire de Paris apporte une nouvelle fois un &eacute;clairage sur l&#039;articulation entre l&#039;article 6-3 de la LCEN et le DSA. Il refuse toute mesure de blocage d&#039;une plateforme au profit d&#039;injonctions cibl&eacute;es, proportionn&eacute;es mais limit&eacute;es &agrave;",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-21",
+    title: "La suite de l'affaire Shein : le tribunal judiciaire prononce une injonction sans suspension",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/la-suite-de-l-affaire-shein-le-tribunal-judiciaire-prononce-une-injonction-sans-suspension-DNU100d1",
+    source: "Lextenso",
+    date: "2026-02-09",
+    cat: "Plateformes",
+    desc: "Malgr&eacute; la reconnaissance d&#039;un dommage grave &agrave; l&#039;ordre public issu de la commercialisation, notamment, de poup&eacute;es p&eacute;dopornographiques via la plateforme Shein, le tribunal judiciaire de Paris a estim&eacute; que la mesure de suspension temporaire la ciblant &eacute;tait disproportionn&eacute;e, la vente de produi",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-22",
+    title: "Cybersécurité et violation massive de données personnelles : fortes sanctions de la CNIL pour Free et Free mobile",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/cybersecurite-et-violation-massive-de-donnees-personnelles-fortes-sanctions-de-la-cnil-pour-free-et-free-mobile-DNU100d3",
+    source: "Lextenso",
+    date: "2026-02-09",
+    cat: "Jurisprudence",
+    desc: "La CNIL a lourdement sanctionn&eacute; les soci&eacute;t&eacute;s Free Mobile et Free avec des amendes respectives de 27&nbsp;et 15&nbsp;millions d&#039;euros&nbsp;: les soci&eacute;t&eacute;s n&#039;avaient pas adopt&eacute; des mesures adapt&eacute;es en mati&egrave;re de cybers&eacute;curit&eacute; et ces d&eacute;faillances ont &eacute;t&eacute",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-23",
+    title: "La liberté d'expression du magistrat sur un réseau social",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/la-liberte-d-expression-du-magistrat-sur-un-reseau-social-DNU100d4",
+    source: "Lextenso",
+    date: "2026-02-09",
+    cat: "Jurisprudence",
+    desc: "Au terme de l&#039;application de la grille d&#039;analyse qu&#039;elle a consacr&eacute;e, la Cour europ&eacute;enne des droits de l&#039;Homme juge que la sanction disciplinaire inflig&eacute;e &agrave; un magistrat pour des propos tenus sur un r&eacute;seau social ne repose pas sur des motifs pertinents et suffisants et constitue, d&egrave;s lor",
+    auto: true
+  },
+  {
     id: "auto-1772923797-22",
     title: "L’ANSSI met à jour sa politique open source",
     url: "http://cyber.gouv.fr/actualites/lanssi-met-a-jour-sa-politique-open-source/",
@@ -249,6 +389,16 @@ window.AUTO_VEILLE = [
     date: "2026-02-03",
     cat: "RGPD",
     desc: "The European Data Protection Board (EDPB) invites you to register for its conference, “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” , taking place on 17 March 2026 in Brussels . This event will offer a high-level overview of the EDPB’s work in the EU’s cross-regulatory landscape, focusing in particular on how",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-0",
+    title: "Meta contraint de prévenir la diffusion de publicités de jeux en ligne",
+    url: "https://www.legalis.net/actualite/meta-contraint-de-prevenir-la-diffusion-de-publicites-de-jeux-en-ligne/",
+    source: "Legalis",
+    date: "2026-02-02",
+    cat: "Plateformes",
+    desc: "Dans un arrêt du 28 janvier 2026, la cour d’appel de Paris confirme l’injonction dynamique qui avait été prononcée par le juge des requêtes à l’encontre de Meta relative à la diffusion de publicités pour des jeux en ligne contrefaisant les marques des casinos du groupe Lucien Barrière. La cour s’appuie sur la recommandation de [&#8230;]",
     auto: true
   },
   {
@@ -282,6 +432,66 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1773223459-24",
+    title: "Conformité de la diffusion d'une lettre d'information quotidienne",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/conformite-de-la-diffusion-d-une-lettre-d-information-quotidienne-DNU100c1",
+    source: "Lextenso",
+    date: "2026-01-13",
+    cat: "Plateformes",
+    desc: "L&#039;adresse &eacute;lectronique d&#039;un utilisateur collect&eacute;e lors de la cr&eacute;ation d&#039;un compte gratuit sur une plateforme offrant un acc&egrave;s limit&eacute; &agrave; des contenus peut &ecirc;tre utilis&eacute;e pour l&#039;envoi d&#039;une lettre d&#039;information quotidienne. En poursuivant un objectif de promotion &eacu",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-25",
+    title: "L'Europe affirme (un peu) sa souveraineté numérique !",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/l-europe-affirme-un-peu-sa-souverainete-numerique-DNU100c7",
+    source: "Lextenso",
+    date: "2026-01-13",
+    cat: "Contrats IT",
+    desc: "Face &agrave; la d&eacute;pendance europ&eacute;enne aux infrastructures num&eacute;riques am&eacute;ricaines, la Commission europ&eacute;enne a publi&eacute; la version 1.2.1 de son Cloud Sovereignty Framework, outil d&#039;&eacute;valuation du niveau d&#039;ind&eacute;pendance et de confiance des services cloud. Bas&eacute; sur huit objectifs de ",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-26",
+    title: "L'injonction administrative de conservation pour un an des métadonnées de communication",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/l-injonction-administrative-de-conservation-pour-un-an-des-metadonnees-de-communication-DNU100c6",
+    source: "Lextenso",
+    date: "2026-01-13",
+    cat: "RGPD",
+    desc: "Le d&eacute;cret du 15&nbsp;octobre 2025 enjoint aux op&eacute;rateurs de communication, pour prot&eacute;ger la s&eacute;curit&eacute; nationale, de conserver les m&eacute;tadonn&eacute;es de communication, notamment les adresses IP et MAC, et de g&eacute;olocalisation, pendant une dur&eacute;e d&#039;un an, par exception au principe g&eacute;n&ea",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-27",
+    title: "Responsabilité des plateformes numériques au Brésil : le tournant jurisprudentiel de 2025",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/responsabilite-des-plateformes-numeriques-au-bresil-le-tournant-jurisprudentiel-de-2025-DNU100c5",
+    source: "Lextenso",
+    date: "2026-01-13",
+    cat: "Plateformes",
+    desc: "En juin 2025, la Cour supr&ecirc;me br&eacute;silienne a red&eacute;fini le r&eacute;gime de responsabilit&eacute; civile des plateformes num&eacute;riques en d&eacute;clarant partiellement inconstitutionnel l&#039;article&nbsp;19 du Marco Civil da Internet. Sans instaurer une responsabilit&eacute; objective, la Cour a remplac&eacute; l&#039;exigen",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-28",
+    title: "L'exploitant d'une place de marché en ligne est responsable du traitement des données personnelles",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/l-exploitant-d-une-place-de-marche-en-ligne-est-responsable-du-traitement-des-donnees-personnelles-DNU100c4",
+    source: "Lextenso",
+    date: "2026-01-13",
+    cat: "RGPD",
+    desc: "En tant que responsable du traitement de donn&eacute;es &agrave; caract&egrave;re personnel, l&#039;exploitant d&#039;une place de march&eacute; en ligne est soumis aux obligations du RGPD et engage, &agrave; ce titre, sa responsabilit&eacute; &agrave; raison des donn&eacute;es sensibles contenues dans les annonces publi&eacute;es, sur sa plateform",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-29",
+    title: "Propos climatosceptiques et complotistes à l'antenne : ne pas proposer de contradiction est fautif",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/propos-climatosceptiques-et-complotistes-a-l-antenne-ne-pas-proposer-de-contradiction-est-fautif-DNU100c3",
+    source: "Lextenso",
+    date: "2026-01-13",
+    cat: "Jurisprudence",
+    desc: "Les soci&eacute;t&eacute;s exploitant un service d&#039;information ont un double devoir d&#039;honn&ecirc;tet&eacute; de l&#039;information et de ma&icirc;trise de l&#039;antenne. Le Conseil d&#039;&Eacute;tat approuve la sanction p&eacute;cuniaire impos&eacute;e par l&#039;Arcom &agrave; CNews pour la diffusion, sans contradiction, de propos clim",
+    auto: true
+  },
+  {
     id: "auto-1772923797-25",
     title: "L'ANSSI étoffe le volet opérationnel de son corpus sur la remédiation",
     url: "http://cyber.gouv.fr/actualites/lanssi-etoffe-le-volet-operationnel-de-son-corpus-sur-la-remediation/",
@@ -302,6 +512,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1773223459-1",
+    title: "L’éditeur européen de Playboy condamné pour dénigrement",
+    url: "https://www.legalis.net/actualite/lediteur-europeen-de-playboy-condamne-pour-denigrement/",
+    source: "Legalis",
+    date: "2025-12-22",
+    cat: "Jurisprudence",
+    desc: "Par un arrêt du 4 décembre 2025, la cour d’appel de Paris a estimé que la société Kleverage, éditeur licencié de Playboy en Europe, s&#8217;était rendue responsable de dénigrement fautif à l&#8217;encontre de la société Kama Publishing, productrice de ses publications, constitutifs d&#8217;un trouble manifestement illicite du fait de la dénonciatio",
+    auto: true
+  },
+  {
     id: "auto-1772923797-27",
     title: "Le site de l’ANSSI évolue pour plus de lisibilité",
     url: "http://cyber.gouv.fr/actualites/le-site-de-lanssi-evolue-pour-plus-de-lisibilite/",
@@ -309,6 +529,16 @@ window.AUTO_VEILLE = [
     date: "2025-12-11",
     cat: "Cybersécurité",
     desc: "Le site cyber.gouv.fr de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), évolue pour mieux répondre aux besoins des […]",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-2",
+    title: "Le modèle de covoiturage de Citygo confirmé",
+    url: "https://www.legalis.net/actualite/le-modele-de-covoiturage-de-citygo-confirme/",
+    source: "Legalis",
+    date: "2025-12-05",
+    cat: "Jurisprudence",
+    desc: "Par un arrêt du 26 novembre 2025, la cour d’appel de Versailles a confirmé le jugement du 7 juin 2023 du tribunal de commerce de Nanterre qui avait considéré que la plateforme Citygo respectait les obligations en matière de covoiturage imposées par l’article L.3132-1 du code des transports. La cour en a conclu que Citygo [&#8230;]",
     auto: true
   },
   {
@@ -431,5 +661,75 @@ window.AUTO_VEILLE = [
     desc: "Jeudi 18 septembre 2025, l’ANSSI a organisé REMPAR25, un exercice national de gestion de crise cyber de grande ampleur, en […]",
     auto: true
   },
+  {
+    id: "auto-1773223459-3",
+    title: "Géobloquer l’accès en France de messages dénigrants vaut suppression",
+    url: "https://www.legalis.net/actualite/geobloquer-lacces-en-france-de-messages-denigrants-vaut-suppression/",
+    source: "Legalis",
+    date: "2025-07-02",
+    cat: "Jurisprudence",
+    desc: "Par un arrêt du 13 juin 2025, la cour d’appel de Paris confirme le jugement du 21 septembre 2022 du tribunal de commerce de Paris en ce qu’il avait jugé manifestement illicite les commentaires des consommateurs sur le site Signal-arnaques.com édité par la société Heretic et dont il avait ordonné la suppression. Suite à ce [&#8230;]",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-4",
+    title: "Un site de notation condamné pour dénigrement",
+    url: "https://www.legalis.net/actualite/un-site-de-notation-condamne-pour-denigrement/",
+    source: "Legalis",
+    date: "2025-05-19",
+    cat: "Jurisprudence",
+    desc: "Par un arrêt du 7 mai 2025, la cour d’appel de Paris a confirmé l’ordonnance de référé du 4 juillet 2024 du tribunal de commerce de Paris qui avait enjoint Heretic de procéder à la suppression de la page de son site scamdoc.com sur laquelle figurait un score de confiance de 2%, décrit comme « [&#8230;]",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-5",
+    title: "Doctrine.fr condamné pour concurrence déloyale",
+    url: "https://www.legalis.net/actualite/doctrine-fr-condamne-pour-concurrence-deloyale/",
+    source: "Legalis",
+    date: "2025-05-12",
+    cat: "Jurisprudence",
+    desc: "Par un arrêt du 7 mai 2025, la cour d’appel de Paris a condamné la société Forseti, qui édite le site Doctrine.fr, à payer en réparation des actes de concurrence déloyale la somme de 40 000 euros à chacune des sociétés, Lexbase, Lextenso et Lamy Liaisons, et la somme de 50 000 euros à chacune [&#8230;]",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-6",
+    title: "Condamnation pour défaut de désignation d’un directeur de la publication",
+    url: "https://www.legalis.net/actualite/condamnation-pour-defaut-de-designation-dun-directeur-de-la-publication/",
+    source: "Legalis",
+    date: "2025-04-25",
+    cat: "Jurisprudence",
+    desc: "L’absence de désignation d’un directeur de la publication dans les mentions légales sur un site internet est sanctionnée pénalement. Cette formalité est non seulement obligatoire mais elle aussi utile car elle permet d’identifier le responsable pénal d’un site. Dans l’affaire jugée par le tribunal judiciaire de Marseille, cette mention ne figurait ",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-7",
+    title: "Typosquatting : blocage judiciaire de 39 noms de domaine en .fr",
+    url: "https://www.legalis.net/actualite/typosquatting-blocage-judiciaire-de-39-noms-de-domaine-en-fr/",
+    source: "Legalis",
+    date: "2025-04-24",
+    cat: "PI numérique",
+    desc: "Une fois n’est pas coutume, un groupe victime de typosquatting sur ses marques française, européenne et internationale a choisi de passer par la voie judiciaire pour bloquer les noms de domaine contrefaisants et obtenir réparation. Le tribunal judiciaire de Paris a ordonné le transfert à Groupama de 39 noms de domaine en « .fr » [&#8230;]",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-8",
+    title: "Droit d’auteur : preuve de la titularité par la Blockchain",
+    url: "https://www.legalis.net/actualite/droit-dauteur-preuve-de-la-titularite-par-la-blockchain/",
+    source: "Legalis",
+    date: "2025-04-04",
+    cat: "Jurisprudence",
+    desc: "Par un jugement du 20 mars 2025, le tribunal judiciaire de Marseille a admis la blockchain comme mode de preuve de la titularité des droits patrimoniaux relatifs à des vêtements et qu’elle pouvait aussi servir à horodater la création. AZ Factory commercialise sous ses marques des pyjamas Love With Alber et Hearts with Alber, inspirés [&#8230;]",
+    auto: true
+  },
+  {
+    id: "auto-1773223459-9",
+    title: "La liberté d’expression prévaut sur le droit à l’oubli",
+    url: "https://www.legalis.net/actualite/la-liberte-dexpression-prevaut-sur-le-droit-a-loubli/",
+    source: "Legalis",
+    date: "2025-03-06",
+    cat: "RGPD",
+    desc: "Par un arrêt très étayé du 20 février 2025, la cour d’appel de Paris a fait prévaloir la liberté d’expression sur le droit des personnes à l’effacement de leurs données personnelles concernant la publication en ligne d’un article de presse évoquant la condamnation d’un ancien président d’un club sportif. En 2009, le quotidien 20 Minutes [&#8230;]",
+    auto: true
+  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-11T10:01:49";
+window.AUTO_VEILLE_UPDATED = "2026-03-11T10:04:32";
