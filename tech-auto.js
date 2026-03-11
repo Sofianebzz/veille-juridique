@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-11T12:28:38
+// Dernière collecte : 2026-03-11T12:30:17
 window.AUTO_TECH = [
   {
     id: "tech-1773232118-2",
@@ -612,6 +612,26 @@ window.AUTO_TECH = [
     auto: true
   },
   {
+    id: "tech-1773232216-0",
+    title: "Is the Pentagon allowed to surveil Americans with AI?",
+    url: "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    source: "MIT Tech Review",
+    date: "2026-03-06",
+    cat: "IA & Modèles",
+    desc: "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk",
+    auto: true
+  },
+  {
+    id: "tech-1773232216-1",
+    title: "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+    url: "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+    source: "MIT Tech Review",
+    date: "2026-03-06",
+    cat: "IA & Modèles",
+    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review&#8217;s newsroom has been ahead of the curve, tracking the developments in AI that matter and&#8230;",
+    auto: true
+  },
+  {
     id: "tech-1772923807-1",
     title: "A bite-sized adventure that puts a wrench into the classic Zelda formula",
     url: "https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch",
@@ -781,25 +801,5 @@ window.AUTO_TECH = [
     desc: "Move comes in the wake of TikTok's transfer of US operations.",
     auto: true
   },
-  {
-    id: "tech-1772923807-23",
-    title: "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
-    url: "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-    source: "Ars Technica",
-    date: "2026-03-06",
-    cat: "Big Tech",
-    desc: "Announcements this week were mostly business as usual, but Apple isn't immune.",
-    auto: true
-  },
-  {
-    id: "tech-1772923807-24",
-    title: "AI startup sues ex-CEO, saying he took 41GB of email and lied on résumé",
-    url: "https://arstechnica.com/tech-policy/2026/03/ai-startup-sues-ex-ceo-saying-he-took-41gb-of-email-and-lied-on-resume/",
-    source: "Ars Technica",
-    date: "2026-03-06",
-    cat: "Startups & VC",
-    desc: "Hayden AI also claims co-founder improperly sold over $1.2M in stock.",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-03-11T12:28:38";
+window.AUTO_TECH_UPDATED = "2026-03-11T12:30:17";
