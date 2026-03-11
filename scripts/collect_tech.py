@@ -16,7 +16,7 @@ RSS_SOURCES = [
     {"url": "https://www.technologyreview.com/feed/",                "source": "MIT Tech Review"},
     # ── Sources françaises ────────────────────────────────────────────────────
     {"url": "https://www.01net.com/feed/",                           "source": "01net"},
-    {"url": "https://www.lemondeinformatique.fr/flux-rss-actualite-informatique.xml", "source": "Le Monde Informatique"},
+    {"url": "https://www.lemondeinformatique.fr/rss/",                               "source": "Le Monde Informatique"},
     {"url": "https://www.silicon.fr/feed",                           "source": "Silicon.fr"},
     {"url": "https://www.numerama.com/feed/",                        "source": "Numerama"},
     {"url": "https://next.ink/feed/",                                "source": "Next.ink"},
