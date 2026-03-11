@@ -1,17 +1,25 @@
 #!/usr/bin/env python3
 """
 Collecte automatique — Actualités Tech & Innovation
-Sources : The Verge, TechCrunch, Ars Technica, MIT Technology Review
+Sources EN : The Verge, TechCrunch, Ars Technica, MIT Technology Review
+Sources FR : 01net, Le Monde Informatique, Silicon.fr, Numerama, Next.ink
 """
+import feedparser
 import json, os, re, time, urllib.request
-import xml.etree.ElementTree as ET
 from datetime import datetime
 
 RSS_SOURCES = [
-    {"url": "https://www.theverge.com/rss/index.xml",               "source": "The Verge"},
+    # ── Sources anglaises ──────────────────────────────────────────────────────
+    {"url": "https://www.theverge.com/rss/index.xml",                "source": "The Verge"},
     {"url": "https://techcrunch.com/feed/",                          "source": "TechCrunch"},
     {"url": "https://feeds.arstechnica.com/arstechnica/index",       "source": "Ars Technica"},
     {"url": "https://www.technologyreview.com/feed/",                "source": "MIT Tech Review"},
+    # ── Sources françaises ────────────────────────────────────────────────────
+    {"url": "https://www.01net.com/feed/",                           "source": "01net"},
+    {"url": "https://www.lemondeinformatique.fr/flux-rss-toute-l-actualite.xml", "source": "Le Monde Informatique"},
+    {"url": "https://www.silicon.fr/feed",                           "source": "Silicon.fr"},
+    {"url": "https://www.numerama.com/feed/",                        "source": "Numerama"},
+    {"url": "https://next.ink/feed/",                                "source": "Next.ink"},
 ]
 
 CATEGORIES = {
@@ -45,23 +53,28 @@ HEADERS     = {"User-Agent": "VeilleBot/1.0", "Accept": "application/xml,text/xm
 
 # Mots-clés pour filtrer uniquement les articles pertinents (éviter le bruit)
 RELEVANCE_KEYWORDS = [
+    # Anglais
     "ai","openai","anthropic","google","apple","microsoft","meta","amazon","nvidia",
     "startup","funding","chip","gpu","cloud","model","llm","robot","quantum","hack",
     "breach","regulation","antitrust","acquisition","ipo","open source","data center",
+    # Français
+    "intelligence artificielle","numérique","données","technologie","logiciel",
+    "cybersécurité","algorithme","vie privée","innovation","informatique","réseau",
+    "mobile","internet","application","sécurité","ia","modèle","deepfake","startup",
+    "financement","rachat","cloud","robot","quantique","open source","big data",
 ]
 
 def fetch(url):
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read().decode("utf-8", errors="replace")
+        return r.read()
 
-def parse_date(s):
-    if not s: return datetime.now().strftime("%Y-%m-%d")
-    for fmt in ["%a, %d %b %Y %H:%M:%S %z","%a, %d %b %Y %H:%M:%S %Z",
-                "%Y-%m-%dT%H:%M:%S%z","%Y-%m-%dT%H:%M:%SZ"]:
-        try: return datetime.strptime(s.strip(), fmt).strftime("%Y-%m-%d")
+def parse_date(t):
+    if not t: return datetime.now().strftime("%Y-%m-%d")
+    if isinstance(t, tuple):
+        try: return datetime(*t[:6]).strftime("%Y-%m-%d")
         except: pass
-    m = re.search(r"(\d{4}-\d{2}-\d{2})", s)
+    m = re.search(r"(\d{4}-\d{2}-\d{2})", str(t))
     return m.group(1) if m else datetime.now().strftime("%Y-%m-%d")
 
 def clean(text):
@@ -82,30 +95,16 @@ def categorize(title, desc):
 def fetch_feed(src):
     items = []
     try:
-        xml_text = fetch(src["url"])
-        root = ET.fromstring(xml_text)
-        # Handle both RSS 2.0 and Atom
-        ns_atom = "http://www.w3.org/2005/Atom"
-        if "feed" in root.tag or root.findall(f"{{{ns_atom}}}entry"):
-            entries = root.findall(f"{{{ns_atom}}}entry")
-            for entry in entries:
-                title = clean(entry.findtext(f"{{{ns_atom}}}title") or "")
-                link  = entry.find(f"{{{ns_atom}}}link")
-                url   = link.get("href","") if link is not None else ""
-                pub   = entry.findtext(f"{{{ns_atom}}}updated") or entry.findtext(f"{{{ns_atom}}}published") or ""
-                summ  = entry.find(f"{{{ns_atom}}}summary")
-                desc  = clean(summ.text if summ is not None else "")
-                if title and url and is_relevant(title, desc):
-                    items.append({"title": title, "url": url, "date": parse_date(pub), "desc": desc})
-        else:
-            for item in root.iter("item"):
-                title = clean(item.findtext("title") or "")
-                url   = (item.findtext("link") or "").strip()
-                pub   = item.findtext("pubDate") or ""
-                desc  = clean(item.findtext("description") or "")
-                if title and url and is_relevant(title, desc):
-                    items.append({"title": title, "url": url, "date": parse_date(pub), "desc": desc})
-                if len(items) >= 15: break
+        raw = fetch(src["url"])
+        d = feedparser.parse(raw)
+        for entry in d.entries[:30]:
+            title = clean(entry.get("title", ""))
+            url   = entry.get("link", "").strip()
+            date  = parse_date(entry.get("published_parsed") or entry.get("updated_parsed"))
+            desc  = clean(entry.get("summary", ""))
+            if title and url and is_relevant(title, desc):
+                items.append({"title": title, "url": url, "date": date, "desc": desc})
+            if len(items) >= 15: break
         print(f"  ✓ {src['source']}: {len(items)} items pertinents")
     except Exception as e:
         print(f"  ✗ {src['source']}: {e}")
