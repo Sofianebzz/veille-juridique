@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-09T10:31:04
+// Dernière collecte : 2026-03-11T10:01:49
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1773223307-0",
+    title: "Règlement sur la gouvernance des données : FAQ sur les organisations altruistes des données reconnues dans l’Union européenne",
+    url: "https://www.cnil.fr/fr/reglement-sur-la-gouvernance-des-donnees-faq-sur-les-organisations-altruistes-des-donnees-reconnues",
+    source: "CNIL",
+    date: "2026-03-10",
+    cat: "RGPD",
+    desc: "Le règlement sur la gouvernance des données (DGA) crée un statut d’organisation altruiste en matière de données reconnue dans l’UE (OAD). Ces organisations altruistes partagent volontairement des données pour des objectifs d’intérêt général et non lucratifs. Que faut-il retenir&amp;nbsp;?",
+    auto: true
+  },
   {
     id: "auto-1773052262-0",
     title: "Le 8 mars à la CNIL : paroles et regards autour des droits des femmes et de l’égalité professionnelle",
@@ -29,6 +39,16 @@ window.AUTO_VEILLE = [
     date: "2026-03-06",
     cat: "RGPD",
     desc: "Brussels, 6 March - The EDPB organises a remote event to collect stakeholders’ input on its Guidelines on the processing of personal data to target or deliver political advertisements under the regulation on the transparency and targeting of political advertising , on 27 March 2026. The agenda is available here This will be an opportunity to inform",
+    auto: true
+  },
+  {
+    id: "auto-1773223307-1",
+    title: "Ordre du jour de la séance plénière du 5 mars 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-mars-2026",
+    source: "CNIL",
+    date: "2026-03-05",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 5 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
     auto: true
   },
   {
@@ -412,4 +432,4 @@ window.AUTO_VEILLE = [
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-09T10:31:04";
+window.AUTO_VEILLE_UPDATED = "2026-03-11T10:01:49";
