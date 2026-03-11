@@ -290,6 +290,16 @@
     "auto": true
   },
   {
+    "id": "auto-1773223671-1",
+    "title": "Ma radio FM et DAB+",
+    "url": "https://www.arcom.fr/radio-et-audio-numerique/radio-fm-dab",
+    "source": "ARCOM",
+    "date": "2026-02-09",
+    "cat": "RGPD",
+    "desc": "Ma radio FM et DAB+ Ma radio FM et DAB+ t.rakiry lun 09/02/2026 - 09:35 Comment fonctionne Ma radio FM et DAB+ ? Découvrez une nouvelle manière d'explorer l'univers radiophonique grâce à notre application intuitive et optimisée. Elle vous offre un accès simplifié et complet à tout ce dont vous avez besoin pour profiter pleinement de la radio, que v",
+    "auto": true
+  },
+  {
     "id": "auto-1773223459-17",
     "title": "Précisions sur l'identification du demandeur dans l'accès aux informations environnementales",
     "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/precisions-sur-l-identification-du-demandeur-dans-l-acces-aux-informations-environnementales-DNU100d2",
@@ -560,6 +570,16 @@
     "auto": true
   },
   {
+    "id": "auto-1773223671-2",
+    "title": "Ligue 1+",
+    "url": "https://www.arcom.fr/sites-plateformes/ligue-1",
+    "source": "ARCOM",
+    "date": "2025-11-14",
+    "cat": "RGPD",
+    "desc": "Ligue 1+ a.branger ven 14/11/2025 - 09:28 Ligue 1+ est un service d’abonnement donnant accès à tout le contenu de la Ligue 1. &nbsp; Le service est accessible sur le web et via l'application sur tous les appareils mobiles et tv connectés. CTA Ligue 1+ Logo Catégorie de service Contenu sportif Modèle tarifaire Abonnement Type de lecture Streaming Su",
+    "auto": true
+  },
+  {
     "id": "auto-1772923797-30",
     "title": "L’ANSSI vous donne rendez-vous à la ECW 2025",
     "url": "http://cyber.gouv.fr/actualites/lanssi-vous-donne-rendez-vous-%C3%A0-la-ecw-2025/",
@@ -577,6 +597,16 @@
     "date": "2025-11-04",
     "cat": "Cybersécurité",
     "desc": "Le 4 novembre 2025 a eu lieu la journée du conseil scientifique de l’ANSSI qui a réuni membres du conseil […]",
+    "auto": true
+  },
+  {
+    "id": "auto-1773223671-3",
+    "title": "Relevés des temps de parole hors périodes électorales",
+    "url": "https://www.arcom.fr/temps-parole/hors-elections",
+    "source": "ARCOM",
+    "date": "2025-10-28",
+    "cat": "RGPD",
+    "desc": "Relevés des temps de parole hors périodes électorales t.rakiry mar 28/10/2025 - 10:52 Le suivi des temps de parole hors période électorale L’Arcom veille au respect du pluralisme politique à la télévision et à la radio. Les chaînes de télévision et les radios doivent assurer une représentation équitable des différents partis et groupements politiqu",
     "auto": true
   },
   {
@@ -660,6 +690,46 @@
     "auto": true
   },
   {
+    "id": "auto-1773223671-4",
+    "title": "Veedz",
+    "url": "https://www.arcom.fr/sites-plateformes/veedz",
+    "source": "ARCOM",
+    "date": "2025-07-11",
+    "cat": "RGPD",
+    "desc": "Veedz a.branger ven 11/07/2025 - 10:46 Veedz est un service proposant de nombreux contenus autour de l'astrologie, la cuisine, le mode de vie ou encore les dessins animés . CTA Veedz Logo Catégorie de service Cinéma et audiovisuel Films Jeunesse Séries Modèle tarifaire Abonnement Type de lecture Streaming Supports compatibles Site internet Spécific",
+    "auto": true
+  },
+  {
+    "id": "auto-1773223671-5",
+    "title": "Uptrack",
+    "url": "https://www.arcom.fr/sites-plateformes/uptrack",
+    "source": "ARCOM",
+    "date": "2025-07-11",
+    "cat": "Plateformes",
+    "desc": "Uptrack a.branger ven 11/07/2025 - 10:37 Uptrack est une plateforme de streaming proposant des contenus sur le sport et l'aventure. CTA Uptrack Logo Catégorie de service Cinéma et audiovisuel Documentaires Modèle tarifaire Abonnement Type de lecture Streaming Supports compatibles Application Site internet Spécificité Qualité HD Sourds et malentenda",
+    "auto": true
+  },
+  {
+    "id": "auto-1773223671-6",
+    "title": "Society +",
+    "url": "https://www.arcom.fr/sites-plateformes/society",
+    "source": "ARCOM",
+    "date": "2025-07-11",
+    "cat": "Plateformes",
+    "desc": "Society + a.branger ven 11/07/2025 - 10:13 Society + est une plateforme proposant des documentaires sur des histoires de politique, de société, de sport ou d’engagement. CTA Society + Logo Catégorie de service Cinéma et audiovisuel Documentaires Modèle tarifaire Abonnement Type de lecture Streaming Supports compatibles Application Box TV Cast Site ",
+    "auto": true
+  },
+  {
+    "id": "auto-1773223671-7",
+    "title": "Mangas Replay",
+    "url": "https://www.arcom.fr/sites-plateformes/mangas-replay",
+    "source": "ARCOM",
+    "date": "2025-07-11",
+    "cat": "RGPD",
+    "desc": "Mangas Replay a.branger ven 11/07/2025 - 09:59 Mangas Replay propose de visionner des animés en VOSTFR. La chaîne propose également des animés cultes en version remastérisée ainsi qu’un large choix de nouveautés. CTA Mangas Replay Logo Catégorie de service Cinéma et audiovisuel Jeunesse Séries Modèle tarifaire Abonnement Type de lecture Streaming S",
+    "auto": true
+  },
+  {
     "id": "auto-1773223459-3",
     "title": "Géobloquer l’accès en France de messages dénigrants vaut suppression",
     "url": "https://www.legalis.net/actualite/geobloquer-lacces-en-france-de-messages-denigrants-vaut-suppression/",
@@ -667,6 +737,26 @@
     "date": "2025-07-02",
     "cat": "Jurisprudence",
     "desc": "Par un arrêt du 13 juin 2025, la cour d’appel de Paris confirme le jugement du 21 septembre 2022 du tribunal de commerce de Paris en ce qu’il avait jugé manifestement illicite les commentaires des consommateurs sur le site Signal-arnaques.com édité par la société Heretic et dont il avait ordonné la suppression. Suite à ce [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "auto-1773223671-8",
+    "title": "Résultats de recherche couverture TNT",
+    "url": "https://www.arcom.fr/television-et-video-la-demande/ma-couverture-tnt/resultats-de-recherche-couverture-tnt",
+    "source": "ARCOM",
+    "date": "2025-05-23",
+    "cat": "Jurisprudence",
+    "desc": "Résultats de recherche couverture TNT t.rakiry ven 23/05/2025 - 11:33 Nouvelle numérotation des chaînes de la TNT à compter du 6 juin 2025 Une nouvelle numérotation des chaînes nationale de la TNT sera mise en place le 6 juin à l’occasion de l’arrivée du service T18 et de l'arrêt des chaînes payantes de Canal+ sur la TNT à cette date, ainsi que pou",
+    "auto": true
+  },
+  {
+    "id": "auto-1773223671-9",
+    "title": "Ma couverture TNT",
+    "url": "https://www.arcom.fr/television-et-video-la-demande/ma-couverture-tnt",
+    "source": "ARCOM",
+    "date": "2025-05-23",
+    "cat": "RGPD",
+    "desc": "Ma couverture TNT t.rakiry ven 23/05/2025 - 11:10 Grâce à l’application \"Ma Couverture TNT\" , accédez à des outils intuitifs et pratiques qui vous permettront d’obtenir toutes les informations nécessaires pour bénéficier d’une réception optimale de vos programmes de télévision pouvant être reçus par le biais d’une antenne râteau, que vous soyez un ",
     "auto": true
   },
   {
@@ -707,26 +797,6 @@
     "date": "2025-04-24",
     "cat": "PI numérique",
     "desc": "Une fois n’est pas coutume, un groupe victime de typosquatting sur ses marques française, européenne et internationale a choisi de passer par la voie judiciaire pour bloquer les noms de domaine contrefaisants et obtenir réparation. Le tribunal judiciaire de Paris a ordonné le transfert à Groupama de 39 noms de domaine en « .fr » [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223459-8",
-    "title": "Droit d’auteur : preuve de la titularité par la Blockchain",
-    "url": "https://www.legalis.net/actualite/droit-dauteur-preuve-de-la-titularite-par-la-blockchain/",
-    "source": "Legalis",
-    "date": "2025-04-04",
-    "cat": "Jurisprudence",
-    "desc": "Par un jugement du 20 mars 2025, le tribunal judiciaire de Marseille a admis la blockchain comme mode de preuve de la titularité des droits patrimoniaux relatifs à des vêtements et qu’elle pouvait aussi servir à horodater la création. AZ Factory commercialise sous ses marques des pyjamas Love With Alber et Hearts with Alber, inspirés [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223459-9",
-    "title": "La liberté d’expression prévaut sur le droit à l’oubli",
-    "url": "https://www.legalis.net/actualite/la-liberte-dexpression-prevaut-sur-le-droit-a-loubli/",
-    "source": "Legalis",
-    "date": "2025-03-06",
-    "cat": "RGPD",
-    "desc": "Par un arrêt très étayé du 20 février 2025, la cour d’appel de Paris a fait prévaloir la liberté d’expression sur le droit des personnes à l’effacement de leurs données personnelles concernant la publication en ligne d’un article de presse évoquant la condamnation d’un ancien président d’un club sportif. En 2009, le quotidien 20 Minutes [&#8230;]",
     "auto": true
   }
 ]
