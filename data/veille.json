@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-1773228661-0",
+    "title": "Panorama de la cybermenace 2025 : La France toujours sous la pression des cyber attaquants",
+    "url": "http://cyber.gouv.fr/actualites/panorama-de-la-cybermenace-2025/",
+    "source": "ANSSI",
+    "date": "2026-03-11",
+    "cat": "Cybersécurité",
+    "desc": "Dans le Panorama de la cybermenace 2025, l’Agence nationale de la sécurité des systèmes d’information (ANSSI) présente le bilan d’une […]",
+    "auto": true
+  },
+  {
+    "id": "auto-1773228661-1",
+    "title": "Typosquatting : blocage judiciaire de 39 noms de domaine en .fr",
+    "url": "https://www.legalis.net/actualite/typosquatting-blocage-judiciaire-de-39-noms-de-domaine-en-fr/",
+    "source": "Legalis",
+    "date": "2026-03-11",
+    "cat": "PI numérique",
+    "desc": "Une fois n’est pas coutume, un groupe victime de typosquatting sur ses marques française, européenne et internationale a choisi de passer par la voie judiciaire pour bloquer les noms de domaine contrefaisants et obtenir réparation. Le tribunal judiciaire de Paris a ordonné le transfert à Groupama de 39 noms de domaine en « .fr » [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "auto-1773228661-2",
+    "title": "Droit d’auteur : preuve de la titularité par la Blockchain",
+    "url": "https://www.legalis.net/actualite/droit-dauteur-preuve-de-la-titularite-par-la-blockchain/",
+    "source": "Legalis",
+    "date": "2026-03-11",
+    "cat": "Jurisprudence",
+    "desc": "Par un jugement du 20 mars 2025, le tribunal judiciaire de Marseille a admis la blockchain comme mode de preuve de la titularité des droits patrimoniaux relatifs à des vêtements et qu’elle pouvait aussi servir à horodater la création. AZ Factory commercialise sous ses marques des pyjamas Love With Alber et Hearts with Alber, inspirés [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "auto-1773228661-3",
+    "title": "La liberté d’expression prévaut sur le droit à l’oubli",
+    "url": "https://www.legalis.net/actualite/la-liberte-dexpression-prevaut-sur-le-droit-a-loubli/",
+    "source": "Legalis",
+    "date": "2026-03-11",
+    "cat": "RGPD",
+    "desc": "Par un arrêt très étayé du 20 février 2025, la cour d’appel de Paris a fait prévaloir la liberté d’expression sur le droit des personnes à l’effacement de leurs données personnelles concernant la publication en ligne d’un article de presse évoquant la condamnation d’un ancien président d’un club sportif. En 2009, le quotidien 20 Minutes [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "auto-1773228661-4",
+    "title": "Les nouvelles missions de l'Arcom",
+    "url": "https://www.arcom.fr/actualites/les-nouvelles-missions-de-arcom",
+    "source": "ARCOM",
+    "date": "2026-03-11",
+    "cat": "RGPD",
+    "desc": "Les nouvelles missions de l'Arcom m.farhat lun 27/12/2021 - 11:27 Publié le Actualité 01 janvier 2022 Tablettes, ordinateurs, smartphones… On ne regarde plus la télévision comme il y a 40 ans. Les modes de diffusion des contenus audiovisuels et les écrans se sont multipliés. Les transformations du paysage audiovisuel et numérique nécessitaient de r",
+    "auto": true
+  },
+  {
     "id": "auto-1773224983-0",
     "title": "Numérique en santé : la CNIL et la HAS s’engagent pour renforcer les bonnes pratiques",
     "url": "https://www.cnil.fr/fr/numerique-en-sante-la-cnil-et-la-has-sengagent",
@@ -747,56 +797,6 @@
     "date": "2025-07-02",
     "cat": "Jurisprudence",
     "desc": "Par un arrêt du 13 juin 2025, la cour d’appel de Paris confirme le jugement du 21 septembre 2022 du tribunal de commerce de Paris en ce qu’il avait jugé manifestement illicite les commentaires des consommateurs sur le site Signal-arnaques.com édité par la société Heretic et dont il avait ordonné la suppression. Suite à ce [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223671-8",
-    "title": "Résultats de recherche couverture TNT",
-    "url": "https://www.arcom.fr/television-et-video-la-demande/ma-couverture-tnt/resultats-de-recherche-couverture-tnt",
-    "source": "ARCOM",
-    "date": "2025-05-23",
-    "cat": "Jurisprudence",
-    "desc": "Résultats de recherche couverture TNT t.rakiry ven 23/05/2025 - 11:33 Nouvelle numérotation des chaînes de la TNT à compter du 6 juin 2025 Une nouvelle numérotation des chaînes nationale de la TNT sera mise en place le 6 juin à l’occasion de l’arrivée du service T18 et de l'arrêt des chaînes payantes de Canal+ sur la TNT à cette date, ainsi que pou",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223671-9",
-    "title": "Ma couverture TNT",
-    "url": "https://www.arcom.fr/television-et-video-la-demande/ma-couverture-tnt",
-    "source": "ARCOM",
-    "date": "2025-05-23",
-    "cat": "RGPD",
-    "desc": "Ma couverture TNT t.rakiry ven 23/05/2025 - 11:10 Grâce à l’application \"Ma Couverture TNT\" , accédez à des outils intuitifs et pratiques qui vous permettront d’obtenir toutes les informations nécessaires pour bénéficier d’une réception optimale de vos programmes de télévision pouvant être reçus par le biais d’une antenne râteau, que vous soyez un ",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223459-4",
-    "title": "Un site de notation condamné pour dénigrement",
-    "url": "https://www.legalis.net/actualite/un-site-de-notation-condamne-pour-denigrement/",
-    "source": "Legalis",
-    "date": "2025-05-19",
-    "cat": "Jurisprudence",
-    "desc": "Par un arrêt du 7 mai 2025, la cour d’appel de Paris a confirmé l’ordonnance de référé du 4 juillet 2024 du tribunal de commerce de Paris qui avait enjoint Heretic de procéder à la suppression de la page de son site scamdoc.com sur laquelle figurait un score de confiance de 2%, décrit comme « [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223459-5",
-    "title": "Doctrine.fr condamné pour concurrence déloyale",
-    "url": "https://www.legalis.net/actualite/doctrine-fr-condamne-pour-concurrence-deloyale/",
-    "source": "Legalis",
-    "date": "2025-05-12",
-    "cat": "Jurisprudence",
-    "desc": "Par un arrêt du 7 mai 2025, la cour d’appel de Paris a condamné la société Forseti, qui édite le site Doctrine.fr, à payer en réparation des actes de concurrence déloyale la somme de 40 000 euros à chacune des sociétés, Lexbase, Lextenso et Lamy Liaisons, et la somme de 50 000 euros à chacune [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223459-6",
-    "title": "Condamnation pour défaut de désignation d’un directeur de la publication",
-    "url": "https://www.legalis.net/actualite/condamnation-pour-defaut-de-designation-dun-directeur-de-la-publication/",
-    "source": "Legalis",
-    "date": "2025-04-25",
-    "cat": "Jurisprudence",
-    "desc": "L’absence de désignation d’un directeur de la publication dans les mentions légales sur un site internet est sanctionnée pénalement. Cette formalité est non seulement obligatoire mais elle aussi utile car elle permet d’identifier le responsable pénal d’un site. Dans l’affaire jugée par le tribunal judiciaire de Marseille, cette mention ne figurait ",
     "auto": true
   }
 ]

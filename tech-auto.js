@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-11T10:29:53
+// Dernière collecte : 2026-03-11T11:31:18
 window.AUTO_TECH = [
+  {
+    id: "tech-1773228677-0",
+    title: "Samsung Galaxy S26 and S26 Plus review: This again",
+    url: "https://www.theverge.com/tech/892311/samsung-galaxy-s26-plus-review-screen-battery-camera-software",
+    source: "The Verge",
+    date: "2026-03-11",
+    cat: "Numérique & Société",
+    desc: "While Samsung has treated its Flips and Folds to a few major hardware upgrades over recent years, the Galaxy S flagships have often felt like a long, unbroken line of minor spec refreshes. The S26 and S26 Plus do nothing to change that trend. The Galaxy S26 Ultra at least benefits from the company's new [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1773228677-1",
+    title: "Facebook, WhatsApp, and Messenger get new ways to protect users from scams",
+    url: "https://www.theverge.com/tech/892939/meta-facebook-whatsapp-messenger-scam-detection",
+    source: "The Verge",
+    date: "2026-03-11",
+    cat: "Big Tech",
+    desc: "Meta is adding more scam detection tools to Facebook, Messenger, and WhatsApp that can help users protect their accounts. In its announcement, Meta says the new features aim to alert users about suspicious activities before they engage with them, such as unrecognized friend requests and device linking notifications, because \"we know that scammers t",
+    auto: true
+  },
   {
     id: "tech-1773223309-1",
     title: "Oppo’s new foldable isn’t quite creaseless, but it’s pretty damn close",
@@ -781,25 +801,5 @@ window.AUTO_TECH = [
     desc: "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric&#82",
     auto: true
   },
-  {
-    id: "tech-1772923807-29",
-    title: "Online harassment is entering its AI era",
-    url: "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-    source: "MIT Tech Review",
-    date: "2026-03-05",
-    cat: "Open Source",
-    desc: "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1772923807-30",
-    title: "Bridging the operational AI gap",
-    url: "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-    source: "MIT Tech Review",
-    date: "2026-03-04",
-    cat: "Numérique & Société",
-    desc: "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which p",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-03-11T10:29:53";
+window.AUTO_TECH_UPDATED = "2026-03-11T11:31:18";
