@@ -12,11 +12,11 @@ RSS_SOURCES = [
     {"url": "https://www.edpb.europa.eu/feed/news_en",                                                                "source": "EDPB"},
     {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                  "source": "ANSSI"},
     {"url": "https://www.legalis.net/feed",                                                                           "source": "Legalis"},
-    {"url": "https://www.arcep.fr/flux-rss",                                                                          "source": "ARCEP"},
+    {"url": "https://www.arcep.fr/nc/actualites/toutes-nos-actualites.html?type=100",                                  "source": "ARCEP"},
     {"url": "https://www.arcom.fr/rss.xml",                                                                           "source": "ARCOM"},
-    {"url": "https://eur-lex.europa.eu/oj/daily-view/L-series/rss.xml",                                               "source": "EUR-Lex"},
+    {"url": "https://eur-lex.europa.eu/oj/daily-view/C-series/rss.xml",                                               "source": "EUR-Lex"},
     {"url": "https://www.labase-lextenso.fr/rss?revue=DNU",                                                           "source": "Lextenso"},
-    {"url": "https://www.village-justice.com/articles/rss.php?id_rubrique=5",                                         "source": "Village Justice"},
+    {"url": "https://www.village-justice.com/rss.php?cat=droit-tic",                                                  "source": "Village Justice"},
 ]
 
 CATEGORIES = {
