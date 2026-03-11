@@ -12,11 +12,11 @@ RSS_SOURCES = [
     {"url": "https://www.edpb.europa.eu/feed/news_en",                                                                "source": "EDPB"},
     {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                  "source": "ANSSI"},
     {"url": "https://www.legalis.net/feed",                                                                           "source": "Legalis"},
-    {"url": "https://www.arcep.fr/nc/presse/communiques-de-presse.html?type=100",                                     "source": "ARCEP"},
-    {"url": "https://www.arcom.fr/flux-rss",                                                                          "source": "ARCOM"},
-    {"url": "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=num%C3%A9rique+donn%C3%A9es&type=quick&lang=fr&format=rss", "source": "EUR-Lex"},
+    {"url": "https://www.arcep.fr/?id=toute-actualite&type=100",                                                      "source": "ARCEP"},
+    {"url": "https://www.arcom.fr/rss.xml",                                                                           "source": "ARCOM"},
+    {"url": "https://eur-lex.europa.eu/oj/daily-view/L-series/rss.xml",                                               "source": "EUR-Lex"},
     {"url": "https://www.labase-lextenso.fr/rss?revue=DNU",                                                           "source": "Lextenso"},
-    {"url": "https://www.village-justice.com/articles/rss.php?rubrique=informatique",                                 "source": "Village Justice"},
+    {"url": "https://www.village-justice.com/articles/rss.php?cat=droit-tic",                                         "source": "Village Justice"},
 ]
 
 CATEGORIES = {
@@ -70,10 +70,14 @@ def categorize(title, desc):
     best = max(scores, key=scores.get)
     return best if scores[best] > 0 else "RGPD"
 
+def sanitize_xml(s):
+    # Fix bare & not followed by a valid XML entity
+    return re.sub(r'&(?!(?:[a-zA-Z][a-zA-Z0-9]*|#[0-9]+|#x[0-9a-fA-F]+);)', '&amp;', s)
+
 def fetch_feed(src):
     items = []
     try:
-        root = ET.fromstring(fetch(src["url"]))
+        root = ET.fromstring(sanitize_xml(fetch(src["url"])))
         # RSS 2.0 — <item>
         for item in root.iter("item"):
             title = clean(item.findtext("title") or "")
