@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-11T11:31:18
+// Dernière collecte : 2026-03-11T12:28:38
 window.AUTO_TECH = [
+  {
+    id: "tech-1773232118-2",
+    title: "Zoox plans to put its robotaxis on the Uber app in Vegas this year",
+    url: "https://techcrunch.com/2026/03/11/zoox-plans-to-put-its-robotaxis-on-the-uber-app-in-vegas-this-year/",
+    source: "TechCrunch",
+    date: "2026-03-11",
+    cat: "Numérique & Société",
+    desc: "The purpose-built robotaxis will be available on Uber's app in Las Vegas this year, and Los Angeles next year, if Zoox gets the federal approval it's been seeking.",
+    auto: true
+  },
+  {
+    id: "tech-1773232118-3",
+    title: "Quantum computing meets the Möbius molecule",
+    url: "https://arstechnica.com/science/2026/03/quantum-computing-meets-the-mobius-molecule/",
+    source: "Ars Technica",
+    date: "2026-03-11",
+    cat: "Hardware",
+    desc: "A complex structure with multiple electrons is within reach of today's hardware.",
+    auto: true
+  },
   {
     id: "tech-1773228677-0",
     title: "Samsung Galaxy S26 and S26 Plus review: This again",
@@ -49,6 +69,26 @@ window.AUTO_TECH = [
     date: "2026-03-11",
     cat: "IA & Modèles",
     desc: "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+    auto: true
+  },
+  {
+    id: "tech-1773232118-0",
+    title: "How Trump’s war on Iran stranded a million fliers — and plunged the Gulf’s favorite playground into chaos",
+    url: "https://www.theverge.com/transportation/892358/iran-war-dubai-airport-travel-flight-cancel",
+    source: "The Verge",
+    date: "2026-03-10",
+    cat: "Numérique & Société",
+    desc: "It was a little after 1PM on Friday, February 28th, and Samantha Lujano was about to board her flight from Dubai to Colombo, Sri Lanka, when the drone attacks began. She had already received her boarding pass and gone through customs. Her flight was at the gate and her bags were loaded. She was simply [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1773232118-1",
+    title: "Nvidia’s head of autonomous driving opens up about his plan to beat Waymo and Tesla",
+    url: "https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview",
+    source: "The Verge",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "Every six months or so, Nvidia's head of automotive, Xinzhou Wu, invites CEO Jensen Huang to go for a ride in a vehicle equipped with the company's hands-free autonomous driving system. But only when Wu has \"good confidence\" in the system's driving capabilities. Recently, the two went for a drive from Woodside, California, to downtown [&#8230;]",
     auto: true
   },
   {
@@ -761,45 +801,5 @@ window.AUTO_TECH = [
     desc: "Hayden AI also claims co-founder improperly sold over $1.2M in stock.",
     auto: true
   },
-  {
-    id: "tech-1772923807-25",
-    title: "Is the Pentagon allowed to surveil Americans with AI?",
-    url: "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-    source: "MIT Tech Review",
-    date: "2026-03-06",
-    cat: "IA & Modèles",
-    desc: "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk",
-    auto: true
-  },
-  {
-    id: "tech-1772923807-26",
-    title: "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-    url: "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
-    source: "MIT Tech Review",
-    date: "2026-03-06",
-    cat: "IA & Modèles",
-    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review&#8217;s newsroom has been ahead of the curve, tracking the developments in AI that matter and&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1772923807-27",
-    title: "The Download: an AI agent’s hit piece, and preventing lightning",
-    url: "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
-    source: "MIT Tech Review",
-    date: "2026-03-05",
-    cat: "Numérique & Société",
-    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1772923807-28",
-    title: "How much wildfire prevention is too much?",
-    url: "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
-    source: "MIT Tech Review",
-    date: "2026-03-05",
-    cat: "Startups & VC",
-    desc: "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric&#82",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-03-11T11:31:18";
+window.AUTO_TECH_UPDATED = "2026-03-11T12:28:38";
