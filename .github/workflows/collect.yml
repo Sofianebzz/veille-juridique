@@ -2,7 +2,7 @@ name: 🤖 Collecte automatique — Veille & Tech
 
 on:
   schedule:
-    - cron: '0 8 */2 * *'   # Toutes les 2 jours à 8h UTC
+    - cron: '0 8 * * *'   # Tous les jours à 8h UTC
   workflow_dispatch:          # ← Déclenchement MANUEL depuis GitHub (téléphone ou navigateur)
 
 jobs:
