@@ -8,9 +8,15 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 
 RSS_SOURCES = [
-    {"url": "https://www.cnil.fr/fr/rss.xml",                  "source": "CNIL"},
-    {"url": "https://www.edpb.europa.eu/feed/news_en",          "source": "EDPB"},
-    {"url": "https://cyber.gouv.fr/actualites/rss/",            "source": "ANSSI"},
+    {"url": "https://www.cnil.fr/fr/rss.xml",                                                                         "source": "CNIL"},
+    {"url": "https://www.edpb.europa.eu/feed/news_en",                                                                "source": "EDPB"},
+    {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                  "source": "ANSSI"},
+    {"url": "https://www.legalis.net/feed",                                                                           "source": "Legalis"},
+    {"url": "https://www.arcep.fr/nc/presse/communiques-de-presse.html?type=100",                                     "source": "ARCEP"},
+    {"url": "https://www.arcom.fr/flux-rss",                                                                          "source": "ARCOM"},
+    {"url": "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=num%C3%A9rique+donn%C3%A9es&type=quick&lang=fr&format=rss", "source": "EUR-Lex"},
+    {"url": "https://www.labase-lextenso.fr/rss?revue=DNU",                                                           "source": "Lextenso"},
+    {"url": "https://www.village-justice.com/articles/rss.php?rubrique=informatique",                                 "source": "Village Justice"},
 ]
 
 CATEGORIES = {
@@ -68,6 +74,7 @@ def fetch_feed(src):
     items = []
     try:
         root = ET.fromstring(fetch(src["url"]))
+        # RSS 2.0 — <item>
         for item in root.iter("item"):
             title = clean(item.findtext("title") or "")
             url   = (item.findtext("link") or "").strip()
@@ -76,6 +83,20 @@ def fetch_feed(src):
             if title and url:
                 items.append({"title": title, "url": url, "date": date, "desc": desc})
             if len(items) >= 20: break
+        # Atom — <entry>
+        if not items:
+            ns = "http://www.w3.org/2005/Atom"
+            for entry in root.iter(f"{{{ns}}}entry"):
+                title = clean(entry.findtext(f"{{{ns}}}title") or "")
+                link_el = entry.find(f"{{{ns}}}link")
+                url = (link_el.get("href", "") if link_el is not None else "").strip()
+                date = parse_date(entry.findtext(f"{{{ns}}}published") or
+                                  entry.findtext(f"{{{ns}}}updated") or "")
+                desc = clean(entry.findtext(f"{{{ns}}}summary") or
+                             entry.findtext(f"{{{ns}}}content") or "")
+                if title and url:
+                    items.append({"title": title, "url": url, "date": date, "desc": desc})
+                if len(items) >= 20: break
         print(f"  ✓ {src['source']}: {len(items)} items")
     except Exception as e:
         print(f"  ✗ {src['source']}: {e}")
