@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 Collecte automatique — Veille Juridique
-Sources : CNIL, EDPB, ANSSI
+Sources : CNIL, EDPB, ANSSI, Legalis, ARCEP, ARCOM, EUR-Lex, Lextenso, Village Justice
 """
-import json, os, re, time, urllib.request
-import xml.etree.ElementTree as ET
+import feedparser
+import json, os, re, time
 from datetime import datetime
 
 RSS_SOURCES = [
@@ -12,11 +12,11 @@ RSS_SOURCES = [
     {"url": "https://www.edpb.europa.eu/feed/news_en",                                                                "source": "EDPB"},
     {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                  "source": "ANSSI"},
     {"url": "https://www.legalis.net/feed",                                                                           "source": "Legalis"},
-    {"url": "https://www.arcep.fr/index.php?id=8571&type=100",                                                        "source": "ARCEP"},
+    {"url": "https://www.arcep.fr/flux-rss",                                                                          "source": "ARCEP"},
     {"url": "https://www.arcom.fr/rss.xml",                                                                           "source": "ARCOM"},
-    {"url": "https://eur-lex.europa.eu/RSSXSL.do?ihmlang=fr&type=RECENT",                                             "source": "EUR-Lex"},
+    {"url": "https://eur-lex.europa.eu/oj/daily-view/L-series/rss.xml",                                               "source": "EUR-Lex"},
     {"url": "https://www.labase-lextenso.fr/rss?revue=DNU",                                                           "source": "Lextenso"},
-    {"url": "https://www.village-justice.com/articles/rss.php",                                                        "source": "Village Justice"},
+    {"url": "https://www.village-justice.com/articles/rss.php?id_rubrique=5",                                         "source": "Village Justice"},
 ]
 
 CATEGORIES = {
@@ -40,22 +40,13 @@ CATEGORIES = {
                      "transfert international","g7","bcr"],
 }
 
-ROOT        = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_FILE   = os.path.join(ROOT, "data", "veille.json")
-OUT_FILE    = os.path.join(ROOT, "veille-auto.js")
-HEADERS     = {"User-Agent": "VeilleBot/1.0", "Accept": "application/xml,text/xml,*/*"}
+ROOT      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_FILE = os.path.join(ROOT, "data", "veille.json")
+OUT_FILE  = os.path.join(ROOT, "veille-auto.js")
 
-def fetch(url):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read().decode("utf-8", errors="replace")
-
-def parse_date(s):
-    if not s: return datetime.now().strftime("%Y-%m-%d")
-    for fmt in ["%a, %d %b %Y %H:%M:%S %z","%a, %d %b %Y %H:%M:%S %Z",
-                "%Y-%m-%dT%H:%M:%S%z","%Y-%m-%dT%H:%M:%SZ"]:
-        try: return datetime.strptime(s.strip(), fmt).strftime("%Y-%m-%d")
-        except: pass
+def parse_date(t):
+    if not t: return datetime.now().strftime("%Y-%m-%d")
+    s = " ".join(str(x) for x in t[:6]) if isinstance(t, tuple) else str(t)
     m = re.search(r"(\d{4}-\d{2}-\d{2})", s)
     return m.group(1) if m else datetime.now().strftime("%Y-%m-%d")
 
@@ -70,37 +61,19 @@ def categorize(title, desc):
     best = max(scores, key=scores.get)
     return best if scores[best] > 0 else "RGPD"
 
-def sanitize_xml(s):
-    # Fix bare & not followed by a valid XML entity
-    return re.sub(r'&(?!(?:[a-zA-Z][a-zA-Z0-9]*|#[0-9]+|#x[0-9a-fA-F]+);)', '&amp;', s)
-
 def fetch_feed(src):
     items = []
     try:
-        root = ET.fromstring(sanitize_xml(fetch(src["url"])))
-        # RSS 2.0 — <item>
-        for item in root.iter("item"):
-            title = clean(item.findtext("title") or "")
-            url   = (item.findtext("link") or "").strip()
-            date  = parse_date(item.findtext("pubDate") or "")
-            desc  = clean(item.findtext("description") or "")
+        d = feedparser.parse(src["url"], agent="Mozilla/5.0 (VeilleBot/2.0)")
+        if d.bozo and not d.entries:
+            raise Exception(str(d.bozo_exception))
+        for entry in d.entries[:20]:
+            title = clean(entry.get("title", ""))
+            url   = entry.get("link", "").strip()
+            date  = parse_date(entry.get("published_parsed") or entry.get("updated_parsed"))
+            desc  = clean(entry.get("summary", ""))
             if title and url:
                 items.append({"title": title, "url": url, "date": date, "desc": desc})
-            if len(items) >= 20: break
-        # Atom — <entry>
-        if not items:
-            ns = "http://www.w3.org/2005/Atom"
-            for entry in root.iter(f"{{{ns}}}entry"):
-                title = clean(entry.findtext(f"{{{ns}}}title") or "")
-                link_el = entry.find(f"{{{ns}}}link")
-                url = (link_el.get("href", "") if link_el is not None else "").strip()
-                date = parse_date(entry.findtext(f"{{{ns}}}published") or
-                                  entry.findtext(f"{{{ns}}}updated") or "")
-                desc = clean(entry.findtext(f"{{{ns}}}summary") or
-                             entry.findtext(f"{{{ns}}}content") or "")
-                if title and url:
-                    items.append({"title": title, "url": url, "date": date, "desc": desc})
-                if len(items) >= 20: break
         print(f"  ✓ {src['source']}: {len(items)} items")
     except Exception as e:
         print(f"  ✗ {src['source']}: {e}")

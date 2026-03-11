@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: 📦 Dépendances Python
+        run: pip install feedparser
+
       - name: ⚖️ Collecter la veille juridique
         run: python scripts/collect_legal.py
 
