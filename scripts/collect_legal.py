@@ -43,11 +43,21 @@ CATEGORIES = {
 ROOT      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FILE = os.path.join(ROOT, "data", "veille.json")
 OUT_FILE  = os.path.join(ROOT, "veille-auto.js")
+HEADERS   = {"User-Agent": "VeilleBot/1.0", "Accept": "application/xml,text/xml,*/*"}
+
+import urllib.request
+
+def fetch(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return r.read()
 
 def parse_date(t):
     if not t: return datetime.now().strftime("%Y-%m-%d")
-    s = " ".join(str(x) for x in t[:6]) if isinstance(t, tuple) else str(t)
-    m = re.search(r"(\d{4}-\d{2}-\d{2})", s)
+    if isinstance(t, tuple):
+        try: return datetime(*t[:6]).strftime("%Y-%m-%d")
+        except: pass
+    m = re.search(r"(\d{4}-\d{2}-\d{2})", str(t))
     return m.group(1) if m else datetime.now().strftime("%Y-%m-%d")
 
 def clean(text):
@@ -64,9 +74,9 @@ def categorize(title, desc):
 def fetch_feed(src):
     items = []
     try:
-        d = feedparser.parse(src["url"], agent="Mozilla/5.0 (VeilleBot/2.0)")
-        if d.bozo and not d.entries:
-            raise Exception(str(d.bozo_exception))
+        # Fetch avec nos propres headers, parse avec feedparser (gère XML malformé)
+        raw = fetch(src["url"])
+        d = feedparser.parse(raw)
         for entry in d.entries[:20]:
             title = clean(entry.get("title", ""))
             url   = entry.get("link", "").strip()
