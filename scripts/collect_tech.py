@@ -2,7 +2,7 @@
 """
 Collecte automatique — Actualités Tech & Innovation
 Sources EN : The Verge, TechCrunch, Ars Technica, MIT Technology Review
-Sources FR : 01net, Le Monde Informatique, Silicon.fr, Numerama, Next.ink
+Sources FR : 01net, Silicon.fr, Numerama, Next.ink
 """
 import feedparser
 import json, os, re, time, urllib.request
@@ -16,7 +16,6 @@ RSS_SOURCES = [
     {"url": "https://www.technologyreview.com/feed/",                "source": "MIT Tech Review"},
     # ── Sources françaises ────────────────────────────────────────────────────
     {"url": "https://www.01net.com/feed/",                           "source": "01net"},
-    {"url": "https://www.lemondeinformatique.fr/rss/",                               "source": "Le Monde Informatique"},
     {"url": "https://www.silicon.fr/feed",                           "source": "Silicon.fr"},
     {"url": "https://www.numerama.com/feed/",                        "source": "Numerama"},
     {"url": "https://next.ink/feed/",                                "source": "Next.ink"},
