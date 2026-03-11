@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-11T13:20:56
+// Dernière collecte : 2026-03-11T13:24:06
 window.AUTO_TECH = [
   {
     id: "tech-1773235251-0",
@@ -552,6 +552,196 @@ window.AUTO_TECH = [
     auto: true
   },
   {
+    id: "tech-1773235440-0",
+    title: "In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature",
+    url: "https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/",
+    source: "TechCrunch",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "Kalshi now offers a share option that will automatically embed the relevant prediction market chart into a Threads post.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-1",
+    title: "Google and Tesla think we’re managing the electrical grid all wrong",
+    url: "https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/",
+    source: "TechCrunch",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "The duo have teamed up with other companies to launch Utilize, which seeks to change how the grid is used and regulated.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-2",
+    title: "Amazon launches its healthcare AI assistant on its website and app",
+    url: "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+    source: "TechCrunch",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-3",
+    title: "AI-powered apps struggle with long-term retention, new report shows",
+    url: "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+    source: "TechCrunch",
+    date: "2026-03-10",
+    cat: "Numérique & Société",
+    desc: "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-4",
+    title: "Mandiant’s founder just raised $190M for his autonomous AI agent security startup",
+    url: "https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/",
+    source: "TechCrunch",
+    date: "2026-03-10",
+    cat: "Startups & VC",
+    desc: "Kevin Mandia founded Armadin to create autonomous cybersecurity agents, software designed to learn and respond to threats without a human in the middle.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-5",
+    title: "US military contractor likely built iPhone hacking tools used by Russian spies in Ukraine",
+    url: "https://techcrunch.com/2026/03/10/us-military-contractor-likely-built-iphone-hacking-tools-used-by-russian-spies-in-ukraine/",
+    source: "TechCrunch",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor said some of those hacking tools were theirs.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-6",
+    title: "AgentMail raises $6M to build an email service for AI agents",
+    url: "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+    source: "TechCrunch",
+    date: "2026-03-10",
+    cat: "Startups & VC",
+    desc: "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-7",
+    title: "AI can rewrite open source code—but can it rewrite the license, too?",
+    url: "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "IA & Modèles",
+    desc: "Is it clean \"reverse engineering\" or just an LLM-filtered \"derivative work\"?",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-8",
+    title: "Meta acquires Moltbook, the AI agent social network",
+    url: "https://arstechnica.com/ai/2026/03/meta-acquires-moltbook-the-ai-agent-social-network/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "The viral social network project was created with OpenClaw.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-9",
+    title: "After complaints, Google will make it easier to disable gen AI search in Photos",
+    url: "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "One toggle for \"fast classic search.\"",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-10",
+    title: "Anthropic sues US over blacklisting; White House calls firm \"radical left, woke\"",
+    url: "https://arstechnica.com/tech-policy/2026/03/anthropic-sues-us-over-blacklisting-white-house-calls-firm-radical-left-woke/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "IA & Modèles",
+    desc: "Anthropic says it was blacklisted for opposing autonomous weapons, mass surveillance.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-11",
+    title: "Trump's divisive FDA vaccine regulator self-destructs, will exit agency (again)",
+    url: "https://arstechnica.com/health/2026/03/trumps-divisive-fda-vaccine-regulator-self-destructs-will-exit-agency-again/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "Numérique & Société",
+    desc: "It's unclear what Prasad's FDA exit means, but some drug makers are happy to see him go.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-12",
+    title: "Gemini burrows deeper into Google Workspace with revamped document creation and editing",
+    url: "https://arstechnica.com/ai/2026/03/gemini-burrows-deeper-into-google-workspace-with-revamped-document-creation-and-editing/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "IA & Modèles",
+    desc: "Gemini can now pull context from your files, emails, and more to create and edit documents.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-13",
+    title: "These new winter tires have studs that retract as it warms up",
+    url: "https://arstechnica.com/cars/2026/03/these-new-winter-tires-have-studs-that-retract-as-it-warms-up/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "Hardware",
+    desc: "Clever polymer science and a little robotic precision created the Hakkapeliitta 01.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-14",
+    title: "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    url: "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "AWS has suffered at least two incidents linked to the use of AI coding assistants.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-15",
+    title: "Apple MacBook Neo review: Can a Mac get by with an iPhone’s processor inside?",
+    url: "https://arstechnica.com/gadgets/2026/03/apple-macbook-neo-review-can-a-mac-get-by-with-an-iphones-processor-inside/",
+    source: "Ars Technica",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "8GB of RAM is a bummer, but this $599 laptop cuts most of the right corners.",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-20",
+    title: "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+    url: "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+    source: "MIT Tech Review",
+    date: "2026-03-10",
+    cat: "Big Tech",
+    desc: "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount&#8230;",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-21",
+    title: "Prioritizing energy intelligence for sustainable growth",
+    url: "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+    source: "MIT Tech Review",
+    date: "2026-03-10",
+    cat: "Hardware",
+    desc: "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything",
+    auto: true
+  },
+  {
+    id: "tech-1773235440-22",
+    title: "The Download: AI’s role in the Iran war, and an escalating legal fight",
+    url: "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+    source: "MIT Tech Review",
+    date: "2026-03-10",
+    cat: "IA & Modèles",
+    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How AI is turning the Iran conflict into&#160;theater&#160; Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to&#8230;",
+    auto: true
+  },
+  {
     id: "tech-1773235251-5",
     title: "DOGE employee stole Social Security data and put it on a thumb drive, report says",
     url: "https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/",
@@ -611,195 +801,5 @@ window.AUTO_TECH = [
     desc: "Après son inscription sur une liste noire de sécurité nationale américaine, Anthropic saisit la justice. Ses cadres dirigeants détaillent dans leurs dépositions comment la dépendance au seul Département de la Défense met déjà en péril plusieurs centaines de millions de dollars de revenus 2026. The post Anthropic contre le Pentagone : une plainte à ",
     auto: true
   },
-  {
-    id: "tech-1773235251-33",
-    title: "Google Workspace s’ouvre aux agents IA par la voie du CLI",
-    url: "https://www.silicon.fr/workspace-1376/google-workspace-agents-ia-226153",
-    source: "Silicon.fr",
-    date: "2026-03-10",
-    cat: "Big Tech",
-    desc: "Google pousse un outil en ligne de commande qui expose les principales API de sa suite, avec un fonctionnement adapté aux agents IA. The post Google Workspace s&rsquo;ouvre aux agents IA par la voie du CLI appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-34",
-    title: "Shadow AI : à phénomène ambiant, réponse multiforme",
-    url: "https://www.silicon.fr/data-ia-1372/shadow-ai-cyber-226131",
-    source: "Silicon.fr",
-    date: "2026-03-10",
-    cat: "Numérique & Société",
-    desc: "À la variété des formes du shadow AI répond une multitude d'approches de protection. Des catégories d'outils émergent, souvent dans la continuité de l'existant. The post Shadow AI : à phénomène ambiant, réponse multiforme appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-35",
-    title: "AMI Labs lève 1 milliard $ pour développer ses « world models »",
-    url: "https://www.silicon.fr/business-1367/ami-labs-leve-1-milliard-pour-developper-ses-world-models-226151",
-    source: "Silicon.fr",
-    date: "2026-03-10",
-    cat: "Hardware",
-    desc: "Advanced Machine Intelligence (AMI) Labs, fondée par Yann Lecun, boucle le plus grand tour de table en amorçage jamais réalisé en Europe, avec 1,03 milliard $ levés pour une valorisation de 3,5 milliards. The post AMI Labs lève 1 milliard $ pour développer ses « world models » appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-64",
-    title: "☕️ Meta met la main sur Moltbook, le réseau social dédié aux agents IA",
-    url: "https://next.ink/brief_article/meta-met-la-main-sur-moltbook-le-reseau-social-dedie-aux-agents-ia/",
-    source: "Next.ink",
-    date: "2026-03-10",
-    cat: "Big Tech",
-    desc: "Meta a confirmé mardi 10 mars l&#8217;acquisition de Moltbook, le simili Reddit dédié aux agents IA qui avait défrayé la chronique en début d&#8217;année, dans la foulée du lancement d&#8217;OpenClaw. Révélée par Axios, la transaction a été confirmée par un porte-parole du groupe. Il précise que l&#8217;équipe de Moltbook, principalement constituée",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-65",
-    title: "Pourquoi Reworld Media et Prisma publient de plus en plus d’articles générés par IA",
-    url: "https://next.ink/227970/pourquoi-reworld-media-et-prisma-publient-de-plus-en-plus-darticles-generes-par-ia/",
-    source: "Next.ink",
-    date: "2026-03-10",
-    cat: "IA & Modèles",
-    desc: "Fort de 80 « marques médias », et autant de sites web, Reworld est « l’un des plus grands producteurs de contenus en France » et le « 1er groupe média le plus cité par ChatGPT en France ». Tout comme Prisma Media, il publie de plus en plus d&#8217;articles en tout ou partie générés [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-66",
-    title: "Signal : 2 failles (corrigées) permettaient d’insérer des messages dans des conversations",
-    url: "https://next.ink/228156/signal-2-failles-corrigees-permettaient-dinserer-des-messages-dans-des-conversations/",
-    source: "Next.ink",
-    date: "2026-03-10",
-    cat: "Sécurité",
-    desc: "Des chercheurs et chercheuses ont repéré deux failles dans l&#8217;application Signal. Leurs exploitations permettaient d&#8217;insérer des messages dans des conversations entre individus ou de groupes. Elles ont été corrigées. En septembre dernier, des chercheurs et chercheuses de l&#8217;École polytechnique fédérale de Zurich et du Max Planck Ins",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-67",
-    title: "☕️ Claude lance Code Review, un outil de luxe pour faciliter la relecture de code",
-    url: "https://next.ink/brief_article/claude-lance-code-review-un-outil-de-luxe-pour-faciliter-la-relecture-de-code/",
-    source: "Next.ink",
-    date: "2026-03-10",
-    cat: "IA & Modèles",
-    desc: "Créer le problème pour ensuite vendre la solution : de façon probablement non intentionnelle, Anthropic vient de faire sien l&#8217;un des principes de base du marketing. L&#8217;entreprise a en effet annoncé lundi 9 mars le lancement d&#8217;un nouvel outil, pour l&#8217;instant limité aux clients des plans Teams et Entreprise : Claude Code Review",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-68",
-    title: "Municipales : à Marseille, Toulouse ou Paris, des candidats visés par de la désinformation",
-    url: "https://next.ink/228158/municipales-a-marseille-toulouse-ou-paris-des-candidats-vises-par-de-la-desinformation/",
-    source: "Next.ink",
-    date: "2026-03-10",
-    cat: "Numérique & Société",
-    desc: "Après les élections européennes ou présidentielles, les échéances municipales sont elles aussi le théâtre de campagnes de désinformation alimentées par des faux comptes. Leurs origines sont quelquefois traçables jusqu&#8217;à des commanditaires étrangers. Un blog, des pages Facebook et des comptes X, des tracts placardés dans les rues, même, à l’ef",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-69",
-    title: "Quand le DOGE supprimait les financements de la recherche en sciences sociales via ChatGPT",
-    url: "https://next.ink/227979/quand-le-doge-supprimait-les-financements-de-la-recherche-en-sciences-sociales-via-chatgpt/",
-    source: "Next.ink",
-    date: "2026-03-10",
-    cat: "IA & Modèles",
-    desc: "Dans un procès remettant en cause les suppressions de financements décidées l&#8217;année dernière par l&#8217;administration Trump, on découvre que le DOGE a pris ces décisions via de simples prompts dans ChatGPT. L&#8217;année dernière, l&#8217;administration Trump a confié le démantèlement d&#8217;une grande partie des agences de la recherche am",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-70",
-    title: "Résultats par IA : Qwant teste un partage de revenus avec des éditeurs de presse",
-    url: "https://next.ink/228053/resultats-par-ia-qwant-teste-un-partage-de-revenus-avec-des-editeurs-de-presse/",
-    source: "Next.ink",
-    date: "2026-03-10",
-    cat: "Big Tech",
-    desc: "Le moteur de recherche Qwant annonce l&#8217;ouverture d&#8217;une expérimentation de neuf mois visant à établir les bases d&#8217;un modèle de partage de revenus avec les éditeurs de presse dans le cadre des réponses générées par IA, alors que Google retarde toujours le lancement en France de sa fonction AI Overviews. Qwant montre patte blanche av",
-    auto: true
-  },
-  {
-    id: "tech-1773235251-71",
-    title: "États-Unis : la presse tech durement touchée par l’essor des résumés IA de Google",
-    url: "https://next.ink/228071/etats-unis-la-presse-tech-durement-touchee-par-lessor-des-resumes-ia-de-google/",
-    source: "Next.ink",
-    date: "2026-03-10",
-    cat: "Big Tech",
-    desc: "Avec des chutes d&#8217;audience issue de Google allant de 7 à près de 70 % selon les titres étudiés, la presse états-unienne spécialisée dans le numérique subit de plein fouet l&#8217;introduction des résumés générés par IA et l&#8217;évolution des pratiques d&#8217;information, selon une analyse de Growtika. Les médias ne seraient plus que des «&",
-    auto: true
-  },
-  {
-    id: "tech-1773232118-0",
-    title: "How Trump’s war on Iran stranded a million fliers — and plunged the Gulf’s favorite playground into chaos",
-    url: "https://www.theverge.com/transportation/892358/iran-war-dubai-airport-travel-flight-cancel",
-    source: "The Verge",
-    date: "2026-03-10",
-    cat: "Numérique & Société",
-    desc: "It was a little after 1PM on Friday, February 28th, and Samantha Lujano was about to board her flight from Dubai to Colombo, Sri Lanka, when the drone attacks began. She had already received her boarding pass and gone through customs. Her flight was at the gate and her bags were loaded. She was simply [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1773232118-1",
-    title: "Nvidia’s head of autonomous driving opens up about his plan to beat Waymo and Tesla",
-    url: "https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview",
-    source: "The Verge",
-    date: "2026-03-10",
-    cat: "Big Tech",
-    desc: "Every six months or so, Nvidia's head of automotive, Xinzhou Wu, invites CEO Jensen Huang to go for a ride in a vehicle equipped with the company's hands-free autonomous driving system. But only when Wu has \"good confidence\" in the system's driving capabilities. Recently, the two went for a drive from Woodside, California, to downtown [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1773223309-0",
-    title: "Anthropic is launching a new think tank amid Pentagon blacklist fight",
-    url: "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-    source: "The Verge",
-    date: "2026-03-10",
-    cat: "IA & Modèles",
-    desc: "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's",
-    auto: true
-  },
-  {
-    id: "tech-1773223309-2",
-    title: "How the spiraling Iran conflict could affect data centers and electricity costs",
-    url: "https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity",
-    source: "The Verge",
-    date: "2026-03-10",
-    cat: "Hardware",
-    desc: "Soon after the Trump administration launched its war on Iran, I called up Reed Blakemore, director of research and programs at the Atlantic Council Global Energy Center, to talk about the consequences. While oil and gas prices were already on the rise, there was still more hope then that the impact of the conflict might [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1773223309-3",
-    title: "A live-action Samurai Champloo is in the works",
-    url: "https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works",
-    source: "The Verge",
-    date: "2026-03-10",
-    cat: "Numérique & Société",
-    desc: "Though the live-action Cowboy Bebop was a big disappointment, Shinichir&#333; Watanabe is ready to give it another go with one of his other iconic pieces of IP. Variety reports that Watanabe has given his blessing and agreed to work on a new live-action Samurai Champloo adaptation from Tomorrow Studios, the same production house behind Netflix's [&",
-    auto: true
-  },
-  {
-    id: "tech-1773223309-4",
-    title: "Listen to the Live Nation CEO&#8217;s alleged threats to a concert venue",
-    url: "https://www.theverge.com/policy/892558/live-nation-ceo-michael-rapino-barclays-center-john-abbamondi-ticketmaster-call-trial",
-    source: "The Verge",
-    date: "2026-03-10",
-    cat: "Numérique & Société",
-    desc: "Was it a threat or a reality check? That's a key question in the government's anti-monopoly case against Live Nation, which is currently in limbo after the Justice Department reached a settlement with the company and as dozens of states push ahead. The Verge obtained the audio of a 2021 call at the center of [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1773223309-5",
-    title: "Ford is giving its commercial fleet business an AI makeover",
-    url: "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet",
-    source: "The Verge",
-    date: "2026-03-10",
-    cat: "IA & Modèles",
-    desc: "Ford announced a new AI-powered service for its commercial fleet and telematics software customers called Ford Pro AI. The generative AI system analyzes data generated by commercial vehicles - including vehicle speed, seat belt activity, and engine health - and converts it into actionable items for fleet managers. The new system manifests as - what",
-    auto: true
-  },
-  {
-    id: "tech-1773223309-6",
-    title: "Nosh Robotics’ $1,500 robot chef doesn&#8217;t need any help with dinner",
-    url: "https://www.theverge.com/tech/892655/nosh-robotics-nosh-one-launch",
-    source: "The Verge",
-    date: "2026-03-10",
-    cat: "Numérique & Société",
-    desc: "Anyone who finds themselves wishing they could spend less time on meal prep might have a solution in the form of the recently-launched Nosh One from Nosh Robotics, an AI kitchen appliance that can autonomously cook for you. All users need to do is load their ingredients into the robot's tray then select a recipe. [&#8230;]",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-03-11T13:20:56";
+window.AUTO_TECH_UPDATED = "2026-03-11T13:24:06";
