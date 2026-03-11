@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-11T10:08:00
+// Dernière collecte : 2026-03-11T10:29:52
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1773224983-0",
+    title: "Numérique en santé : la CNIL et la HAS s’engagent pour renforcer les bonnes pratiques",
+    url: "https://www.cnil.fr/fr/numerique-en-sante-la-cnil-et-la-has-sengagent",
+    source: "CNIL",
+    date: "2026-03-11",
+    cat: "RGPD",
+    desc: "La CNIL et la HAS ont signé le 10 mars 2026 une convention de partenariat. Elle vise à renforcer les bonnes pratiques, notamment en matière de protection des données personnelles et de promotion des droits fondamentaux liés aux outils numériques dans le secteur sanitaire, social et médico-social.",
+    auto: true
+  },
   {
     id: "auto-1773223307-0",
     title: "Règlement sur la gouvernance des données : FAQ sur les organisations altruistes des données reconnues dans l’Union européenne",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L’absence de désignation d’un directeur de la publication dans les mentions légales sur un site internet est sanctionnée pénalement. Cette formalité est non seulement obligatoire mais elle aussi utile car elle permet d’identifier le responsable pénal d’un site. Dans l’affaire jugée par le tribunal judiciaire de Marseille, cette mention ne figurait ",
     auto: true
   },
-  {
-    id: "auto-1773223459-7",
-    title: "Typosquatting : blocage judiciaire de 39 noms de domaine en .fr",
-    url: "https://www.legalis.net/actualite/typosquatting-blocage-judiciaire-de-39-noms-de-domaine-en-fr/",
-    source: "Legalis",
-    date: "2025-04-24",
-    cat: "PI numérique",
-    desc: "Une fois n’est pas coutume, un groupe victime de typosquatting sur ses marques française, européenne et internationale a choisi de passer par la voie judiciaire pour bloquer les noms de domaine contrefaisants et obtenir réparation. Le tribunal judiciaire de Paris a ordonné le transfert à Groupama de 39 noms de domaine en « .fr » [&#8230;]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-11T10:08:00";
+window.AUTO_VEILLE_UPDATED = "2026-03-11T10:29:52";

@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-11T10:08:01
+// Dernière collecte : 2026-03-11T10:29:53
 window.AUTO_TECH = [
   {
     id: "tech-1773223309-1",
@@ -802,4 +802,4 @@ window.AUTO_TECH = [
     auto: true
   },
 ];
-window.AUTO_TECH_UPDATED = "2026-03-11T10:08:01";
+window.AUTO_TECH_UPDATED = "2026-03-11T10:29:53";
