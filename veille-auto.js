@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-11T13:25:10
+// Dernière collecte : 2026-03-12T10:07:23
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1773310036-0",
+    title: "La CNIL sera présente au Forum InCyber (FIC) du 31 mars au 2 avril 2026",
+    url: "https://www.cnil.fr/fr/forum-incyber-2026",
+    source: "CNIL",
+    date: "2026-03-12",
+    cat: "RGPD",
+    desc: "La CNIL sera présente au Forum InCyber (FIC) 2026 à Lille Grand Palais au stand D3 pour répondre aux questions du public et des professionnels. La présidente de la CNIL, Marie-Laure Denis, interviendra également lors du sommet d’ouverture le 31 mars.",
+    auto: true
+  },
+  {
+    id: "auto-1773310036-1",
+    title: "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
+    url: "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
+    source: "EDPB",
+    date: "2026-03-12",
+    cat: "RGPD",
+    desc: "Brussels, 12 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s Proposal for a European Biotech Act . The Proposal aims to strengthen Europe’s biotechnology and biomanufacturing sectors, particularly in the area of health, by streamlinin",
+    auto: true
+  },
   {
     id: "auto-1773228661-0",
     title: "Panorama de la cybermenace 2025 : La France toujours sous la pression des cyber attaquants",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Society + a.branger ven 11/07/2025 - 10:13 Society + est une plateforme proposant des documentaires sur des histoires de politique, de société, de sport ou d’engagement. CTA Society + Logo Catégorie de service Cinéma et audiovisuel Documentaires Modèle tarifaire Abonnement Type de lecture Streaming Supports compatibles Application Box TV Cast Site ",
     auto: true
   },
-  {
-    id: "auto-1773223671-7",
-    title: "Mangas Replay",
-    url: "https://www.arcom.fr/sites-plateformes/mangas-replay",
-    source: "ARCOM",
-    date: "2025-07-11",
-    cat: "RGPD",
-    desc: "Mangas Replay a.branger ven 11/07/2025 - 09:59 Mangas Replay propose de visionner des animés en VOSTFR. La chaîne propose également des animés cultes en version remastérisée ainsi qu’un large choix de nouveautés. CTA Mangas Replay Logo Catégorie de service Cinéma et audiovisuel Jeunesse Séries Modèle tarifaire Abonnement Type de lecture Streaming S",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-3",
-    title: "Géobloquer l’accès en France de messages dénigrants vaut suppression",
-    url: "https://www.legalis.net/actualite/geobloquer-lacces-en-france-de-messages-denigrants-vaut-suppression/",
-    source: "Legalis",
-    date: "2025-07-02",
-    cat: "Jurisprudence",
-    desc: "Par un arrêt du 13 juin 2025, la cour d’appel de Paris confirme le jugement du 21 septembre 2022 du tribunal de commerce de Paris en ce qu’il avait jugé manifestement illicite les commentaires des consommateurs sur le site Signal-arnaques.com édité par la société Heretic et dont il avait ordonné la suppression. Suite à ce [&#8230;]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-11T13:25:10";
+window.AUTO_VEILLE_UPDATED = "2026-03-12T10:07:23";
