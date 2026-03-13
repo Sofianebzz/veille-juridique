@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-12T10:07:23
+// Dernière collecte : 2026-03-13T09:59:16
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1773395949-0",
+    title: "Ordre du jour de la séance plénière du 12 mars 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-mars-2026",
+    source: "CNIL",
+    date: "2026-03-12",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1773395949-1",
+    title: "Réglementation européenne sur les biotechnologies : le CEPD et le Contrôleur européen de la protection des données publient un avis",
+    url: "https://www.cnil.fr/fr/reglementation-europeenne-sur-les-biotechnologies-le-cepd-et-le-controleur-europeen-de-la-protection",
+    source: "CNIL",
+    date: "2026-03-12",
+    cat: "RGPD",
+    desc: "Le CEPD et l'EDPS soutiennent l'harmonisation des essais cliniques dans le cadre de la réglementation européenne sur les biotechnologies, mais demandent des garanties spécifiques pour les données sensibles relatives à la santé.",
+    auto: true
+  },
   {
     id: "auto-1773310036-0",
     title: "La CNIL sera présente au Forum InCyber (FIC) du 31 mars au 2 avril 2026",
@@ -772,34 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1773223671-4",
-    title: "Veedz",
-    url: "https://www.arcom.fr/sites-plateformes/veedz",
+    id: "auto-1773395949-6",
+    title: "Mangas Replay",
+    url: "https://www.arcom.fr/sites-plateformes/mangas-replay",
     source: "ARCOM",
     date: "2025-07-11",
     cat: "RGPD",
-    desc: "Veedz a.branger ven 11/07/2025 - 10:46 Veedz est un service proposant de nombreux contenus autour de l'astrologie, la cuisine, le mode de vie ou encore les dessins animés . CTA Veedz Logo Catégorie de service Cinéma et audiovisuel Films Jeunesse Séries Modèle tarifaire Abonnement Type de lecture Streaming Supports compatibles Site internet Spécific",
-    auto: true
-  },
-  {
-    id: "auto-1773223671-5",
-    title: "Uptrack",
-    url: "https://www.arcom.fr/sites-plateformes/uptrack",
-    source: "ARCOM",
-    date: "2025-07-11",
-    cat: "Plateformes",
-    desc: "Uptrack a.branger ven 11/07/2025 - 10:37 Uptrack est une plateforme de streaming proposant des contenus sur le sport et l'aventure. CTA Uptrack Logo Catégorie de service Cinéma et audiovisuel Documentaires Modèle tarifaire Abonnement Type de lecture Streaming Supports compatibles Application Site internet Spécificité Qualité HD Sourds et malentenda",
-    auto: true
-  },
-  {
-    id: "auto-1773223671-6",
-    title: "Society +",
-    url: "https://www.arcom.fr/sites-plateformes/society",
-    source: "ARCOM",
-    date: "2025-07-11",
-    cat: "Plateformes",
-    desc: "Society + a.branger ven 11/07/2025 - 10:13 Society + est une plateforme proposant des documentaires sur des histoires de politique, de société, de sport ou d’engagement. CTA Society + Logo Catégorie de service Cinéma et audiovisuel Documentaires Modèle tarifaire Abonnement Type de lecture Streaming Supports compatibles Application Box TV Cast Site ",
+    desc: "Mangas Replay a.branger ven 11/07/2025 - 09:59 Mangas Replay propose de visionner des animés en VOSTFR. La chaîne propose également des animés cultes en version remastérisée ainsi qu’un large choix de nouveautés. CTA Mangas Replay Logo Catégorie de service Cinéma et audiovisuel Jeunesse Séries Modèle tarifaire Abonnement Type de lecture Streaming S",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-12T10:07:23";
+window.AUTO_VEILLE_UPDATED = "2026-03-13T09:59:16";
