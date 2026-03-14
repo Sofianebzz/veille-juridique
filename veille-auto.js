@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-13T09:59:16
+// Dernière collecte : 2026-03-14T09:04:26
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1773479052-0",
+    title: "Serveur mandataire web filtrant : les recommandations de la CNIL",
+    url: "https://www.cnil.fr/fr/recommandation-serveur-mandataire-web-filtrant",
+    source: "CNIL",
+    date: "2026-03-13",
+    cat: "RGPD",
+    desc: "La CNIL souhaite promouvoir des solutions de cybersécurité conformes au RGPD, tant dans leur usage que dès leur conception. Dans ce but, elle publie une recommandation destinée à accompagner les utilisateurs et les fournisseurs de serveurs mandataires web filtrants.",
+    auto: true
+  },
   {
     id: "auto-1773395949-0",
     title: "Ordre du jour de la séance plénière du 12 mars 2026",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Jeudi 18 septembre 2025, l’ANSSI a organisé REMPAR25, un exercice national de gestion de crise cyber de grande ampleur, en […]",
     auto: true
   },
-  {
-    id: "auto-1773395949-6",
-    title: "Mangas Replay",
-    url: "https://www.arcom.fr/sites-plateformes/mangas-replay",
-    source: "ARCOM",
-    date: "2025-07-11",
-    cat: "RGPD",
-    desc: "Mangas Replay a.branger ven 11/07/2025 - 09:59 Mangas Replay propose de visionner des animés en VOSTFR. La chaîne propose également des animés cultes en version remastérisée ainsi qu’un large choix de nouveautés. CTA Mangas Replay Logo Catégorie de service Cinéma et audiovisuel Jeunesse Séries Modèle tarifaire Abonnement Type de lecture Streaming S",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-13T09:59:16";
+window.AUTO_VEILLE_UPDATED = "2026-03-14T09:04:26";
