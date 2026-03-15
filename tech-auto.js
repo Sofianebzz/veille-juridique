@@ -1,6 +1,256 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-14T09:04:31
+// Dernière collecte : 2026-03-15T09:50:59
 window.AUTO_TECH = [
+  {
+    id: "tech-1773568256-17",
+    title: "« On passe de la peste au choléra » : l’IA française Simone AI dénonce les pratiques de WhatsApp (Meta)",
+    url: "https://www.01net.com/actualites/on-passe-de-la-peste-au-cholera-lia-francaise-simone-ai-denonce-les-pratiques-de-whatsapp-meta.html",
+    source: "01net",
+    date: "2026-03-15",
+    cat: "Numérique & Société",
+    desc: "Jérémy André, fondateur du chatbot IA français « Simone AI », dénonce la dernière décision de Meta : sous pression de la Commission européenne, la firme américaine a été contrainte de réouvrir la porte aux concurrents de « Meta AI » (son outil IA maison) sur WhatsApp, après les avoir bannis mi-janvier. Mais elle impose aux chatbots IA tiers de nouv",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-18",
+    title: "Arnaque à la tâche : on a infiltré un groupe WhatsApp qui veut voler vos données bancaires",
+    url: "https://www.01net.com/actualites/arnaque-a-la-tache-on-a-infiltre-un-groupe-whatsapp-qui-veut-voler-vos-donnees-bancaires.html",
+    source: "01net",
+    date: "2026-03-15",
+    cat: "Numérique & Société",
+    desc: "Un clic sur Instagram, des dizaines d'euros facilement gagnés et un groupe WhatsApp rempli de bots. C'est le cocktail de la dernière arnaque que nous avons dénichée sur la messagerie WhatsApp. Pour bien comprendre ce que cherchaient les pirates, on a suivi les instructions de l'arnaque... jusqu'à un certain point.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-36",
+    title: "Avec World of Warcraft Midnight, j’ai atteint ma forme finale de gros casual",
+    url: "https://www.numerama.com/pop-culture/2198291-avec-world-of-warcraft-midnight-jai-atteint-ma-forme-finale-de-gros-casual.html",
+    source: "Numerama",
+    date: "2026-03-15",
+    cat: "Numérique & Société",
+    desc: "Des milliers d'heures au compteur, un passif de joueur acharné, et soudain… la flemme. En replongeant dans World of Warcraft avec l'extension Midnight, j'ai découvert l'assistant à bouton unique. Une hérésie d'accessibilité pour les uns, une véritable bénédiction pour les autres. Moi, il m'a surtout permis de ranger mon ego au vestiaire et d'assume",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-37",
+    title: "Amazon brade toutes les clés HDMI Fire TV Stick pour ses Ventes Flash de Printemps",
+    url: "https://www.numerama.com/pop-culture/2209925-amazon-brade-toutes-les-cles-hdmi-fire-tv-stick-pour-ses-ventes-flash-de-printemps.html",
+    source: "Numerama",
+    date: "2026-03-15",
+    cat: "Big Tech",
+    desc: "[Deal du jour] À l'occasion des Ventes Flash de Printemps, Amazon casse les prix sur toute sa gamme Fire TV Stick de dernière génération : de la petite clé HDMI en Full HD au puissant Fire TV Cube en 4K Ultra HD.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-38",
+    title: "Renault change de ton et assume une stratégie beaucoup plus pragmatique",
+    url: "https://www.numerama.com/vroom/2209157-renault-change-de-ton-et-assume-une-strategie-beaucoup-plus-pragmatique.html",
+    source: "Numerama",
+    date: "2026-03-15",
+    cat: "Numérique & Société",
+    desc: "Après des années d’annonces spectaculaires, Renault change de ton. La nouvelle stratégie mise moins sur le glamour… et davantage sur la solidité à toute épreuve. Revivez les annonces « FutuREady » comme si vous y étiez, au travers de mon édito Watt Else du 12 mars 2026.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-39",
+    title: "Drones invulnérables, entretien avec le patron de Microsoft et saison 2 de One Piece – le récap’ de la semaine",
+    url: "https://www.numerama.com/tech/2210045-drones-invulnerables-entretien-avec-le-patron-de-microsoft-et-saison-2-de-one-piece-le-recap-de-la-semaine.html",
+    source: "Numerama",
+    date: "2026-03-15",
+    cat: "Big Tech",
+    desc: "Les trois sujets de l’actualité qui ont le plus attiré l’attention, cette semaine sur Numerama.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-0",
+    title: "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+    url: "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+    source: "The Verge",
+    date: "2026-03-14",
+    cat: "Startups & VC",
+    desc: "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by new investors, including Oracle and [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-1",
+    title: "Meta is reportedly laying off up to 20 percent of its staff",
+    url: "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+    source: "The Verge",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminating roughly 15,800 positions. That would be the largest series of layoffs at the company since [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-2",
+    title: "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
+    url: "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
+    source: "The Verge",
+    date: "2026-03-14",
+    cat: "Big Tech",
+    desc: "Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If you’re planning to stream the Oscars on Sunday, there’s still time to take advantage of a great deal on Hulu and Disney Plus, as well as Google’s latest 4K [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-3",
+    title: "MacBook Air M5 review: a small update for the ‘just right’ Mac",
+    url: "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
+    source: "The Verge",
+    date: "2026-03-14",
+    cat: "Hardware",
+    desc: "Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. It's just as outstanding a computer as last year's model, even if it's a shame it's $100 more expensive. The bigger change has happened to the Air. [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-4",
+    title: "A Scavengers Reign artist explores contemplative sci-fi in new comics",
+    url: "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
+    source: "The Verge",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "You may recognize Jonathan Djob Nkondo's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God. But before that the French artist and animator made self-published comics that depicted strange alien worlds and future societies. Now he's revisiting tha",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-5",
+    title: "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+    url: "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+    source: "TechCrunch",
+    date: "2026-03-14",
+    cat: "Big Tech",
+    desc: "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-6",
+    title: "Meta reportedly considering layoffs that could affect 20% of the company",
+    url: "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+    source: "TechCrunch",
+    date: "2026-03-14",
+    cat: "Big Tech",
+    desc: "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-7",
+    title: "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    url: "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+    source: "TechCrunch",
+    date: "2026-03-14",
+    cat: "IA & Modèles",
+    desc: "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-19",
+    title: "GP de Chine 2026 : où regarder la Formule 1 en direct",
+    url: "https://www.01net.com/bons-plans/gp-de-chine-2026-ou-regarder-la-formule-1-en-direct-sprint-qualifs-et-course.html",
+    source: "01net",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "Deux semaines après l'ouverture australienne, la Formule 1 pose ses valises à Shanghai pour le deuxième rendez-vous de la saison, et le premier sprint weekend de 2026. Un format condensé, des horaires encore plus décalés, et une question qui revient : comment suivre tout ça en direct depuis la France ou la Suisse romande ?",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-20",
+    title: "Votre box internet sert peut-être à des criminels : NordVPN à 3,09 €/mois protège votre trafic",
+    url: "https://www.01net.com/bons-plans/votre-box-internet-sert-peut-etre-a-des-criminels-nordvpn-a-309-e-mois-protege-votre-trafic.html",
+    source: "01net",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "Le parquet de Paris a annoncé mercredi le démantèlement de SocksEscort, un réseau criminel qui infiltrait silencieusement des box internet de particuliers depuis dix-sept ans. 454 box françaises étaient concernées, sur un million dans le monde. Leurs propriétaires ne savaient pas que leur connexion servait de relais pour fraudeurs et blanchisseurs.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-21",
+    title: "Samsung, Oppo, Apple… qui est le champion de l’optimisation de la batterie ? Le verdict du 01lab",
+    url: "https://www.01net.com/actualites/samsung-oppo-apple-qui-est-le-champion-de-loptimisation-de-la-batterie-le-verdict-du-01lab.html",
+    source: "01net",
+    date: "2026-03-14",
+    cat: "Big Tech",
+    desc: "Les batteries en silicium carbone sont de plus en plus courantes dans les smartphones, surtout sur les modèles hauts de gamme. Ce nouveau type de batterie offre une densité plus importante et permet l'arrivée de nouveaux records d'autonomie. Mais ces nouvelles performances ne cachent-elles pas une mauvaise optimisation énergétique ? La question se ",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-22",
+    title: "Protégez votre logement efficacement avec Verisure",
+    url: "https://www.01net.com/bons-plans/protegez-votre-logement-efficacement-avec-verisure.html",
+    source: "01net",
+    date: "2026-03-14",
+    cat: "Hardware",
+    desc: "Vous souhaitez la sérénité lorsque vous quittez votre logement ? Pour retrouver votre tranquillité d’esprit, l’alarme télésurveillée de Verisure.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-40",
+    title: "Outlander saison 8 : 5 séries à voir en attendant la suite sur Netflix",
+    url: "https://www.numerama.com/pop-culture/2199967-outlander-saison-8-5-series-a-voir-en-attendant-la-suite-sur-netflix.html",
+    source: "Numerama",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "Alors que la saga historique la plus romantique de la décennie est de retour pour une ultime saison 8 sur Netflix, depuis le 8 mars 2026, les semaines peuvent sembler bien longues avant de pouvoir découvrir un nouvel épisode, chaque samedi. Pour patienter, voici 5 séries comme Outlander, à dévorer en streaming.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-41",
+    title: "La saison 2 de One Piece est sur Netflix : 6 mangas à lire pour prolonger le plaisir",
+    url: "https://www.numerama.com/pop-culture/2198263-la-saison-2-de-one-piece-est-sur-netflix-6-mangas-a-lire-pour-prolonger-le-plaisir.html",
+    source: "Numerama",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "C’est le 10 mars 2026 que la saison 2 de One Piece est sortie sur Netflix. Après deux ans et demi d'attente, les fans peuvent enfin retrouver, le temps de 8 épisodes, l’atmosphère chaleureuse d’aventure et de camaraderie chère à la série. Si vous êtes à jour dans l'adaptation de Netflix et dans le manga, voici quelques titres à lire pour retrouver ",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-42",
+    title: "Ce téléviseur QNED 4K de LG est presque à moitié prix pour les Ventes Flash d’Amazon",
+    url: "https://www.numerama.com/tech/2209703-ce-televiseur-qned-4k-de-lg-est-presque-a-moitie-prix-pour-les-ventes-flash-damazon.html",
+    source: "Numerama",
+    date: "2026-03-14",
+    cat: "Big Tech",
+    desc: "[Deal du jour] C’est le bon moment de refaire son installation TV avec ce téléviseur LG 55QNED8E en forte promotion. Pour les Ventes Flash de Printemps d'Amazon, il baisse son prix de 45 %.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-43",
+    title: "J’ai testé Runna pour courir mon premier semi-marathon : j’ai réussi, mais leur modèle est en danger de mort",
+    url: "https://www.numerama.com/tech/2198221-jai-teste-runna-pour-courir-mon-premier-semi-marathon-jai-reussi-mais-leur-modele-est-en-danger-de-mort.html",
+    source: "Numerama",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "Défi idiot, crise de la presque quarantaine, pression populaire et professionnelle (on le dit peu, mais Humanoid est une boîte de sportives et de sportifs) : quelle que soit ma raison profonde, j'ai eu envie de courir un semi-marathon. Et pour m'aider dans cette tâche, moi qui n'ai pas couru depuis 15 ans, j'ai testé une app bien connue : Runna. Ve",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-44",
+    title: "Vous rêvez des couleurs du MacBook Neo sur votre Mac ? C’est possible avec une simple commande",
+    url: "https://www.numerama.com/tech/2209167-vous-revez-des-couleurs-du-macbook-neo-sur-votre-mac-cest-possible-avec-une-simple-commande.html",
+    source: "Numerama",
+    date: "2026-03-14",
+    cat: "Big Tech",
+    desc: "Apple permet de personnaliser l'apparence du système avec des couleurs différentes quand vous sélectionnez du texte ou cliquez sur un bouton. Les trois couleurs du MacBook Neo sont officiellement réservées au nouvel ordinateur d'Apple, mais il est possible de les débloquer avec une commande Terminal.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-45",
+    title: "La Fnac brade cette carte microSD Express pour Nintendo Switch 2",
+    url: "https://www.numerama.com/tech/2209739-la-fnac-brade-cette-carte-microsd-express-pour-nintendo-switch-2.html",
+    source: "Numerama",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "[Deal du jour] Si vous craignez de manquer de place sur votre Switch 2, c’est peut-être le moment idéal d'étendre votre stockage pour profiter des futures sorties sans avoir à supprimer constamment des jeux de votre bibliothèque. La Fnac vous a entendu : l’e-commerçant propose actuellement la Lexar Play Pro microSDXC Express en promo.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-46",
+    title: "#Flock : entre folie et vrai divan de psy",
+    url: "https://next.ink/228972/flock-entre-folie-et-vrai-divan-de-psy/",
+    source: "Next.ink",
+    date: "2026-03-14",
+    cat: "Numérique & Société",
+    desc: "Parfois on a l’impression que sa tête explose, mais ce n’est pas forcément votre faute. Ça peut être plein de choses : Les sociétés qui fouillent les intentions cachées sous vos cheveux pour vous vendre comme de vulgaires shampoings. Ça pourrait être à cause d’un décérébré désinhibé qui vous a en ligne de mire juste [&#8230;]",
+    auto: true
+  },
   {
     id: "tech-1773479066-8",
     title: "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
@@ -99,6 +349,76 @@ window.AUTO_TECH = [
     date: "2026-03-14",
     cat: "Numérique & Société",
     desc: "Illégaux en France, les marchés de prédiction comme Polymarket et Kalshi enregistrent pourtant une forte hausse de leur audience à l’approche des municipales. De Paris à Nice, des millions d’euros sont misés sur l’issue du scrutin, malgré des doutes persistants sur la fiabilité de ces plateformes et les risques de manipulation.",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-23",
+    title: "Dans l’expectative, Meta lâche une roadmap pour ses puces IA",
+    url: "https://www.silicon.fr/data-ia-1372/meta-puces-ia-226203",
+    source: "Silicon.fr",
+    date: "2026-03-13",
+    cat: "Big Tech",
+    desc: "Sa situation ayant alerté les marchés, Meta fait écho aux réassurances de son fournisseur Broadcom en communiquant une feuille de route pour ses puces IA. The post Dans l&rsquo;expectative, Meta lâche une roadmap pour ses puces IA appeared first on Silicon.fr .",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-47",
+    title: "Emails des mairies : près de 30 millions d’habitants soumis à des solutions américaines",
+    url: "https://next.ink/228598/emails-des-mairies-pres-de-30-millions-dhabitants-soumis-a-des-solutions-americaines/",
+    source: "Next.ink",
+    date: "2026-03-13",
+    cat: "Big Tech",
+    desc: "Comment les mairies appréhendent-elles la question de la souveraineté des emails ? Une question d’autant plus importante à l’aune des élections municipales. Orange est le fournisseur d’emails d’une mairie sur deux en France, mais principalement en milieu rural (qu’il verrouille d’ailleurs à sa manière). Microsoft est présent dans de plus grandes vi",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-48",
+    title: "☕️ Copilot Health : Microsoft lance son concurrent à ChatGPT Santé",
+    url: "https://next.ink/brief_article/copilot-health-microsoft-lance-son-concurrent-a-chatgpt-sante/",
+    source: "Next.ink",
+    date: "2026-03-13",
+    cat: "IA & Modèles",
+    desc: "Deux mois après OpenAI, Microsoft lance son chatbot spécifiquement dédié aux questions de santé. L&#8217;entreprise a annoncé la sortie de Copilot Health ce jeudi dans un billet de blog. Comme ChatGPT Santé, le nouveau chatbot de Microsoft encourage les utilisateurs à lui donner accès à leur dossier médical pour qu&#8217;il leur génère des conseils",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-49",
+    title: "[MàJ] YggTorrent (et YGG) S01E42 : retour (encore) abandonné, Gr0lum aurait été identifié",
+    url: "https://next.ink/227761/yggtorrent-noms-de-domaine-en-vente-retour-avorte-que-se-passe-t-il/",
+    source: "Next.ink",
+    date: "2026-03-13",
+    cat: "Numérique & Société",
+    desc: "YggTorrent est mort, mais il bouge encore. Le message affiché sur la page d&#8217;accueil change, répond à certaines accusations et propose désormais les noms de domaine à la vente… « exclusivement pour un projet légal ». Pendant un temps, un compte à rebours annonçait un retour, sous la forme Ygg tout court. Mise à jour [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-50",
+    title: "Les autorités démantèlent Socksescort et son réseau proxy de modems infectés",
+    url: "https://next.ink/228753/les-autorites-demantelent-socksescort-et-son-reseau-proxy-de-modems-infectes/",
+    source: "Next.ink",
+    date: "2026-03-13",
+    cat: "Sécurité",
+    desc: "Basé sur plus d&#8217;un million de modems infectés par le malware AVRecon, le réseau de proxy Socksescort a été démantelé mercredi à l&#8217;issue d&#8217;une opération conjointe des autorités, en Europe comme aux États-Unis. Socksescort, qui proposait à la location des adresses IP résidentielles, aurait permis de générer plus de 5 millions d&#821",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-51",
+    title: "☕️ Une nouvelle version de TrueNAS arrive : Connect, avec des fonctions payantes",
+    url: "https://next.ink/brief_article/une-nouvelle-version-de-truenas-arrive-connect-avec-des-fonctions-payantes/",
+    source: "Next.ink",
+    date: "2026-03-13",
+    cat: "Open Source",
+    desc: "iXsystems, qui s’occupe du développement de TrueNAS, affirme que ses utilisateurs demandaient depuis longtemps un « moyen d’accéder aux fonctionnalités de TrueNAS Enterprise sur leur propre matériel ». Comme l’expliquent les développeurs, il y a actuellement deux îlots distincts de TrueNAS : Community Edition (CE) en open source et Enterprise dispo",
+    auto: true
+  },
+  {
+    id: "tech-1773568256-52",
+    title: "☕️ Chrome sera bientôt disponible pour Linux sur Arm",
+    url: "https://next.ink/brief_article/chrome-sera-bientot-disponible-pour-linux-sur-arm/",
+    source: "Next.ink",
+    date: "2026-03-13",
+    cat: "Big Tech",
+    desc: "Google vient (enfin) d&#8217;annoncer la disponibilité prochaine de Chrome sur les machines Linux équipées d&#8217;un processeur Arm. La date exacte n&#8217;a pas été communiquée mais les binaires correspondants sont attendus pour le courant du deuxième trimestre, ce qui laisse augurer une publication dans les prochaines semaines. Le moteur de rech",
     auto: true
   },
   {
@@ -481,325 +801,5 @@ window.AUTO_TECH = [
     desc: "Comme quoi, c'est possible : Apple a accepté sans barguigner d'abaisser sa commission sur les achats effectués dans l'App Store… en Chine. La baisse est relativement modeste, mais elle permettra aux développeurs de gagner un peu plus d'argent, et à Apple de lever la pression exercée par les régulateurs.",
     auto: true
   },
-  {
-    id: "tech-1773479066-48",
-    title: "Windows tourne sur le MacBook Neo, mais il ne faut pas trop lui en demander",
-    url: "https://www.01net.com/actualites/windows-tourne-sur-le-macbook-neo-mais-il-ne-faut-pas-trop-lui-en-demander.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Big Tech",
-    desc: "Voilà une bonne nouvelle pour ceux qui voudraient utiliser leur MacBook Neo pour y faire tourner des logiciels Windows (tous les goûts sont dans la nature, après tout). Parallels a confirmé que son logiciel de virtualisation fonctionnait sur le nouveau portable d'Apple. Mais il ne faudra pas attendre de miracles pour autant.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-49",
-    title: "Le PDG d’Adobe démissionne, la faute à l’intelligence artificielle ?",
-    url: "https://www.01net.com/actualites/le-pdg-dadobe-demissionne-la-faute-a-lintelligence-artificielle.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Hardware",
-    desc: "Après dix-huit années passées à la tête du géant des logiciels créatifs, Shantanu Narayen annonce son retrait imminent. Si la version officielle évoque une transition naturelle après un mandat d'une longévité exceptionnelle, les analystes financiers y voient surtout l'ombre de la révolution de l'intelligence artificielle qui effraie les investisseu",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-50",
-    title: "Amazon éclate le prix de la Switch 2 : la pépite de Nintendo se vend par camions 🚛",
-    url: "https://www.01net.com/bons-plans/amazon-eclate-le-prix-de-la-switch-2-la-pepite-de-nintendo-se-vend-par-camions.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Big Tech",
-    desc: "Pour ses Ventes Flash de Printemps, Amazon ne plaisante pas avec les réductions. Sa dernière \"victime\" en date n'est autre que la Nintendo Switch 2, qui passe pour la première fois sous la barre symbolique des 400 euros.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-51",
-    title: "MacBook Pro M6 « Ultra » : six nouveautés attendues pour fin 2026",
-    url: "https://www.01net.com/actualites/macbook-pro-m6-ultra-six-nouveautes-attendues-fin-2026.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Big Tech",
-    desc: "Apple pourrait présenter un MacBook Pro M6 « Ultra » dès cette fin d'année. On fait le point sur les nouveautés les plus attendues.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-52",
-    title: "Oppo Find N6 : son écran va rendre jaloux les utilisateurs de smartphones Samsung",
-    url: "https://www.01net.com/actualites/lecran-du-nouveau-oppo-find-n6-va-rendre-jaloux-les-utilisateurs-de-smartphones-samsung.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Sécurité",
-    desc: "Le constructeur s'apprête à bousculer le segment des pliants avec un nouvel appareil au format livre prévu pour la mi-mars. Oppo promet d'avoir réussi un véritable exploit technologique en effaçant totalement la disgracieuse pliure centrale.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-53",
-    title: "Oracle s’engage pour MySQL mais dit non à une fondation",
-    url: "https://www.silicon.fr/open-source-1375/oracle-fondation-mysql-226222",
-    source: "Silicon.fr",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Accusé de délaisser l'édition communautaire de MySQL, Oracle prend des engagements, mais exclut de participer à tout projet de fondation. The post Oracle s&rsquo;engage pour MySQL mais dit non à une fondation appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-54",
-    title: "Adobe : le départ du PDG Shantanu Narayen aggrave les doutes sur sa stratégie IA",
-    url: "https://www.silicon.fr/business-1367/adobe-le-depart-du-pdg-shantanu-narayen-aggrave-les-doutes-sur-sa-strategie-ia-226228",
-    source: "Silicon.fr",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Après 18 ans à la tête d'Adobe, Shantanu Narayen quittera ses fonctions de directeur général dès qu'un successeur sera nommé. Une annonce qui a ravivé les inquiétudes des investisseurs sur la capacité de l'éditeur à faire face à la concurrence de l'IA générative. The post Adobe : le départ du PDG Shantanu Narayen aggrave les doutes sur sa stratégie",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-66",
-    title: "Cette entreprise vous offre 800 dollars pour harceler une intelligence artificielle",
-    url: "https://www.numerama.com/tech/2209879-cette-entreprise-vous-offre-800-dollars-pour-harceler-une-intelligence-artificielle.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Startups & VC",
-    desc: "Être payé 800 dollars pour pousser des chatbots à bout ? C’est l’étonnante offre d’emploi lancée par la startup Memvid, qui cherche une personne capable de tester les trous de mémoire et les limites frustrantes de l’intelligence artificielle.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-67",
-    title: "Essai Toyota C-HR+ : une voiture électrique bien dans ses baskets",
-    url: "https://www.numerama.com/vroom/2199961-essai-toyota-c-hr-une-voiture-electrique-bien-dans-ses-baskets.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "J'ai pris le volant de la nouvelle voiture électrique de Toyota : le C-HR+. Plus de 600 km d'autonomie annoncée, grâce à une efficience à toute épreuve, mais son appétit d'oiseau suffira-t-il à faire oublier quelques détails d'ergonomie agaçants et son prix ? Voici le verdict de Numerama.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-68",
-    title: "Virgin River saison 7 : 4 séries réconfortantes à voir après la série Netflix",
-    url: "https://www.numerama.com/pop-culture/1873246-virgin-river-saison-7-4-series-reconfortantes-a-voir-apres-la-serie-netflix.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Vous avez déjà dévoré la saison 7 de Virgin River, qui a été mise en ligne le 12 mars 2026 et qui cartonne actuellement sur Netflix ? Voici 4 séries similaires qui devraient vous plaire, à découvrir en streaming.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-69",
-    title: "Le grand méchant de Final Fantasy VII reste le favori des fans, anciens comme nouveaux",
-    url: "https://www.numerama.com/pop-culture/2209751-le-grand-mechant-de-final-fantasy-vii-reste-le-favori-des-fans-anciens-comme-nouveaux.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Si Final Fantasy VII est l'épisode préféré de beaucoup de joueuses et de joueurs, c'est aussi grâce à Sephiroth, un antagoniste légendaire qui n’a rien perdu de sa superbe près de 30 ans après la sortie, comme l’explique son designer Tetsuya Nomura.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-70",
-    title: "Comment faire une procuration en ligne pour le vote aux élections municipales",
-    url: "https://www.numerama.com/politique/701805-comment-faire-une-procuration-en-ligne-pour-le-vote-aux-elections.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "La procuration de vote dématérialisée est possible lors des élections municipales de 2026. La démarche est dématérialisée en partie, si vous ne détenez pas la carte d’identité électronique et l’application France Identité. La procédure est possible jusqu'au dernier moment.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-71",
-    title: "Amazon brade sa liseuse Kindle Paperwhite à l’occasion de ses Ventes Flash de Printemps",
-    url: "https://www.numerama.com/tech/2209663-amazon-brade-sa-liseuse-kindle-paperwhite-a-loccasion-de-ses-ventes-flash-de-printemps.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Big Tech",
-    desc: "[Deal du jour] Amazon propose plusieurs liseuses numériques, dont le modèle Kindle Paperwhite au bon rapport qualité-prix. Elle est moins chère pour les Ventes Flash de Printemps organisées par Amazon.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-72",
-    title: "Faille Perplexity Computer : un accès gratuit à Claude Opus 4.6 est-il vraiment possible ?",
-    url: "https://www.numerama.com/cyberguerre/2209607-faille-perplexity-computer-un-acces-gratuit-a-claude-opus-4-6-est-il-vraiment-possible.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "IA & Modèles",
-    desc: "Sur X, un chercheur en cybersécurité affirme avoir obtenu un accès illimité à Claude Opus 4.6 en exploitant l'infrastructure de Perplexity Computer. Si la démonstration technique est réelle, les conclusions sur la facturation sont à nuancer.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-73",
-    title: "Quand sort The Madison, le nouveau spin-off de Yellowstone ?",
-    url: "https://www.numerama.com/pop-culture/2165847-quand-sort-the-madison-le-nouveau-spin-off-de-yellowstone.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Le ranch de Yellowstone n'a clairement pas fini de briller. Une nouvelle série dérivée, nommée The Madison, s'apprête ainsi à débarquer sur nos écrans. Date de sortie, bande-annonce, casting... Voici tout ce que vous devez savoir sur ce cinquième spin-off.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-74",
-    title: "la classification des jeux vidéo PEGI va bientôt changer et s’endurcir",
-    url: "https://www.numerama.com/pop-culture/2209529-la-classification-des-jeux-video-pegi-va-bientot-changer-et-sendurcir.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Le système européen de classification des jeux (PEGI) va prochainement revoir son système de classement. Au centre du changement : les mécaniques économiques comme les lootboxes et les achats in-game.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-75",
-    title: "4 séries à voir après la saison 2 de One Piece sur Netflix",
-    url: "https://www.numerama.com/pop-culture/2186263-4-series-a-voir-apres-la-saison-2-de-one-piece-sur-netflix.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Vous avez déjà dévoré l'intégralité de la saison 2 de One Piece, l'adaptation par Netflix du manga d'Eiichirō Oda ? Voici 4 séries qui devraient vous plaire, pour patienter jusqu'à la saison 3, déjà officialisée.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-76",
-    title: "Lucid copie Tesla avec son Cybercab : quelle drôle d’idée !",
-    url: "https://www.numerama.com/vroom/2209553-lucid-copie-tesla-avec-son-cybercab-quelle-drole-didee.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Big Tech",
-    desc: "Lucid Motors vient de dévoiler un robotaxi deux places baptisé Lunar. Un concept entièrement autonome, sans volant ni pédales, qui ressemble beaucoup (trop) au Tesla Cybercab présenté par Tesla.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-77",
-    title: "« Nous ne sommes pas de grands développeurs », Clair Obscur: Expedition 33 repose sur une méthode de création atypique",
-    url: "https://www.numerama.com/pop-culture/2209351-nous-ne-sommes-pas-de-grands-developpeurs-clair-obscur-expedition-33-repose-sur-une-methode-de-creation-atypique.html",
-    source: "Numerama",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "C’est lors de la Game Developers Conference 2026, qui s’est tenue du 9 au 13 mars à San Francisco, que Tom Guillermin et Florian Torres, respectivement cofondateur et programmeur chez Sandfall Interactive, sont revenus sur leur méthode de programmation pour Clair Obscur: Expedition 33.",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-78",
-    title: "Call of Duty, Wii, GTA, Lego… la guerre en Iran entre propagande et gamification",
-    url: "https://next.ink/228878/call-of-duty-wii-gta-lego-la-guerre-en-iran-entre-propagande-et-gamification/",
-    source: "Next.ink",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Depuis le début de sa guerre contre l&#8217;Iran, sur les réseaux sociaux et notamment sur X, la Maison Blanche partage des vidéos mélangeant frappes militaires et images de jeux vidéo comme GTA, Call of Duty ou des jeux de la console Wii. Sur le terrain, ce sont de vrais morts, un vrai hôpital, de vraies [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-79",
-    title: "[Tuto] Renforcer la sécurité de son VPS avec fail2ban, clés SSH, What’s Up Docker…",
-    url: "https://next.ink/227519/tuto-renforcer-la-securite-de-son-vps-avec-fail2ban-cles-ssh-whats-up-docker/",
-    source: "Next.ink",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Vous utilisez un VPS, mais vous n’avez pas encore configuré sa sécurité ? C’est un problème à prendre au sérieux puisque votre serveur est attaqué plusieurs milliers de fois par jour. Next vous donne quelques bases pour mettre à jour les composants, les conteneurs Docker, surveiller les tentatives de connexions, etc. Les VPS ont l’avantage [&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-80",
-    title: "Peine de mort, énergie, OGM : l’autocomplétion générée par IA influence nos réponses",
-    url: "https://next.ink/228679/peine-de-mort-energie-ogm-lautocompletion-generee-par-ia-influence-nos-reponses/",
-    source: "Next.ink",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Les outils d&#8217;autocomplétion boostés à l&#8217;IA générative ont été intégrés dans bon nombre de logiciels, du webmails à l&#8217;outil d&#8217;édition en passant par les messageries. Mais outre la façon dont on s&#8217;exprime, ils peuvent modifier les idées qu&#8217;on partage, montre une étude scientifique. Au départ, on les a vus apparaitr",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-81",
-    title: "#ChatControl : les eurodéputés mettent fin à la surveillance de masse indiscriminée",
-    url: "https://next.ink/228821/chatcontrol-les-eurodeputes-mettent-fin-a-la-surveillance-de-masse-indiscriminee/",
-    source: "Next.ink",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Dans un vote qualifié d&#8217;« historique » par le principal opposant du texte « ChatControl », les eurodéputés ont exclu de la détection volontaire de contenus pédopornographiques les communications reposant sur le chiffrement de bout en bout, mais également restreint la possibilité d&#8217;une surveillance aux seuls utilisateurs ou groupes d&#82",
-    auto: true
-  },
-  {
-    id: "tech-1773479066-82",
-    title: "☕️ CEO depuis 18 ans d’Adobe, Shantanu Narayen va démissionner… à cause de l’IA ?",
-    url: "https://next.ink/brief_article/ceo-depuis-18-ans-dadobe-shantanu-narayen-va-demissionner-a-cause-de-lia/",
-    source: "Next.ink",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Dans un communiqué, Adobe explique que Shantanu Narayen démissionnera de son poste de CEO une fois que son successeur sera trouvé. Il restera par contre président du conseil d’administration pour assurer la transition. C’est Frank Calderoni, administrateur indépendant d’Adobe, qui dirige un comité spécial en charge d’examiner les candidatures, auss",
-    auto: true
-  },
-  {
-    id: "tech-1773395956-8",
-    title: "Before quantum computing arrives, this startup wants enterprises already running on it",
-    url: "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-    source: "TechCrunch",
-    date: "2026-03-13",
-    cat: "Hardware",
-    desc: "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
-    auto: true
-  },
-  {
-    id: "tech-1773395956-32",
-    title: "Future AI chips could be built on glass",
-    url: "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-    source: "MIT Tech Review",
-    date: "2026-03-13",
-    cat: "Hardware",
-    desc: "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1773395956-42",
-    title: "Pourquoi la trottinette électrique Ausom L1 ABE est le bolide qu’il vous faut",
-    url: "https://www.01net.com/bons-plans/pourquoi-la-trottinette-electrique-ausom-l1-abe-est-le-bolide-quil-vous-faut.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Pendant plusieurs jours, j’ai arpenté les routes sur la robuste et impressionnante Ausom L1 ABE. Verdict.",
-    auto: true
-  },
-  {
-    id: "tech-1773395956-43",
-    title: "Google Maps change tout : toutes les nouveautés de la plus grande mise à jour depuis 10 ans",
-    url: "https://www.01net.com/actualites/google-maps-change-tout-decouvrez-la-plus-grande-mise-a-jour-de-la-navigation-depuis-10-ans.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Big Tech",
-    desc: "Google vient de dévoiler les nouveautés à venir pour Google Maps. L’application de cartographie et de navigation de Google va profiter d‘une de ses plus importantes mises à jour de ces dernières années.",
-    auto: true
-  },
-  {
-    id: "tech-1773395956-44",
-    title: "Galaxy A37 et A57 : flambée des prix pour les rois du milieu de gamme chez Samsung ?",
-    url: "https://www.01net.com/actualites/galaxy-a37-et-a57-gare-aux-prix-en-hausse-pour-les-rois-du-milieu-de-gamme-chez-samsung.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Il n'y a pas que les Galaxy S26 dans la vie de Samsung. En fait, le constructeur coréen mise surtout sur ses modèles milieu de gamme pour faire du volume et consolider sa place de numéro 1 mondial. C'est le rôle des Galaxy A37 et A57, qui seront bientôt en vente en France… à des prix qui s'annoncent sensiblement plus élevés.",
-    auto: true
-  },
-  {
-    id: "tech-1773395956-45",
-    title: "Pixel 10a vs Pixel 9a : quel est le meilleur en autonomie ? Lequel se charge le plus vite ? Grosse surprise sur le test",
-    url: "https://www.01net.com/actualites/pixel-10a-vs-pixel-10a-quel-est-le-meilleur-en-autonomie-lequel-se-charge-le-plus-vite-grosse-surprise-sur-le-test.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Big Tech",
-    desc: "Avec la sortie du test du Google Pixel 10a, nous avons observé un phénomène inattendu, le nouveau modèle se montre moins performant que son prédécesseur sur un point essentiel, l’autonomie. Un écart notable que nous avons cherché à comprendre au sein du 01lab.",
-    auto: true
-  },
-  {
-    id: "tech-1773395956-46",
-    title: "J’ai testé le Xiaomi 17 Ultra et il me fait douter du Galaxy S26 Ultra",
-    url: "https://www.01net.com/tests/test-xiaomi-17-ultra-avis.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Numérique & Société",
-    desc: "Le Xiaomi 17 Ultra, vendu à 1499 euros, se distingue par une batterie de 6000 mAh, un Snapdragon 8 Elite Gen 5 et un système photo avancé avec un téléobjectif à focale variable. Son écran OLED de 6,9 pouces établit un record de luminosité avec un pic à 3567 cd/m², surpassant ses concurrents directs. Malgré des performances solides, des points faibl",
-    auto: true
-  },
-  {
-    id: "tech-1773395956-47",
-    title: "MacBook Neo : le moins cher des Mac et le plus facile à réparer ?",
-    url: "https://www.01net.com/actualites/macbook-neo-un-mac-moins-cher-et-aussi-plus-simple-a-reparer.html",
-    source: "01net",
-    date: "2026-03-13",
-    cat: "Big Tech",
-    desc: "Le MacBook Neo n'est pas que bon pour le portefeuille (toutes proportions gardées). Le nouveau portable « pas cher » d'Apple est également un champion de la réparabilité, ce qui au bout du compte profite également à l'environnement.",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-03-14T09:04:31";
+window.AUTO_TECH_UPDATED = "2026-03-15T09:50:59";
