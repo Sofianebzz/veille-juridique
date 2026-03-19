@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-18T10:37:50
+// Dernière collecte : 2026-03-19T10:06:46
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1773914799-0",
+    title: "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
+    url: "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+    source: "EDPB",
+    date: "2026-03-19",
+    cat: "RGPD",
+    desc: "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025 , the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR . The GDPR ensures that individuals are informed wh",
+    auto: true
+  },
+  {
+    id: "auto-1773914799-1",
+    title: "L’ANSSI lance un appel à commentaires sur les architectures de référence de sa nouvelle doctrine de supervision de sécurité",
+    url: "http://cyber.gouv.fr/actualites/lanssi-lance-un-appel-a-commentaires-supervision-de-securite/",
+    source: "ANSSI",
+    date: "2026-03-19",
+    cat: "Cybersécurité",
+    desc: "Cet appel à commentaires est destiné à l’ensemble de l’écosystème que l’ANSSI accompagne, aussi bien les bénéficiaires que les offreurs […]",
+    auto: true
+  },
+  {
+    id: "auto-1773914799-2",
+    title: "NIS 2 : l’ANSSI poursuit et renforce sa dynamique d’accompagnement",
+    url: "http://cyber.gouv.fr/actualites/nis-2-lanssi-poursuit-et-renforce-sa-dynamique-daccompagnement/",
+    source: "ANSSI",
+    date: "2026-03-18",
+    cat: "Cybersécurité",
+    desc: "Dans un contexte marqué par une intensification de la menace cyber qui touche l’ensemble de l’économie et de la société, […]",
+    auto: true
+  },
   {
     id: "auto-1773479052-0",
     title: "Serveur mandataire web filtrant : les recommandations de la CNIL",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L’ANSSI a publié le 22 août 2025 un appel à manifestation d‘intérêt (AMI) pour le renforcement de l’accompagnement local aux […]",
     auto: true
   },
-  {
-    id: "auto-1772923797-37",
-    title: "Cryptographie post-quantique, les travaux de l’ANSSI",
-    url: "http://cyber.gouv.fr/actualites/cryptographie-post-quantique-les-travaux-de-lanssi/",
-    source: "ANSSI",
-    date: "2025-10-08",
-    cat: "Cybersécurité",
-    desc: "Accompagner la transition vers la cryptographie post-quantique : l’ANSSI présente ses travaux et sa FàQ dédiée, en faveur d’une mobilisation […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-38",
-    title: "Le MOOC « SecNumacadémie » en cours d’évolution",
-    url: "http://cyber.gouv.fr/actualites/le-mooc-secnumacad%C3%A9mie-en-cours-d%C3%A9volution/",
-    source: "ANSSI",
-    date: "2025-10-02",
-    cat: "Cybersécurité",
-    desc: "Le MOOC de l’ANSSI SecNumacadémie va évoluer et ne sera plus disponible sur la plateforme en ligne à partir du […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-39",
-    title: "REMPAR25 : un exercice de crise cyber d’une ampleur inédite",
-    url: "http://cyber.gouv.fr/actualites/rempar25-un-exercice-de-crise-cyber-dune-ampleur-in%C3%A9dite/",
-    source: "ANSSI",
-    date: "2025-09-22",
-    cat: "Cybersécurité",
-    desc: "Jeudi 18 septembre 2025, l’ANSSI a organisé REMPAR25, un exercice national de gestion de crise cyber de grande ampleur, en […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-18T10:37:50";
+window.AUTO_VEILLE_UPDATED = "2026-03-19T10:06:46";
