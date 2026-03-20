@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-1774000876-0",
+    "title": "Les dispositifs de captation sonore couplés à la vidéoprotection",
+    "url": "https://www.cnil.fr/fr/les-dispositifs-de-captation-sonore-couples-la-videoprotection",
+    "source": "CNIL",
+    "date": "2026-03-20",
+    "cat": "RGPD",
+    "desc": "L’enregistrement du son par une caméra de vidéoprotection est interdit par la loi. Néanmoins, l’installation d’un dispositif de captation sonore dans un lieu placé sous vidéoprotection peut être légale, dans des cas très précis.",
+    "auto": true
+  },
+  {
+    "id": "auto-1774000876-1",
+    "title": "CEF 2026 : Le CEPD lance une action coordonnée concernant les obligations de transparence et d'information",
+    "url": "https://www.cnil.fr/fr/cef-2026-obligations-transparence-information",
+    "source": "CNIL",
+    "date": "2026-03-19",
+    "cat": "RGPD",
+    "desc": "Après avoir consacré en 2025 une action coordonnée (CEF) au droit à l’effacement, le Comité européen de la protection des données s’intéressera cette année aux obligations de transparence et d’information prévues par le RGPD. La CNIL en assurera la coordination avec le CEPD.",
+    "auto": true
+  },
+  {
+    "id": "auto-1774000876-2",
+    "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+    "source": "EDPB",
+    "date": "2026-03-19",
+    "cat": "Cybersécurité",
+    "desc": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
+    "auto": true
+  },
+  {
     "id": "auto-1773914799-0",
     "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
     "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
@@ -767,36 +797,6 @@
     "date": "2025-10-27",
     "cat": "Cybersécurité",
     "desc": "Alors que la France célèbre cette année les 60 ans de ses relations diplomatiques avec Singapour, l’ANSSI a une nouvelle […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1772923797-34",
-    "title": "Premiers visas de sécurité incluant de la cryptographie post-quantique",
-    "url": "http://cyber.gouv.fr/actualites/pour-lanssi-la-cryptographie-post-quantique-post-quantum-cryptography-ou-pqc-repr%C3%A9sente-la-voie-la-plus-prometteuse-pour-se-pr%C3%A9munir-contre-la-menace-quantique-la-transition-post-quantique-repose-notamment-sur-la-mise-%C3%A0-disposition-pour-les-uti/",
-    "source": "ANSSI",
-    "date": "2025-10-16",
-    "cat": "Cybersécurité",
-    "desc": "Une première étape de taille a été franchie cet automne avec l’émission, par l’ANSSI, des deux premières certifications en France […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1772923797-35",
-    "title": "La France décroche la 5e place de l’European Cybersecurity Challenge 2025",
-    "url": "http://cyber.gouv.fr/actualites/la-france-d%C3%A9croche-la-5e-place-de-leuropean-cybersecurity-challenge-2025/",
-    "source": "ANSSI",
-    "date": "2025-10-10",
-    "cat": "Cybersécurité",
-    "desc": "La Team France encadrée par des coachs de l’ANSSI a obtenu la 5e place lors de l’édition 2025 de l’European […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1772923797-36",
-    "title": "Résultat de l’appel à manifestation d’intérêt",
-    "url": "http://cyber.gouv.fr/actualites/r%C3%A9sultat-de-lappel-%C3%A0-manifestation-dint%C3%A9r%C3%AAt/",
-    "source": "ANSSI",
-    "date": "2025-10-09",
-    "cat": "Cybersécurité",
-    "desc": "L’ANSSI a publié le 22 août 2025 un appel à manifestation d‘intérêt (AMI) pour le renforcement de l’accompagnement local aux […]",
     "auto": true
   }
 ]
