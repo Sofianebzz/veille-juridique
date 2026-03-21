@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-20T10:01:25
+// Dernière collecte : 2026-03-21T09:02:18
 window.AUTO_VEILLE = [
   {
     id: "auto-1774000876-0",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-03-20",
     cat: "RGPD",
     desc: "L’enregistrement du son par une caméra de vidéoprotection est interdit par la loi. Néanmoins, l’installation d’un dispositif de captation sonore dans un lieu placé sous vidéoprotection peut être légale, dans des cas très précis.",
+    auto: true
+  },
+  {
+    id: "auto-1774083731-0",
+    title: "Ordre du jour de la séance plénière du 19 mars 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-19-mars-2026",
+    source: "CNIL",
+    date: "2026-03-19",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 19 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La gestion de crise d’origine cyber devient une activité à part entière du référentiel PRIS. L’ANSSI met à jour le […]",
     auto: true
   },
-  {
-    id: "auto-1772923797-33",
-    title: "SICW 2025 : L’ANSSI fer de lance de la coopération franco-singapourienne en matière de cyber",
-    url: "http://cyber.gouv.fr/actualites/sicw-2025-lanssi-fer-de-lance-de-la-coop%C3%A9ration-franco-singapourienne-en-mati%C3%A8re-de-cyber/",
-    source: "ANSSI",
-    date: "2025-10-27",
-    cat: "Cybersécurité",
-    desc: "Alors que la France célèbre cette année les 60 ans de ses relations diplomatiques avec Singapour, l’ANSSI a une nouvelle […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-20T10:01:25";
+window.AUTO_VEILLE_UPDATED = "2026-03-21T09:02:18";
