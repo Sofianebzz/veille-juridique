@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1774348611-0",
+    "title": "Retrouvez l’ANSSI au Forum InCyber 2026",
+    "url": "http://cyber.gouv.fr/actualites/anssi-forum-incyber-2026/",
+    "source": "ANSSI",
+    "date": "2026-03-23",
+    "cat": "Cybersécurité",
+    "desc": "Du 31 mars au 2 avril prochain vous pourrez retrouver l’ANSSI au Forum InCyber (FIC) à Lille, rendez-vous annuel pour […]",
+    "auto": true
+  },
+  {
     "id": "auto-1774000876-0",
     "title": "Les dispositifs de captation sonore couplés à la vidéoprotection",
     "url": "https://www.cnil.fr/fr/les-dispositifs-de-captation-sonore-couples-la-videoprotection",
@@ -787,16 +797,6 @@
     "date": "2025-10-28",
     "cat": "RGPD",
     "desc": "Relevés des temps de parole hors périodes électorales t.rakiry mar 28/10/2025 - 10:52 Le suivi des temps de parole hors période électorale L’Arcom veille au respect du pluralisme politique à la télévision et à la radio. Les chaînes de télévision et les radios doivent assurer une représentation équitable des différents partis et groupements politiqu",
-    "auto": true
-  },
-  {
-    "id": "auto-1772923797-32",
-    "title": "Publication de la mise à jour du référentiel PRIS en version 3.2",
-    "url": "http://cyber.gouv.fr/actualites/publication-de-la-mise-%C3%A0-jour-du-r%C3%A9f%C3%A9rentiel-pris-en-version-32/",
-    "source": "ANSSI",
-    "date": "2025-10-28",
-    "cat": "Cybersécurité",
-    "desc": "La gestion de crise d’origine cyber devient une activité à part entière du référentiel PRIS. L’ANSSI met à jour le […]",
     "auto": true
   }
 ]
