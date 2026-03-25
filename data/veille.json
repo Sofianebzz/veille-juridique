@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1774434862-0",
+    "title": "Vie privée des enfants : les résultats de l’audit du Global Privacy Enforcement Network",
+    "url": "https://www.cnil.fr/fr/vie-privee-des-enfants-les-resultats-de-laudit-du-global-privacy-enforcement-network",
+    "source": "CNIL",
+    "date": "2026-03-25",
+    "cat": "RGPD",
+    "desc": "Lors de leur audit de novembre 2025, 27&amp;nbsp;autorités internationales de protection des données ont examiné les pratiques de sites web et d’applications mobiles en matière de protection de la vie privée des enfants.",
+    "auto": true
+  },
+  {
+    "id": "auto-1774434862-1",
+    "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
+    "source": "EDPB",
+    "date": "2026-03-24",
+    "cat": "RGPD",
+    "desc": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of key EU institutions, European Data Protection Authorities, academia and industry.&nbsp; K",
+    "auto": true
+  },
+  {
     "id": "auto-1774348611-0",
     "title": "Retrouvez l’ANSSI au Forum InCyber 2026",
     "url": "http://cyber.gouv.fr/actualites/anssi-forum-incyber-2026/",
@@ -777,26 +797,6 @@
     "date": "2025-11-10",
     "cat": "Cybersécurité",
     "desc": "Du 17 au 20 novembre 2025, l’ANSSI participera à la 10e édition de l’European Cyber Week (ECW) organisée par le […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1772923797-31",
-    "title": "L’ANSSI réunit son conseil scientifique le temps d’une journée",
-    "url": "http://cyber.gouv.fr/actualites/lanssi-r%C3%A9unit-son-conseil-scientifique-le-temps-dune-journ%C3%A9e/",
-    "source": "ANSSI",
-    "date": "2025-11-04",
-    "cat": "Cybersécurité",
-    "desc": "Le 4 novembre 2025 a eu lieu la journée du conseil scientifique de l’ANSSI qui a réuni membres du conseil […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223671-3",
-    "title": "Relevés des temps de parole hors périodes électorales",
-    "url": "https://www.arcom.fr/temps-parole/hors-elections",
-    "source": "ARCOM",
-    "date": "2025-10-28",
-    "cat": "RGPD",
-    "desc": "Relevés des temps de parole hors périodes électorales t.rakiry mar 28/10/2025 - 10:52 Le suivi des temps de parole hors période électorale L’Arcom veille au respect du pluralisme politique à la télévision et à la radio. Les chaînes de télévision et les radios doivent assurer une représentation équitable des différents partis et groupements politiqu",
     "auto": true
   }
 ]
