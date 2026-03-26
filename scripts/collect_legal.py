@@ -7,13 +7,22 @@ import feedparser
 import json, os, re, time
 from datetime import datetime
 
+DGCCRF_KEYWORDS = [
+    "dsa", "dma", "numérique", "numerique", "digital", "en ligne", "online",
+    "plateforme", "marketplace", "e-commerce", "pratique déloyale", "pratique trompeuse",
+    "pratique commerciale", "influenceur", "dark pattern", "abonnement", "résiliation",
+    "données", "algorithme", "ia", "intelligence artificielle", "deepfake",
+    "contrefaçon", "contrefacon", "faux avis", "avis client", "prix", "comparateur",
+    "place de marché", "internet", "site web", "application", "appli",
+]
+
 RSS_SOURCES = [
     # — Autorités françaises —
     {"url": "https://www.cnil.fr/fr/rss.xml",                                                                                   "source": "CNIL"},
     {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                            "source": "ANSSI"},
     {"url": "https://www.arcom.fr/rss.xml",                                                                                     "source": "ARCOM"},
     {"url": "https://www.arcep.fr/actualites/suivre-actualite-regulation-arcep/fil-dinfos/rss.xml",                             "source": "ARCEP"},
-    {"url": "https://www.economie.gouv.fr/dgccrf/rss",                                                                          "source": "DGCCRF"},
+    {"url": "https://www.economie.gouv.fr/dgccrf/rss",                                                                          "source": "DGCCRF", "filter": DGCCRF_KEYWORDS},
     {"url": "https://www.conseil-constitutionnel.fr/flux/rss.xml",                                                              "source": "Conseil constitutionnel"},
     {"url": "https://www.conseil-etat.fr/rss/actualites-rss",                                                                   "source": "Conseil d'État"},
     # — Institutions européennes —
@@ -82,18 +91,25 @@ def categorize(title, desc):
 
 def fetch_feed(src):
     items = []
+    filter_kws = src.get("filter")
     try:
-        # Fetch avec nos propres headers, parse avec feedparser (gère XML malformé)
         raw = fetch(src["url"])
         d = feedparser.parse(raw)
+        skipped = 0
         for entry in d.entries[:20]:
             title = clean(entry.get("title", ""))
             url   = entry.get("link", "").strip()
             date  = parse_date(entry.get("published_parsed") or entry.get("updated_parsed"))
             desc  = clean(entry.get("summary", ""))
+            if filter_kws:
+                text = (title + " " + desc).lower()
+                if not any(kw in text for kw in filter_kws):
+                    skipped += 1
+                    continue
             if title and url:
                 items.append({"title": title, "url": url, "date": date, "desc": desc})
-        print(f"  ✓ {src['source']}: {len(items)} items")
+        suffix = f" ({skipped} filtrés)" if skipped else ""
+        print(f"  ✓ {src['source']}: {len(items)} items{suffix}")
     except Exception as e:
         print(f"  ✗ {src['source']}: {e}")
     return items
