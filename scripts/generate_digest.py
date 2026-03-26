@@ -33,7 +33,7 @@ CAT_EMOJI = {
 
 SOURCE_PRIORITY = [
     "CNIL", "ANSSI", "EDPB", "EDPS", "Conseil constitutionnel", "Conseil d'État",
-    "ARCOM", "ARCEP", "DGCCRF", "CEDPO", "Commission UE", "EUR-Lex",
+    "ARCOM", "ARCEP", "CEDPO", "Commission UE", "EUR-Lex",
     "Legalis", "CIGREF", "Lextenso"
 ]
 

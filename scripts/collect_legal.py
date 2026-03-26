@@ -7,17 +7,6 @@ import feedparser
 import json, os, re, time
 from datetime import datetime
 
-DGCCRF_KEYWORDS = [
-    "dsa", "dma", "numérique", "numerique", "digital", "en ligne", "online",
-    "plateforme", "marketplace", "e-commerce", "influenceur", "dark pattern",
-    "résiliation", "algorithme", "intelligence artificielle", "deepfake",
-    "contrefaçon", "faux avis", "avis client", "comparateur",
-    "place de marché", "internet", "site web", "application",
-    "vlop", "vlose", "réseaux sociaux", "moteur de recherche",
-    "dropshipping", "phishing", "fraude en ligne", "cookie", "spam",
-    "shein", "temu", "amazon", "leboncoin", "créateur de contenu",
-]
-
 EURLEX_KEYWORDS = [
     "numérique", "digital", "données", "data", "ia", "intelligence artificielle",
     "cyber", "plateforme", "rgpd", "gdpr", "privacy", "network", "electronic", "telecom",
@@ -28,7 +17,6 @@ SOURCE_DEFAULT_CAT = {
     "ANSSI": "Cybersécurité",
     "ARCOM": "Plateformes", "ARCEP": "Plateformes",
     "Conseil constitutionnel": "Jurisprudence", "Conseil d'État": "Jurisprudence",
-    "DGCCRF": "Plateformes",
     "CIGREF": "Contrats IT",
     "EUR-Lex": "RGPD", "Legalis": "Jurisprudence", "Lextenso": "Jurisprudence",
 }
@@ -39,7 +27,6 @@ RSS_SOURCES = [
     {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                            "source": "ANSSI"},
     {"url": "https://www.arcom.fr/rss.xml",                                                                                     "source": "ARCOM"},
     {"url": "https://www.arcep.fr/actualites/suivre-actualite-regulation-arcep/fil-dinfos/rss.xml",                             "source": "ARCEP"},
-    {"url": "https://www.economie.gouv.fr/dgccrf/rss",                                                                          "source": "DGCCRF", "filter": DGCCRF_KEYWORDS},
     {"url": "https://www.conseil-constitutionnel.fr/flux/rss.xml",                                                              "source": "Conseil constitutionnel"},
     {"url": "https://www.conseil-etat.fr/rss/actualites-rss",                                                                   "source": "Conseil d'État"},
     # — Institutions européennes —
