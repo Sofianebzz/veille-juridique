@@ -268,13 +268,38 @@
        PAGES 2 & 3 — FEED PARTAGÉ
     ════════════════════════════════════════ */
 
+    /* SEARCH */
+    .search-bar {
+      display: flex; align-items: center; gap: 0.5rem;
+      margin-bottom: 0.9rem;
+    }
+    .search-input {
+      flex: 1; padding: 0.45rem 0.85rem;
+      border: 1px solid var(--border); border-radius: 8px;
+      font-family: 'Arial', sans-serif; font-size: 0.85rem;
+      background: var(--surface); color: var(--text);
+      outline: none; transition: border-color 0.15s;
+    }
+    .search-input:focus { border-color: var(--accent); }
+    .search-input.tech:focus { border-color: var(--tech); }
+
+    /* BADGE NOUVEAU */
+    .badge-new {
+      display: inline-block; font-size: 0.68rem; font-weight: 700;
+      background: #dc2626; color: white; border-radius: 4px;
+      padding: 0.1rem 0.4rem; margin-left: 0.4rem;
+      vertical-align: middle; font-family: 'Arial', sans-serif;
+      letter-spacing: 0.3px;
+    }
+
     .veille-toolbar {
       display: flex;
       align-items: center;
       gap: 0.6rem;
       flex-wrap: wrap;
-      margin-bottom: 1.5rem;
+      margin-bottom: 0.6rem;
     }
+    .veille-toolbar + .veille-toolbar { margin-bottom: 1.5rem; }
 
     .filter-label {
       font-family: 'Arial', sans-serif;
@@ -604,14 +629,26 @@
     }
 
     @media (max-width: 600px) {
-      header h1 { font-size: 1.35rem; }
-      main { padding: 1.5rem 1rem 4rem; }
+      header h1 { font-size: 1.2rem; }
+      header p.subtitle { font-size: 0.78rem; }
+      main { padding: 1.2rem 0.75rem 4rem; }
+      .tab-nav { gap: 0; overflow-x: auto; justify-content: flex-start; padding-bottom: 0; }
+      .tab-btn { padding: 0.55rem 0.85rem; font-size: 0.78rem; white-space: nowrap; }
+      .digest-link { margin-left: 0.5rem; padding-left: 0.85rem; }
       .norme-card { grid-template-columns: 1fr; }
       .norme-actions { flex-direction: row; }
-      .veille-card { grid-template-columns: auto 1fr; }
+      .veille-card { grid-template-columns: auto 1fr; gap: 0 0.7rem; padding: 0.9rem 1rem; }
       .veille-card .delete-btn { display: none; }
+      .veille-date-col { min-width: 44px; }
+      .veille-date-day { font-size: 1.1rem; }
+      .veille-title a { font-size: 0.9rem; }
+      .veille-desc { font-size: 0.8rem; }
+      .veille-toolbar { gap: 0.4rem; }
+      .filter-tags { gap: 0.3rem; }
+      .filter-tag { font-size: 0.7rem; padding: 0.18rem 0.55rem; }
+      .btn-add-veille { font-size: 0.78rem; padding: 0.4rem 0.8rem; }
+      .search-input { font-size: 0.82rem; }
       .form-row { grid-template-columns: 1fr; }
-      .tab-btn { padding: 0.6rem 1rem; font-size: 0.8rem; }
     }
   </style>
   <script defer src="https://cloud.umami.is/script.js" data-website-id="6c4e9dff-fa5e-4b75-b0f6-767e2506d307"></script>
@@ -676,10 +713,18 @@
       <span class="auto-count" id="auto-count" style="display:none"></span>
     </div>
 
+    <div class="search-bar">
+      <input class="search-input" id="veille-search" type="search" placeholder="🔍 Rechercher dans la veille…" oninput="onVeilleSearch(this.value)">
+    </div>
+
     <div class="veille-toolbar">
-      <span class="filter-label">Filtrer :</span>
+      <span class="filter-label">Catégorie :</span>
       <div class="filter-tags" id="filter-tags"></div>
       <button class="btn-add-veille" onclick="openVeilleModal()">+ Ajouter manuellement</button>
+    </div>
+    <div class="veille-toolbar">
+      <span class="filter-label">Source :</span>
+      <div class="filter-tags" id="source-tags"></div>
     </div>
 
     <div class="veille-feed" id="veille-feed"></div>
@@ -701,10 +746,18 @@
       <span class="auto-count tech-count" id="tech-auto-count" style="display:none"></span>
     </div>
 
+    <div class="search-bar">
+      <input class="search-input tech" id="tech-search" type="search" placeholder="🔍 Rechercher dans les actus tech…" oninput="onTechSearch(this.value)">
+    </div>
+
     <div class="veille-toolbar">
-      <span class="filter-label">Filtrer :</span>
+      <span class="filter-label">Catégorie :</span>
       <div class="filter-tags" id="tech-filter-tags"></div>
       <button class="btn-add-veille tech-btn" onclick="openTechModal()">+ Ajouter manuellement</button>
+    </div>
+    <div class="veille-toolbar">
+      <span class="filter-label">Source :</span>
+      <div class="filter-tags" id="tech-source-tags"></div>
     </div>
 
     <div class="veille-feed" id="tech-feed"></div>
@@ -976,6 +1029,13 @@ let veille = loadVeille();
 let tech   = loadTech();
 let activeFilter     = null;
 let techActiveFilter = null;
+let activeSrcFilter  = null;
+let techActiveSrcFilter = null;
+let veilleSearch     = "";
+let techSearch       = "";
+
+function onVeilleSearch(v) { veilleSearch = v.toLowerCase(); renderVeille(); }
+function onTechSearch(v)   { techSearch   = v.toLowerCase(); renderTech(); }
 
 // ════════════════════════════════════════
 // PAGE NAVIGATION
@@ -1056,6 +1116,42 @@ function renderFilterTags() {
   });
 }
 
+function renderSourceTags() {
+  const container = document.getElementById('source-tags');
+  container.innerHTML = '';
+  const allItems = [...veille, ...(window.AUTO_VEILLE || [])];
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-tag' + (activeSrcFilter === null ? ' active' : '');
+  allBtn.textContent = 'Toutes';
+  allBtn.onclick = () => { activeSrcFilter = null; renderSourceTags(); renderVeille(); };
+  container.appendChild(allBtn);
+  [...new Set(allItems.map(v => v.source).filter(Boolean))].sort().forEach(src => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-tag' + (activeSrcFilter === src ? ' active' : '');
+    btn.textContent = src;
+    btn.onclick = () => { activeSrcFilter = src; renderSourceTags(); renderVeille(); };
+    container.appendChild(btn);
+  });
+}
+
+function renderTechSourceTags() {
+  const container = document.getElementById('tech-source-tags');
+  container.innerHTML = '';
+  const allItems = [...tech, ...(window.AUTO_TECH || [])];
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-tag tech' + (techActiveSrcFilter === null ? ' active' : '');
+  allBtn.textContent = 'Toutes';
+  allBtn.onclick = () => { techActiveSrcFilter = null; renderTechSourceTags(); renderTech(); };
+  container.appendChild(allBtn);
+  [...new Set(allItems.map(v => v.source).filter(Boolean))].sort().forEach(src => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-tag tech' + (techActiveSrcFilter === src ? ' active' : '');
+    btn.textContent = src;
+    btn.onclick = () => { techActiveSrcFilter = src; renderTechSourceTags(); renderTech(); };
+    container.appendChild(btn);
+  });
+}
+
 function renderVeille() {
   const feed = document.getElementById('veille-feed');
   feed.innerHTML = '';
@@ -1065,13 +1161,15 @@ function renderVeille() {
     ...(window.AUTO_VEILLE || []).map(v => ({...v, isAuto: true}))
   ].filter(item => { if (urlsSeen.has(item.url)) return false; urlsSeen.add(item.url); return true; });
 
-  const sorted = (activeFilter ? allItems.filter(v => v.cat === activeFilter) : allItems)
+  const sorted = allItems
+    .filter(v => !activeFilter    || v.cat    === activeFilter)
+    .filter(v => !activeSrcFilter || v.source === activeSrcFilter)
+    .filter(v => !veilleSearch    || (v.title + ' ' + (v.desc||'')).toLowerCase().includes(veilleSearch))
     .sort((a, b) => new Date(b.date) - new Date(a.date));
 
   if (sorted.length === 0) {
     feed.innerHTML = `<div class="veille-empty"><div style="font-size:2rem">📭</div>
-      <p>${activeFilter ? `Aucune ressource dans « ${activeFilter} ».` : 'Aucune ressource pour l\'instant.'}</p>
-      <p>La collecte automatique s'exécute tous les 2 jours. Vous pouvez aussi cliquer sur <strong>+ Ajouter manuellement</strong>.</p></div>`;
+      <p>Aucun résultat pour ce filtre.</p></div>`;
     return;
   }
   sorted.forEach(item => renderFeedCard(feed, item, veille, deleteVeille, false));
@@ -1079,7 +1177,7 @@ function renderVeille() {
 
 function deleteVeille(i) {
   if (!confirm('Supprimer cette ressource ?')) return;
-  veille.splice(i, 1); saveVeille(); renderFilterTags(); renderVeille();
+  veille.splice(i, 1); saveVeille(); renderFilterTags(); renderSourceTags(); renderVeille();
 }
 
 // ════════════════════════════════════════
@@ -1113,13 +1211,15 @@ function renderTech() {
     ...(window.AUTO_TECH || []).map(v => ({...v, isAuto: true}))
   ].filter(item => { if (urlsSeen.has(item.url)) return false; urlsSeen.add(item.url); return true; });
 
-  const sorted = (techActiveFilter ? allItems.filter(v => v.cat === techActiveFilter) : allItems)
+  const sorted = allItems
+    .filter(v => !techActiveFilter    || v.cat    === techActiveFilter)
+    .filter(v => !techActiveSrcFilter || v.source === techActiveSrcFilter)
+    .filter(v => !techSearch          || (v.title + ' ' + (v.desc||'')).toLowerCase().includes(techSearch))
     .sort((a, b) => new Date(b.date) - new Date(a.date));
 
   if (sorted.length === 0) {
     feed.innerHTML = `<div class="veille-empty"><div style="font-size:2rem">🚀</div>
-      <p>${techActiveFilter ? `Aucune actu dans « ${techActiveFilter} ».` : 'Aucune actualité pour l\'instant.'}</p>
-      <p>La collecte automatique s'exécute tous les 2 jours. Vous pouvez aussi cliquer sur <strong>+ Ajouter manuellement</strong>.</p></div>`;
+      <p>Aucun résultat pour ce filtre.</p></div>`;
     return;
   }
   sorted.forEach(item => renderFeedCard(feed, item, tech, deleteTech, true));
@@ -1127,7 +1227,7 @@ function renderTech() {
 
 function deleteTech(i) {
   if (!confirm('Supprimer cette actualité ?')) return;
-  tech.splice(i, 1); saveTech(); renderTechFilterTags(); renderTech();
+  tech.splice(i, 1); saveTech(); renderTechFilterTags(); renderTechSourceTags(); renderTech();
 }
 
 // ── Fonction de rendu partagée ─────────────────────────
@@ -1149,6 +1249,7 @@ function renderFeedCard(feed, item, manualList, deleteFn, isTechPage) {
         ${item.source ? `<span class="veille-source">${esc(item.source)}</span>` : ''}
         <span class="veille-tag">${esc(item.cat)}</span>
         ${item.isAuto ? '<span class="badge-auto">🤖 auto</span>' : ''}
+        ${item.date && (new Date() - new Date(item.date + 'T12:00:00')) < 172800000 ? '<span class="badge-new">NOUVEAU</span>' : ''}
       </div>
       <div class="veille-title"><a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(item.title)}</a></div>
       ${item.desc ? `<p class="veille-desc">${esc(item.desc)}</p>` : ''}
@@ -1243,8 +1344,10 @@ function saveTechEntry() {
 
 renderNormes();
 renderFilterTags();
+renderSourceTags();
 renderVeille();
 renderTechFilterTags();
+renderTechSourceTags();
 renderTech();
 
 // ── Statut collecte — Veille Juridique ───────────────────────────────────────

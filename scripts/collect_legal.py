@@ -9,12 +9,29 @@ from datetime import datetime
 
 DGCCRF_KEYWORDS = [
     "dsa", "dma", "numérique", "numerique", "digital", "en ligne", "online",
-    "plateforme", "marketplace", "e-commerce", "pratique déloyale", "pratique trompeuse",
-    "pratique commerciale", "influenceur", "dark pattern", "abonnement", "résiliation",
-    "données", "algorithme", "ia", "intelligence artificielle", "deepfake",
-    "contrefaçon", "contrefacon", "faux avis", "avis client", "prix", "comparateur",
-    "place de marché", "internet", "site web", "application", "appli",
+    "plateforme", "marketplace", "e-commerce", "influenceur", "dark pattern",
+    "résiliation", "algorithme", "intelligence artificielle", "deepfake",
+    "contrefaçon", "faux avis", "avis client", "comparateur",
+    "place de marché", "internet", "site web", "application",
+    "vlop", "vlose", "réseaux sociaux", "moteur de recherche",
+    "dropshipping", "phishing", "fraude en ligne", "cookie", "spam",
+    "shein", "temu", "amazon", "leboncoin", "créateur de contenu",
 ]
+
+EURLEX_KEYWORDS = [
+    "numérique", "digital", "données", "data", "ia", "intelligence artificielle",
+    "cyber", "plateforme", "rgpd", "gdpr", "privacy", "network", "electronic", "telecom",
+]
+
+SOURCE_DEFAULT_CAT = {
+    "CNIL": "RGPD", "EDPB": "RGPD", "EDPS": "RGPD", "CEDPO": "RGPD",
+    "ANSSI": "Cybersécurité",
+    "ARCOM": "Plateformes", "ARCEP": "Plateformes",
+    "Conseil constitutionnel": "Jurisprudence", "Conseil d'État": "Jurisprudence",
+    "DGCCRF": "Plateformes",
+    "CIGREF": "Contrats IT",
+    "EUR-Lex": "RGPD", "Legalis": "Jurisprudence", "Lextenso": "Jurisprudence",
+}
 
 RSS_SOURCES = [
     # — Autorités françaises —
@@ -28,7 +45,7 @@ RSS_SOURCES = [
     # — Institutions européennes —
     {"url": "https://www.edpb.europa.eu/feed/news_en",                                                                          "source": "EDPB"},
     {"url": "https://www.edps.europa.eu/feed/news_en",                                                                          "source": "EDPS"},
-    {"url": "https://eur-lex.europa.eu/oj/daily-view/C-series/rss.xml",                                                         "source": "EUR-Lex"},
+    {"url": "https://eur-lex.europa.eu/oj/daily-view/C-series/rss.xml",                                                         "source": "EUR-Lex", "filter": EURLEX_KEYWORDS},
     # — Associations & think tanks —
     {"url": "https://cedpo.eu/feed/",                                                                                            "source": "CEDPO"},
     {"url": "https://www.cigref.fr/feed",                                                                                       "source": "CIGREF"},
@@ -83,15 +100,30 @@ def clean(text):
     text = re.sub(r"<[^>]+>", " ", text)
     return re.sub(r"\s+", " ", text).strip()[:350]
 
-def categorize(title, desc):
+def categorize(title, desc, source=""):
     text = (title + " " + (desc or "")).lower()
     scores = {cat: sum(1 for kw in kws if kw in text) for cat, kws in CATEGORIES.items()}
     best = max(scores, key=scores.get)
-    return best if scores[best] > 0 else "RGPD"
+    return best if scores[best] > 0 else SOURCE_DEFAULT_CAT.get(source, "Droit numérique")
+
+def fetch_desc(url):
+    try:
+        req = urllib.request.Request(url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=10) as r:
+            html = r.read().decode("utf-8", errors="replace")
+        for m in re.finditer(r"<p[^>]*>(.*?)</p>", html, re.IGNORECASE | re.DOTALL):
+            text = re.sub(r"<[^>]+>", " ", m.group(1))
+            text = re.sub(r"\s+", " ", text).strip()
+            if len(text) > 50:
+                return text[:300]
+    except Exception:
+        pass
+    return ""
 
 def fetch_feed(src):
     items = []
     filter_kws = src.get("filter")
+    desc_fetches = 0
     try:
         raw = fetch(src["url"])
         d = feedparser.parse(raw)
@@ -101,6 +133,9 @@ def fetch_feed(src):
             url   = entry.get("link", "").strip()
             date  = parse_date(entry.get("published_parsed") or entry.get("updated_parsed"))
             desc  = clean(entry.get("summary", ""))
+            if not desc and url and desc_fetches < 3:
+                desc = fetch_desc(url)
+                desc_fetches += 1
             if filter_kws:
                 text = (title + " " + desc).lower()
                 if not any(kw in text for kw in filter_kws):
@@ -149,19 +184,21 @@ def write_js(articles):
 
 def main():
     existing = load()
-    seen = {a["url"] for a in existing}
+    seen_urls   = {a["url"] for a in existing}
+    seen_titles = {a["title"].lower().strip() for a in existing}
     ts, idx, new_items = int(time.time()), 0, []
     for src in RSS_SOURCES:
         for item in fetch_feed(src):
-            if item["url"] not in seen:
+            norm_title = item["title"].lower().strip()
+            if item["url"] not in seen_urls and norm_title not in seen_titles:
                 new_items.append({
                     "id": f"auto-{ts}-{idx}",
                     "title": item["title"], "url": item["url"],
                     "source": src["source"], "date": item["date"],
-                    "cat": categorize(item["title"], item["desc"]),
+                    "cat": categorize(item["title"], item["desc"], src["source"]),
                     "desc": item["desc"], "auto": True,
                 })
-                seen.add(item["url"]); idx += 1
+                seen_urls.add(item["url"]); seen_titles.add(norm_title); idx += 1
     all_articles = sorted(new_items + existing, key=lambda x: x.get("date",""), reverse=True)[:80]
     save(all_articles)
     write_js(all_articles)

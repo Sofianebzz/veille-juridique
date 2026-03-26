@@ -31,23 +31,39 @@ CAT_EMOJI = {
     "Numérique & Société": "🌐",
 }
 
-SOURCE_PRIORITY = ["CNIL", "ANSSI", "EDPB", "Commission UE", "Legalis", "ARCOM", "EUR-Lex"]
+SOURCE_PRIORITY = [
+    "CNIL", "ANSSI", "EDPB", "EDPS", "Conseil constitutionnel", "Conseil d'État",
+    "ARCOM", "ARCEP", "DGCCRF", "CEDPO", "Commission UE", "EUR-Lex",
+    "Legalis", "CIGREF", "Lextenso"
+]
 
 def load(path):
     return json.load(open(path, encoding="utf-8")) if os.path.exists(path) else []
 
 def score(article, cutoff):
-    """Score de pertinence : fraîcheur + source officielle"""
-    s = 0
-    if article.get("date", "") >= cutoff:
-        s += 10
+    """Score de pertinence : fraîcheur + source officielle + catégorie"""
+    # Bonus fraîcheur
+    bonus_fraicheur = 10 if article.get("date", "") >= cutoff else 0
+
+    # Bonus source (plus la source est haute dans la liste, plus le bonus est élevé)
+    bonus_source = 0
     if article.get("source") in SOURCE_PRIORITY:
-        s += SOURCE_PRIORITY.index(article["source"]) * -1 + len(SOURCE_PRIORITY)
-    return s
+        bonus_source = len(SOURCE_PRIORITY) - SOURCE_PRIORITY.index(article["source"])
+
+    # Bonus catégorie
+    cat = article.get("cat", "")
+    if cat in ("RGPD", "IA", "Jurisprudence"):
+        bonus_categorie = 3
+    elif cat in ("Cybersécurité", "Plateformes"):
+        bonus_categorie = 2
+    else:
+        bonus_categorie = 1
+
+    return bonus_fraicheur + bonus_source + bonus_categorie
 
 def select_top(articles, cutoff, n=10):
     week = [a for a in articles if a.get("date", "") >= cutoff]
-    week.sort(key=lambda a: (a.get("date", ""), score(a, cutoff)), reverse=True)
+    week.sort(key=lambda a: score(a, cutoff), reverse=True)
     seen_titles = set()
     result = []
     for a in week:
@@ -83,7 +99,7 @@ def linkedin_text(articles, week_label):
             lines.append(f"  {a['url']}")
         lines.append("")
     lines += [
-        "#DroitDuNumérique #RGPD #IA #Cybersécurité #Veille #Juridique #Tech",
+        "#DroitDuNumérique #RGPD #IA #Cybersécurité #Veille #Juridique #DPO #DSA",
     ]
     return "\n".join(lines)
 
