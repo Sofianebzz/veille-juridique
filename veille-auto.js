@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-25T10:34:30
+// Dernière collecte : 2026-03-26T09:48:26
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1774518498-0",
+    title: "Rémi STEFANINI, nouveau directeur des technologies, de l’innovation et de l’intelligence artificielle",
+    url: "https://www.cnil.fr/fr/remi-stefanini-directeur-dtia",
+    source: "CNIL",
+    date: "2026-03-25",
+    cat: "RGPD",
+    desc: "Rémi STEFANINI rejoindra la CNIL le 15 avril 2026 en tant que directeur des technologies, de l’innovation et de l’IA de la CNIL.",
+    auto: true
+  },
   {
     id: "auto-1774434862-0",
     title: "Vie privée des enfants : les résultats de l’audit du Global Privacy Enforcement Network",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Ligue 1+ a.branger ven 14/11/2025 - 09:28 Ligue 1+ est un service d’abonnement donnant accès à tout le contenu de la Ligue 1. &nbsp; Le service est accessible sur le web et via l'application sur tous les appareils mobiles et tv connectés. CTA Ligue 1+ Logo Catégorie de service Contenu sportif Modèle tarifaire Abonnement Type de lecture Streaming Su",
     auto: true
   },
-  {
-    id: "auto-1772923797-30",
-    title: "L’ANSSI vous donne rendez-vous à la ECW 2025",
-    url: "http://cyber.gouv.fr/actualites/lanssi-vous-donne-rendez-vous-%C3%A0-la-ecw-2025/",
-    source: "ANSSI",
-    date: "2025-11-10",
-    cat: "Cybersécurité",
-    desc: "Du 17 au 20 novembre 2025, l’ANSSI participera à la 10e édition de l’European Cyber Week (ECW) organisée par le […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-25T10:34:30";
+window.AUTO_VEILLE_UPDATED = "2026-03-26T09:48:26";
