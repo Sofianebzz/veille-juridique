@@ -1,5 +1,25 @@
 [
   {
+    "id": "tech-1774519515-7",
+    "title": "Reddit passe aussi à la vérification d’identité, mais sans se mettre dans la sauce comme Discord",
+    "url": "https://www.01net.com/actualites/reddit-passe-aussi-a-la-verification-didentite-mais-sans-se-mettre-dans-la-sauce-comme-discord.html",
+    "source": "01net",
+    "date": "2026-03-26",
+    "cat": "Numérique & Société",
+    "desc": "Reddit introduit une vérification d'identité pour les comptes suspects tout en préservant l'anonymat des utilisateurs. Des solutions tierces comme les passkeys et la biométrie seront utilisées pour distinguer humains et bots. La plateforme vise à contrer la méfiance envers un internet saturé de contenus automatisés sans imposer une vérification gén",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-21",
+    "title": "« Bien plus cool qu’un minivan » : Elon Musk annonce l’arrivée d’une Tesla plus spacieuse",
+    "url": "https://www.numerama.com/vroom/2218523-bien-plus-cool-quun-minivan-elon-musk-annonce-larrivee-dune-tesla-plus-spacieuse.html",
+    "source": "Numerama",
+    "date": "2026-03-26",
+    "cat": "Big Tech",
+    "desc": "Elon Musk a annoncé que Tesla travaille sur une nouvelle voiture capable de transporter plus de passagers. Ce futur modèle pourrait allier un design radical à l'efficacité de la plateforme de nouvelle génération de la marque.",
+    "auto": true
+  },
+  {
     "id": "tech-1774518506-0",
     "title": "Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne",
     "url": "https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe",
@@ -247,6 +267,96 @@
     "date": "2026-03-26",
     "cat": "Numérique & Société",
     "desc": "27 autorités de protection des données personnelles ont audité près de 900 sites web et applications mobiles utilisés par les enfants dans le monde entier. 62 % sont pourtant réservés aux plus de 13 ans, et 72 % des mesures de vérification de l&#8217;âge ont pu être contournées. Ceux qui les ont audités ne seraient [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-2",
+    "title": "The AI Hype Index: AI goes to war",
+    "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+    "source": "MIT Tech Review",
+    "date": "2026-03-25",
+    "cat": "IA & Modèles",
+    "desc": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&#8230;",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-8",
+    "title": "AliExpress : 10 offres de pure FOLIE qui disparaissent déjà à minuit 🔥",
+    "url": "https://www.01net.com/bons-plans/anniversaire-aliexpress-12-deals-de-folie-qui-disparaissent-ce-mercredi-a-minuit.html",
+    "source": "01net",
+    "date": "2026-03-25",
+    "cat": "Numérique & Société",
+    "desc": "L'anniversaire AliExpress referme ses portes ce mercredi 25 mars à minuit. Passé ce délai, les prix remontent et il faudra prendre votre mal en patience jusqu'au Back to School de septembre pour espérer retrouver des remises comparables.",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-22",
+    "title": "Mauvaise nouvelle pour les abonnés mobile sans engagement de Bouygues Telecom",
+    "url": "https://www.numerama.com/tech/2217705-mauvaise-nouvelle-pour-les-abonnes-mobile-sans-engagement-de-bouygues-telecom.html",
+    "source": "Numerama",
+    "date": "2026-03-25",
+    "cat": "Numérique & Société",
+    "desc": "Alors que Bouygues Telecom ne faisait jusqu’ici payer aucun frais de résiliation pour ses forfaits, l’opérateur téléphonique a revu sa tarification, et cela ne va pas plaire aux abonnés sur le départ.",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-23",
+    "title": "DLSS 5 : Jensen Huang « comprend » la polémique, mais persiste et signe",
+    "url": "https://next.ink/230533/dlss-5-jensen-huang-comprend-la-polemique-mais-persiste-et-signe/",
+    "source": "Next.ink",
+    "date": "2026-03-25",
+    "cat": "Big Tech",
+    "desc": "Jensen Huang change son fusil d’épaule et promet comprendre les inquiétudes des joueurs, ajoutant que lui non plus n’aime pas l’IA slop. Il affirme que ce n’est pas ce que veut faire DLSS 5, rappelant une fois encore que la mise en oeuvre revient aux créateurs de jeu. Dans le même temps, Capcom, incriminé pour [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-24",
+    "title": "Images et vidéos pédocriminelles crédibles générées par IA se multiplient, alerte l’IWF",
+    "url": "https://next.ink/230612/images-et-videos-pedocriminelles-credibles-generees-par-ia-se-multiplient-alerte-liwf/",
+    "source": "Next.ink",
+    "date": "2026-03-25",
+    "cat": "Numérique & Société",
+    "desc": "Alors que les technologies d’IA se perfectionnent, leur usage à des fins de pédocriminalité devient plus fréquent, constate l’Internet Watch Foundation. Et d’alerter sur leur propension à créer de nouvelles victimisations des enfants représentés, de même que sur le caractère particulièrement violent des actes qui y sont illustrés. Les contenus haut",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-25",
+    "title": "☕️ OVHcloud va racheter Dragon LLM, concepteur de modèles spécialisés d’IA générative",
+    "url": "https://next.ink/brief_article/ovhcloud-va-racheter-dragon-llm-concepteur-de-modeles-specialises-dia-generative/",
+    "source": "Next.ink",
+    "date": "2026-03-25",
+    "cat": "Startups & VC",
+    "desc": "OVHcloud fait une nouvelle incursion dans le domaine de l&#8217;IA générative avec l&#8217;annonce, mercredi 25 mars, d&#8217;un accord engageant portant sur l&#8217;acquisition de la startup française Dragon LLM. Venue du monde de la traduction automatique, dans lequel elle a évolué depuis 2011 sous le nom Lingua Custodia, cette dernière se positi",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-26",
+    "title": "☕️ Amazon s’offre la startup Fauna Robotics et son robot dédié aux interactions humaines",
+    "url": "https://next.ink/brief_article/amazon-soffre-la-startup-fauna-robotics-et-son-robot-dedie-aux-interactions-humaines/",
+    "source": "Next.ink",
+    "date": "2026-03-25",
+    "cat": "Startups & VC",
+    "desc": "Après la startup suisse Rivr et ses livreurs autonomes dédiés aux 100 dernières mètres, Amazon poursuit ses emplettes dans le domaine de la robotique avec l&#8217;acquisition, confirmée à Bloomberg, d&#8217;une jeune pousse new-yorkaise baptisée Fauna Robotics. Fondée en 2024 et financée à hauteur de 30 millions de dollars un an plus tard, cette éq",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-27",
+    "title": "OpenAI abandonne Sora et les vidéos générées par IA, l’accord avec Disney vole en éclats",
+    "url": "https://next.ink/230579/openai-abandonne-sora-et-les-videos-generees-par-ia-laccord-avec-disney-vole-en-eclats/",
+    "source": "Next.ink",
+    "date": "2026-03-25",
+    "cat": "IA & Modèles",
+    "desc": "Surprise, OpenAI tire un trait sur Sora, l’application de vidéos générées par intelligence artificielle. L’entreprise donnera des détails dans un second temps. Cela entraine aussi la fin du partenariat avec Disney, même si les deux partenaires chercheraient d’autres moyens de travailler ensemble. « Nous disons adieu à l&#8217;application Sora » C’e",
+    "auto": true
+  },
+  {
+    "id": "tech-1774519515-28",
+    "title": "☕️ Epic licencie plus de 1 000 personnes, met en cause le recul de Fortnite, pas l’IA",
+    "url": "https://next.ink/brief_article/epic-licencie-plus-de-1-000-personnes-met-en-cause-le-recul-de-fortnite-pas-lia/",
+    "source": "Next.ink",
+    "date": "2026-03-25",
+    "cat": "Numérique & Société",
+    "desc": "Epic Games a initié mardi 24 mars le licenciement de plus de 1 000 employés, et annoncé la décision en interne via un email reproduit sur son site. Cette coupe dans les effectifs s&#8217;accompagne d&#8217;un plan de réduction des coûts de 500 millions de dollars par an. Les deux mesures combinées doivent permettre à Epic [&#8230;]",
     "auto": true
   },
   {
@@ -687,116 +797,6 @@
     "date": "2026-03-25",
     "cat": "Numérique & Société",
     "desc": "Cet article a été réalisé en collaboration avec École Polytechnique Executive Education Une formation diplômante de niveau Bac +5, proposée par l'École polytechnique, permet de faire évoluer sa carrière et de consolider ses connaissances et compétences en matière de cybersécurité.",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-73",
-    "title": "Le reboot de la série X-Files est adoubé par une star de l’œuvre originale",
-    "url": "https://www.numerama.com/pop-culture/2218193-le-reboot-de-la-serie-x-files-est-adoube-par-une-star-de-loeuvre-originale.html",
-    "source": "Numerama",
-    "date": "2026-03-25",
-    "cat": "Numérique & Société",
-    "desc": "Gillian Anderson s'est exprimée sur le reboot de la série X-Files, actuellement entre les mains de Ryan Coogler (Creed, Black Panther). Celle qui a enfilé le costume de l'agent Scully pendant plusieurs saisons s'est montrée très positive.",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-74",
-    "title": "Amazon baisse déjà le prix du dernier MacBook Air M5",
-    "url": "https://www.numerama.com/tech/2218113-amazon-baisse-deja-le-prix-du-dernier-macbook-air-m5.html",
-    "source": "Numerama",
-    "date": "2026-03-25",
-    "cat": "Big Tech",
-    "desc": "[Deal du jour] Apple a récemment mis à jour sa lignée de MacBook dont le modèle Air. Et il n'aura pas fallu attendre bien longtemps pour voir la première belle promotion sur cette nouvelle configuration M5.",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-75",
-    "title": "Google a peut-être réglé la crise de la mémoire vive (RAM) avec un algorithme",
-    "url": "https://www.numerama.com/tech/2218121-google-a-peut-etre-regle-la-crise-de-la-memoire-vive-ram-avec-un-algorithme.html",
-    "source": "Numerama",
-    "date": "2026-03-25",
-    "cat": "Big Tech",
-    "desc": "Les intelligences artificielles ont un appétit insatiable pour la mémoire vive, ce qui provoque une crise matérielle sans précédent. Avec son nouvel algorithme TurboQuant, Google a peut-être trouvé la parade mathématique pour diviser ce besoin par six.",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-76",
-    "title": "Quels sont les meilleurs écouteurs sans fil de 2026 ?",
-    "url": "https://www.numerama.com/tech/364736-guide-dachat-les-meilleurs-ecouteurs-vraiment-sans-fil.html",
-    "source": "Numerama",
-    "date": "2026-03-25",
-    "cat": "Numérique & Société",
-    "desc": "Pour vous éviter la frustration des écouteurs qui grésillent (et de jeter votre argent par la fenêtre), nous avons fait le tri : voici les seuls modèles sans fil de 2026 que nous recommandons les yeux fermés et que nous portons nous-mêmes au quotidien.",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-77",
-    "title": "Peaky Blinders : le créateur explique la fin choquante de la série Netflix",
-    "url": "https://www.numerama.com/pop-culture/2218153-peaky-blinders-le-createur-explique-la-fin-choquante-de-la-serie-netflix.html",
-    "source": "Numerama",
-    "date": "2026-03-25",
-    "cat": "Numérique & Société",
-    "desc": "Le clap de fin a retenti pour le gangster le plus célèbre de Birmingham. Dans le long-métrage The Immortal Man, disponible sur Netflix, la fin a pu surprendre. Si le titre jouait sur l'ironie, le créateur de la série, Steven Knight, révèle que le destin du leader des Peaky Blinders était scellé depuis le tout premier jour.",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-78",
-    "title": "14 ans plus tard, EA Sports ajoute Didier Deschamps dans FC 26 (FIFA)",
-    "url": "https://www.numerama.com/pop-culture/2218123-14-ans-plus-tard-ea-sports-ajoute-didier-deschamps-dans-fc-26-fifa.html",
-    "source": "Numerama",
-    "date": "2026-03-25",
-    "cat": "Numérique & Société",
-    "desc": "La mise à jour 1.5.1 de EA Sports FC 26 apporte une nouveauté que les adeptes de l'Équipe de France n'osaient plus attendre : Didier Deschamps. 49 personnes ont été modélisées, dont le sélectionneur qui s'apprête à prendre sa retraite.",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-79",
-    "title": "Elle a bu des litres de lait pour effrayer les joueurs de Resident Evil Requiem",
-    "url": "https://www.numerama.com/pop-culture/2217927-elle-a-bu-des-litres-de-lait-pour-effrayer-les-joueurs-de-resident-evil-requiem.html",
-    "source": "Numerama",
-    "date": "2026-03-25",
-    "cat": "Numérique & Société",
-    "desc": "Très tôt dans Resident Evil Requiem, l'héroïne prénommée Grace Ashcroft est poursuivie par une créature ignoble, la Fille. Pour donner vie à cet ennemi, la doubleuse a dû passer par un protocole étonnant.",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-85",
-    "title": "Trivy, LiteLLM : la folle histoire d’une cyberattaque qui se propage à toute vitesse",
-    "url": "https://next.ink/230657/trivy-litellm-la-folle-histoire-dune-cyberattaque-qui-se-propage-a-toute-vitesse/",
-    "source": "Next.ink",
-    "date": "2026-03-25",
-    "cat": "IA & Modèles",
-    "desc": "Pour la deuxième fois en trois semaines, le dépôt GitHub du scanner de vulnérabilité Trivy a été compromis. Une autre application, LiteLLM, en fait les frais et infecte à son tour d’autres projets qui se font dérober leurs identifiants et secrets. Un effet boule de neige qui montre bien les dangers de la supply chain. [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-86",
-    "title": "☕️ Santé mentale des mineurs : Meta condamné à 375 millions de dollars d’amende",
-    "url": "https://next.ink/brief_article/sante-mentale-des-mineurs-meta-condamne-a-375-millions-de-dollars-damende/",
-    "source": "Next.ink",
-    "date": "2026-03-25",
-    "cat": "Big Tech",
-    "desc": "Meta a déployé des outils dangereux pour la santé mentale des mineurs en toute connaissance de cause et retenu des informations sur des cas d’exploitation sexuelle de mineurs, a tranché ce 24 mars un jury états-unien. Au Nouveau-Mexique, le tribunal a condamné l’entreprise à 375 millions de dollars d’amende, une décision que le procureur qualifie [",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-87",
-    "title": "Deepfakes pornographiques : l’Allemagne secouée par un scandale de « viols virtuels »",
-    "url": "https://next.ink/230672/deepfakes-pornographiques-lallemagne-secouee-par-un-scandale-de-viols-virtuels/",
-    "source": "Next.ink",
-    "date": "2026-03-25",
-    "cat": "Numérique & Société",
-    "desc": "Alors qu’elle subissait depuis des années des diffusions non consenties d’images à caractère sexuel en ligne, l’actrice allemande Collien Fernandes a découvert et fait savoir publiquement que l’auteur de ces manipulations était son ex-mari, une autre star du petit écran allemand, Christian Ulmen. Ces révélations défraient la chronique, alors que l’",
-    "auto": true
-  },
-  {
-    "id": "tech-1774518506-88",
-    "title": "☕️ Étudiants : le Cnous victime d’un vol de données concernant 774 000 personnes",
-    "url": "https://next.ink/brief_article/etudiants-le-cnous-victime-dun-vol-de-donnees-concernant-774-000-personnes/",
-    "source": "Next.ink",
-    "date": "2026-03-25",
-    "cat": "Numérique & Société",
-    "desc": "Le Centre national des œuvres universitaires et scolaires (Cnous) a signalé mardi 24 mars avoir été victime d&#8217;une exfiltration de données personnelles. Ces informations ont été obtenues par l&#8217;intermédiaire de sa plateforme de prise de rendez-vous avec les 27 établissements régionaux (les Crous) qui constituent son réseau. L&#8217;organi",
     "auto": true
   }
 ]
