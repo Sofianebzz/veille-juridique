@@ -29,11 +29,19 @@ jobs:
       - name: 💡 Collecter les actus tech
         run: python scripts/collect_tech.py
 
+      - name: 📅 Vérifier le jour de la semaine
+        id: day
+        run: echo "day=$(date '+%a')" >> $GITHUB_OUTPUT
+
+      - name: 📰 Générer le digest hebdomadaire
+        if: steps.day.outputs.day == 'Mon' || github.event_name == 'workflow_dispatch'
+        run: python scripts/generate_digest.py
+
       - name: 💾 Sauvegarder les mises à jour
         run: |
           git config --global user.name  "Veille Bot"
           git config --global user.email "veille-bot@noreply.github.com"
-          git add veille-auto.js tech-auto.js data/
+          git add veille-auto.js tech-auto.js data/ digest.html
           git diff --staged --quiet && echo "Rien de nouveau." || (
             git commit -m "🤖 Collecte auto $(date '+%Y-%m-%d %H:%M UTC')"
             git push
