@@ -8,13 +8,24 @@ import json, os, re, time
 from datetime import datetime
 
 RSS_SOURCES = [
-    {"url": "https://www.cnil.fr/fr/rss.xml",                                                                         "source": "CNIL"},
-    {"url": "https://www.edpb.europa.eu/feed/news_en",                                                                "source": "EDPB"},
-    {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                  "source": "ANSSI"},
-    {"url": "https://www.legalis.net/feed",                                                                           "source": "Legalis"},
-    {"url": "https://www.arcom.fr/rss.xml",                                                                           "source": "ARCOM"},
-    {"url": "https://eur-lex.europa.eu/oj/daily-view/C-series/rss.xml",                                               "source": "EUR-Lex"},
-    {"url": "https://www.labase-lextenso.fr/rss?revue=DNU",                                                           "source": "Lextenso"},
+    # — Autorités françaises —
+    {"url": "https://www.cnil.fr/fr/rss.xml",                                                                                   "source": "CNIL"},
+    {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                            "source": "ANSSI"},
+    {"url": "https://www.arcom.fr/rss.xml",                                                                                     "source": "ARCOM"},
+    {"url": "https://www.arcep.fr/actualites/suivre-actualite-regulation-arcep/fil-dinfos/rss.xml",                             "source": "ARCEP"},
+    {"url": "https://www.economie.gouv.fr/dgccrf/rss",                                                                          "source": "DGCCRF"},
+    {"url": "https://www.conseil-constitutionnel.fr/flux/rss.xml",                                                              "source": "Conseil constitutionnel"},
+    {"url": "https://www.conseil-etat.fr/rss/actualites-rss",                                                                   "source": "Conseil d'État"},
+    # — Institutions européennes —
+    {"url": "https://www.edpb.europa.eu/feed/news_en",                                                                          "source": "EDPB"},
+    {"url": "https://www.edps.europa.eu/feed/news_en",                                                                          "source": "EDPS"},
+    {"url": "https://eur-lex.europa.eu/oj/daily-view/C-series/rss.xml",                                                         "source": "EUR-Lex"},
+    # — Associations & think tanks —
+    {"url": "https://cedpo.eu/feed/",                                                                                            "source": "CEDPO"},
+    {"url": "https://www.cigref.fr/feed",                                                                                       "source": "CIGREF"},
+    # — Sources juridiques —
+    {"url": "https://www.legalis.net/feed",                                                                                     "source": "Legalis"},
+    {"url": "https://www.labase-lextenso.fr/rss?revue=DNU",                                                                     "source": "Lextenso"},
 ]
 
 CATEGORIES = {
