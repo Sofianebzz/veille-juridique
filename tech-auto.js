@@ -1,6 +1,96 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-26T10:05:18
+// Dernière collecte : 2026-03-26T10:39:25
 window.AUTO_TECH = [
+  {
+    id: "tech-1774521560-2",
+    title: "The snow gods: How a couple of ski bums built the internet’s best weather app",
+    url: "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+    source: "MIT Tech Review",
+    date: "2026-03-26",
+    cat: "IA & Modèles",
+    desc: "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out ",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-5",
+    title: "Cap sur Mars : la NASA recycle sa station lunaire pour créer le vaisseau nucléaire du futur",
+    url: "https://www.01net.com/actualites/cap-sur-mars-nasa-recycle-station-lunaire-pour-creer-vaisseau-nucleaire-futur.html",
+    source: "01net",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "La NASA change de cap et décide de recycler les composants de sa future station lunaire pour lancer une mission nucléaire vers Mars d'ici fin 2028. Ce projet, baptisé SR-1 Freedom, signe le retour de l’agence vers la propulsion atomique après des décennies d'essais infructueux.",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-6",
+    title: "Arnaque au faux conseiller bancaire : la France neutralise un réseau après le vol de 740 000 euros",
+    url: "https://www.01net.com/actualites/arnaque-faux-conseiller-bancaire-france-neutralise-reseau-apres-vol-740-000-euros.html",
+    source: "01net",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "Une filière d’arnaque au faux conseiller bancaire, pilotée par un « parrain » depuis le Maroc, a été démantelée. Avoir dépouillé des centaines de Français en un an, les escrocs ont été interpellés par les forces de l'ordre et déférés devant les tribunaux.",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-19",
+    title: "Google bouscule le compte à rebours : le chiffrement tel qu’on le connaît tiendra jusqu’à 2029",
+    url: "https://www.numerama.com/cyberguerre/2218547-google-bouscule-le-compte-a-rebours-le-chiffrement-tel-quon-le-connait-tiendra-jusqua-2029.html",
+    source: "Numerama",
+    date: "2026-03-26",
+    cat: "Big Tech",
+    desc: "La firme de Mountain View vient d'annoncer une migration complète vers la cryptographie post-quantique d'ici trois ans, bien plus tôt que ce que l'industrie anticipait. Une course contre-la-montre qui se matérialise déjà dans Android 17.",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-20",
+    title: "Cette nouvelle clé HDMI 4K complète pour le streaming de Xiaomi baisse déjà son prix",
+    url: "https://www.numerama.com/pop-culture/2218603-cette-nouvelle-cle-hdmi-4k-complete-pour-le-streaming-de-xiaomi-baisse-deja-son-prix.html",
+    source: "Numerama",
+    date: "2026-03-26",
+    cat: "Big Tech",
+    desc: "[Deal du jour] Animé par Google TV, la clé HDMI Xiaomi TV Stick 4K de deuxième génération se trouve déjà en promotion. Une petite réduction bonne à prendre pour un accessoire compact et fiable.",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-21",
+    title: "15 millions de paramètres et 1 seul GPU : Yann LeCun fait un premier pas vers l’IA qui comprend le monde réel",
+    url: "https://www.numerama.com/tech/2218539-15-millions-de-parametres-et-1-seul-gpu-yann-lecun-fait-un-premier-pas-vers-lia-qui-comprend-le-monde-reel.html",
+    source: "Numerama",
+    date: "2026-03-26",
+    cat: "Hardware",
+    desc: "En attendant les premières découvertes d'AMI Labs, sa nouvelle startup créée en France, Yann LeCun et un consortium de chercheurs spécialisés en intelligence artificielle dévoilent LeWorldModel, première version d'une technologie capable de s'entraîner directement à partir de pixels bruts sans problème de stabilité. À terme, les robots pourraient s",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-22",
+    title: "Artémis II : on connaît le planning des astronautes pendant leur voyage autour de la Lune",
+    url: "https://www.numerama.com/sciences/2218617-artemis-ii-on-connait-le-planning-des-astronautes-pendant-leur-voyage-autour-de-la-lune.html",
+    source: "Numerama",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "Alors que la fusée emportant la mission Artémis II est à une semaine de son départ, les astronautes passent leurs derniers jours sur Terre avant le grand voyage. Et pendant leurs dix jours autour de la Lune, ils auront un emploi du temps extrêmement chargé.",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-23",
+    title: "Quel est le robot humanoïde avec Brigitte Macron et Melania Trump à la Maison Blanche ?",
+    url: "https://www.numerama.com/tech/2218513-quel-est-le-robot-humanoide-avec-brigitte-macron-et-melania-trump-a-la-maison-blanche.html",
+    source: "Numerama",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "Le 25 mars 2026, lors d’un sommet à la Maison-Blanche consacré à l’éducation et aux technologies, le robot humanoïde Figure 03 a fait une apparition remarquée aux côtés de Melania Trump... et Brigitte Macron.",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-24",
+    title: "Des humains qui copient l’IA : quel est le secret derrière les décors de Pragmata ?",
+    url: "https://www.numerama.com/pop-culture/2218545-des-humains-qui-copient-lia-quel-est-le-secret-derriere-les-decors-de-pragmata.html",
+    source: "Numerama",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "À une heure où le moindre contenu généré par IA est épinglé, et où la frontière entre ce qui est faux et ce qui est vrai est de moins en moins marquée, Capcom s'est permis une petite fantaisie dans Pragmata. Le studio s'est arrangé pour que sa ville ressemblant à New York soit la plus IA possible.",
+    auto: true
+  },
   {
     id: "tech-1774519515-7",
     title: "Reddit passe aussi à la vérification d’identité, mais sans se mettre dans la sauce comme Discord",
@@ -269,6 +359,56 @@ window.AUTO_TECH = [
     date: "2026-03-26",
     cat: "Numérique & Société",
     desc: "27 autorités de protection des données personnelles ont audité près de 900 sites web et applications mobiles utilisés par les enfants dans le monde entier. 62 % sont pourtant réservés aux plus de 13 ans, et 72 % des mesures de vérification de l&#8217;âge ont pu être contournées. Ceux qui les ont audités ne seraient [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-25",
+    title: "Le reboot de la série X-Files est adoubé par une star de l’œuvre originale",
+    url: "https://www.numerama.com/pop-culture/2218193-le-reboot-de-la-serie-x-files-est-adoube-par-une-star-de-loeuvre-originale.html",
+    source: "Numerama",
+    date: "2026-03-25",
+    cat: "Numérique & Société",
+    desc: "Gillian Anderson s'est exprimée sur le reboot de la série X-Files, actuellement entre les mains de Ryan Coogler (Creed, Black Panther). Celle qui a enfilé le costume de l'agent Scully pendant plusieurs saisons s'est montrée très positive.",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-26",
+    title: "Trivy, LiteLLM : la folle histoire d’une cyberattaque qui se propage à toute vitesse",
+    url: "https://next.ink/230657/trivy-litellm-la-folle-histoire-dune-cyberattaque-qui-se-propage-a-toute-vitesse/",
+    source: "Next.ink",
+    date: "2026-03-25",
+    cat: "IA & Modèles",
+    desc: "Pour la deuxième fois en trois semaines, le dépôt GitHub du scanner de vulnérabilité Trivy a été compromis. Une autre application, LiteLLM, en fait les frais et infecte à son tour d’autres projets qui se font dérober leurs identifiants et secrets. Un effet boule de neige qui montre bien les dangers de la supply chain. [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-27",
+    title: "☕️ Santé mentale des mineurs : Meta condamné à 375 millions de dollars d’amende",
+    url: "https://next.ink/brief_article/sante-mentale-des-mineurs-meta-condamne-a-375-millions-de-dollars-damende/",
+    source: "Next.ink",
+    date: "2026-03-25",
+    cat: "Big Tech",
+    desc: "Meta a déployé des outils dangereux pour la santé mentale des mineurs en toute connaissance de cause et retenu des informations sur des cas d’exploitation sexuelle de mineurs, a tranché ce 24 mars un jury états-unien. Au Nouveau-Mexique, le tribunal a condamné l’entreprise à 375 millions de dollars d’amende, une décision que le procureur qualifie [",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-28",
+    title: "Deepfakes pornographiques : l’Allemagne secouée par un scandale de « viols virtuels »",
+    url: "https://next.ink/230672/deepfakes-pornographiques-lallemagne-secouee-par-un-scandale-de-viols-virtuels/",
+    source: "Next.ink",
+    date: "2026-03-25",
+    cat: "Numérique & Société",
+    desc: "Alors qu’elle subissait depuis des années des diffusions non consenties d’images à caractère sexuel en ligne, l’actrice allemande Collien Fernandes a découvert et fait savoir publiquement que l’auteur de ces manipulations était son ex-mari, une autre star du petit écran allemand, Christian Ulmen. Ces révélations défraient la chronique, alors que l’",
+    auto: true
+  },
+  {
+    id: "tech-1774521560-29",
+    title: "☕️ Étudiants : le Cnous victime d’un vol de données concernant 774 000 personnes",
+    url: "https://next.ink/brief_article/etudiants-le-cnous-victime-dun-vol-de-donnees-concernant-774-000-personnes/",
+    source: "Next.ink",
+    date: "2026-03-25",
+    cat: "Numérique & Société",
+    desc: "Le Centre national des œuvres universitaires et scolaires (Cnous) a signalé mardi 24 mars avoir été victime d&#8217;une exfiltration de données personnelles. Ces informations ont été obtenues par l&#8217;intermédiaire de sa plateforme de prise de rendez-vous avec les 27 établissements régionaux (les Crous) qui constituent son réseau. L&#8217;organi",
     auto: true
   },
   {
@@ -661,145 +801,5 @@ window.AUTO_TECH = [
     desc: "Press reports suggest Disney was blindsided and that no money changed hands.",
     auto: true
   },
-  {
-    id: "tech-1774518506-35",
-    title: "Roundtables: The Next Era of Space Exploration",
-    url: "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists&#8217; efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities&#8",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-36",
-    title: "Why this battery company is pivoting to AI",
-    url: "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-37",
-    title: "This startup wants to change how mathematicians do math",
-    url: "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "Startups & VC",
-    desc: "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-devel",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-38",
-    title: "The Download: reawakening frozen brains, and the AI Hype Index returns",
-    url: "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "Hardware",
-    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain&#160; L. Stephen&#160;Coles’s&#160;brain sits in a vat at a storage facility in Arizona. It has been held there at a temp",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-39",
-    title: "Agentic commerce runs on truth and context",
-    url: "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-51",
-    title: "RED by SFR sort le grand jeu avec ses offres mobiles",
-    url: "https://www.01net.com/bons-plans/red-by-sfr-sort-le-grand-jeu-avec-ses-offres-mobiles.html",
-    source: "01net",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Découvrez les incroyables offres mobiles RED by SFR avec des prix défiant toute concurrence sur les forfaits 5G !",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-52",
-    title: "Chez Nintendo, les jeux physiques pour la Switch 2 vont coûter plus cher que les versions dématérialisées",
-    url: "https://www.01net.com/actualites/chez-nintendo-les-jeux-physiques-pour-la-switch-2-vont-couter-plus-cher-que-les-versions-dematerialisees.html",
-    source: "01net",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Les fans de Nintendo adeptes des supports physiques vont devoir se faire une raison : leur passion va leur coûter plus cher. Le constructeur vient en effet d'annoncer qu'à compter du mois de mai, les nouveaux jeux édités par ses bons soins auront des prix de vente différents selon qu'on les achète en version physique ou dématérialisée. Au détriment",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-53",
-    title: "Comme Apple, Sony renonce à son projet de voiture électrique",
-    url: "https://www.01net.com/actualites/comme-apple-sony-renonce-a-son-projet-de-voiture-electrique-et-on-sy-attendait-un-peu.html",
-    source: "01net",
-    date: "2026-03-25",
-    cat: "Big Tech",
-    desc: "L'entreprise Sony Honda Mobility vient d'annoncer l'annulation pure et simple de ses deux modèles électriques en développement. Cette décision radicale fait suite au récent revirement stratégique de Honda concernant ses propres véhicules électriques.",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-54",
-    title: "Cet aspirateur laveur Tineco chute de 499€ à 121€ : le stock fond à vue d’œil ⚡️",
-    url: "https://www.01net.com/bons-plans/cet-aspirateur-laveur-tineco-chute-de-499e-a-121e-le-stock-fond-a-vue-doeil.html",
-    source: "01net",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Pour faire le ménage, rien de tel qu'un bon balai aspirateur laveur qui rend les corvées moins fatigantes et vous fait gagner du temps. Avec cette remise folle, le Tineco Floor One S6 est l'une des affaires à ne pas manquer sur AliExpress.",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-56",
-    title: "ReCyF, une grille de lecture supplémentaire pour la NIS 2",
-    url: "https://www.silicon.fr/cybersecurite-1371/recyf-nis-2-226419",
-    source: "Silicon.fr",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Le ReCyF (Référentiel Cyber France) offre une vue synthétique des écarts d'attentes entre entités importantes et entités essentielles. The post ReCyF, une grille de lecture supplémentaire pour la NIS 2 appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-57",
-    title: "Qualité logicielle : les effets cumulés des agents de codage",
-    url: "https://www.silicon.fr/data-ia-1372/agents-ia-codage-projets-dev-226411",
-    source: "Silicon.fr",
-    date: "2026-03-25",
-    cat: "Open Source",
-    desc: "L'analyse d'environ 800 projets open source ayant utilisé l'agent Cursor révèle des effets combinés en matière de vélocité de développement et de qualité du code. The post Qualité logicielle : les effets cumulés des agents de codage appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-70",
-    title: "Harry Potter : le moment tant attendu est arrivé, voici la bande-annonce du reboot",
-    url: "https://www.numerama.com/pop-culture/2217993-harry-potter-le-moment-tant-attendu-est-arrive-voici-la-bande-annonce-du-reboot.html",
-    source: "Numerama",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "L'école de sorcellerie de Poudlard s'apprête à rouvrir ses portes. Ce 25 mars 2026, la plateforme Max a enfin levé le voile sur les premières images de sa série Harry Potter. Un teaser de 2min qui nous donne un premier aperçu du nouveau trio légendaire.",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-71",
-    title: "Spider-Man : Brand New Day promis à un immense carton, la bande-annonce explose les records",
-    url: "https://www.numerama.com/pop-culture/2218225-spider-man-brand-new-day-promis-a-un-immense-carton-la-bande-annonce-explose-les-records.html",
-    source: "Numerama",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Sony et Marvel viennent de frapper un coup de massue dont l'industrie du cinéma ne se remettra pas de sitôt. Alors que Peter Parker s'apprête à entamer un nouveau chapitre de sa vie, la première bande-annonce de&nbsp;Brand New Day&nbsp;a littéralement paralysé les compteurs des réseaux sociaux. C'est déjà un énorme carton.",
-    auto: true
-  },
-  {
-    id: "tech-1774518506-72",
-    title: "100 000 postes à pourvoir d’ici 2030 : la cybersécurité, un enjeu majeur pour la souveraineté numérique française [Sponso]",
-    url: "https://www.numerama.com/tech/2215861-100-000-postes-a-pourvoir-dici-2030-la-cybersecurite-un-enjeu-majeur-pour-la-souverainete-numerique-francaise.html",
-    source: "Numerama",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Cet article a été réalisé en collaboration avec École Polytechnique Executive Education Une formation diplômante de niveau Bac +5, proposée par l'École polytechnique, permet de faire évoluer sa carrière et de consolider ses connaissances et compétences en matière de cybersécurité.",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-03-26T10:05:18";
+window.AUTO_TECH_UPDATED = "2026-03-26T10:39:25";
