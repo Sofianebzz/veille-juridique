@@ -1,805 +1,312 @@
-// Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-26T10:05:15
+// ============================================================
+// VEILLE JURIDIQUE — DONNÉES COLLECTÉES AUTOMATIQUEMENT
+// Ce fichier est généré et écrasé par la tâche planifiée
+// (tous les 2 jours). Ne pas modifier manuellement.
+// Sources RSS : CNIL · ANSSI · EDPB · Commission UE
+// Dernière collecte : 2026-03-26 08:00 UTC
+// ============================================================
+
 window.AUTO_VEILLE = [
   {
-    id: "auto-1774518498-0",
-    title: "Rémi STEFANINI, nouveau directeur des technologies, de l’innovation et de l’intelligence artificielle",
-    url: "https://www.cnil.fr/fr/remi-stefanini-directeur-dtia",
-    source: "CNIL",
-    date: "2026-03-25",
-    cat: "RGPD",
-    desc: "Rémi STEFANINI rejoindra la CNIL le 15 avril 2026 en tant que directeur des technologies, de l’innovation et de l’IA de la CNIL.",
-    auto: true
-  },
-  {
-    id: "auto-1774434862-0",
-    title: "Vie privée des enfants : les résultats de l’audit du Global Privacy Enforcement Network",
-    url: "https://www.cnil.fr/fr/vie-privee-des-enfants-les-resultats-de-laudit-du-global-privacy-enforcement-network",
-    source: "CNIL",
-    date: "2026-03-25",
-    cat: "RGPD",
-    desc: "Lors de leur audit de novembre 2025, 27&amp;nbsp;autorités internationales de protection des données ont examiné les pratiques de sites web et d’applications mobiles en matière de protection de la vie privée des enfants.",
-    auto: true
-  },
-  {
-    id: "auto-1774434862-1",
-    title: "EDPB conference on cross-regulatory cooperation: what we learned",
-    url: "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
-    source: "EDPB",
-    date: "2026-03-24",
-    cat: "RGPD",
-    desc: "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of key EU institutions, European Data Protection Authorities, academia and industry.&nbsp; K",
-    auto: true
-  },
-  {
-    id: "auto-1774348611-0",
-    title: "Retrouvez l’ANSSI au Forum InCyber 2026",
-    url: "http://cyber.gouv.fr/actualites/anssi-forum-incyber-2026/",
-    source: "ANSSI",
-    date: "2026-03-23",
-    cat: "Cybersécurité",
-    desc: "Du 31 mars au 2 avril prochain vous pourrez retrouver l’ANSSI au Forum InCyber (FIC) à Lille, rendez-vous annuel pour […]",
-    auto: true
-  },
-  {
-    id: "auto-1774000876-0",
-    title: "Les dispositifs de captation sonore couplés à la vidéoprotection",
-    url: "https://www.cnil.fr/fr/les-dispositifs-de-captation-sonore-couples-la-videoprotection",
-    source: "CNIL",
-    date: "2026-03-20",
-    cat: "RGPD",
-    desc: "L’enregistrement du son par une caméra de vidéoprotection est interdit par la loi. Néanmoins, l’installation d’un dispositif de captation sonore dans un lieu placé sous vidéoprotection peut être légale, dans des cas très précis.",
-    auto: true
-  },
-  {
-    id: "auto-1774083731-0",
-    title: "Ordre du jour de la séance plénière du 19 mars 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-19-mars-2026",
-    source: "CNIL",
-    date: "2026-03-19",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 19 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1774000876-1",
-    title: "CEF 2026 : Le CEPD lance une action coordonnée concernant les obligations de transparence et d'information",
-    url: "https://www.cnil.fr/fr/cef-2026-obligations-transparence-information",
-    source: "CNIL",
-    date: "2026-03-19",
-    cat: "RGPD",
-    desc: "Après avoir consacré en 2025 une action coordonnée (CEF) au droit à l’effacement, le Comité européen de la protection des données s’intéressera cette année aux obligations de transparence et d’information prévues par le RGPD. La CNIL en assurera la coordination avec le CEPD.",
-    auto: true
-  },
-  {
-    id: "auto-1774000876-2",
-    title: "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
-    url: "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
-    source: "EDPB",
-    date: "2026-03-19",
-    cat: "Cybersécurité",
-    desc: "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
-    auto: true
-  },
-  {
-    id: "auto-1773914799-0",
-    title: "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
-    url: "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
-    source: "EDPB",
-    date: "2026-03-19",
-    cat: "RGPD",
-    desc: "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025 , the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR . The GDPR ensures that individuals are informed wh",
-    auto: true
-  },
-  {
-    id: "auto-1773914799-1",
-    title: "L’ANSSI lance un appel à commentaires sur les architectures de référence de sa nouvelle doctrine de supervision de sécurité",
-    url: "http://cyber.gouv.fr/actualites/lanssi-lance-un-appel-a-commentaires-supervision-de-securite/",
-    source: "ANSSI",
-    date: "2026-03-19",
-    cat: "Cybersécurité",
-    desc: "Cet appel à commentaires est destiné à l’ensemble de l’écosystème que l’ANSSI accompagne, aussi bien les bénéficiaires que les offreurs […]",
-    auto: true
-  },
-  {
-    id: "auto-1773914799-2",
-    title: "NIS 2 : l’ANSSI poursuit et renforce sa dynamique d’accompagnement",
-    url: "http://cyber.gouv.fr/actualites/nis-2-lanssi-poursuit-et-renforce-sa-dynamique-daccompagnement/",
-    source: "ANSSI",
-    date: "2026-03-18",
-    cat: "Cybersécurité",
-    desc: "Dans un contexte marqué par une intensification de la menace cyber qui touche l’ensemble de l’économie et de la société, […]",
-    auto: true
-  },
-  {
-    id: "auto-1773479052-0",
-    title: "Serveur mandataire web filtrant : les recommandations de la CNIL",
-    url: "https://www.cnil.fr/fr/recommandation-serveur-mandataire-web-filtrant",
-    source: "CNIL",
-    date: "2026-03-13",
-    cat: "RGPD",
-    desc: "La CNIL souhaite promouvoir des solutions de cybersécurité conformes au RGPD, tant dans leur usage que dès leur conception. Dans ce but, elle publie une recommandation destinée à accompagner les utilisateurs et les fournisseurs de serveurs mandataires web filtrants.",
-    auto: true
-  },
-  {
-    id: "auto-1773395949-0",
-    title: "Ordre du jour de la séance plénière du 12 mars 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-mars-2026",
-    source: "CNIL",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1773395949-1",
-    title: "Réglementation européenne sur les biotechnologies : le CEPD et le Contrôleur européen de la protection des données publient un avis",
-    url: "https://www.cnil.fr/fr/reglementation-europeenne-sur-les-biotechnologies-le-cepd-et-le-controleur-europeen-de-la-protection",
-    source: "CNIL",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "Le CEPD et l'EDPS soutiennent l'harmonisation des essais cliniques dans le cadre de la réglementation européenne sur les biotechnologies, mais demandent des garanties spécifiques pour les données sensibles relatives à la santé.",
-    auto: true
-  },
-  {
-    id: "auto-1773310036-0",
-    title: "La CNIL sera présente au Forum InCyber (FIC) du 31 mars au 2 avril 2026",
-    url: "https://www.cnil.fr/fr/forum-incyber-2026",
-    source: "CNIL",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "La CNIL sera présente au Forum InCyber (FIC) 2026 à Lille Grand Palais au stand D3 pour répondre aux questions du public et des professionnels. La présidente de la CNIL, Marie-Laure Denis, interviendra également lors du sommet d’ouverture le 31 mars.",
-    auto: true
-  },
-  {
-    id: "auto-1773310036-1",
-    title: "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
-    url: "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
-    source: "EDPB",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "Brussels, 12 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s Proposal for a European Biotech Act . The Proposal aims to strengthen Europe’s biotechnology and biomanufacturing sectors, particularly in the area of health, by streamlinin",
-    auto: true
-  },
-  {
-    id: "auto-1773228661-0",
-    title: "Panorama de la cybermenace 2025 : La France toujours sous la pression des cyber attaquants",
-    url: "http://cyber.gouv.fr/actualites/panorama-de-la-cybermenace-2025/",
-    source: "ANSSI",
-    date: "2026-03-11",
-    cat: "Cybersécurité",
-    desc: "Dans le Panorama de la cybermenace 2025, l’Agence nationale de la sécurité des systèmes d’information (ANSSI) présente le bilan d’une […]",
-    auto: true
-  },
-  {
-    id: "auto-1773228661-1",
-    title: "Typosquatting : blocage judiciaire de 39 noms de domaine en .fr",
-    url: "https://www.legalis.net/actualite/typosquatting-blocage-judiciaire-de-39-noms-de-domaine-en-fr/",
-    source: "Legalis",
-    date: "2026-03-11",
-    cat: "PI numérique",
-    desc: "Une fois n’est pas coutume, un groupe victime de typosquatting sur ses marques française, européenne et internationale a choisi de passer par la voie judiciaire pour bloquer les noms de domaine contrefaisants et obtenir réparation. Le tribunal judiciaire de Paris a ordonné le transfert à Groupama de 39 noms de domaine en « .fr » [&#8230;]",
-    auto: true
-  },
-  {
-    id: "auto-1773228661-2",
-    title: "Droit d’auteur : preuve de la titularité par la Blockchain",
-    url: "https://www.legalis.net/actualite/droit-dauteur-preuve-de-la-titularite-par-la-blockchain/",
-    source: "Legalis",
-    date: "2026-03-11",
-    cat: "Jurisprudence",
-    desc: "Par un jugement du 20 mars 2025, le tribunal judiciaire de Marseille a admis la blockchain comme mode de preuve de la titularité des droits patrimoniaux relatifs à des vêtements et qu’elle pouvait aussi servir à horodater la création. AZ Factory commercialise sous ses marques des pyjamas Love With Alber et Hearts with Alber, inspirés [&#8230;]",
-    auto: true
-  },
-  {
-    id: "auto-1773228661-3",
-    title: "La liberté d’expression prévaut sur le droit à l’oubli",
-    url: "https://www.legalis.net/actualite/la-liberte-dexpression-prevaut-sur-le-droit-a-loubli/",
-    source: "Legalis",
-    date: "2026-03-11",
-    cat: "RGPD",
-    desc: "Par un arrêt très étayé du 20 février 2025, la cour d’appel de Paris a fait prévaloir la liberté d’expression sur le droit des personnes à l’effacement de leurs données personnelles concernant la publication en ligne d’un article de presse évoquant la condamnation d’un ancien président d’un club sportif. En 2009, le quotidien 20 Minutes [&#8230;]",
-    auto: true
-  },
-  {
-    id: "auto-1773228661-4",
-    title: "Les nouvelles missions de l'Arcom",
-    url: "https://www.arcom.fr/actualites/les-nouvelles-missions-de-arcom",
-    source: "ARCOM",
-    date: "2026-03-11",
-    cat: "RGPD",
-    desc: "Les nouvelles missions de l'Arcom m.farhat lun 27/12/2021 - 11:27 Publié le Actualité 01 janvier 2022 Tablettes, ordinateurs, smartphones… On ne regarde plus la télévision comme il y a 40 ans. Les modes de diffusion des contenus audiovisuels et les écrans se sont multipliés. Les transformations du paysage audiovisuel et numérique nécessitaient de r",
-    auto: true
-  },
-  {
-    id: "auto-1773224983-0",
-    title: "Numérique en santé : la CNIL et la HAS s’engagent pour renforcer les bonnes pratiques",
-    url: "https://www.cnil.fr/fr/numerique-en-sante-la-cnil-et-la-has-sengagent",
-    source: "CNIL",
-    date: "2026-03-11",
-    cat: "RGPD",
-    desc: "La CNIL et la HAS ont signé le 10 mars 2026 une convention de partenariat. Elle vise à renforcer les bonnes pratiques, notamment en matière de protection des données personnelles et de promotion des droits fondamentaux liés aux outils numériques dans le secteur sanitaire, social et médico-social.",
-    auto: true
-  },
-  {
-    id: "auto-1773223307-0",
-    title: "Règlement sur la gouvernance des données : FAQ sur les organisations altruistes des données reconnues dans l’Union européenne",
-    url: "https://www.cnil.fr/fr/reglement-sur-la-gouvernance-des-donnees-faq-sur-les-organisations-altruistes-des-donnees-reconnues",
-    source: "CNIL",
-    date: "2026-03-10",
-    cat: "RGPD",
-    desc: "Le règlement sur la gouvernance des données (DGA) crée un statut d’organisation altruiste en matière de données reconnue dans l’UE (OAD). Ces organisations altruistes partagent volontairement des données pour des objectifs d’intérêt général et non lucratifs. Que faut-il retenir&amp;nbsp;?",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-10",
-    title: "Injonction de blocage dynamique : l'obligation de filtrage ciblé des plateformes en ligne",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/injonction-de-blocage-dynamique-l-obligation-de-filtrage-cible-des-plateformes-en-ligne-DNU100e1",
-    source: "Lextenso",
-    date: "2026-03-09",
-    cat: "Plateformes",
-    desc: "La d&eacute;cision constitue une &eacute;tape d&eacute;cisive concernant le r&eacute;gime de responsabilit&eacute; des plateformes en ligne face aux annonces illicites diffus&eacute;es. En imposant &agrave; Meta une obligation de filtrage cibl&eacute;, l&#039;arr&ecirc;t consacre une solution efficace de pr&eacute;vention de la publicit&eacute; con",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-11",
-    title: "Le groupe français OVH soumis aux cours canadiennes du fait de ses pratiques organisationnelles et commerciales",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/le-groupe-francais-ovh-soumis-aux-cours-canadiennes-du-fait-de-ses-pratiques-organisationnelles-et-commerciales-DNU100e0",
-    source: "Lextenso",
-    date: "2026-03-09",
-    cat: "Jurisprudence",
-    desc: "Dans une affaire relevant de la s&eacute;curit&eacute; nationale, une ordonnance de production demandait au groupe fran&ccedil;ais OVH de produire les donn&eacute;es de comptes li&eacute;es &agrave; des adresses IP en France, au Royaume-Uni et en Australie. La Cour de justice de l&#039;Ontario a confirm&eacute; l&#039;ordonnance &agrave; raison d&#",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-12",
-    title: "Hébergement des données de santé : la souveraineté numérique dans le domaine de la santé reconsidérée",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/hebergement-des-donnees-de-sante-la-souverainete-numerique-dans-le-domaine-de-la-sante-reconsideree-DNU100d9",
-    source: "Lextenso",
-    date: "2026-03-09",
-    cat: "RGPD",
-    desc: "Le gouvernement change de cap en acc&eacute;l&eacute;rant la proc&eacute;dure permettant de choisir le nouvel h&eacute;bergeur de donn&eacute;es de sant&eacute;. Cette acc&eacute;l&eacute;ration met en tension des objectifs pour l&#039;instant difficiles &agrave; concilier que sont la souverainet&eacute; num&eacute;rique en mati&egrave;re de sant&e",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-13",
-    title: "La place de l'Open Source au cœur de la souveraineté européenne : vers des écosystèmes numériques ouverts européens",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/la-place-de-l-open-source-au-coeur-de-la-souverainete-europeenne-vers-des-ecosystemes-numeriques-ouverts-europeens-DNU100d8",
-    source: "Lextenso",
-    date: "2026-03-09",
-    cat: "RGPD",
-    desc: "En janvier 2026, la Commission europ&eacute;enne a lanc&eacute; une consultation publique intitul&eacute;e &quot;&nbsp;vers des &eacute;cosyst&egrave;mes num&eacute;riques ouverts europ&eacute;ens&nbsp;&quot;, ayant recueilli 1&nbsp;658 contributions. L&#039;initiative place l&#039;Open Source au c&oelig;ur d&#039;une strat&eacute;gie industrielle ",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-14",
-    title: "TikTok : une conception addictive contraire au DSA selon un avis préliminaire de la Commission",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/tiktok-une-conception-addictive-contraire-au-dsa-selon-un-avis-preliminaire-de-la-commission-DNU100d7",
-    source: "Lextenso",
-    date: "2026-03-09",
-    cat: "Plateformes",
-    desc: "Le 6&nbsp;f&eacute;vrier 2026, la Commission europ&eacute;enne a conclu, &agrave; titre pr&eacute;liminaire, dans le cadre d&#039;une proc&eacute;dure formelle, que TikTok avait enfreint le DSA en raison de sa conception addictive. Le d&eacute;filement infini, la lecture automatique, les notifications instantan&eacute;es, ainsi que le syst&egrave;m",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-15",
-    title: "Responsabilité civile de l'hébergeur : défaut de notification et promptitude de l'intervention",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/responsabilite-civile-de-l-hebergeur-defaut-de-notification-et-promptitude-de-l-intervention-DNU100d6",
-    source: "Lextenso",
-    date: "2026-03-09",
-    cat: "RGPD",
-    desc: "&Agrave; d&eacute;faut de notification, l&#039;h&eacute;bergeur n&#039;engage pas sa responsabilit&eacute; civile pour ne pas avoir retir&eacute; un contenu attentatoire &agrave; des droits de propri&eacute;t&eacute; intellectuelle, d&egrave;s lors que l&#039;illic&eacute;it&eacute; dudit contenu n&#039;&eacute;tait pas manifeste. De plus, a agi &q",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-16",
-    title: "La décision contraignante du CEPD devant le Tribunal de l'Union ; du renvoi préjudiciel au recours direct",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/la-decision-contraignante-du-cepd-devant-le-tribunal-de-l-union-du-renvoi-prejudiciel-au-recours-direct-DNU100d5",
-    source: "Lextenso",
-    date: "2026-03-09",
-    cat: "Jurisprudence",
-    desc: "Par son arr&ecirc;t du 10&nbsp;f&eacute;vrier 2026, la grande chambre de la Cour de justice clarifie la possibilit&eacute; de contester en justice les d&eacute;cisions contraignantes du CEPD adopt&eacute;es sur le fondement de l&#039;article 65 du RGPD. En censurant l&#039;ordonnance du Tribunal qui avait d&eacute;clar&eacute; irrecevable le recour",
-    auto: true
-  },
-  {
-    id: "auto-1773052262-0",
-    title: "Le 8 mars à la CNIL : paroles et regards autour des droits des femmes et de l’égalité professionnelle",
-    url: "https://www.cnil.fr/fr/journee-internationale-droits-des-femmes-2026",
-    source: "CNIL",
-    date: "2026-03-09",
-    cat: "RGPD",
-    desc: "À l’occasion de la Journée internationale des droits des femmes, célébrée le 8&amp;nbsp;mars 2026, la CNIL a donné la parole à trois anciennes agentes afin de mettre en perspective les évolutions intervenues en matière d’égalité professionnelle et de droits des femmes.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-0",
-    title: "Clôture de l’injonction prononcée à l’encontre de la société KASPR",
-    url: "https://www.cnil.fr/fr/cloture-de-linjonction-prononcee-lencontre-de-la-societe-kaspr",
-    source: "CNIL",
-    date: "2026-03-06",
-    cat: "RGPD",
-    desc: "Par délibération du 4&amp;nbsp;mars 2026, la CNIL a clôturé l’injonction prononcée le 5&amp;nbsp;décembre 2024 à l’encontre de la société KASPR.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-10",
-    title: "Stakeholder event on political advertising: agenda available now",
-    url: "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
-    source: "EDPB",
-    date: "2026-03-06",
-    cat: "RGPD",
-    desc: "Brussels, 6 March - The EDPB organises a remote event to collect stakeholders’ input on its Guidelines on the processing of personal data to target or deliver political advertisements under the regulation on the transparency and targeting of political advertising , on 27 March 2026. The agenda is available here This will be an opportunity to inform",
-    auto: true
-  },
-  {
-    id: "auto-1773223307-1",
-    title: "Ordre du jour de la séance plénière du 5 mars 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-mars-2026",
-    source: "CNIL",
-    date: "2026-03-05",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 5 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-1",
-    title: "IA et santé : la HAS et la CNIL lancent une consultation publique sur un projet de guide",
-    url: "https://www.cnil.fr/fr/ia-et-sante-la-has-et-la-cnil-lancent-une-consultation-publique-sur-un-projet-de-guide",
-    source: "CNIL",
-    date: "2026-03-05",
-    cat: "RGPD",
-    desc: "Fruit d’un travail pluridisciplinaire, le guide «&amp;nbsp;IA en contexte de soins&amp;nbsp;» vise à répondre aux questions des professionnels de santé sur leurs obligations et les bonnes pratiques à mettre en œuvre. Il est mis en consultation jusqu’au 16 avril&amp;nbsp;2026.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-2",
-    title: "Données personnelles – consultation publique CNIL/HAS",
-    url: "https://www.cnil.fr/fr/donnees-personnelles-consultation-publique-has-cnil",
-    source: "CNIL",
-    date: "2026-03-05",
-    cat: "RGPD",
-    desc: "Cette consultation nécessite la mise en œuvre d’un traitement de données à caractère personnel conjointement géré par la Haute autorité de santé (HAS) et la Commission nationale de l’informatique et des libertés (CNIL).",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-11",
-    title: "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
-    url: "https://www.edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
-    source: "EDPB",
-    date: "2026-03-03",
-    cat: "RGPD",
-    desc: "The conference \"Cross- regulatory interplay and cooperation in the EU: a data protection perspective” takes place on 17 March 2026 from 9.15 to 15.30 .&nbsp; This event will offer a high-level overview of the EDPB’s work in the EU’s cross-regulatory landscape, focusing in particular on how regulatory frameworks interact and how cooperation between ",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-3",
-    title: "Tables Informatique et Libertés : la CNIL publie la mise à jour 2026",
-    url: "https://www.cnil.fr/fr/tables-informatique-et-libertes-2026",
-    source: "CNIL",
-    date: "2026-03-02",
-    cat: "RGPD",
-    desc: "La CNIL met à jour ses Tables Informatique et Libertés. Destinée aux professionnels et universitaires, cette version 2026 rassemble et organise l’essentiel de la jurisprudence et de la pratique décisionnelle en matière de protection des données personnelles.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-20",
-    title: "Appel à manifestation d’intérêt pour le test d’un outil d’audit RGPD des modèles d’IA",
-    url: "http://cyber.gouv.fr/actualites/ami-outil-audit-rgpd-ia/",
-    source: "ANSSI",
-    date: "2026-03-02",
-    cat: "RGPD",
-    desc: "L’ANSSI fait partie du projet PANAME ( Privacy Auditing of AI Models ) lancé en juin dernier conjointement avec (Ouvre […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-4",
-    title: "Projet PANAME : participez aux tests d’un outil d’audit RGPD des modèles d’IA",
-    url: "https://www.cnil.fr/fr/projet-paname-participez-aux-tests-dun-outil-daudit-rgpd-des-modeles-dia",
-    source: "CNIL",
-    date: "2026-02-26",
-    cat: "RGPD",
-    desc: "La CNIL, l’ANSSI, le PEReN et Inria lancent un appel à manifestation d’intérêt pour tester un outil d’audit dénommé PANAME et qui permet d’évaluer la confidentialité des modèles d’IA et leur conformité au RGPD.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-5",
-    title: "Rejeu de session : la CNIL lance une consultation publique sur son projet de recommandation",
-    url: "https://www.cnil.fr/fr/rejeu-de-session-la-cnil-lance-une-consultation-publique-sur-son-projet-de-recommandation",
-    source: "CNIL",
-    date: "2026-02-25",
-    cat: "RGPD",
-    desc: "La CNIL lance une consultation publique sur son projet de recommandation concernant les outils de rejeu de session qui permettent le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’accompagner les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-6",
-    title: "Journée RGPD sur les données de santé et la recherche à Paris",
-    url: "https://www.cnil.fr/fr/journee-rgpd-sante-recherche-paris",
-    source: "CNIL",
-    date: "2026-02-24",
-    cat: "RGPD",
-    desc: "La CNIL donne rendez-vous à tous les acteurs de la santé et de la recherche le jeudi 26 mars à Paris pour une nouvelle Journée RGPD. Cet évènement est organisé en collaboration avec l’Université Paris-Saclay.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-21",
-    title: "Le MOOC SecNumacadémie fait peau neuve",
-    url: "http://cyber.gouv.fr/actualites/le-mooc-secnumacad%C3%A9mie-fait-peau-neuve/",
-    source: "ANSSI",
-    date: "2026-02-24",
-    cat: "Cybersécurité",
-    desc: "La plateforme SecNumacadémie sera temporairement indisponible à partir du 28 février et ce pour plusieurs mois, elle devrait être de […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-12",
-    title: "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly’s statement",
-    url: "https://www.edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
-    source: "EDPB",
-    date: "2026-02-23",
-    cat: "RGPD",
-    desc: "Brussels, 23 February - EDPB Chair Anu Talus has signed a Joint Statement on AI-Generated Imagery and the Protection of Privacy on behalf of the EDPB . The statement, coordinated by the Global Privacy Assembly's (GPA) International Enforcement Cooperation Working Group (IEWG) , represents the united position of 61 authorities across the world. This",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-7",
-    title: "Ordre du jour de la séance plénière du 19 février 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-19-fevrier-2026",
-    source: "CNIL",
-    date: "2026-02-19",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 19 février 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-8",
-    title: "Droit à l’effacement : bilan des contrôles de la CNIL dans le cadre de l’action coordonnée européenne",
-    url: "https://www.cnil.fr/fr/droit-effacement-bilan-cnil-action-europeenne",
-    source: "CNIL",
-    date: "2026-02-18",
-    cat: "RGPD",
-    desc: "Dans le cadre d’une action coordonnée au niveau européen, la CNIL a mené en 2025 une série de contrôles d’organismes pour vérifier la mise en œuvre du droit à l’effacement.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-13",
-    title: "EDPB identifies challenges hindering the full implementation of the right to erasure",
-    url: "https://www.edpb.europa.eu/news/news/2026/edpb-identifies-challenges-hindering-full-implementation-right-erasure_en",
-    source: "EDPB",
-    date: "2026-02-18",
-    cat: "RGPD",
-    desc: "Brussels, 18 February - The European Data Protection Board (EDPB) has adopted a&nbsp; report on its Coordinated Enforcement Framework (CEF) action on the right to be forgotten (Art.17 GDPR) . &nbsp;The&nbsp; Board selected this topic&nbsp; as it is&nbsp;one of the most frequently exercised GDPR rights&nbsp;and one about which&nbsp;DPAs frequently r",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-9",
-    title: "Deuxième édition du Prix CNIL-EHESS",
-    url: "https://www.cnil.fr/fr/deuxieme-edition-du-prix-cnil-ehess",
-    source: "CNIL",
-    date: "2026-02-17",
-    cat: "RGPD",
-    desc: "La CNIL et l’EHESS organisent un prix dédié aux sciences humaines et sociales en marge du Privacy Research Day, le 24&amp;nbsp;juin 2026 à Paris. Un jury pluridisciplinaire sélectionnera la contribution qui sera présentée et récompensée lors de l’événement.",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-14",
-    title: "Making GDPR compliance easier through new initiatives: a key focus of the EDPB work programme 2026-2027",
-    url: "https://www.edpb.europa.eu/news/news/2026/making-gdpr-compliance-easier-through-new-initiatives-key-focus-edpb-work-programme_en",
-    source: "EDPB",
-    date: "2026-02-13",
-    cat: "RGPD",
-    desc: "Brussels, 13 February - The EDPB has recently adopted its work programme for 2026-2027 , &nbsp;which is grounded in the four pillars of the EDPB strategy 2024-2027 . The work programme is based on the priorities set out in the EDPB strategy and it also takes into account the commitments made in the Helsinki Statement on enhanced clarity, support an",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-15",
-    title: "EDPB work programme 2026-2027: easing compliance and strengthening cooperation across the evolving digital landscape",
-    url: "https://www.edpb.europa.eu/news/news/2026/edpb-work-programme-2026-2027-easing-compliance-and-strengthening-cooperation-across_en",
-    source: "EDPB",
-    date: "2026-02-12",
-    cat: "RGPD",
-    desc: "Brussels, 12 February - During its latest plenary, the EDPB adopted its work programme for 2026-2027 . &nbsp;This is the second work programme to support the implementation of the EDPB strategy 2024-2027 *. The work programme is based on the priorities set out in the EDPB strategy and the needs identified as most critical for stakeholders. It also ",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-16",
-    title: "Digital Omnibus: EDPB and EDPS support simplification and competitiveness while raising key concerns",
-    url: "https://www.edpb.europa.eu/news/news/2026/digital-omnibus-edpb-and-edps-support-simplification-and-competitiveness-while_en",
-    source: "EDPB",
-    date: "2026-02-11",
-    cat: "RGPD",
-    desc: "Brussels, 11 February - The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the Digital Omnibus Regulation proposal .* This proposal aims to simplify the EU's digital regulatory framework, reduce administrative burden and enhance the competitiveness of European organisations. ",
-    auto: true
-  },
-  {
-    id: "auto-1773223671-1",
-    title: "Ma radio FM et DAB+",
-    url: "https://www.arcom.fr/radio-et-audio-numerique/radio-fm-dab",
-    source: "ARCOM",
-    date: "2026-02-09",
-    cat: "RGPD",
-    desc: "Ma radio FM et DAB+ Ma radio FM et DAB+ t.rakiry lun 09/02/2026 - 09:35 Comment fonctionne Ma radio FM et DAB+ ? Découvrez une nouvelle manière d'explorer l'univers radiophonique grâce à notre application intuitive et optimisée. Elle vous offre un accès simplifié et complet à tout ce dont vous avez besoin pour profiter pleinement de la radio, que v",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-17",
-    title: "Précisions sur l'identification du demandeur dans l'accès aux informations environnementales",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/precisions-sur-l-identification-du-demandeur-dans-l-acces-aux-informations-environnementales-DNU100d2",
-    source: "Lextenso",
-    date: "2026-02-09",
-    cat: "Jurisprudence",
-    desc: "La CJUE pr&eacute;cise que la directive 2003/4 sur l&#039;acc&egrave;s aux informations environnementales n&#039;exige pas l&#039;identification nominative du demandeur, mais n&#039;interdit pas aux &Eacute;tats membres d&#039;imposer une telle exigence. Cette latitude accord&eacute;e aux l&eacute;gislations nationales reste n&eacute;anmoins encadr",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-18",
-    title: "Des caméras-piétons de contrôleurs dans les services de transport",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/des-cameras-pietons-de-controleurs-dans-les-services-de-transport-DNU100c8",
-    source: "Lextenso",
-    date: "2026-02-09",
-    cat: "Jurisprudence",
-    desc: "La CJUE juge que le recours &agrave; des cam&eacute;ras-pi&eacute;tons par des contr&ocirc;leurs dans les services de transport de passagers requiert une information pr&eacute;alable sur son principe par affichage public, compl&eacute;t&eacute;e par une information compl&egrave;te en un lieu accessible aux passagers. CJUE, 18&nbsp;d&eacute;c.&nbsp;",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-19",
-    title: "Airbnb n'est pas un hébergeur au sens de l'article 6, I, 2, de la LCEN",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/airbnb-n-est-pas-un-hebergeur-au-sens-de-l-article-6-i-2-de-la-lcen-DNU100c9",
-    source: "Lextenso",
-    date: "2026-02-09",
-    cat: "Plateformes",
-    desc: "En ce qu&#039;elle endosse un r&ocirc;le actif de nature &agrave; lui confier une connaissance ou un contr&ocirc;le des offres d&eacute;pos&eacute;es sur sa plateforme, la soci&eacute;t&eacute; Airbnb ne saurait revendiquer la qualit&eacute; d&#039;h&eacute;bergeur, au sens de l&#039;article 6, I, 2, de la LCEN, et peut, en cons&eacute;quence, enga",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-20",
-    title: "Affaire Pormanove/Kick.com : en quête de proportionnalité entre blocage, mesures ciblées et obligation générale de surveillance",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/affaire-pormanove-kick-com-en-quete-de-proportionnalite-entre-blocage-mesures-ciblees-et-obligation-generale-de-surveillance-DNU100d0",
-    source: "Lextenso",
-    date: "2026-02-09",
-    cat: "Plateformes",
-    desc: "Par un jugement du 19&nbsp;d&eacute;cembre 2025, le tribunal judiciaire de Paris apporte une nouvelle fois un &eacute;clairage sur l&#039;articulation entre l&#039;article 6-3 de la LCEN et le DSA. Il refuse toute mesure de blocage d&#039;une plateforme au profit d&#039;injonctions cibl&eacute;es, proportionn&eacute;es mais limit&eacute;es &agrave;",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-21",
-    title: "La suite de l'affaire Shein : le tribunal judiciaire prononce une injonction sans suspension",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/la-suite-de-l-affaire-shein-le-tribunal-judiciaire-prononce-une-injonction-sans-suspension-DNU100d1",
-    source: "Lextenso",
-    date: "2026-02-09",
-    cat: "Plateformes",
-    desc: "Malgr&eacute; la reconnaissance d&#039;un dommage grave &agrave; l&#039;ordre public issu de la commercialisation, notamment, de poup&eacute;es p&eacute;dopornographiques via la plateforme Shein, le tribunal judiciaire de Paris a estim&eacute; que la mesure de suspension temporaire la ciblant &eacute;tait disproportionn&eacute;e, la vente de produi",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-22",
-    title: "Cybersécurité et violation massive de données personnelles : fortes sanctions de la CNIL pour Free et Free mobile",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/cybersecurite-et-violation-massive-de-donnees-personnelles-fortes-sanctions-de-la-cnil-pour-free-et-free-mobile-DNU100d3",
-    source: "Lextenso",
-    date: "2026-02-09",
-    cat: "Jurisprudence",
-    desc: "La CNIL a lourdement sanctionn&eacute; les soci&eacute;t&eacute;s Free Mobile et Free avec des amendes respectives de 27&nbsp;et 15&nbsp;millions d&#039;euros&nbsp;: les soci&eacute;t&eacute;s n&#039;avaient pas adopt&eacute; des mesures adapt&eacute;es en mati&egrave;re de cybers&eacute;curit&eacute; et ces d&eacute;faillances ont &eacute;t&eacute",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-23",
-    title: "La liberté d'expression du magistrat sur un réseau social",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n2/la-liberte-d-expression-du-magistrat-sur-un-reseau-social-DNU100d4",
-    source: "Lextenso",
-    date: "2026-02-09",
-    cat: "Jurisprudence",
-    desc: "Au terme de l&#039;application de la grille d&#039;analyse qu&#039;elle a consacr&eacute;e, la Cour europ&eacute;enne des droits de l&#039;Homme juge que la sanction disciplinaire inflig&eacute;e &agrave; un magistrat pour des propos tenus sur un r&eacute;seau social ne repose pas sur des motifs pertinents et suffisants et constitue, d&egrave;s lor",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-22",
-    title: "L’ANSSI met à jour sa politique open source",
-    url: "http://cyber.gouv.fr/actualites/lanssi-met-a-jour-sa-politique-open-source/",
-    source: "ANSSI",
-    date: "2026-02-09",
-    cat: "Cybersécurité",
-    desc: "L’ANSSI s’engage de longue date au sein de l’écosystème open source, contribuant activement au renforcement de sa sécurité et à […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-23",
-    title: "Synthèse de la menace sur l’IA générative face aux attaques informatiques",
-    url: "http://cyber.gouv.fr/actualites/synthese-de-la-menace-sur-lia-generative-face-aux-attaques-informatiques/",
-    source: "ANSSI",
-    date: "2026-02-04",
-    cat: "IA",
-    desc: "L’IA générative face aux attaques informatiques Technologie innovante, performante et flexible, l’IA générative est aujourd’hui employée de manière massive et […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-17",
-    title: "Register now for our conference on cross-regulatory cooperation in the EU (17 March)",
-    url: "https://www.edpb.europa.eu/news/news/2026/register-now-our-conference-cross-regulatory-cooperation-eu-17-march_en",
-    source: "EDPB",
-    date: "2026-02-03",
-    cat: "RGPD",
-    desc: "The European Data Protection Board (EDPB) invites you to register for its conference, “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” , taking place on 17 March 2026 in Brussels . This event will offer a high-level overview of the EDPB’s work in the EU’s cross-regulatory landscape, focusing in particular on how",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-0",
-    title: "Meta contraint de prévenir la diffusion de publicités de jeux en ligne",
-    url: "https://www.legalis.net/actualite/meta-contraint-de-prevenir-la-diffusion-de-publicites-de-jeux-en-ligne/",
-    source: "Legalis",
-    date: "2026-02-02",
-    cat: "Plateformes",
-    desc: "Dans un arrêt du 28 janvier 2026, la cour d’appel de Paris confirme l’injonction dynamique qui avait été prononcée par le juge des requêtes à l’encontre de Meta relative à la diffusion de publicités pour des jeux en ligne contrefaisant les marques des casinos du groupe Lucien Barrière. La cour s’appuie sur la recommandation de [&#8230;]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-24",
-    title: "La France prend la présidence du Groupe de travail sur la cybersécurité du G7",
-    url: "http://cyber.gouv.fr/actualites/la-france-prend-la-presidence-du-groupe-de-travail-sur-la-cybersecurite-du-g7/",
-    source: "ANSSI",
-    date: "2026-01-30",
-    cat: "Cybersécurité",
-    desc: "Face à l’intensification et à la diversification des cybermenaces, la cybersécurité constitue un enjeu stratégique majeur pour la sécurité nationale […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-18",
-    title: "Stakeholder event on political advertising: express your interest",
-    url: "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-express-your-interest_en",
-    source: "EDPB",
-    date: "2026-01-29",
-    cat: "RGPD",
-    desc: "Brussels, 29 January - The EDPB organises a remote event to collect stakeholders’ input on its Guidelines on the processing of personal data to target or deliver political advertisements under the regulation on the transparency and targeting of political advertising . The event will take place on 27 March 2026 (time to be confirmed). This will be a",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-19",
-    title: "Data Protection Day 2026: keeping children’s personal data safe online",
-    url: "https://www.edpb.europa.eu/news/news/2026/data-protection-day-2026-keeping-childrens-personal-data-safe-online_en",
-    source: "EDPB",
-    date: "2026-01-28",
-    cat: "RGPD",
-    desc: "Watch the video on online data protection risks for kids &nbsp; &nbsp; Brussels, 28 January - Every day, the European Data Protection Authorities (DPAs) that make up the EDPB work together to ensure the protection of individuals’ personal data. When it comes to children's data, extra vigilance is essential , particularly in today's fast-evolving di",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-24",
-    title: "Conformité de la diffusion d'une lettre d'information quotidienne",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/conformite-de-la-diffusion-d-une-lettre-d-information-quotidienne-DNU100c1",
-    source: "Lextenso",
-    date: "2026-01-13",
-    cat: "Plateformes",
-    desc: "L&#039;adresse &eacute;lectronique d&#039;un utilisateur collect&eacute;e lors de la cr&eacute;ation d&#039;un compte gratuit sur une plateforme offrant un acc&egrave;s limit&eacute; &agrave; des contenus peut &ecirc;tre utilis&eacute;e pour l&#039;envoi d&#039;une lettre d&#039;information quotidienne. En poursuivant un objectif de promotion &eacu",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-25",
-    title: "L'Europe affirme (un peu) sa souveraineté numérique !",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/l-europe-affirme-un-peu-sa-souverainete-numerique-DNU100c7",
-    source: "Lextenso",
-    date: "2026-01-13",
-    cat: "Contrats IT",
-    desc: "Face &agrave; la d&eacute;pendance europ&eacute;enne aux infrastructures num&eacute;riques am&eacute;ricaines, la Commission europ&eacute;enne a publi&eacute; la version 1.2.1 de son Cloud Sovereignty Framework, outil d&#039;&eacute;valuation du niveau d&#039;ind&eacute;pendance et de confiance des services cloud. Bas&eacute; sur huit objectifs de ",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-26",
-    title: "L'injonction administrative de conservation pour un an des métadonnées de communication",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/l-injonction-administrative-de-conservation-pour-un-an-des-metadonnees-de-communication-DNU100c6",
-    source: "Lextenso",
-    date: "2026-01-13",
-    cat: "RGPD",
-    desc: "Le d&eacute;cret du 15&nbsp;octobre 2025 enjoint aux op&eacute;rateurs de communication, pour prot&eacute;ger la s&eacute;curit&eacute; nationale, de conserver les m&eacute;tadonn&eacute;es de communication, notamment les adresses IP et MAC, et de g&eacute;olocalisation, pendant une dur&eacute;e d&#039;un an, par exception au principe g&eacute;n&ea",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-27",
-    title: "Responsabilité des plateformes numériques au Brésil : le tournant jurisprudentiel de 2025",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/responsabilite-des-plateformes-numeriques-au-bresil-le-tournant-jurisprudentiel-de-2025-DNU100c5",
-    source: "Lextenso",
-    date: "2026-01-13",
-    cat: "Plateformes",
-    desc: "En juin 2025, la Cour supr&ecirc;me br&eacute;silienne a red&eacute;fini le r&eacute;gime de responsabilit&eacute; civile des plateformes num&eacute;riques en d&eacute;clarant partiellement inconstitutionnel l&#039;article&nbsp;19 du Marco Civil da Internet. Sans instaurer une responsabilit&eacute; objective, la Cour a remplac&eacute; l&#039;exigen",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-28",
-    title: "L'exploitant d'une place de marché en ligne est responsable du traitement des données personnelles",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/l-exploitant-d-une-place-de-marche-en-ligne-est-responsable-du-traitement-des-donnees-personnelles-DNU100c4",
-    source: "Lextenso",
-    date: "2026-01-13",
-    cat: "RGPD",
-    desc: "En tant que responsable du traitement de donn&eacute;es &agrave; caract&egrave;re personnel, l&#039;exploitant d&#039;une place de march&eacute; en ligne est soumis aux obligations du RGPD et engage, &agrave; ce titre, sa responsabilit&eacute; &agrave; raison des donn&eacute;es sensibles contenues dans les annonces publi&eacute;es, sur sa plateform",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-29",
-    title: "Propos climatosceptiques et complotistes à l'antenne : ne pas proposer de contradiction est fautif",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n1/propos-climatosceptiques-et-complotistes-a-l-antenne-ne-pas-proposer-de-contradiction-est-fautif-DNU100c3",
-    source: "Lextenso",
-    date: "2026-01-13",
-    cat: "Jurisprudence",
-    desc: "Les soci&eacute;t&eacute;s exploitant un service d&#039;information ont un double devoir d&#039;honn&ecirc;tet&eacute; de l&#039;information et de ma&icirc;trise de l&#039;antenne. Le Conseil d&#039;&Eacute;tat approuve la sanction p&eacute;cuniaire impos&eacute;e par l&#039;Arcom &agrave; CNews pour la diffusion, sans contradiction, de propos clim",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-25",
-    title: "L'ANSSI étoffe le volet opérationnel de son corpus sur la remédiation",
-    url: "http://cyber.gouv.fr/actualites/lanssi-etoffe-le-volet-operationnel-de-son-corpus-sur-la-remediation/",
-    source: "ANSSI",
-    date: "2026-01-13",
-    cat: "Cybersécurité",
-    desc: "Ces deux documents viennent compléter le volet opérationnel de la remédiation, en particulier pour aider la mise en œuvre ou […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-26",
-    title: "Le dispositif national de cybersécurité se renforce grâce aux centres de réponse à incident aux niveaux territorial, sectoriel et ministériel",
-    url: "http://cyber.gouv.fr/actualites/le-dispositif-national-de-cybers%C3%A9curit%C3%A9-se-renforce-gr%C3%A2ce-aux-centres-de-r%C3%A9ponse-%C3%A0-incident-aux-niveaux-territorial-sectoriel-et-minist%C3%A9riel/",
-    source: "ANSSI",
-    date: "2026-01-08",
-    cat: "Cybersécurité",
-    desc: "L’écosystème français de la cybersécurité se développe fortement et l’ANSSI est un des acteurs qui encourage cette transformation. Face à […]",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-1",
-    title: "L’éditeur européen de Playboy condamné pour dénigrement",
-    url: "https://www.legalis.net/actualite/lediteur-europeen-de-playboy-condamne-pour-denigrement/",
-    source: "Legalis",
-    date: "2025-12-22",
-    cat: "Jurisprudence",
-    desc: "Par un arrêt du 4 décembre 2025, la cour d’appel de Paris a estimé que la société Kleverage, éditeur licencié de Playboy en Europe, s&#8217;était rendue responsable de dénigrement fautif à l&#8217;encontre de la société Kama Publishing, productrice de ses publications, constitutifs d&#8217;un trouble manifestement illicite du fait de la dénonciatio",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-27",
-    title: "Le site de l’ANSSI évolue pour plus de lisibilité",
-    url: "http://cyber.gouv.fr/actualites/le-site-de-lanssi-evolue-pour-plus-de-lisibilite/",
-    source: "ANSSI",
-    date: "2025-12-11",
-    cat: "Cybersécurité",
-    desc: "Le site cyber.gouv.fr de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), évolue pour mieux répondre aux besoins des […]",
-    auto: true
-  },
-  {
-    id: "auto-1773223459-2",
-    title: "Le modèle de covoiturage de Citygo confirmé",
-    url: "https://www.legalis.net/actualite/le-modele-de-covoiturage-de-citygo-confirme/",
-    source: "Legalis",
-    date: "2025-12-05",
-    cat: "Jurisprudence",
-    desc: "Par un arrêt du 26 novembre 2025, la cour d’appel de Versailles a confirmé le jugement du 7 juin 2023 du tribunal de commerce de Nanterre qui avait considéré que la plateforme Citygo respectait les obligations en matière de covoiturage imposées par l’article L.3132-1 du code des transports. La cour en a conclu que Citygo [&#8230;]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-28",
-    title: "Etat de la menace informatique sur les équipements mobiles",
-    url: "http://cyber.gouv.fr/actualites/etat-de-la-menace-informatique-sur-les-equipements-mobiles/",
-    source: "ANSSI",
-    date: "2025-11-26",
-    cat: "RGPD",
-    desc: "L’omniprésence, l’usage systématique des smartphones et la multiplication des fonctionnalités et données qu’ils traitent en font des cibles d’intérêt pour […]",
-    auto: true
-  },
-  {
-    id: "auto-1772923797-29",
-    title: "NIS 2 : les entités assujetties peuvent se pré-enregistrer",
-    url: "http://cyber.gouv.fr/actualites/nis-2-les-entit%C3%A9s-assujetties-peuvent-se-pre-enregistrer/",
-    source: "ANSSI",
-    date: "2025-11-24",
-    cat: "Cybersécurité",
-    desc: "Le service de pré-enregistrement des entités assujetties à la directive NIS 2 est désormais disponible. Dans le cadre de la […]",
-    auto: true
-  },
-  {
-    id: "auto-1773223671-2",
-    title: "Ligue 1+",
-    url: "https://www.arcom.fr/sites-plateformes/ligue-1",
-    source: "ARCOM",
-    date: "2025-11-14",
-    cat: "RGPD",
-    desc: "Ligue 1+ a.branger ven 14/11/2025 - 09:28 Ligue 1+ est un service d’abonnement donnant accès à tout le contenu de la Ligue 1. &nbsp; Le service est accessible sur le web et via l'application sur tous les appareils mobiles et tv connectés. CTA Ligue 1+ Logo Catégorie de service Contenu sportif Modèle tarifaire Abonnement Type de lecture Streaming Su",
-    auto: true
-  },
+    "id": "auto-1774483200-0",
+    "title": "Commission launches AI Act Service Desk and Single Information Platform to support AI Act implementation",
+    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-launches-ai-act-service-desk-and-single-information-platform-support-ai-act",
+    "source": "Commission UE",
+    "date": "2026-03-26",
+    "cat": "IA",
+    "desc": "La Commission européenne lance un service d'assistance et une plateforme d'information unique pour accompagner la mise en œuvre de l'AI Act.",
+    "auto": true
+  },
+  {
+    "id": "auto-1774483200-1",
+    "title": "Commission seeks feedback on draft implementing act to establish AI regulatory sandboxes under the AI Act",
+    "url": "https://digital-strategy.ec.europa.eu/en/consultations/commission-seeks-feedback-draft-implementing-act-establish-ai-regulatory-sandboxes-under-ai-act",
+    "source": "Commission UE",
+    "date": "2026-03-26",
+    "cat": "IA",
+    "desc": "Consultation sur les règles d'établissement des bacs à sable réglementaires IA : les fournisseurs pourront tester leurs systèmes sous supervision réglementaire dans un cadre contrôlé.",
+    "auto": true
+  },
+  {
+    "id": "auto-1774396800-0",
+    "title": "Rémi STEFANINI, nouveau directeur des technologies, de l'innovation et de l'intelligence artificielle",
+    "url": "https://www.cnil.fr/fr/remi-stefanini-directeur-dtia",
+    "source": "CNIL",
+    "date": "2026-03-25",
+    "cat": "IA",
+    "desc": "Rémi Stefanini rejoint la CNIL le 15 avril 2026 en tant que directeur des technologies, de l'innovation et de l'intelligence artificielle.",
+    "auto": true
+  },
+  {
+    "id": "auto-1774396800-1",
+    "title": "Vie privée des enfants : les résultats de l'audit du Global Privacy Enforcement Network",
+    "url": "https://www.cnil.fr/fr/vie-privee-des-enfants-les-resultats-de-laudit-du-global-privacy-enforcement-network",
+    "source": "CNIL",
+    "date": "2026-03-25",
+    "cat": "RGPD",
+    "desc": "En novembre 2025, 27 autorités de protection des données ont examiné les pratiques de confidentialité sur les sites web et applications mobiles destinés aux enfants.",
+    "auto": true
+  },
+  {
+    "id": "auto-1774310400-0",
+    "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
+    "source": "EDPB",
+    "date": "2026-03-24",
+    "cat": "Plateformes",
+    "desc": "L'EDPB tire les enseignements de sa conférence sur la coopération réglementaire : interactions entre RGPD, DMA et DSA, avec la participation de la Commission et du Parlement européen.",
+    "auto": true
+  },
+  {
+    "id": "auto-1774224000-0",
+    "title": "Retrouvez l'ANSSI au Forum InCyber 2026",
+    "url": "https://cyber.gouv.fr/actualites/anssi-forum-incyber-2026/",
+    "source": "ANSSI",
+    "date": "2026-03-23",
+    "cat": "Cybersécurité",
+    "desc": "L'ANSSI sera présente au Forum InCyber (FIC) à Lille du 31 mars au 2 avril 2026, rendez-vous annuel des professionnels de la cybersécurité.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773964800-0",
+    "title": "Les dispositifs de captation sonore couplés à la vidéoprotection",
+    "url": "https://www.cnil.fr/fr/les-dispositifs-de-captation-sonore-couples-la-videoprotection",
+    "source": "CNIL",
+    "date": "2026-03-20",
+    "cat": "RGPD",
+    "desc": "L'enregistrement audio par caméras de surveillance est interdit, mais les dispositifs de captation sonore dans les zones surveillées peuvent être légaux dans certaines circonstances.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773878400-0",
+    "title": "Ordre du jour de la séance plénière du 19 mars 2026",
+    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-19-mars-2026",
+    "source": "CNIL",
+    "date": "2026-03-19",
+    "cat": "RGPD",
+    "desc": "Ordre du jour de la séance plénière de la CNIL du 19 mars 2026 à 9h30.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773878400-1",
+    "title": "CEF 2026 : Le CEPD lance une action coordonnée concernant les obligations de transparence et d'information",
+    "url": "https://www.cnil.fr/fr/cef-2026-obligations-transparence-information",
+    "source": "CNIL",
+    "date": "2026-03-19",
+    "cat": "RGPD",
+    "desc": "Après le droit à l'effacement en 2025, le CEPD se concentre en 2026 sur les obligations de transparence et d'information du RGPD. Action coordonnée par la CNIL.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773878400-2",
+    "title": "L'ANSSI lance un appel à commentaires sur les architectures de référence",
+    "url": "https://cyber.gouv.fr/actualites/lanssi-lance-un-appel-a-commentaires-supervision-de-securite/",
+    "source": "ANSSI",
+    "date": "2026-03-19",
+    "cat": "Cybersécurité",
+    "desc": "L'ANSSI invite les parties prenantes et prestataires à commenter sa nouvelle doctrine de supervision de sécurité et ses architectures de référence.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773878400-3",
+    "title": "NIS 2 : l'ANSSI poursuit et renforce sa dynamique d'accompagnement",
+    "url": "https://cyber.gouv.fr/actualites/nis-2-lanssi-poursuit-et-renforce-sa-dynamique-daccompagnement/",
+    "source": "ANSSI",
+    "date": "2026-03-19",
+    "cat": "Cybersécurité",
+    "desc": "Face à l'intensification des cybermenaces, l'ANSSI renforce son accompagnement pour la mise en œuvre de la directive NIS 2 auprès des entités concernées.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773878400-4",
+    "title": "EDPB and EDPS support strengthening EU's cybersecurity and easing compliance while protecting individuals' personal data",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+    "source": "EDPB",
+    "date": "2026-03-19",
+    "cat": "Cybersécurité",
+    "desc": "Avis conjoint EDPB-EDPS sur l'Acte cybersécurité 2 et les amendements NIS2 : cybersécurité et protection des données doivent aller de pair, la conformité doit rester proportionnée.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773878400-5",
+    "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
+    "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+    "source": "EDPB",
+    "date": "2026-03-19",
+    "cat": "RGPD",
+    "desc": "25 autorités européennes évaluent en 2026 le respect des obligations de transparence et d'information du RGPD par les responsables de traitement.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773360000-0",
+    "title": "Serveur mandataire web filtrant : les recommandations de la CNIL",
+    "url": "https://www.cnil.fr/fr/recommandation-serveur-mandataire-web-filtrant",
+    "source": "CNIL",
+    "date": "2026-03-13",
+    "cat": "RGPD",
+    "desc": "La CNIL publie des recommandations pour utilisateurs et fournisseurs de proxys web filtrants afin d'assurer la conformité RGPD dès la conception et dans la mise en œuvre.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773273600-0",
+    "title": "Ordre du jour de la séance plénière du 12 mars 2026",
+    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-mars-2026",
+    "source": "CNIL",
+    "date": "2026-03-12",
+    "cat": "RGPD",
+    "desc": "Ordre du jour de la séance plénière de la CNIL du 12 mars 2026 à 9h30.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773273600-1",
+    "title": "Réglementation européenne sur les biotechnologies",
+    "url": "https://www.cnil.fr/fr/reglementation-europeenne-sur-les-biotechnologies-le-cepd-et-le-controleur-europeen-de-la-protection",
+    "source": "CNIL",
+    "date": "2026-03-12",
+    "cat": "RGPD",
+    "desc": "Le CEPD et le Contrôleur européen soutiennent l'harmonisation des essais cliniques dans le cadre européen sur les biotechnologies, avec des garanties pour les données de santé sensibles.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773273600-2",
+    "title": "La CNIL sera présente au Forum InCyber (FIC) du 31 mars au 2 avril 2026",
+    "url": "https://www.cnil.fr/fr/forum-incyber-2026",
+    "source": "CNIL",
+    "date": "2026-03-12",
+    "cat": "Cybersécurité",
+    "desc": "La CNIL participera au FIC 2026 à Lille avec un stand et la présence de sa direction pour répondre aux questions du public et des professionnels sur la protection des données.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773273600-3",
+    "title": "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
+    "source": "EDPB",
+    "date": "2026-03-12",
+    "cat": "RGPD",
+    "desc": "Avis conjoint sur la loi européenne biotechnologies : soutien à l'harmonisation des essais cliniques avec des recommandations sur la durée de conservation des données de santé.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773187200-0",
+    "title": "Numérique en santé : la CNIL et la HAS s'engagent pour renforcer les bonnes pratiques",
+    "url": "https://www.cnil.fr/fr/numerique-en-sante-la-cnil-et-la-has-sengagent",
+    "source": "CNIL",
+    "date": "2026-03-11",
+    "cat": "RGPD",
+    "desc": "Accord de partenariat CNIL-HAS signé le 10 mars 2026 pour renforcer les bonnes pratiques de protection des données personnelles dans le secteur de la santé numérique.",
+    "auto": true
+  },
+  {
+    "id": "auto-1773187200-1",
+    "title": "Panorama de la cybermenace 2025",
+    "url": "https://cyber.gouv.fr/actualites/panorama-de-la-cybermenace-2025/",
+    "source": "ANSSI",
+    "date": "2026-03-11",
+    "cat": "Cybersécurité",
+    "desc": "L'ANSSI publie son panorama annuel des cybermenaces 2025, documentant le paysage des menaces et les attaques ciblant la France au cours de l'année écoulée.",
+    "auto": true
+  },
+  {
+    "id": "auto-1772755200-0",
+    "title": "Stakeholder event on political advertising: agenda available now",
+    "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
+    "source": "EDPB",
+    "date": "2026-03-06",
+    "cat": "RGPD",
+    "desc": "L'EDPB organise le 27 mars un événement sur les lignes directrices relatives au traitement des données personnelles pour le ciblage de publicités politiques.",
+    "auto": true
+  },
+  {
+    "id": "auto-1772496000-0",
+    "title": "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
+    "url": "https://www.edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
+    "source": "EDPB",
+    "date": "2026-03-03",
+    "cat": "Plateformes",
+    "desc": "Programme de la conférence de l'EDPB du 17 mars 2026 sur la coopération réglementaire croisée dans l'UE, accessible en livestream.",
+    "auto": true
+  },
+  {
+    "id": "auto-1772409600-0",
+    "title": "Appel à manifestation d'intérêt pour le test d'un outil d'audit RGPD des modèles d'IA",
+    "url": "https://cyber.gouv.fr/actualites/ami-outil-audit-rgpd-ia/",
+    "source": "ANSSI",
+    "date": "2026-03-02",
+    "cat": "IA",
+    "desc": "L'ANSSI participe au projet PANAME (Privacy Auditing of AI Models) pour développer un outil d'audit de conformité RGPD des systèmes d'IA. Appel à candidatures ouvert.",
+    "auto": true
+  },
+  {
+    "id": "auto-1772064000-0",
+    "title": "Commission sends requests for information on generative AI risks to Very Large Online Platforms under the Digital Services Act",
+    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-sends-requests-information-generative-ai-risks-6-very-large-online-platforms-and-2-very",
+    "source": "Commission UE",
+    "date": "2026-02-27",
+    "cat": "Plateformes",
+    "desc": "Demandes formelles DSA adressées à Bing, Google, Facebook, Instagram, Snapchat, TikTok, YouTube et X sur leurs mesures face aux risques de l'IA générative (deepfakes, hallucinations).",
+    "auto": true
+  },
+  {
+    "id": "auto-1771804800-0",
+    "title": "Le MOOC SecNumacadémie fait peau neuve",
+    "url": "https://cyber.gouv.fr/actualites/le-mooc-secnumacad%C3%A9mie-fait-peau-neuve/",
+    "source": "ANSSI",
+    "date": "2026-02-24",
+    "cat": "Cybersécurité",
+    "desc": "La plateforme SecNumacadémie sera temporairement indisponible à partir du 28 février pour plusieurs mois dans le cadre d'une refonte complète.",
+    "auto": true
+  },
+  {
+    "id": "auto-1771718400-0",
+    "title": "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly's statement",
+    "url": "https://www.edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
+    "source": "EDPB",
+    "date": "2026-02-23",
+    "cat": "IA",
+    "desc": "L'EDPB soutient la déclaration de 61 autorités mondiales sur les images intimes non consensuelles générées par IA : les organisations doivent garantir la conformité de leurs systèmes IA.",
+    "auto": true
+  },
+  {
+    "id": "auto-1771286400-0",
+    "title": "EDPB identifies challenges hindering the full implementation of the right to erasure",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-identifies-challenges-hindering-full-implementation-right-erasure_en",
+    "source": "EDPB",
+    "date": "2026-02-18",
+    "cat": "RGPD",
+    "desc": "Rapport CEF 2025 : 7 obstacles récurrents au droit à l'effacement identifiés, dont des procédures internes inadéquates et des techniques d'anonymisation insuffisantes.",
+    "auto": true
+  },
+  {
+    "id": "auto-1770854400-0",
+    "title": "Making GDPR compliance easier through new initiatives: a key focus of the EDPB work programme 2026-2027",
+    "url": "https://www.edpb.europa.eu/news/news/2026/making-gdpr-compliance-easier-through-new-initiatives-key-focus-edpb-work-programme_en",
+    "source": "EDPB",
+    "date": "2026-02-13",
+    "cat": "RGPD",
+    "desc": "Le programme 2026-2027 de l'EDPB prévoit des modèles prêts à l'emploi pour les évaluations d'intérêt légitime, les registres de traitement et les avis de confidentialité.",
+    "auto": true
+  },
+  {
+    "id": "auto-1770768000-0",
+    "title": "EDPB work programme 2026-2027: easing compliance and strengthening cooperation across the evolving digital landscape",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-work-programme-2026-2027-easing-compliance-and-strengthening-cooperation-across_en",
+    "source": "EDPB",
+    "date": "2026-02-12",
+    "cat": "RGPD",
+    "desc": "Programme de travail EDPB 2026-2027 : harmonisation, coopération dans l'application, lignes directrices sur l'IA générative, les pratiques de consentement et la coordination réglementaire.",
+    "auto": true
+  },
+  {
+    "id": "auto-1770508800-0",
+    "title": "L'ANSSI met à jour sa politique open source",
+    "url": "https://cyber.gouv.fr/actualites/lanssi-met-a-jour-sa-politique-open-source/",
+    "source": "ANSSI",
+    "date": "2026-02-09",
+    "cat": "Cybersécurité",
+    "desc": "L'ANSSI actualise sa politique open source, renforçant son engagement envers la sécurité et le développement de l'écosystème logiciel libre.",
+    "auto": true
+  }
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-26T10:05:15";
+
+window.AUTO_VEILLE_UPDATED = "2026-03-26T08:00:00.000Z";
