@@ -598,5 +598,205 @@
     "cat": "Plateformes",
     "desc": "Le 6&nbsp;f&eacute;vrier 2026, la Commission europ&eacute;enne a conclu, &agrave; titre pr&eacute;liminaire, dans le cadre d&#039;une proc&eacute;dure formelle, que TikTok avait enfreint le DSA en raison de sa conception addictive. Le d&eacute;filement infini, la lecture automatique, les notifications instantan&eacute;es, ainsi que le syst&egrave;m",
     "auto": true
+  },
+  {
+    "id": "auto-1774535191-76",
+    "title": "Responsabilité civile de l'hébergeur : défaut de notification et promptitude de l'intervention",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/responsabilite-civile-de-l-hebergeur-defaut-de-notification-et-promptitude-de-l-intervention-DNU100d6",
+    "source": "Lextenso",
+    "date": "2026-03-08",
+    "cat": "Jurisprudence",
+    "desc": "&Agrave; d&eacute;faut de notification, l&#039;h&eacute;bergeur n&#039;engage pas sa responsabilit&eacute; civile pour ne pas avoir retir&eacute; un contenu attentatoire &agrave; des droits de propri&eacute;t&eacute; intellectuelle, d&egrave;s lors que l&#039;illic&eacute;it&eacute; dudit contenu n&#039;&eacute;tait pas manifeste. De plus, a agi &q",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-77",
+    "title": "La décision contraignante du CEPD devant le Tribunal de l'Union ; du renvoi préjudiciel au recours direct",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/la-decision-contraignante-du-cepd-devant-le-tribunal-de-l-union-du-renvoi-prejudiciel-au-recours-direct-DNU100d5",
+    "source": "Lextenso",
+    "date": "2026-03-08",
+    "cat": "Jurisprudence",
+    "desc": "Par son arr&ecirc;t du 10&nbsp;f&eacute;vrier 2026, la grande chambre de la Cour de justice clarifie la possibilit&eacute; de contester en justice les d&eacute;cisions contraignantes du CEPD adopt&eacute;es sur le fondement de l&#039;article 65 du RGPD. En censurant l&#039;ordonnance du Tribunal qui avait d&eacute;clar&eacute; irrecevable le recour",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-43",
+    "title": "Stakeholder event on political advertising: agenda available now",
+    "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
+    "source": "EDPB",
+    "date": "2026-03-06",
+    "cat": "RGPD",
+    "desc": "Brussels, 6 March - The EDPB organises a remote event to collect stakeholders’ input on its Guidelines on the processing of personal data to target or deliver political advertisements under the regulation on the transparency and targeting of political advertising , on 27 March 2026. The agenda is available below This will be an opportunity to infor",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-29",
+    "title": "Séminaire bilatéral franco-néerlandais",
+    "url": "https://www.conseil-etat.fr/actualites/seminaire-bilateral-franco-neerlandais",
+    "source": "Conseil d'État",
+    "date": "2026-03-04",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-30",
+    "title": "Laits infantiles : des recommandations sanitaires adaptées",
+    "url": "https://www.conseil-etat.fr/actualites/laits-infantiles-des-recommandations-sanitaires-adaptees",
+    "source": "Conseil d'État",
+    "date": "2026-03-03",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-44",
+    "title": "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
+    "url": "https://www.edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
+    "source": "EDPB",
+    "date": "2026-03-03",
+    "cat": "RGPD",
+    "desc": "The conference \"Cross- regulatory interplay and cooperation in the EU: a data protection perspective” takes place on 17 March 2026 from 9.15 to 15.30 .&nbsp; This event will offer a high-level overview of the EDPB’s work in the EU’s cross-regulatory landscape, focusing in particular on how regulatory frameworks interact and how cooperation between ",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-49",
+    "title": "New episode on the Digital Identity Wallets is out!",
+    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/new-episode-digital-identity-wallets-out",
+    "source": "EDPS",
+    "date": "2026-03-03",
+    "cat": "RGPD",
+    "desc": "New episode on the Digital Identity Wallets is out! miriam Tue, 03/03/2026 - 14:58 Thu, 03/05/2026 - 12:00 TechDispatch Talks explores the intersection of technology, data protection, and privacy.&nbsp;In this episode we discuss how Digital Identity Wallets could transform the way we prove who we are online and offline. Could it reduce data oversha",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-62",
+    "title": "Modèle de maturité et d’audit de la gouvernance du numérique : le nouveau référentiel pour piloter la maturité de votre gouvernance numérique",
+    "url": "https://www.cigref.fr/modele-de-maturite-et-daudit-de-la-gouvernance-du-numerique-le-nouveau-referentiel-pour-piloter-la-maturite-de-votre-gouvernance-numerique",
+    "source": "CIGREF",
+    "date": "2026-03-03",
+    "cat": "Contrats IT",
+    "desc": "Face à l’accélération des ruptures technologiques et à l’omniprésence du numérique au cœur des métiers, le Cigref, l’IFACI et ISACA France, lancent le Modèle de maturité et d’audit de la gouvernance du numérique (MAGNum). Ce successeur du GAGSI dépasse le cadre de l’audit pour devenir un véritable outil de pilotage stratégique au service de la [&#8",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-63",
+    "title": "Assessing the return on investment of generative and agentic AI solutions",
+    "url": "https://www.cigref.fr/assessing-the-return-on-investment-of-generative-and-agentic-ai-solutions",
+    "source": "CIGREF",
+    "date": "2026-03-03",
+    "cat": "IA",
+    "desc": "As businesses and public administrations ramp up their experimentation, measuring the return on investment (ROI) of artificial intelligence solutions is becoming a major strategic challenge for digital departments. Beyond simple technical optimisation, the integration of generative and agentic AI technologies calls into question organisations&#8217",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-0",
+    "title": "Appel à manifestation d’intérêt pour le test d’un outil d’audit RGPD des modèles d’IA",
+    "url": "http://cyber.gouv.fr/actualites/ami-outil-audit-rgpd-ia/",
+    "source": "ANSSI",
+    "date": "2026-03-02",
+    "cat": "RGPD",
+    "desc": "L’ANSSI fait partie du projet PANAME ( Privacy Auditing of AI Models ) lancé en juin dernier conjointement avec (Ouvre […]",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-31",
+    "title": "Environnement : le Conseil d’État annule les nouvelles règles de création de plans d’eau dans les zones humides",
+    "url": "https://www.conseil-etat.fr/actualites/environnement-le-conseil-d-etat-annule-les-nouvelles-regles-de-creation-de-plans-d-eau-dans-les-zones-humides",
+    "source": "Conseil d'État",
+    "date": "2026-03-02",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-32",
+    "title": "Elections municipales 2026 : Le Conseil d’Etat rejette les recours de LFI et de l’UDR contre la circulaire attribuant des nuances politiques pour l...",
+    "url": "https://www.conseil-etat.fr/actualites/elections-municipales-2026-le-conseil-d-etat-rejette-les-recours-de-lfi-et-de-l-udr-contre-la-circulaire-attribuant-des-nuances-politiques-pour-l",
+    "source": "Conseil d'État",
+    "date": "2026-02-27",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-33",
+    "title": "Santé : deux médecins sanctionnés pour refus de soins discriminatoire",
+    "url": "https://www.conseil-etat.fr/actualites/sante-deux-medecins-sanctionnes-pour-refus-de-soins-discriminatoire",
+    "source": "Conseil d'État",
+    "date": "2026-02-27",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-34",
+    "title": "Le Conseil d’État rejette des recours contre les « groupes de besoins » mis en place au collège",
+    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-des-recours-contre-les-groupes-de-besoins-mis-en-place-au-college",
+    "source": "Conseil d'État",
+    "date": "2026-02-27",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-1",
+    "title": "Le MOOC SecNumacadémie fait peau neuve",
+    "url": "http://cyber.gouv.fr/actualites/le-mooc-secnumacad%C3%A9mie-fait-peau-neuve/",
+    "source": "ANSSI",
+    "date": "2026-02-24",
+    "cat": "Cybersécurité",
+    "desc": "La plateforme SecNumacadémie sera temporairement indisponible à partir du 28 février et ce pour plusieurs mois, elle devrait être de […]",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-45",
+    "title": "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly’s statement",
+    "url": "https://www.edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
+    "source": "EDPB",
+    "date": "2026-02-23",
+    "cat": "RGPD",
+    "desc": "Brussels, 23 February - EDPB Chair Anu Talus has signed a Joint Statement on AI-Generated Imagery and the Protection of Privacy on behalf of the EDPB . The statement, coordinated by the Global Privacy Assembly's (GPA) International Enforcement Cooperation Working Group (IEWG) , represents the united position of 61 authorities across the world. This",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-50",
+    "title": "Joint Statement on AI-Generated Imagery and the Protection of Privacy",
+    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/joint-statement-ai-generated-imagery-and-protection-privacy",
+    "source": "EDPS",
+    "date": "2026-02-23",
+    "cat": "RGPD",
+    "desc": "Joint Statement on AI-Generated Imagery and the Protection of Privacy francesco Mon, 02/23/2026 - 11:05 Mon, 02/23/2026 - 12:00 The EDPS is among the 61 signatories of a Joint Statement on AI-Generated Imagery issued by data protection authorities from the Global Privacy Assembly. 1 Read here",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-25",
+    "title": "Distribution de la presse",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/distribution-de-la-presse-200226.html",
+    "source": "ARCEP",
+    "date": "2026-02-20",
+    "cat": "Plateformes",
+    "desc": "L’Arcep lance un appel à commentaires sur un avenant à l’accord interprofessionnel définissant les règles d’assortiment et de détermination des quantités servies des titres CPPAP hors IPG aux points de vente",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-53",
+    "title": "CEDPO welcomes APDL as a new member",
+    "url": "https://cedpo.eu/cedpo-welcomes-apdl-as-a-new-member/",
+    "source": "CEDPO",
+    "date": "2026-02-20",
+    "cat": "RGPD",
+    "desc": "Der Beitrag CEDPO welcomes APDL as a new member erschien zuerst auf Confederation of European Data Protection Organisations .",
+    "auto": true
+  },
+  {
+    "id": "auto-1774535191-26",
+    "title": "Réseaux en fibre optique",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-en-fibre-optique-190226.html",
+    "source": "ARCEP",
+    "date": "2026-02-19",
+    "cat": "Plateformes",
+    "desc": "L’Arcep publie la septième édition de son observatoire sur la qualité des réseaux en fibre optique",
+    "auto": true
   }
 ]

@@ -1,6 +1,106 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-26T13:39:57
+// Dernière collecte : 2026-03-26T14:26:54
 window.AUTO_TECH = [
+  {
+    id: "tech-1774535211-0",
+    title: "Senators are pushing to find out how much electricity data centers actually use",
+    url: "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+    source: "The Verge",
+    date: "2026-03-26",
+    cat: "Hardware",
+    desc: "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) urging it to begin collecting \"comprehensive, annual energy-use disclosures\" on data centers, as reported by Wired. According to the letter, data on how much electricity data centers are consuming is \"essential for accur",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-1",
+    title: "Why a two-seater robotaxi makes more sense than you think",
+    url: "https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-drag-cost",
+    source: "The Verge",
+    date: "2026-03-26",
+    cat: "Big Tech",
+    desc: "When Tesla revealed the Cybercab in 2024, many people were baffled by the automaker's decision to make it a two-seater. I had similar thoughts when I first saw it at the LA Auto Show later that year: What kind of taxi has only two seats? Once you get above a tuktuk, that's an asinine idea [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-2",
+    title: "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know",
+    url: "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
+    source: "TechCrunch",
+    date: "2026-03-26",
+    cat: "Sécurité",
+    desc: "Here’s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked online.",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-3",
+    title: "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+    url: "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+    source: "TechCrunch",
+    date: "2026-03-26",
+    cat: "IA & Modèles",
+    desc: "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-4",
+    title: "Cohere launches an open-source voice model specifically for transcription",
+    url: "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+    source: "TechCrunch",
+    date: "2026-03-26",
+    cat: "Startups & VC",
+    desc: "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-24",
+    title: "WhatsApp fait le plein de nouveautés sur iOS et Android",
+    url: "https://www.01net.com/actualites/whatsapp-fait-le-plein-de-nouveautes-sur-ios-et-android.html",
+    source: "01net",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "La messagerie instantanée est en train de déployer une liste de nouveautés digne de Noël. L’appli va vous aider à mieux gérer le stockage de votre smartphone, retoucher vos photos avec l’IA et autoriser deux comptes sur un seul iPhone.",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-25",
+    title: "Trop de IaaS, pas assez de services managés : la DINUM suggère un changement de trajectoire",
+    url: "https://www.silicon.fr/cloud-1370/dinum-services-manages-226429",
+    source: "Silicon.fr",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "La DINUM questionne l'intérêt d'une qualification d'offres IaaS supplémentaires et appelle à couvrir le besoin du secteur public en services managés. The post Trop de IaaS, pas assez de services managés : la DINUM suggère un changement de trajectoire appeared first on Silicon.fr .",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-37",
+    title: "Vous n’êtes pas prêts pour la saison 4 de Reacher sur Prime Video",
+    url: "https://www.numerama.com/pop-culture/2218843-vous-netes-pas-prets-pour-la-saison-4-de-reacher-sur-prime-video.html",
+    source: "Numerama",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "Jack Reacher est bientôt de retour, et il ne fait pas semblant. Alors qu'Alan Ritchson vient de confirmer une étape majeure pour la suite de la série phénomène de Prime Video, l'acteur a traversé une semaine particulièrement mouvementée. Entre des déclarations choc sur la qualité des nouveaux épisodes et un incident réel qui aurait pu mal finir, la",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-38",
+    title: "☕️ WhatsApp fait le plein de nouveautés : stockage, comptes multiples, transferts, Meta AI…",
+    url: "https://next.ink/brief_article/whatsapp-fait-le-plein-de-nouveautes-stockage-comptes-multiples-transferts-meta-ai/",
+    source: "Next.ink",
+    date: "2026-03-26",
+    cat: "Big Tech",
+    desc: "WhatsApp annonce une salve de nouveautés pour son application mobile. Sur la gestion du stockage, la messagerie instantanée de Meta (Facebook, WhatsApp, Instagram…) explique que « vous pouvez désormais rechercher et supprimer les fichiers volumineux directement dans les discussions », via une nouvelle option Gérer le stockage dans les discussions. ",
+    auto: true
+  },
+  {
+    id: "tech-1774535211-39",
+    title: "☕️ Le Conseil de Trump sur les sciences et technologies rempli de CEO de la tech",
+    url: "https://next.ink/brief_article/le-conseil-de-trump-sur-les-sciences-et-technologies-rempli-de-ceo-de-la-tech/",
+    source: "Next.ink",
+    date: "2026-03-26",
+    cat: "Numérique & Société",
+    desc: "Plus d&#8217;un an après son investiture et après avoir maintes fois attaqué les agences scientifiques de son pays, Donald Trump a nommé les membres de son Comité présidentiel des conseillers en science et technologie (President&#8217;s Council of Advisors on Science and Technology PCAST). Ce comité est présidé, comme annoncé en janvier 2025, par M",
+    auto: true
+  },
   {
     id: "tech-1774532392-0",
     title: "Some of our favorite Apple tech is cheaper than ever during Amazon’s Big Spring Sale",
@@ -632,174 +732,74 @@ window.AUTO_TECH = [
     auto: true
   },
   {
-    id: "tech-1774532392-10",
-    title: "Roundtables: The Next Era of Space Exploration",
-    url: "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
-    source: "MIT Tech Review",
+    id: "tech-1774535211-5",
+    title: "The AI skills gap is here, says AI company, and power users are pulling ahead",
+    url: "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    source: "TechCrunch",
     date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists&#8217; efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities&#8",
+    cat: "IA & Modèles",
+    desc: "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
     auto: true
   },
   {
-    id: "tech-1774532392-11",
-    title: "Why this battery company is pivoting to AI",
-    url: "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1774532392-12",
-    title: "This startup wants to change how mathematicians do math",
-    url: "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "Startups & VC",
-    desc: "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-devel",
-    auto: true
-  },
-  {
-    id: "tech-1774532392-13",
-    title: "The Download: reawakening frozen brains, and the AI Hype Index returns",
-    url: "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
-    source: "MIT Tech Review",
+    id: "tech-1774535211-6",
+    title: "Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks",
+    url: "https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/",
+    source: "TechCrunch",
     date: "2026-03-25",
     cat: "Hardware",
-    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain&#160; L. Stephen&#160;Coles’s&#160;brain sits in a vat at a storage facility in Arizona. It has been held there at a temp",
+    desc: "The spyware founder's comments are the most direct suggestion yet from anyone inside Intellexa that the Mitsotakis government authorized the hacking of dozens of phones belonging to senior Greek government ministers, opposition leaders, military officials, and journalists.",
     auto: true
   },
   {
-    id: "tech-1774532392-14",
-    title: "Agentic commerce runs on truth and context",
-    url: "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1774532392-25",
-    title: "ReCyF, une grille de lecture supplémentaire pour la NIS 2",
-    url: "https://www.silicon.fr/cybersecurite-1371/recyf-nis-2-226419",
-    source: "Silicon.fr",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Le ReCyF (Référentiel Cyber France) offre une vue synthétique des écarts d'attentes entre entités importantes et entités essentielles. The post ReCyF, une grille de lecture supplémentaire pour la NIS 2 appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1774532392-26",
-    title: "Qualité logicielle : les effets cumulés des agents de codage",
-    url: "https://www.silicon.fr/data-ia-1372/agents-ia-codage-projets-dev-226411",
-    source: "Silicon.fr",
-    date: "2026-03-25",
-    cat: "Open Source",
-    desc: "L'analyse d'environ 800 projets open source ayant utilisé l'agent Cursor révèle des effets combinés en matière de vélocité de développement et de qualité du code. The post Qualité logicielle : les effets cumulés des agents de codage appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1774521560-25",
-    title: "Le reboot de la série X-Files est adoubé par une star de l’œuvre originale",
-    url: "https://www.numerama.com/pop-culture/2218193-le-reboot-de-la-serie-x-files-est-adoube-par-une-star-de-loeuvre-originale.html",
-    source: "Numerama",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Gillian Anderson s'est exprimée sur le reboot de la série X-Files, actuellement entre les mains de Ryan Coogler (Creed, Black Panther). Celle qui a enfilé le costume de l'agent Scully pendant plusieurs saisons s'est montrée très positive.",
-    auto: true
-  },
-  {
-    id: "tech-1774521560-26",
-    title: "Trivy, LiteLLM : la folle histoire d’une cyberattaque qui se propage à toute vitesse",
-    url: "https://next.ink/230657/trivy-litellm-la-folle-histoire-dune-cyberattaque-qui-se-propage-a-toute-vitesse/",
-    source: "Next.ink",
-    date: "2026-03-25",
-    cat: "IA & Modèles",
-    desc: "Pour la deuxième fois en trois semaines, le dépôt GitHub du scanner de vulnérabilité Trivy a été compromis. Une autre application, LiteLLM, en fait les frais et infecte à son tour d’autres projets qui se font dérober leurs identifiants et secrets. Un effet boule de neige qui montre bien les dangers de la supply chain. [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1774521560-27",
-    title: "☕️ Santé mentale des mineurs : Meta condamné à 375 millions de dollars d’amende",
-    url: "https://next.ink/brief_article/sante-mentale-des-mineurs-meta-condamne-a-375-millions-de-dollars-damende/",
-    source: "Next.ink",
+    id: "tech-1774535211-7",
+    title: "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+    url: "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    source: "TechCrunch",
     date: "2026-03-25",
     cat: "Big Tech",
-    desc: "Meta a déployé des outils dangereux pour la santé mentale des mineurs en toute connaissance de cause et retenu des informations sur des cas d’exploitation sexuelle de mineurs, a tranché ce 24 mars un jury états-unien. Au Nouveau-Mexique, le tribunal a condamné l’entreprise à 375 millions de dollars d’amende, une décision que le procureur qualifie [",
+    desc: "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
     auto: true
   },
   {
-    id: "tech-1774521560-28",
-    title: "Deepfakes pornographiques : l’Allemagne secouée par un scandale de « viols virtuels »",
-    url: "https://next.ink/230672/deepfakes-pornographiques-lallemagne-secouee-par-un-scandale-de-viols-virtuels/",
-    source: "Next.ink",
+    id: "tech-1774535211-8",
+    title: "Melania Trump wants a robot to homeschool your child",
+    url: "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+    source: "TechCrunch",
     date: "2026-03-25",
     cat: "Numérique & Société",
-    desc: "Alors qu’elle subissait depuis des années des diffusions non consenties d’images à caractère sexuel en ligne, l’actrice allemande Collien Fernandes a découvert et fait savoir publiquement que l’auteur de ces manipulations était son ex-mari, une autre star du petit écran allemand, Christian Ulmen. Ces révélations défraient la chronique, alors que l’",
+    desc: "The first lady sees AI and robotics playing a prominent role in the future of American education.",
     auto: true
   },
   {
-    id: "tech-1774521560-29",
-    title: "☕️ Étudiants : le Cnous victime d’un vol de données concernant 774 000 personnes",
-    url: "https://next.ink/brief_article/etudiants-le-cnous-victime-dun-vol-de-donnees-concernant-774-000-personnes/",
-    source: "Next.ink",
+    id: "tech-1774535211-9",
+    title: "Riding the GLP-1 boom, VITL lands $7.5M to overhaul cash-pay clinic prescribing",
+    url: "https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/",
+    source: "TechCrunch",
     date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Le Centre national des œuvres universitaires et scolaires (Cnous) a signalé mardi 24 mars avoir été victime d&#8217;une exfiltration de données personnelles. Ces informations ont été obtenues par l&#8217;intermédiaire de sa plateforme de prise de rendez-vous avec les 27 établissements régionaux (les Crous) qui constituent son réseau. L&#8217;organi",
+    cat: "Startups & VC",
+    desc: "The startup provides an e-prescribing marketplace for the booming cash-pay clinic market.",
     auto: true
   },
   {
-    id: "tech-1774519515-2",
-    title: "The AI Hype Index: AI goes to war",
-    url: "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-    source: "MIT Tech Review",
-    date: "2026-03-25",
-    cat: "IA & Modèles",
-    desc: "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1774519515-8",
-    title: "AliExpress : 10 offres de pure FOLIE qui disparaissent déjà à minuit 🔥",
-    url: "https://www.01net.com/bons-plans/anniversaire-aliexpress-12-deals-de-folie-qui-disparaissent-ce-mercredi-a-minuit.html",
-    source: "01net",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "L'anniversaire AliExpress referme ses portes ce mercredi 25 mars à minuit. Passé ce délai, les prix remontent et il faudra prendre votre mal en patience jusqu'au Back to School de septembre pour espérer retrouver des remises comparables.",
-    auto: true
-  },
-  {
-    id: "tech-1774519515-22",
-    title: "Mauvaise nouvelle pour les abonnés mobile sans engagement de Bouygues Telecom",
-    url: "https://www.numerama.com/tech/2217705-mauvaise-nouvelle-pour-les-abonnes-mobile-sans-engagement-de-bouygues-telecom.html",
-    source: "Numerama",
-    date: "2026-03-25",
-    cat: "Numérique & Société",
-    desc: "Alors que Bouygues Telecom ne faisait jusqu’ici payer aucun frais de résiliation pour ses forfaits, l’opérateur téléphonique a revu sa tarification, et cela ne va pas plaire aux abonnés sur le départ.",
-    auto: true
-  },
-  {
-    id: "tech-1774519515-23",
-    title: "DLSS 5 : Jensen Huang « comprend » la polémique, mais persiste et signe",
-    url: "https://next.ink/230533/dlss-5-jensen-huang-comprend-la-polemique-mais-persiste-et-signe/",
-    source: "Next.ink",
+    id: "tech-1774535211-10",
+    title: "Jury finds Meta and Google negligent in landmark social media addiction trial",
+    url: "https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/",
+    source: "TechCrunch",
     date: "2026-03-25",
     cat: "Big Tech",
-    desc: "Jensen Huang change son fusil d’épaule et promet comprendre les inquiétudes des joueurs, ajoutant que lui non plus n’aime pas l’IA slop. Il affirme que ce n’est pas ce que veut faire DLSS 5, rappelant une fois encore que la mise en oeuvre revient aux créateurs de jeu. Dans le même temps, Capcom, incriminé pour [&#8230;]",
+    desc: "Evidence presented at the trial swayed the jury to the plaintiff's side, demonstrating that Meta understood how addictive its platforms could be among teens in particular and that it was actively researching the issue and using its findings to increase engagement among young users.",
     auto: true
   },
   {
-    id: "tech-1774519515-24",
-    title: "Images et vidéos pédocriminelles crédibles générées par IA se multiplient, alerte l’IWF",
-    url: "https://next.ink/230612/images-et-videos-pedocriminelles-credibles-generees-par-ia-se-multiplient-alerte-liwf/",
-    source: "Next.ink",
+    id: "tech-1774535211-11",
+    title: "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
+    url: "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+    source: "Ars Technica",
     date: "2026-03-25",
     cat: "Numérique & Société",
-    desc: "Alors que les technologies d’IA se perfectionnent, leur usage à des fins de pédocriminalité devient plus fréquent, constate l’Internet Watch Foundation. Et d’alerter sur leur propension à créer de nouvelles victimisations des enfants représentés, de même que sur le caractère particulièrement violent des actes qui y sont illustrés. Les contenus haut",
+    desc: "Company calls Guardian the \"most capable 911 response drone ever.”",
     auto: true
   },
 ];
-window.AUTO_TECH_UPDATED = "2026-03-26T13:39:57";
+window.AUTO_TECH_UPDATED = "2026-03-26T14:26:54";

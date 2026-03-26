@@ -1,122 +1,12 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-26T13:39:52
+// Dernière collecte : 2026-03-26T14:26:50
 window.AUTO_VEILLE = [
-  {
-    id: "auto-1774532375-21",
-    title: "Amende de 7000 € prononcée à l’encontre de la société STEF TRANSPORT REIMS (numéro de SIRET : 44255324400025)",
-    url: "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-7000-eu-prononcee-lencontre-de-la-societe-stef-transport-reims-numero-de-siret",
-    source: "DGCCRF",
-    date: "2026-03-26",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-22",
-    title: "Amende de 26 000 € à l’encontre de la société ALTAREA PROMOTION MANAGEMENT (numéro de SIRET : 45004233800035)",
-    url: "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-26-000-eu-lencontre-de-la-societe-altarea-promotion-management-numero-de-siret",
-    source: "DGCCRF",
-    date: "2026-03-26",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-23",
-    title: "Amende de 105 000 € prononcée à l’encontre de la société UP COOP (numéro de SIRET : 64204436600242)",
-    url: "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-105-000-eu-prononcee-lencontre-de-la-societe-coop-numero-de-siret-64204436600242",
-    source: "DGCCRF",
-    date: "2026-03-26",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-24",
-    title: "Amende de 100 000 € prononcée à l’encontre de la société BPCE LEASE (numéro de SIRET : 37915536900133)",
-    url: "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-100-000-eu-prononcee-lencontre-de-la-societe-bpce-lease-numero-de-siret-37915536900133",
-    source: "DGCCRF",
-    date: "2026-03-26",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-25",
-    title: "Assurance complémentaire santé : comparez les offres !",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/assurance-complementaire-sante-comparez-les-offres",
-    source: "DGCCRF",
-    date: "2026-03-26",
-    cat: "RGPD",
-    desc: "Les dépenses de soins de santé (optique, dentaire, prothèses auditives…) nécessitent d’avoir une assurance complémentaire santé qui prend en charge tout ou partie des dépenses non couvertes par l’assurance maladie obligatoire. Comment bien choisir son assurance complémentaire santé et quelles sont les garanties proposées&nbsp;?",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-26",
-    title: "Amende de 7000 € prononcée à l'encontre de la société RENTSCAPE (numéro de SIRET : 83433829500191)",
-    url: "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-7000-eu-prononcee-lencontre-de-la-societe-rentscape-numero-de-siret-83433829500191",
-    source: "DGCCRF",
-    date: "2026-03-26",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
   {
     id: "auto-1774532375-61",
     title: "Un mois, une juridiction : le tribunal administratif de Caen",
     url: "https://www.conseil-etat.fr/actualites/un-mois-une-juridiction-le-tribunal-administratif-de-caen2",
     source: "Conseil d'État",
     date: "2026-03-26",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-27",
-    title: "Facturation des professionnels et établissements de santé : qu'est ce qui peut vous être facturé ?",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/facturation-des-professionnels-et-etablissements-de-sante-quest-ce-qui-peut-vous-etre-facture",
-    source: "DGCCRF",
-    date: "2026-03-25",
-    cat: "Cybersécurité",
-    desc: "Les règles de facturation des professionnels et établissements de santé ne sont pas toujours bien connues des patients. Les établissements de santé, qu’ils soient publics ou privés, ne peuvent vous facturer que des prestations de soins rendues, ainsi que le forfait journalier hospitalier et certaines prestations que vous leur aurez demandées et don",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-28",
-    title: "Pratique commerciale trompeuse - Influenceuse Mme Maëva PELLERIN : \"iammaevamartinez\" sur Instagram et \"@maeva_martinezoff\" sur TikTok",
-    url: "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/pratique-commerciale-trompeuse-influenceuse-mme-maeva-pellerin-iammaevamartinez-sur-instagram-et",
-    source: "DGCCRF",
-    date: "2026-03-25",
-    cat: "Plateformes",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-29",
-    title: "Protection solaire : les conseils pour bien choisir son produit",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/protection-solaire-les-conseils-pour-bien-choisir-son-produit",
-    source: "DGCCRF",
-    date: "2026-03-25",
-    cat: "RGPD",
-    desc: "Sans la protection de vêtements couvrants et/ou d’une crème solaire efficace, l’exposition prolongée au soleil peut s’avérer risquée. Quel produit choisir ? Reportez-vous aux mentions d’étiquetage.",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-30",
-    title: "Dispositifs médicaux : des produits de santé utiles à votre quotidien",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/dispositifs-medicaux-des-produits-de-sante-utiles-votre-quotidien",
-    source: "DGCCRF",
-    date: "2026-03-25",
-    cat: "RGPD",
-    desc: "Lunettes, thermomètres, préservatifs, pansements, orthèses, masques chirurgicaux, etc., de plus en plus de consommateurs font l’acquisition de dispositifs médicaux pour leur usage quotidien. Quelles sont les bonnes questions à se poser avant d’acheter ? Que faire en cas de dysfonctionnement ou de casse ? Découvrez nos conseils pour un achat sans ri",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-31",
-    title: "DGCCRF - non-respect de la date butoir - sanction de 5 466 064 € prononcée à l’encontre d’AURA, centrale d’achats pour INTERMARCHE, AUCHAN et CASINO",
-    url: "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/dgccrf-non-respect-de-la-date-butoir-sanction-de-5-466-064-eu-prononcee-lencontre-daura-centrale",
-    source: "DGCCRF",
-    date: "2026-03-25",
     cat: "Jurisprudence",
     desc: "",
     auto: true
@@ -172,26 +62,6 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1774532375-32",
-    title: "Amende de 11 300 € prononcée à l’encontre de la SAS LES SOURCES DE CAUDALIE pour manquements relatifs à l'information du consommateur.",
-    url: "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-11-300-eu-prononcee-lencontre-de-la-sas-les-sources-de-caudalie-pour-manquements",
-    source: "DGCCRF",
-    date: "2026-03-24",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-33",
-    title: "Pratiques de soins non conventionnelles : soyez attentif aux informations fournies",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/pratiques-de-soins-non-conventionnelles-soyez-attentif-aux-informations-fournies",
-    source: "DGCCRF",
-    date: "2026-03-24",
-    cat: "Cybersécurité",
-    desc: "De plus en plus de Français se tournent vers des pratiques de soins dites « non conventionnelles » , pour soulager certains maux du quotidien. Pour en profiter en sécurité, il est néanmoins important de s’assurer de paramètres tels que les qualifications des praticiens, mais aussi la loyauté des informations fournies. La DGCCRF vous délivre des con",
-    auto: true
-  },
-  {
     id: "auto-1774532375-101",
     title: "Cigref’s 2025 Strategic Orientation Report: ‘Four archetypes of the digital function for 2040’",
     url: "https://www.cigref.fr/cigrefs-2025-strategic-orientation-report-four-archetypes-of-the-digital-function-for-2040",
@@ -222,36 +92,6 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1774532375-34",
-    title: "Affichage des prix des médicaments en pharmacie : les règles à connaître",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/affichage-des-prix-des-medicaments-en-pharmacie-les-regles-connaitre",
-    source: "DGCCRF",
-    date: "2026-03-23",
-    cat: "RGPD",
-    desc: "Fixation et affichage des prix, catalogue, justificatif de paiement… la réglementation entourant la vente de médicaments est complexe et pas toujours bien connue des patients. Pour faire les bons choix, reportez-vous aux conseils de la DGCCRF.",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-35",
-    title: "Chocolat : consultez les étiquettes !",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/chocolat-consultez-les-etiquettes",
-    source: "DGCCRF",
-    date: "2026-03-23",
-    cat: "RGPD",
-    desc: "Parenthèse gourmande, le chocolat reste le produit sucré préféré des Français. Pour ne pas vous tromper, lisez bien les étiquettes !",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-36",
-    title: "Établissement hébergeant des personnes âgées",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/etablissement-hebergeant-des-personnes-agees",
-    source: "DGCCRF",
-    date: "2026-03-23",
-    cat: "Contrats IT",
-    desc: "Ces établissements médico-sociaux ont pour mission d’héberger des personnes âgées autonomes ou dépendantes. Lors de l’admission dans l'établissement, des informations obligatoires doivent être données au futur résident ou à son représentant légal, les prix ou tarifs d’hébergement ainsi qu’un contrat de séjour écrit.",
-    auto: true
-  },
-  {
     id: "auto-1774532375-41",
     title: "Décès de Lionel Jospin, ancien membre du Conseil constitutionnel",
     url: "https://www.conseil-constitutionnel.fr/actualites/deces-de-lionel-jospin-ancien-membre-du-conseil-constitutionnel",
@@ -279,46 +119,6 @@ window.AUTO_VEILLE = [
     date: "2026-03-20",
     cat: "RGPD",
     desc: "Régulation de la diffusion audiovisuelle hertzienne terrestre : l’Arcep lance une consultation publique « Bilan et perspectives » en vue d’un nouveau cycle de régulation",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-37",
-    title: "Produits de nettoyage des matériaux et objets au contact des denrées alimentaires : les réponses à vos questions",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/produits-de-nettoyage-des-materiaux-et-objets-au-contact-des-denrees-alimentaires-les-reponses-vos-questions",
-    source: "DGCCRF",
-    date: "2026-03-20",
-    cat: "Jurisprudence",
-    desc: "Cette foire aux questions répond aux questions posées par les professionnels pour la mise en œuvre de l’arrêté du 8 septembre 1999 sur les produits utilisés pour le nettoyage des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons pour l’alimentation de l’homme et des animaux.",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-38",
-    title: "Préservatifs : choisissez une protection sûre",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/preservatifs-choisissez-une-protection-sure",
-    source: "DGCCRF",
-    date: "2026-03-20",
-    cat: "RGPD",
-    desc: "Les préservatifs masculins (ou externes) et féminins (ou internes) sont à la fois des moyens de contraception et de protection contre la plupart des infections sexuellement transmissibles (IST). L’efficacité de ces produits est donc essentielle pour les consommateurs et leur santé.",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-39",
-    title: "Lunettes et lentilles correctrices : quelle est la réglementation applicable ?",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/lunettes-et-lentilles-correctrices-quelle-est-la-reglementation-applicable",
-    source: "DGCCRF",
-    date: "2026-03-20",
-    cat: "RGPD",
-    desc: "Vous êtes myope, hypermétrope, astigmate et vous devez porter des lunettes ou des lentilles correctrices. La délivrance de ces produits de santé fait l’objet d’un cadre légal et réglementaire strict.",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-40",
-    title: "Aides auditives, audioprothèses : informations claires et devis doivent vous être fournis",
-    url: "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/aides-auditives-audioprotheses-informations-claires-et-devis-doivent-vous-etre-fournis",
-    source: "DGCCRF",
-    date: "2026-03-20",
-    cat: "RGPD",
-    desc: "Les audioprothèses ont pour vocation de compenser les déficiences auditives des patients. En raison notamment du vieillissement de la population et de la mise en œuvre de la réforme « 100 % santé » qui a fait baisser le coût des audioprothèses, la vente d’audioprothèses est en plein essor. La délivrance d’audioprothèses fait l’objet d’un cadre léga",
     auto: true
   },
   {
@@ -801,5 +601,205 @@ window.AUTO_VEILLE = [
     desc: "Le 6&nbsp;f&eacute;vrier 2026, la Commission europ&eacute;enne a conclu, &agrave; titre pr&eacute;liminaire, dans le cadre d&#039;une proc&eacute;dure formelle, que TikTok avait enfreint le DSA en raison de sa conception addictive. Le d&eacute;filement infini, la lecture automatique, les notifications instantan&eacute;es, ainsi que le syst&egrave;m",
     auto: true
   },
+  {
+    id: "auto-1774535191-76",
+    title: "Responsabilité civile de l'hébergeur : défaut de notification et promptitude de l'intervention",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/responsabilite-civile-de-l-hebergeur-defaut-de-notification-et-promptitude-de-l-intervention-DNU100d6",
+    source: "Lextenso",
+    date: "2026-03-08",
+    cat: "Jurisprudence",
+    desc: "&Agrave; d&eacute;faut de notification, l&#039;h&eacute;bergeur n&#039;engage pas sa responsabilit&eacute; civile pour ne pas avoir retir&eacute; un contenu attentatoire &agrave; des droits de propri&eacute;t&eacute; intellectuelle, d&egrave;s lors que l&#039;illic&eacute;it&eacute; dudit contenu n&#039;&eacute;tait pas manifeste. De plus, a agi &q",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-77",
+    title: "La décision contraignante du CEPD devant le Tribunal de l'Union ; du renvoi préjudiciel au recours direct",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/la-decision-contraignante-du-cepd-devant-le-tribunal-de-l-union-du-renvoi-prejudiciel-au-recours-direct-DNU100d5",
+    source: "Lextenso",
+    date: "2026-03-08",
+    cat: "Jurisprudence",
+    desc: "Par son arr&ecirc;t du 10&nbsp;f&eacute;vrier 2026, la grande chambre de la Cour de justice clarifie la possibilit&eacute; de contester en justice les d&eacute;cisions contraignantes du CEPD adopt&eacute;es sur le fondement de l&#039;article 65 du RGPD. En censurant l&#039;ordonnance du Tribunal qui avait d&eacute;clar&eacute; irrecevable le recour",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-43",
+    title: "Stakeholder event on political advertising: agenda available now",
+    url: "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
+    source: "EDPB",
+    date: "2026-03-06",
+    cat: "RGPD",
+    desc: "Brussels, 6 March - The EDPB organises a remote event to collect stakeholders’ input on its Guidelines on the processing of personal data to target or deliver political advertisements under the regulation on the transparency and targeting of political advertising , on 27 March 2026. The agenda is available below This will be an opportunity to infor",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-29",
+    title: "Séminaire bilatéral franco-néerlandais",
+    url: "https://www.conseil-etat.fr/actualites/seminaire-bilateral-franco-neerlandais",
+    source: "Conseil d'État",
+    date: "2026-03-04",
+    cat: "Jurisprudence",
+    desc: "",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-30",
+    title: "Laits infantiles : des recommandations sanitaires adaptées",
+    url: "https://www.conseil-etat.fr/actualites/laits-infantiles-des-recommandations-sanitaires-adaptees",
+    source: "Conseil d'État",
+    date: "2026-03-03",
+    cat: "Jurisprudence",
+    desc: "",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-44",
+    title: "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
+    url: "https://www.edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
+    source: "EDPB",
+    date: "2026-03-03",
+    cat: "RGPD",
+    desc: "The conference \"Cross- regulatory interplay and cooperation in the EU: a data protection perspective” takes place on 17 March 2026 from 9.15 to 15.30 .&nbsp; This event will offer a high-level overview of the EDPB’s work in the EU’s cross-regulatory landscape, focusing in particular on how regulatory frameworks interact and how cooperation between ",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-49",
+    title: "New episode on the Digital Identity Wallets is out!",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/new-episode-digital-identity-wallets-out",
+    source: "EDPS",
+    date: "2026-03-03",
+    cat: "RGPD",
+    desc: "New episode on the Digital Identity Wallets is out! miriam Tue, 03/03/2026 - 14:58 Thu, 03/05/2026 - 12:00 TechDispatch Talks explores the intersection of technology, data protection, and privacy.&nbsp;In this episode we discuss how Digital Identity Wallets could transform the way we prove who we are online and offline. Could it reduce data oversha",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-62",
+    title: "Modèle de maturité et d’audit de la gouvernance du numérique : le nouveau référentiel pour piloter la maturité de votre gouvernance numérique",
+    url: "https://www.cigref.fr/modele-de-maturite-et-daudit-de-la-gouvernance-du-numerique-le-nouveau-referentiel-pour-piloter-la-maturite-de-votre-gouvernance-numerique",
+    source: "CIGREF",
+    date: "2026-03-03",
+    cat: "Contrats IT",
+    desc: "Face à l’accélération des ruptures technologiques et à l’omniprésence du numérique au cœur des métiers, le Cigref, l’IFACI et ISACA France, lancent le Modèle de maturité et d’audit de la gouvernance du numérique (MAGNum). Ce successeur du GAGSI dépasse le cadre de l’audit pour devenir un véritable outil de pilotage stratégique au service de la [&#8",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-63",
+    title: "Assessing the return on investment of generative and agentic AI solutions",
+    url: "https://www.cigref.fr/assessing-the-return-on-investment-of-generative-and-agentic-ai-solutions",
+    source: "CIGREF",
+    date: "2026-03-03",
+    cat: "IA",
+    desc: "As businesses and public administrations ramp up their experimentation, measuring the return on investment (ROI) of artificial intelligence solutions is becoming a major strategic challenge for digital departments. Beyond simple technical optimisation, the integration of generative and agentic AI technologies calls into question organisations&#8217",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-0",
+    title: "Appel à manifestation d’intérêt pour le test d’un outil d’audit RGPD des modèles d’IA",
+    url: "http://cyber.gouv.fr/actualites/ami-outil-audit-rgpd-ia/",
+    source: "ANSSI",
+    date: "2026-03-02",
+    cat: "RGPD",
+    desc: "L’ANSSI fait partie du projet PANAME ( Privacy Auditing of AI Models ) lancé en juin dernier conjointement avec (Ouvre […]",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-31",
+    title: "Environnement : le Conseil d’État annule les nouvelles règles de création de plans d’eau dans les zones humides",
+    url: "https://www.conseil-etat.fr/actualites/environnement-le-conseil-d-etat-annule-les-nouvelles-regles-de-creation-de-plans-d-eau-dans-les-zones-humides",
+    source: "Conseil d'État",
+    date: "2026-03-02",
+    cat: "Jurisprudence",
+    desc: "",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-32",
+    title: "Elections municipales 2026 : Le Conseil d’Etat rejette les recours de LFI et de l’UDR contre la circulaire attribuant des nuances politiques pour l...",
+    url: "https://www.conseil-etat.fr/actualites/elections-municipales-2026-le-conseil-d-etat-rejette-les-recours-de-lfi-et-de-l-udr-contre-la-circulaire-attribuant-des-nuances-politiques-pour-l",
+    source: "Conseil d'État",
+    date: "2026-02-27",
+    cat: "Jurisprudence",
+    desc: "",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-33",
+    title: "Santé : deux médecins sanctionnés pour refus de soins discriminatoire",
+    url: "https://www.conseil-etat.fr/actualites/sante-deux-medecins-sanctionnes-pour-refus-de-soins-discriminatoire",
+    source: "Conseil d'État",
+    date: "2026-02-27",
+    cat: "Jurisprudence",
+    desc: "",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-34",
+    title: "Le Conseil d’État rejette des recours contre les « groupes de besoins » mis en place au collège",
+    url: "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-des-recours-contre-les-groupes-de-besoins-mis-en-place-au-college",
+    source: "Conseil d'État",
+    date: "2026-02-27",
+    cat: "Jurisprudence",
+    desc: "",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-1",
+    title: "Le MOOC SecNumacadémie fait peau neuve",
+    url: "http://cyber.gouv.fr/actualites/le-mooc-secnumacad%C3%A9mie-fait-peau-neuve/",
+    source: "ANSSI",
+    date: "2026-02-24",
+    cat: "Cybersécurité",
+    desc: "La plateforme SecNumacadémie sera temporairement indisponible à partir du 28 février et ce pour plusieurs mois, elle devrait être de […]",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-45",
+    title: "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly’s statement",
+    url: "https://www.edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
+    source: "EDPB",
+    date: "2026-02-23",
+    cat: "RGPD",
+    desc: "Brussels, 23 February - EDPB Chair Anu Talus has signed a Joint Statement on AI-Generated Imagery and the Protection of Privacy on behalf of the EDPB . The statement, coordinated by the Global Privacy Assembly's (GPA) International Enforcement Cooperation Working Group (IEWG) , represents the united position of 61 authorities across the world. This",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-50",
+    title: "Joint Statement on AI-Generated Imagery and the Protection of Privacy",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/joint-statement-ai-generated-imagery-and-protection-privacy",
+    source: "EDPS",
+    date: "2026-02-23",
+    cat: "RGPD",
+    desc: "Joint Statement on AI-Generated Imagery and the Protection of Privacy francesco Mon, 02/23/2026 - 11:05 Mon, 02/23/2026 - 12:00 The EDPS is among the 61 signatories of a Joint Statement on AI-Generated Imagery issued by data protection authorities from the Global Privacy Assembly. 1 Read here",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-25",
+    title: "Distribution de la presse",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/distribution-de-la-presse-200226.html",
+    source: "ARCEP",
+    date: "2026-02-20",
+    cat: "Plateformes",
+    desc: "L’Arcep lance un appel à commentaires sur un avenant à l’accord interprofessionnel définissant les règles d’assortiment et de détermination des quantités servies des titres CPPAP hors IPG aux points de vente",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-53",
+    title: "CEDPO welcomes APDL as a new member",
+    url: "https://cedpo.eu/cedpo-welcomes-apdl-as-a-new-member/",
+    source: "CEDPO",
+    date: "2026-02-20",
+    cat: "RGPD",
+    desc: "Der Beitrag CEDPO welcomes APDL as a new member erschien zuerst auf Confederation of European Data Protection Organisations .",
+    auto: true
+  },
+  {
+    id: "auto-1774535191-26",
+    title: "Réseaux en fibre optique",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-en-fibre-optique-190226.html",
+    source: "ARCEP",
+    date: "2026-02-19",
+    cat: "Plateformes",
+    desc: "L’Arcep publie la septième édition de son observatoire sur la qualité des réseaux en fibre optique",
+    auto: true
+  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-26T13:39:52";
+window.AUTO_VEILLE_UPDATED = "2026-03-26T14:26:50";
