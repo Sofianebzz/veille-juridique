@@ -7,6 +7,14 @@ import feedparser
 import json, os, re, time
 from datetime import datetime
 
+CONSEIL_CONST_KEYWORDS = [
+    "numérique", "numerique", "digital", "données", "data", "internet",
+    "algorithme", "intelligence artificielle", "ia", "plateforme", "réseau social",
+    "liberté d'expression", "vie privée", "surveillance", "rgpd", "cookies",
+    "communication", "presse en ligne", "audiovisuel", "télécom", "cyber",
+    "cryptographie", "chiffrement", "logiciel", "informatique", "protection des données",
+]
+
 EURLEX_KEYWORDS = [
     "numérique", "digital", "données", "data", "ia", "intelligence artificielle",
     "cyber", "plateforme", "rgpd", "gdpr", "privacy", "network", "electronic", "telecom",
@@ -27,7 +35,7 @@ RSS_SOURCES = [
     {"url": "https://cyber.gouv.fr/actualites/rss/",                                                                            "source": "ANSSI"},
     {"url": "https://www.arcom.fr/rss.xml",                                                                                     "source": "ARCOM"},
     {"url": "https://www.arcep.fr/actualites/suivre-actualite-regulation-arcep/fil-dinfos/rss.xml",                             "source": "ARCEP"},
-    {"url": "https://www.conseil-constitutionnel.fr/flux/rss.xml",                                                              "source": "Conseil constitutionnel"},
+    {"url": "https://www.conseil-constitutionnel.fr/flux/rss.xml",                                                              "source": "Conseil constitutionnel", "filter": CONSEIL_CONST_KEYWORDS, "fetch_desc": True},
     {"url": "https://www.conseil-etat.fr/rss/actualites-rss",                                                                   "source": "Conseil d'État"},
     # — Institutions européennes —
     {"url": "https://www.edpb.europa.eu/feed/news_en",                                                                          "source": "EDPB"},
@@ -120,9 +128,12 @@ def fetch_feed(src):
             url   = entry.get("link", "").strip()
             date  = parse_date(entry.get("published_parsed") or entry.get("updated_parsed"))
             desc  = clean(entry.get("summary", ""))
-            if not desc and url and desc_fetches < 3:
-                desc = fetch_desc(url)
-                desc_fetches += 1
+            force_fetch = src.get("fetch_desc", False)
+            if (not desc or force_fetch) and url and desc_fetches < 5:
+                fetched = fetch_desc(url)
+                if fetched:
+                    desc = fetched
+                    desc_fetches += 1
             if filter_kws:
                 text = (title + " " + desc).lower()
                 if not any(kw in text for kw in filter_kws):
