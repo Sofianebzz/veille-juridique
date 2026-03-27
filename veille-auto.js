@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-26T14:26:50
+// Dernière collecte : 2026-03-27T10:34:23
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1774607643-24",
+    title: "Décision n° 2026-1188 QPC du 27 mars 2026",
+    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261188QPC.htm",
+    source: "Conseil constitutionnel",
+    date: "2026-03-26",
+    cat: "Jurisprudence",
+    desc: "M. Pierre C. [Notification du droit de se taire à la personne faisant l’objet d’une composition pénale et confidentialité de ses déclarations en cas d’échec de la procédure]",
+    auto: true
+  },
   {
     id: "auto-1774532375-61",
     title: "Un mois, une juridiction : le tribunal administratif de Caen",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Der Beitrag CEDPO welcomes APDL as a new member erschien zuerst auf Confederation of European Data Protection Organisations .",
     auto: true
   },
-  {
-    id: "auto-1774535191-26",
-    title: "Réseaux en fibre optique",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-en-fibre-optique-190226.html",
-    source: "ARCEP",
-    date: "2026-02-19",
-    cat: "Plateformes",
-    desc: "L’Arcep publie la septième édition de son observatoire sur la qualité des réseaux en fibre optique",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-26T14:26:50";
+window.AUTO_VEILLE_UPDATED = "2026-03-27T10:34:23";
