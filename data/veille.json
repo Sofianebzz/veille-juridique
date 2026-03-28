@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1774691691-0",
+    "title": "Ordre du jour de la séance plénière du 26 mars 2026",
+    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-26-mars-2026",
+    "source": "CNIL",
+    "date": "2026-03-26",
+    "cat": "RGPD",
+    "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 26 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    "auto": true
+  },
+  {
     "id": "auto-1774607643-24",
     "title": "Décision n° 2026-1188 QPC du 27 mars 2026",
     "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261188QPC.htm",
@@ -787,16 +797,6 @@
     "date": "2026-02-20",
     "cat": "Plateformes",
     "desc": "L’Arcep lance un appel à commentaires sur un avenant à l’accord interprofessionnel définissant les règles d’assortiment et de détermination des quantités servies des titres CPPAP hors IPG aux points de vente",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-53",
-    "title": "CEDPO welcomes APDL as a new member",
-    "url": "https://cedpo.eu/cedpo-welcomes-apdl-as-a-new-member/",
-    "source": "CEDPO",
-    "date": "2026-02-20",
-    "cat": "RGPD",
-    "desc": "Der Beitrag CEDPO welcomes APDL as a new member erschien zuerst auf Confederation of European Data Protection Organisations .",
     "auto": true
   }
 ]
