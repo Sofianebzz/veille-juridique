@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-29T09:56:04
+// Dernière collecte : 2026-03-30T11:37:37
 window.AUTO_VEILLE = [
   {
     id: "auto-1774691691-0",
@@ -792,14 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1774778141-36",
-    title: "CEDPO welcomes APDL as a new member",
-    url: "https://cedpo.eu/cedpo-welcomes-apdl-as-a-new-member/",
-    source: "CEDPO",
+    id: "auto-1774870639-23",
+    title: "Distribution de la presse",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/distribution-de-la-presse-200226.html",
+    source: "ARCEP",
     date: "2026-02-20",
-    cat: "RGPD",
-    desc: "Der Beitrag CEDPO welcomes APDL as a new member erschien zuerst auf Confederation of European Data Protection Organisations .",
+    cat: "Plateformes",
+    desc: "L’Arcep lance un appel à commentaires sur un avenant à l’accord interprofessionnel définissant les règles d’assortiment et de détermination des quantités servies des titres CPPAP hors IPG aux points de vente",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-29T09:56:04";
+window.AUTO_VEILLE_UPDATED = "2026-03-30T11:37:37";
