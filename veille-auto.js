@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-03-30T11:37:37
+// Dernière collecte : 2026-03-31T11:13:10
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1774955565-0",
+    title: "Données post mortem : publication du cahier air2025 sur l’éthique des traces numériques",
+    url: "https://www.cnil.fr/fr/cahier-air2025",
+    source: "CNIL",
+    date: "2026-03-31",
+    cat: "RGPD",
+    desc: "Dans le cadre de sa mission éthique, la CNIL publie son cahier air2025 à la suite du colloque du 15 octobre 2025 sur le thème des données post mortem, organisé en partenariat avec la Bibliothèque nationale de France.",
+    auto: true
+  },
+  {
+    id: "auto-1774955565-1",
+    title: "Opération Cactus 2026 : renforcer durablement la sensibilisation de la communauté éducative aux cybermenaces",
+    url: "https://www.cnil.fr/fr/operation-cactus-2026",
+    source: "CNIL",
+    date: "2026-03-30",
+    cat: "Cybersécurité",
+    desc: "Le ministère de l’Éducation nationale a conduit une opération nationale de prévention de grande ampleur reposant sur une simulation d’hameçonnage.&amp;nbsp;Cette initiative vise à renforcer la vigilance et la responsabilisation de l’ensemble de la communauté éducative face à l’une des formes de cyberattaque les plus répandues.",
+    auto: true
+  },
+  {
+    id: "auto-1774955565-36",
+    title: "New blog post: Prior consultations, zero surprises",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/new-blog-post-prior-consultations-zero-surprises",
+    source: "EDPS",
+    date: "2026-03-30",
+    cat: "RGPD",
+    desc: "New blog post: Prior consultations, zero surprises ileanjoh Mon, 03/30/2026 - 14:39 Mon, 03/30/2026 - 12:00 In his latest blog post, Supervisor Wojciech Wiewiórowski discusses prior consultations between EU law and justice authorities and the EDPS. These checks are required when planned data processing operations are likely to result in a high risk",
+    auto: true
+  },
   {
     id: "auto-1774691691-0",
     title: "Ordre du jour de la séance plénière du 26 mars 2026",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La plateforme SecNumacadémie sera temporairement indisponible à partir du 28 février et ce pour plusieurs mois, elle devrait être de […]",
     auto: true
   },
-  {
-    id: "auto-1774535191-45",
-    title: "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly’s statement",
-    url: "https://www.edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
-    source: "EDPB",
-    date: "2026-02-23",
-    cat: "RGPD",
-    desc: "Brussels, 23 February - EDPB Chair Anu Talus has signed a Joint Statement on AI-Generated Imagery and the Protection of Privacy on behalf of the EDPB . The statement, coordinated by the Global Privacy Assembly's (GPA) International Enforcement Cooperation Working Group (IEWG) , represents the united position of 61 authorities across the world. This",
-    auto: true
-  },
-  {
-    id: "auto-1774535191-50",
-    title: "Joint Statement on AI-Generated Imagery and the Protection of Privacy",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/joint-statement-ai-generated-imagery-and-protection-privacy",
-    source: "EDPS",
-    date: "2026-02-23",
-    cat: "RGPD",
-    desc: "Joint Statement on AI-Generated Imagery and the Protection of Privacy francesco Mon, 02/23/2026 - 11:05 Mon, 02/23/2026 - 12:00 The EDPS is among the 61 signatories of a Joint Statement on AI-Generated Imagery issued by data protection authorities from the Global Privacy Assembly. 1 Read here",
-    auto: true
-  },
-  {
-    id: "auto-1774870639-23",
-    title: "Distribution de la presse",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/distribution-de-la-presse-200226.html",
-    source: "ARCEP",
-    date: "2026-02-20",
-    cat: "Plateformes",
-    desc: "L’Arcep lance un appel à commentaires sur un avenant à l’accord interprofessionnel définissant les règles d’assortiment et de détermination des quantités servies des titres CPPAP hors IPG aux points de vente",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-03-30T11:37:37";
+window.AUTO_VEILLE_UPDATED = "2026-03-31T11:13:10";
