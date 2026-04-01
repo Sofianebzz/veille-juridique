@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1775042248-50",
+    "title": "Gouvernance de la sécurité numérique : orientation, déploiement et pilotage",
+    "url": "https://www.cigref.fr/gouvernance-de-la-securite-numerique-orientation-deploiement-et-pilotage",
+    "source": "CIGREF",
+    "date": "2026-03-31",
+    "cat": "Cybersécurité",
+    "desc": "Le numérique infuse chaque strate de nos activités, la cybersécurité ne peut donc plus être cantonnée à une simple gestion technique. Elle est devenue un levier de résilience, au service de la performance et de la compétitivité. C’est tout l’enjeu du nouveau rapport publié par le Cigref, en partenariat avec l’ANSSI : « Gouvernance de [&#8230;] L’ar",
+    "auto": true
+  },
+  {
     "id": "auto-1774955565-0",
     "title": "Données post mortem : publication du cahier air2025 sur l’éthique des traces numériques",
     "url": "https://www.cnil.fr/fr/cahier-air2025",
@@ -7,6 +17,46 @@
     "date": "2026-03-31",
     "cat": "RGPD",
     "desc": "Dans le cadre de sa mission éthique, la CNIL publie son cahier air2025 à la suite du colloque du 15 octobre 2025 sur le thème des données post mortem, organisé en partenariat avec la Bibliothèque nationale de France.",
+    "auto": true
+  },
+  {
+    "id": "auto-1775042248-23",
+    "title": "Qualité de service mobile",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/qualite-de-service-mobile-300326.html",
+    "source": "ARCEP",
+    "date": "2026-03-30",
+    "cat": "Plateformes",
+    "desc": "L’Arcep ajoute plus de 400 000 tests réalisés par des consommateurs sur « Mon réseau mobile », dans le cadre d’un partenariat avec Ookla ®",
+    "auto": true
+  },
+  {
+    "id": "auto-1775042248-24",
+    "title": "Couverture mobile",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-300326.html",
+    "source": "ARCEP",
+    "date": "2026-03-30",
+    "cat": "Plateformes",
+    "desc": "L’Arcep publie les données trimestrielles de couverture mobile au quatrième trimestre 2025 avec plus de 420 000 données de tests réalisés dans le cadre d’un nouveau partenariat avec Ookla ®",
+    "auto": true
+  },
+  {
+    "id": "auto-1775042248-25",
+    "title": "Réseaux mobiles",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-mobiles-300326.html",
+    "source": "ARCEP",
+    "date": "2026-03-30",
+    "cat": "Plateformes",
+    "desc": "L’Arcep publie un rapport sur l’impact de l’extinction des technologies 2G et 3G sur la couverture des réseaux mobiles",
+    "auto": true
+  },
+  {
+    "id": "auto-1775042248-26",
+    "title": "Extinction des réseaux mobiles 2G et 3G",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/extinction-des-reseaux-mobiles-2g-et-3g-300326.html",
+    "source": "ARCEP",
+    "date": "2026-03-30",
+    "cat": "Plateformes",
+    "desc": "A l’approche de l’extinction de la 2G, la baisse des cartes SIM « 2G » s’accentue au 4ème trimestre 2025, à un rythme qui s’avère toutefois insatisfaisant.",
     "auto": true
   },
   {
@@ -747,56 +797,6 @@
     "date": "2026-03-02",
     "cat": "RGPD",
     "desc": "L’ANSSI fait partie du projet PANAME ( Privacy Auditing of AI Models ) lancé en juin dernier conjointement avec (Ouvre […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-31",
-    "title": "Environnement : le Conseil d’État annule les nouvelles règles de création de plans d’eau dans les zones humides",
-    "url": "https://www.conseil-etat.fr/actualites/environnement-le-conseil-d-etat-annule-les-nouvelles-regles-de-creation-de-plans-d-eau-dans-les-zones-humides",
-    "source": "Conseil d'État",
-    "date": "2026-03-02",
-    "cat": "Jurisprudence",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-32",
-    "title": "Elections municipales 2026 : Le Conseil d’Etat rejette les recours de LFI et de l’UDR contre la circulaire attribuant des nuances politiques pour l...",
-    "url": "https://www.conseil-etat.fr/actualites/elections-municipales-2026-le-conseil-d-etat-rejette-les-recours-de-lfi-et-de-l-udr-contre-la-circulaire-attribuant-des-nuances-politiques-pour-l",
-    "source": "Conseil d'État",
-    "date": "2026-02-27",
-    "cat": "Jurisprudence",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-33",
-    "title": "Santé : deux médecins sanctionnés pour refus de soins discriminatoire",
-    "url": "https://www.conseil-etat.fr/actualites/sante-deux-medecins-sanctionnes-pour-refus-de-soins-discriminatoire",
-    "source": "Conseil d'État",
-    "date": "2026-02-27",
-    "cat": "Jurisprudence",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-34",
-    "title": "Le Conseil d’État rejette des recours contre les « groupes de besoins » mis en place au collège",
-    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-des-recours-contre-les-groupes-de-besoins-mis-en-place-au-college",
-    "source": "Conseil d'État",
-    "date": "2026-02-27",
-    "cat": "Jurisprudence",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-1",
-    "title": "Le MOOC SecNumacadémie fait peau neuve",
-    "url": "http://cyber.gouv.fr/actualites/le-mooc-secnumacad%C3%A9mie-fait-peau-neuve/",
-    "source": "ANSSI",
-    "date": "2026-02-24",
-    "cat": "Cybersécurité",
-    "desc": "La plateforme SecNumacadémie sera temporairement indisponible à partir du 28 février et ce pour plusieurs mois, elle devrait être de […]",
     "auto": true
   }
 ]
