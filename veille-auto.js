@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-01T11:17:54
+// Dernière collecte : 2026-04-02T10:39:02
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1775126324-0",
+    title: "Gestion des ressources humaines : la CNIL publie un référentiel de durées de conservation",
+    url: "https://www.cnil.fr/fr/referentiel-durees-conservation-donnees-rh",
+    source: "CNIL",
+    date: "2026-04-02",
+    cat: "RGPD",
+    desc: "La CNIL publie un référentiel pour aider les responsables de traitement à identifier les durées de conservation pour leurs activités de gestion du personnel.",
+    auto: true
+  },
   {
     id: "auto-1775042248-50",
     title: "Gouvernance de la sécurité numérique : orientation, déploiement et pilotage",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "As businesses and public administrations ramp up their experimentation, measuring the return on investment (ROI) of artificial intelligence solutions is becoming a major strategic challenge for digital departments. Beyond simple technical optimisation, the integration of generative and agentic AI technologies calls into question organisations&#8217",
     auto: true
   },
-  {
-    id: "auto-1774535191-0",
-    title: "Appel à manifestation d’intérêt pour le test d’un outil d’audit RGPD des modèles d’IA",
-    url: "http://cyber.gouv.fr/actualites/ami-outil-audit-rgpd-ia/",
-    source: "ANSSI",
-    date: "2026-03-02",
-    cat: "RGPD",
-    desc: "L’ANSSI fait partie du projet PANAME ( Privacy Auditing of AI Models ) lancé en juin dernier conjointement avec (Ouvre […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-01T11:17:54";
+window.AUTO_VEILLE_UPDATED = "2026-04-02T10:39:02";
