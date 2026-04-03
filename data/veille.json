@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-1775210907-0",
+    "title": "Les webinaires de la CNIL",
+    "url": "https://www.cnil.fr/fr/les-webinaires-de-la-cnil",
+    "source": "CNIL",
+    "date": "2026-04-03",
+    "cat": "RGPD",
+    "desc": "La CNIL propose régulièrement des webinaires à destination des professionnels. Ces webinaires sont gratuits et ouverts à tous.",
+    "auto": true
+  },
+  {
+    "id": "auto-1775210907-1",
+    "title": "Les contrôles en 2026 : recrutement, répertoire électoral unique et fédérations sportives",
+    "url": "https://www.cnil.fr/fr/controles-prioritaires-2026",
+    "source": "CNIL",
+    "date": "2026-04-03",
+    "cat": "Cybersécurité",
+    "desc": "Chaque année, la CNIL définit des thématiques prioritaires de contrôle. Parmi celles choisies pour 2026 figurent le recrutement, le répertoire électoral unique et les fédérations sportives. D’autres annonces relatives à la cybersécurité interviendront à l’occasion de la publication du rapport annuel de la CNIL en mai.",
+    "auto": true
+  },
+  {
+    "id": "auto-1775210907-2",
+    "title": "Désigner un délégué à la protection des données (DPO) ou modifier une désignation",
+    "url": "https://www.cnil.fr/fr/designation-dpo",
+    "source": "CNIL",
+    "date": "2026-04-03",
+    "cat": "RGPD",
+    "desc": "Avant de désigner en ligne votre délégué à la protection des données, vérifiez qu'il dispose du statut, des compétences et des moyens nécessaires à l’exercice de ses missions.",
+    "auto": true
+  },
+  {
+    "id": "auto-1775210907-3",
+    "title": "Revoir le webinaire - Développement d’un système IA, webscraping : comment mobiliser la base légale de l’intérêt légitime ?",
+    "url": "https://www.cnil.fr/fr/revoir-le-webinaire-developpement-ia-webscraping-base-legale-interet-legitime",
+    "source": "CNIL",
+    "date": "2026-04-02",
+    "cat": "RGPD",
+    "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au développement de systèmes d'intelligence artificielle.",
+    "auto": true
+  },
+  {
+    "id": "auto-1775210907-4",
+    "title": "Ordre du jour de la séance plénière du 2 avril 2026",
+    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-avril-2026",
+    "source": "CNIL",
+    "date": "2026-04-02",
+    "cat": "RGPD",
+    "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 avril 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    "auto": true
+  },
+  {
     "id": "auto-1775126324-0",
     "title": "Gestion des ressources humaines : la CNIL publie un référentiel de durées de conservation",
     "url": "https://www.cnil.fr/fr/referentiel-durees-conservation-donnees-rh",
@@ -747,56 +797,6 @@
     "date": "2026-03-04",
     "cat": "Jurisprudence",
     "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-30",
-    "title": "Laits infantiles : des recommandations sanitaires adaptées",
-    "url": "https://www.conseil-etat.fr/actualites/laits-infantiles-des-recommandations-sanitaires-adaptees",
-    "source": "Conseil d'État",
-    "date": "2026-03-03",
-    "cat": "Jurisprudence",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-44",
-    "title": "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
-    "url": "https://www.edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
-    "source": "EDPB",
-    "date": "2026-03-03",
-    "cat": "RGPD",
-    "desc": "The conference \"Cross- regulatory interplay and cooperation in the EU: a data protection perspective” takes place on 17 March 2026 from 9.15 to 15.30 .&nbsp; This event will offer a high-level overview of the EDPB’s work in the EU’s cross-regulatory landscape, focusing in particular on how regulatory frameworks interact and how cooperation between ",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-49",
-    "title": "New episode on the Digital Identity Wallets is out!",
-    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/new-episode-digital-identity-wallets-out",
-    "source": "EDPS",
-    "date": "2026-03-03",
-    "cat": "RGPD",
-    "desc": "New episode on the Digital Identity Wallets is out! miriam Tue, 03/03/2026 - 14:58 Thu, 03/05/2026 - 12:00 TechDispatch Talks explores the intersection of technology, data protection, and privacy.&nbsp;In this episode we discuss how Digital Identity Wallets could transform the way we prove who we are online and offline. Could it reduce data oversha",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-62",
-    "title": "Modèle de maturité et d’audit de la gouvernance du numérique : le nouveau référentiel pour piloter la maturité de votre gouvernance numérique",
-    "url": "https://www.cigref.fr/modele-de-maturite-et-daudit-de-la-gouvernance-du-numerique-le-nouveau-referentiel-pour-piloter-la-maturite-de-votre-gouvernance-numerique",
-    "source": "CIGREF",
-    "date": "2026-03-03",
-    "cat": "Contrats IT",
-    "desc": "Face à l’accélération des ruptures technologiques et à l’omniprésence du numérique au cœur des métiers, le Cigref, l’IFACI et ISACA France, lancent le Modèle de maturité et d’audit de la gouvernance du numérique (MAGNum). Ce successeur du GAGSI dépasse le cadre de l’audit pour devenir un véritable outil de pilotage stratégique au service de la [&#8",
-    "auto": true
-  },
-  {
-    "id": "auto-1774535191-63",
-    "title": "Assessing the return on investment of generative and agentic AI solutions",
-    "url": "https://www.cigref.fr/assessing-the-return-on-investment-of-generative-and-agentic-ai-solutions",
-    "source": "CIGREF",
-    "date": "2026-03-03",
-    "cat": "IA",
-    "desc": "As businesses and public administrations ramp up their experimentation, measuring the return on investment (ROI) of artificial intelligence solutions is becoming a major strategic challenge for digital departments. Beyond simple technical optimisation, the integration of generative and agentic AI technologies calls into question organisations&#8217",
     "auto": true
   }
 ]
