@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-03T10:08:50
+// Dernière collecte : 2026-04-04T09:56:24
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1775296566-25",
+    title: "Nomination",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/nomination-030426.html",
+    source: "ARCEP",
+    date: "2026-04-03",
+    cat: "Plateformes",
+    desc: "Marie-Georges Boulay est nommée membre du collège de l’Arcep",
+    auto: true
+  },
+  {
+    id: "auto-1775296566-27",
+    title: "Jeux Olympiques et Paralympiques de 2030 : l’ensemble des travaux n’a pas à faire l’objet d’un débat public",
+    url: "https://www.conseil-etat.fr/actualites/jeux-olympiques-et-paralympiques-de-2030-l-ensemble-des-travaux-n-a-pas-a-faire-l-objet-d-un-debat-public",
+    source: "Conseil d'État",
+    date: "2026-04-03",
+    cat: "Jurisprudence",
+    desc: "Saisi en urgence par des associations, des élus et des particuliers, le Conseil d’État juge aujourd’hui que la participation du public aux décisions sur les travaux nécessaires à l’organisation des Jeux Olympiques et Paralympiques d’hiver de 2030 dans les Alpes françaises n’a pas à prendre la forme ",
+    auto: true
+  },
   {
     id: "auto-1775210907-0",
     title: "Les webinaires de la CNIL",
@@ -29,6 +49,16 @@ window.AUTO_VEILLE = [
     date: "2026-04-03",
     cat: "RGPD",
     desc: "Avant de désigner en ligne votre délégué à la protection des données, vérifiez qu'il dispose du statut, des compétences et des moyens nécessaires à l’exercice de ses missions.",
+    auto: true
+  },
+  {
+    id: "auto-1775296566-26",
+    title: "Fréquences",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/frequences-020426.html",
+    source: "ARCEP",
+    date: "2026-04-02",
+    cat: "Plateformes",
+    desc: "Attribution de fréquences pour les réseaux mobiles professionnels : l’Arcep étend à Mayotte les modalités d’attribution de la bande 2,6 GHz TDD",
     auto: true
   },
   {
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "&Agrave; d&eacute;faut de notification, l&#039;h&eacute;bergeur n&#039;engage pas sa responsabilit&eacute; civile pour ne pas avoir retir&eacute; un contenu attentatoire &agrave; des droits de propri&eacute;t&eacute; intellectuelle, d&egrave;s lors que l&#039;illic&eacute;it&eacute; dudit contenu n&#039;&eacute;tait pas manifeste. De plus, a agi &q",
     auto: true
   },
-  {
-    id: "auto-1774535191-77",
-    title: "La décision contraignante du CEPD devant le Tribunal de l'Union ; du renvoi préjudiciel au recours direct",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/la-decision-contraignante-du-cepd-devant-le-tribunal-de-l-union-du-renvoi-prejudiciel-au-recours-direct-DNU100d5",
-    source: "Lextenso",
-    date: "2026-03-08",
-    cat: "Jurisprudence",
-    desc: "Par son arr&ecirc;t du 10&nbsp;f&eacute;vrier 2026, la grande chambre de la Cour de justice clarifie la possibilit&eacute; de contester en justice les d&eacute;cisions contraignantes du CEPD adopt&eacute;es sur le fondement de l&#039;article 65 du RGPD. En censurant l&#039;ordonnance du Tribunal qui avait d&eacute;clar&eacute; irrecevable le recour",
-    auto: true
-  },
-  {
-    id: "auto-1774535191-43",
-    title: "Stakeholder event on political advertising: agenda available now",
-    url: "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
-    source: "EDPB",
-    date: "2026-03-06",
-    cat: "RGPD",
-    desc: "Brussels, 6 March - The EDPB organises a remote event to collect stakeholders’ input on its Guidelines on the processing of personal data to target or deliver political advertisements under the regulation on the transparency and targeting of political advertising , on 27 March 2026. The agenda is available below This will be an opportunity to infor",
-    auto: true
-  },
-  {
-    id: "auto-1774535191-29",
-    title: "Séminaire bilatéral franco-néerlandais",
-    url: "https://www.conseil-etat.fr/actualites/seminaire-bilateral-franco-neerlandais",
-    source: "Conseil d'État",
-    date: "2026-03-04",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-03T10:08:50";
+window.AUTO_VEILLE_UPDATED = "2026-04-04T09:56:24";
