@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-06T11:14:47
+// Dernière collecte : 2026-04-07T11:31:28
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1775561457-0",
+    title: "Accompagnement des professionnels : le programme de travail de la CNIL pour 2026",
+    url: "https://www.cnil.fr/fr/accompagnement-des-professionnels-le-programme-de-travail-de-la-cnil-pour-2026",
+    source: "CNIL",
+    date: "2026-04-07",
+    cat: "RGPD",
+    desc: "En 2026, la CNIL poursuit son accompagnement des acteurs publics et privés dans leur mise en conformité avec le RGPD et de certaines dispositions du RIA. S’appuyant sur un dialogue régulier avec les représentants des différents secteurs, elle présente les principaux travaux et ressources qu’elle prévoit de publier ou soumettre à consultation.",
+    auto: true
+  },
   {
     id: "auto-1775296566-25",
     title: "Nomination",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le 6&nbsp;f&eacute;vrier 2026, la Commission europ&eacute;enne a conclu, &agrave; titre pr&eacute;liminaire, dans le cadre d&#039;une proc&eacute;dure formelle, que TikTok avait enfreint le DSA en raison de sa conception addictive. Le d&eacute;filement infini, la lecture automatique, les notifications instantan&eacute;es, ainsi que le syst&egrave;m",
     auto: true
   },
-  {
-    id: "auto-1775474069-69",
-    title: "Responsabilité civile de l'hébergeur : défaut de notification et promptitude de l'intervention",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/responsabilite-civile-de-l-hebergeur-defaut-de-notification-et-promptitude-de-l-intervention-DNU100d6",
-    source: "Lextenso",
-    date: "2026-03-08",
-    cat: "Jurisprudence",
-    desc: "&Agrave; d&eacute;faut de notification, l&#039;h&eacute;bergeur n&#039;engage pas sa responsabilit&eacute; civile pour ne pas avoir retir&eacute; un contenu attentatoire &agrave; des droits de propri&eacute;t&eacute; intellectuelle, d&egrave;s lors que l&#039;illic&eacute;it&eacute; dudit contenu n&#039;&eacute;tait pas manifeste. De plus, a agi &q",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-06T11:14:47";
+window.AUTO_VEILLE_UPDATED = "2026-04-07T11:31:28";
