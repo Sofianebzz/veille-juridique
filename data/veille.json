@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1775638452-0",
+    "title": "Municipales 2026 : le bilan de l’observatoire des élections de la CNIL",
+    "url": "https://www.cnil.fr/fr/municipales-2026-bilan-observatoire",
+    "source": "CNIL",
+    "date": "2026-04-08",
+    "cat": "Jurisprudence",
+    "desc": "À l’occasion des élections municipales des 15 et 22&amp;nbsp;mars 2026, la CNIL a reçu 739&amp;nbsp;signalements, majoritairement pour des opérations de prospection par SMS (63&amp;nbsp;%), et a instruit 81&amp;nbsp;plaintes. À ce stade, quatre contrôles ont été engagés, ainsi qu’une procédure de sanction simplifiée.",
+    "auto": true
+  },
+  {
+    "id": "auto-1775638452-1",
+    "title": "Outil PIA : téléchargez et installez le logiciel de la CNIL",
+    "url": "https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil",
+    "source": "CNIL",
+    "date": "2026-04-07",
+    "cat": "RGPD",
+    "desc": "Le logiciel open source PIA facilite la conduite et la formalisation d’analyses d’impact relatives à la protection des données (AIPD) telles que prévues par le RGPD.",
+    "auto": true
+  },
+  {
     "id": "auto-1775561457-0",
     "title": "Accompagnement des professionnels : le programme de travail de la CNIL pour 2026",
     "url": "https://www.cnil.fr/fr/accompagnement-des-professionnels-le-programme-de-travail-de-la-cnil-pour-2026",
@@ -777,26 +797,6 @@
     "date": "2026-03-09",
     "cat": "RGPD",
     "desc": "Le gouvernement change de cap en acc&eacute;l&eacute;rant la proc&eacute;dure permettant de choisir le nouvel h&eacute;bergeur de donn&eacute;es de sant&eacute;. Cette acc&eacute;l&eacute;ration met en tension des objectifs pour l&#039;instant difficiles &agrave; concilier que sont la souverainet&eacute; num&eacute;rique en mati&egrave;re de sant&e",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223459-13",
-    "title": "La place de l'Open Source au cœur de la souveraineté européenne : vers des écosystèmes numériques ouverts européens",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/la-place-de-l-open-source-au-coeur-de-la-souverainete-europeenne-vers-des-ecosystemes-numeriques-ouverts-europeens-DNU100d8",
-    "source": "Lextenso",
-    "date": "2026-03-09",
-    "cat": "RGPD",
-    "desc": "En janvier 2026, la Commission europ&eacute;enne a lanc&eacute; une consultation publique intitul&eacute;e &quot;&nbsp;vers des &eacute;cosyst&egrave;mes num&eacute;riques ouverts europ&eacute;ens&nbsp;&quot;, ayant recueilli 1&nbsp;658 contributions. L&#039;initiative place l&#039;Open Source au c&oelig;ur d&#039;une strat&eacute;gie industrielle ",
-    "auto": true
-  },
-  {
-    "id": "auto-1773223459-14",
-    "title": "TikTok : une conception addictive contraire au DSA selon un avis préliminaire de la Commission",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n3/tiktok-une-conception-addictive-contraire-au-dsa-selon-un-avis-preliminaire-de-la-commission-DNU100d7",
-    "source": "Lextenso",
-    "date": "2026-03-09",
-    "cat": "Plateformes",
-    "desc": "Le 6&nbsp;f&eacute;vrier 2026, la Commission europ&eacute;enne a conclu, &agrave; titre pr&eacute;liminaire, dans le cadre d&#039;une proc&eacute;dure formelle, que TikTok avait enfreint le DSA en raison de sa conception addictive. Le d&eacute;filement infini, la lecture automatique, les notifications instantan&eacute;es, ainsi que le syst&egrave;m",
     "auto": true
   }
 ]
