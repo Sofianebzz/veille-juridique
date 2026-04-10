@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-1775811714-0",
+    "title": "Publication de la feuille de route des efforts prioritaires en matière de sécurité numérique de l’Etat 2026-2027",
+    "url": "http://cyber.gouv.fr/actualites/feuille-de-route-des-efforts-prioritaires-en-matiere-de-securite-numerique-de-letat-2026-2027/",
+    "source": "ANSSI",
+    "date": "2026-04-09",
+    "cat": "Cybersécurité",
+    "desc": "Les feuilles de route de la sécurité numérique de l’État, établies annuellement, fixent les efforts prioritaires que doivent fournir les […]",
+    "auto": true
+  },
+  {
+    "id": "auto-1775811714-26",
+    "title": "Décision n° 2026-1190 QPC du 10 avril 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261190QPC.htm",
+    "source": "Conseil constitutionnel",
+    "date": "2026-04-09",
+    "cat": "Jurisprudence",
+    "desc": "Sociétés Legrand SNC et autres [Contestation des perquisitions et saisies dans le cadre d&#039;une information judiciaire]",
+    "auto": true
+  },
+  {
+    "id": "auto-1775811714-27",
+    "title": "Décision n° 2026-1192 QPC du 10 avril 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261192QPC.htm",
+    "source": "Conseil constitutionnel",
+    "date": "2026-04-09",
+    "cat": "Jurisprudence",
+    "desc": "M. Sofiane S. [Impossibilité pour l’accusé placé en détention provisoire de s’opposer à l’utilisation de la visioconférence devant la juridiction saisie d’une demande de mise en liberté]",
+    "auto": true
+  },
+  {
     "id": "auto-1775725277-38",
     "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
     "url": "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
@@ -7,6 +37,16 @@
     "date": "2026-04-09",
     "cat": "RGPD",
     "desc": "Brussels, 09 April - The European Data Protection Board (EDPB) has published its&nbsp; 2025 Annual Report . The report provides an overview of the EDPB work carried out in 2025 and reflects on important milestones, such as the adoption of the&nbsp; Helsinki Statement on Enhanced Clarity, Support, and Engagement . “In 2025, we saw the data protectio",
+    "auto": true
+  },
+  {
+    "id": "auto-1775811714-72",
+    "title": "Nouvelles missions de VIGINUM dans la lutte contre la cyberpropagande étrangère et élaboration d'une intelligence artificielle à caractère défensif",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n4/nouvelles-missions-de-viginum-dans-la-lutte-contre-la-cyberpropagande-etrangere-et-elaboration-d-une-intelligence-artificielle-a-caractere-defensif-DNU100e9",
+    "source": "Lextenso",
+    "date": "2026-04-08",
+    "cat": "IA",
+    "desc": "Le d&eacute;cret du 11&nbsp;f&eacute;vrier 2026 &eacute;tend les missions de VIGINUM, service charg&eacute; de la lutte contre les ing&eacute;rences num&eacute;riques &eacute;trang&egrave;res. Il l&#039;autorise &agrave; collecter des donn&eacute;es publiques sur les plateformes en ligne pendant 15&nbsp;jours, via des comptes d&eacute;di&eacute;s e",
     "auto": true
   },
   {
@@ -757,46 +797,6 @@
     "date": "2026-03-12",
     "cat": "RGPD",
     "desc": "Brussels, 12 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s Proposal for a European Biotech Act . The Proposal aims to strengthen Europe’s biotechnology and biomanufacturing sectors, particularly in the area of health, by streamlinin",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-86",
-    "title": "EDPB-EDPS joint opinion on European Biotech Act proposal",
-    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/edpb-edps-joint-opinion-european-biotech-act",
-    "source": "EDPS",
-    "date": "2026-03-11",
-    "cat": "RGPD",
-    "desc": "EDPB-EDPS joint opinion on European Biotech Act proposal ileanjoh Wed, 03/11/2026 - 14:09 Thu, 03/12/2026 - 12:00 On 10 March 2026, the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) adopted a joint opinion on the European Commission's proposal for a European Biotech Act. The two organisations support harmo",
-    "auto": true
-  },
-  {
-    "id": "auto-1773228661-0",
-    "title": "Panorama de la cybermenace 2025 : La France toujours sous la pression des cyber attaquants",
-    "url": "http://cyber.gouv.fr/actualites/panorama-de-la-cybermenace-2025/",
-    "source": "ANSSI",
-    "date": "2026-03-11",
-    "cat": "Cybersécurité",
-    "desc": "Dans le Panorama de la cybermenace 2025, l’Agence nationale de la sécurité des systèmes d’information (ANSSI) présente le bilan d’une […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1773228661-1",
-    "title": "Typosquatting : blocage judiciaire de 39 noms de domaine en .fr",
-    "url": "https://www.legalis.net/actualite/typosquatting-blocage-judiciaire-de-39-noms-de-domaine-en-fr/",
-    "source": "Legalis",
-    "date": "2026-03-11",
-    "cat": "PI numérique",
-    "desc": "Une fois n’est pas coutume, un groupe victime de typosquatting sur ses marques française, européenne et internationale a choisi de passer par la voie judiciaire pour bloquer les noms de domaine contrefaisants et obtenir réparation. Le tribunal judiciaire de Paris a ordonné le transfert à Groupama de 39 noms de domaine en « .fr » [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1773228661-2",
-    "title": "Droit d’auteur : preuve de la titularité par la Blockchain",
-    "url": "https://www.legalis.net/actualite/droit-dauteur-preuve-de-la-titularite-par-la-blockchain/",
-    "source": "Legalis",
-    "date": "2026-03-11",
-    "cat": "Jurisprudence",
-    "desc": "Par un jugement du 20 mars 2025, le tribunal judiciaire de Marseille a admis la blockchain comme mode de preuve de la titularité des droits patrimoniaux relatifs à des vêtements et qu’elle pouvait aussi servir à horodater la création. AZ Factory commercialise sous ses marques des pyjamas Love With Alber et Hearts with Alber, inspirés [&#8230;]",
     "auto": true
   }
 ]
