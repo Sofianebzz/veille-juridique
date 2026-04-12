@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-11T08:35:50
+// Dernière collecte : 2026-04-12T08:40:25
 window.AUTO_VEILLE = [
   {
     id: "auto-1775896507-26",
@@ -752,6 +752,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1775983196-39",
+    title: "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
+    url: "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
+    source: "EDPB",
+    date: "2026-03-12",
+    cat: "RGPD",
+    desc: "Brussels, 12 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s Proposal for a European Biotech Act . The Proposal aims to strengthen Europe’s biotechnology and biomanufacturing sectors, particularly in the area of health, by streamlinin",
+    auto: true
+  },
+  {
     id: "auto-1774532375-17",
     title: "Marché du haut et du très haut débit fixe",
     url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-du-haut-et-du-tres-haut-debit-fixe-120326.html",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le CEPD et l'EDPS soutiennent l'harmonisation des essais cliniques dans le cadre de la réglementation européenne sur les biotechnologies, mais demandent des garanties spécifiques pour les données sensibles relatives à la santé.",
     auto: true
   },
-  {
-    id: "auto-1773310036-0",
-    title: "La CNIL sera présente au Forum InCyber (FIC) du 31 mars au 2 avril 2026",
-    url: "https://www.cnil.fr/fr/forum-incyber-2026",
-    source: "CNIL",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "La CNIL sera présente au Forum InCyber (FIC) 2026 à Lille Grand Palais au stand D3 pour répondre aux questions du public et des professionnels. La présidente de la CNIL, Marie-Laure Denis, interviendra également lors du sommet d’ouverture le 31 mars.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-11T08:35:50";
+window.AUTO_VEILLE_UPDATED = "2026-04-12T08:40:25";

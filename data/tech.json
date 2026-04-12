@@ -1,5 +1,335 @@
 [
   {
+    "id": "tech-1775983225-8",
+    "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+    "url": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+    "source": "TechCrunch",
+    "date": "2026-04-12",
+    "cat": "Big Tech",
+    "desc": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-24",
+    "title": "À 400 euros, le Poco X8 Pro a un meilleur écran que des téléphones à 1400 euros",
+    "url": "https://www.01net.com/actualites/a-400-euros-le-poco-x8-pro-a-un-meilleur-ecran-que-des-telephones-a-1400-euros.html",
+    "source": "01net",
+    "date": "2026-04-12",
+    "cat": "Numérique & Société",
+    "desc": "Le Poco X8 Pro, à 399 euros, offre un écran performant qui rivalise avec des modèles haut de gamme. Son pic lumineux atteint 3362 cd/m², surpassant des smartphones comme le Galaxy S26 Ultra et l'iPhone 17. Xiaomi a choisi des composants de qualité, prouvant que d'excellentes spécifications ne sont pas réservées aux modèles coûteux.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-25",
+    "title": "Cupra Born : pourquoi elle coûte 5 000 € de plus que l’ID.3 (et pourquoi c’est justifié)",
+    "url": "https://www.01net.com/actualites/cupra-born-restylee-pourquoi-coute-5000e-plus-lid3.html",
+    "source": "01net",
+    "date": "2026-04-12",
+    "cat": "Numérique & Société",
+    "desc": "Cupra ouvre le carnet de commandes de la Born restylée. La compacte électrique s’affiche ainsi à partir de 40 070 €. C’est 5 000 € de plus que sa cousine la Volkswagen ID.3. Mais l’espagnole est bien mieux apprêtée.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-26",
+    "title": "Votre Mac a « une date d’expiration cachée » qui rappelle le bug de l’an 2000",
+    "url": "https://www.01net.com/actualites/votre-mac-date-dexpiration-cachee-rappelle-bug-an-2000.html",
+    "source": "01net",
+    "date": "2026-04-12",
+    "cat": "Big Tech",
+    "desc": "Un bug étonnant, qui ravive le souvenir du bug de l'an 2000, a été découvert au cœur du Mac. Cette défaillance, encore non corrigée par Apple, peut provoquer une « panne invisible ».",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-27",
+    "title": "Test Blink Mini 2K+ : que vaut la petite caméra de surveillance à 45 euros ?",
+    "url": "https://www.01net.com/actualites/test-blink-mini-2k-avis-2.html",
+    "source": "01net",
+    "date": "2026-04-12",
+    "cat": "Numérique & Société",
+    "desc": "Blink franchit le cap de la résolution 2K avec sa nouvelle Mini 2K+, une caméra filaire compacte et abordable qui promet de corriger les limites de sa devancière. Zoom numérique 4x, vision nocturne améliorée, compatibilité avec le support Arc pour une couverture à 180° : sur le papier, la recette semble convaincante.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-28",
+    "title": "Pour l’Anssi, la France n’est pas « à la hauteur » des cyberattaques à son encontre",
+    "url": "https://www.01net.com/actualites/anssi-personne-hauteur-cyberattaques-qui-frappent-france.html",
+    "source": "01net",
+    "date": "2026-04-12",
+    "cat": "Numérique & Société",
+    "desc": "La France est le pays le plus piraté du monde, mais Vincent Strubel, directeur général de l'Anssi, continue de minimiser la gravité de la situation. Il reconnaît néanmoins, à demi-mots, que « personne n'est réellement à la hauteur » pour lutter contre l'explosion des fuites de données.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-45",
+    "title": "Amazon casse enfin le prix de l’Asus ROG Xbox Ally X avec cette promotion",
+    "url": "https://www.numerama.com/tech/2230307-amazon-casse-enfin-le-prix-de-lasus-rog-xbox-ally-x-avec-cette-promotion.html",
+    "source": "Numerama",
+    "date": "2026-04-12",
+    "cat": "Big Tech",
+    "desc": "[Deal du jour] La première console portable de Microsoft en collaboration avec Asus est en promotion dans son modèle le plus puissant, l'Asus ROG Xbox Ally X Z2 Extreme.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-46",
+    "title": "Recharge rapide : La non fiabilité des bornes est une épine dans le pied de la transition",
+    "url": "https://www.numerama.com/vroom/2230847-recharge-rapide-la-non-fiabilite-des-bornes-est-une-epine-dans-le-pied-de-la-transition.html",
+    "source": "Numerama",
+    "date": "2026-04-12",
+    "cat": "Numérique & Société",
+    "desc": "Ionity devait être la vitrine de la recharge rapide en Europe. C’est devenu son point de fragilité en cristallisant les mauvaises expériences. Cet édito de la newsletter Watt Else du 9 avril est l'occasion de pousser un coup de gueule.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-47",
+    "title": "Sortie de la saison 3 de One Piece, plan de l’US Navy pour repêcher Artémis II & Harry Potter – le récap’ de la semaine",
+    "url": "https://www.numerama.com/pop-culture/2230427-sortie-de-la-saison-3-de-one-piece-plan-de-lus-navy-pour-repecher-artemis-ii-harry-potter-le-recap-de-la-semaine.html",
+    "source": "Numerama",
+    "date": "2026-04-12",
+    "cat": "Numérique & Société",
+    "desc": "Non, il n'y a pas que des actualités autour d'Artémis II cette semaine sur Numerama : d'autres sujets ont su aussi retenir votre attention.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-0",
+    "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
+    "url": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+    "source": "The Verge",
+    "date": "2026-04-11",
+    "cat": "Big Tech",
+    "desc": "Dutch regulators, the RDW, announced that after over a year and a half of testing, it has officially approved Tesla's Full-Self Driving (FSD) Supervised. This makes the Netherlands the first European country to authorize the use of FSD on its roads. This could open the door to wider adoption throughout the EU. Tesla's European headquarters [&#8230;",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-1",
+    "title": "Google says Polymarket bets showing up in News was an ‘error’",
+    "url": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+    "source": "The Verge",
+    "date": "2026-04-11",
+    "cat": "Big Tech",
+    "desc": "Polymarket bets started popping up in Google News alongside legitimate news articles. But now those results aren't showing, and Google says they were never supposed to. Spokesperson Ned Adriance told The Verge that \"Google News is designed to show sources that create content about current issues, events, and important topics, and we have policies f",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-2",
+    "title": "Pokémon Champions is off to a rough start",
+    "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+    "source": "The Verge",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "Like many live-service games before it, Pok&#233;mon Champions' launch has been messy. The free-to-start battle sim, which is out now on the Switch and Switch 2 (and also coming to mobile later this year), is plagued with bugs, some of which cause issues with basic battle mechanics - not great for a game that's only [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-3",
+    "title": "Your article about AI doesn’t need AI art",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "source": "The Verge",
+    "date": "2026-04-11",
+    "cat": "IA & Modèles",
+    "desc": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-4",
+    "title": "Google’s latest Nest Doorbells just hit their lowest prices of the year",
+    "url": "https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale",
+    "source": "The Verge",
+    "date": "2026-04-11",
+    "cat": "Big Tech",
+    "desc": "If you’ve ever worried about porch pirates stealing packages while you’re away, a video doorbell can offer some peace of mind, letting you keep tabs on deliveries no matter where you are. Google offers some of the best around, and right now, its battery-powered, second-gen Nest Doorbell is available for $129.99 ($50 off) from&#160;Amazon and [&#823",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-5",
+    "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+    "source": "The Verge",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-6",
+    "title": "Demons and pinball are a perfect match",
+    "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
+    "source": "The Verge",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "There's one very specific reason I keep a Wii U handy, and that's so that I have an easy way to play the classic pinball game Devil's Crush. Over the years, it has become a comfort game for me. I'm not entirely sure what it is, but there's something about the combination of familiar pinball [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-7",
+    "title": "How Iran out-shitposted the White House",
+    "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "source": "The Verge",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-9",
+    "title": "Kalshi wins temporary pause in Arizona criminal case",
+    "url": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+    "source": "TechCrunch",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-10",
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "source": "TechCrunch",
+    "date": "2026-04-11",
+    "cat": "IA & Modèles",
+    "desc": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-11",
+    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+    "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+    "source": "TechCrunch",
+    "date": "2026-04-11",
+    "cat": "Hardware",
+    "desc": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-15",
+    "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+    "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+    "source": "Ars Technica",
+    "date": "2026-04-11",
+    "cat": "IA & Modèles",
+    "desc": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-29",
+    "title": "Après Artémis 2, les quatre missions spatiales incontournables de 2026",
+    "url": "https://www.01net.com/actualites/apres-artemis-2-les-quatre-missions-spatiales-incontournables-de-2026.html",
+    "source": "01net",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "Alors que les quatre astronautes d'Artémis 2 rentrent sur Terre après dix jours de voyage historique autour de la Lune, le programme spatial mondial ne s'accorde aucune pause. Des confins de notre système solaire à la traque d'exoplanètes lointaines, les prochains mois s'annoncent aussi intenses que décisifs.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-30",
+    "title": "Kits solaires de balcon : quels sont les vrais bénéfices ?",
+    "url": "https://www.01net.com/actualites/kits-solaires-de-balcon-quels-sont-les-vrais-benefices.html",
+    "source": "01net",
+    "date": "2026-04-11",
+    "cat": "Hardware",
+    "desc": "Le fabricant Anker SOLIX vient de publier un livre blanc sur l’efficacité des kits solaires de balcon, baptisé « From Balcony Power Plant to Energy System ». Basé sur les données réelles d’utilisation d’un échantillon aléatoire de 230 000 foyers allemands en 2025, ce rapport dévoile l’impact concret des batteries sur les factures d’électricité : l’",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-31",
+    "title": "Samsung Messages disparaît en juillet : voici comment sauver vos SMS",
+    "url": "https://www.01net.com/actualites/samsung-messages-disparait-en-juillet-voici-comment-sauver-vos-sms.html",
+    "source": "01net",
+    "date": "2026-04-11",
+    "cat": "Big Tech",
+    "desc": "C'est une page importante de l'histoire des smartphones Galaxy qui se tourne. Samsung va définitivement arrêter son application de messagerie native en juillet 2026 et recommande à tous ses utilisateurs de migrer vers Google Messages.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-32",
+    "title": "Le juge français privé de carte bancaire et de Gmail par l’administration Trump témoigne : « Ma vie personnelle est devenue un laboratoire de la perte de souveraineté »",
+    "url": "https://www.01net.com/actualites/le-juge-francais-prive-de-carte-bancaire-et-de-gmail-par-ladministration-trump-temoigne-ma-vie-personnelle-est-devenue-un-laboratoire-de-la-perte-de-souverainete.html",
+    "source": "01net",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "Auditionné par la commission d’enquête qui veut dresser l’état des lieux de nos faiblesses en matière digitale, le juge français de la Cour pénale internationale Nicolas Guillou a témoigné de ses huit mois de vie sous la cloche des sanctions américaines.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-33",
+    "title": "MG4 ou MG4 Urban : ne vous trompez pas, ces deux voitures électriques n’ont presque rien en commun !",
+    "url": "https://www.01net.com/actualites/mg4-ou-mg4-urban-ne-vous-trompez-pas-ces-deux-voitures-electriques-nont-presque-rien-en-commun.html",
+    "source": "01net",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "MG4 et MG4 Urban partagent des noms très proches alors qu’elles sont radicalement différentes. Dimensions, équipements, motorisations et prix varient ainsi largement. Mais toutes deux sont électriques. Essayons d’y voir plus clair.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-48",
+    "title": "On écoute quoi dans l’espace ? Découvrez la playlist de la mission Artémis II",
+    "url": "https://www.numerama.com/sciences/2229871-on-ecoute-quoi-dans-lespace-decouvrez-la-playlist-de-la-mission-artemis-ii.html",
+    "source": "Numerama",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "Quelle chanson voudriez-vous écouter en vous réveillant pendant une mission spatiale ? Les astronautes d'Artémis II, eux, ont eu droit à une petite liste de lecture qui a accompagné leur voyage autour de la Lune.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-49",
+    "title": "Chauffer à plus de 1 400 degrés pour stocker le soleil : la percée des batteries thermiques",
+    "url": "https://www.numerama.com/sciences/2229259-chauffer-a-plus-de-1-400-degres-pour-stocker-le-soleil-la-percee-des-batteries-thermiques.html",
+    "source": "Numerama",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "L’énergie solaire est associée à des problèmes d’intermittence, car elle ne génère d’électricité que quand le Soleil brille. Certains dispositifs photovoltaïques pourraient permettre de stocker le rayonnement solaire sous forme de chaleur, puis de récupérer l’énergie sous forme d’électricité.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-50",
+    "title": "Ils attendent leur proie sur son propre terrain : c’est quoi une attaque par watering hole ?",
+    "url": "https://www.numerama.com/cyberguerre/2228575-ils-attendent-leur-proie-sur-son-propre-terrain-cest-quoi-une-attaque-par-watering-hole.html",
+    "source": "Numerama",
+    "date": "2026-04-11",
+    "cat": "Sécurité",
+    "desc": "Plutôt que d'attaquer une cible frontalement, certains groupes de hackers optent pour une approche redoutable : contaminer les sites que la victime va visiter. Une technique discrète, patiente et efficace contre les cibles les plus protégées, et qui pourrait prendre un relief nouveau à l'heure des agents IA.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-51",
+    "title": "Artémis 2 : pourquoi la combinaison spatiale des astronautes est-elle orange ?",
+    "url": "https://www.numerama.com/sciences/2229369-artemis-2-pourquoi-la-combinaison-spatiale-des-astronautes-est-orange.html",
+    "source": "Numerama",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "La NASA n'a pas choisi au hasard la couleur orange des combinaisons que portent les astronautes de la mission Artémis II. En réalité, cette teinte vive a été retenue pour une raison essentielle : la survie.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-52",
+    "title": "La meilleure gamme de TV LG se retrouve bradée avant l’arrivée des nouveaux modèles",
+    "url": "https://www.numerama.com/tech/2230323-la-meilleure-gamme-de-tv-lg-se-retrouve-bradee-avant-larrivee-des-nouveaux-modeles.html",
+    "source": "Numerama",
+    "date": "2026-04-11",
+    "cat": "Hardware",
+    "desc": "[Deal du jour] Comme à chaque printemps, l'heure est venue pour LG de remplacer ses gammes de téléviseurs. Parmi les modèles en fin de série, on retrouve l'excellente référence G5 qui se trouve actuellement en promotion avant l'arrivée des G6.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-53",
+    "title": "Denza débarque en Europe avec un lancement grandiose, mais tout reste à prouver",
+    "url": "https://www.numerama.com/vroom/2230825-denza-debarque-en-europe-avec-un-lancement-grandiose-mais-tout-reste-a-prouver.html",
+    "source": "Numerama",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "La marque premium de BYD, Denza, a désormais ouvert les commandes dans ses premières concessions européennes. Derrière la mise en scène du lancement, comment exister face aux marques premium déjà installées&nbsp;?",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-54",
+    "title": "« Il n’existe aucun moyen pour un parent d’intervenir » : un père raconte les péripéties suite au piratage de sa fille sur Discord",
+    "url": "https://www.numerama.com/cyberguerre/2230823-il-nexiste-aucun-moyen-pour-un-parent-dintervenir-un-pere-raconte-les-peripeties-suite-au-piratage-de-sa-fille-sur-discord.html",
+    "source": "Numerama",
+    "date": "2026-04-11",
+    "cat": "Numérique & Société",
+    "desc": "Dans un article publié le 10 avril 2026 sur le site américain Ars Technica, un père de famille raconte comment le piratage du compte Discord de sa fille a mis en lumière les failles structurelles de l’application de messagerie.",
+    "auto": true
+  },
+  {
     "id": "tech-1775896550-31",
     "title": "Le Honor 600 est-il vraiment l’iPhone 17 Pro du pauvre ? Notre prise en main",
     "url": "https://www.01net.com/actualites/honor-600-prise-en-main-avis.html",
@@ -137,6 +467,46 @@
     "date": "2026-04-11",
     "cat": "Numérique & Société",
     "desc": "La mission Artémis II est sur le point de s'achever. Les astronautes qui ont vécu à bord de la capsule Orion pendant dix jours sont en train de rentrer sur Terre. Leur arrivée en mer est prévue dans la nuit. La NASA va retransmettre l'évènement en direct.",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-55",
+    "title": "☕️ Mastodon lance des Collections ouvertement inspirées de Bluesky",
+    "url": "https://next.ink/brief_article/mastodon-lance-des-collections-ouvertement-inspirees-de-bluesky/",
+    "source": "Next.ink",
+    "date": "2026-04-10",
+    "cat": "Numérique & Société",
+    "desc": "Mastodon a donné jeudi un avant-goût de la prochaine fonctionnalité phare de sa version 4.6, pensée principalement pour accompagner les nouveaux utilisateurs dans leur découverte du fédivers : les Collections. Ouvertement inspirées des «&#160;starter packs » proposées par Bluesky, ces collections ont vocation à réunir au sein d&#8217;une même envel",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-56",
+    "title": "☕️ Après les Mac, Little Snitch débarque sur Linux pour surveiller les connexions réseau",
+    "url": "https://next.ink/brief_article/apres-les-mac-little-snitch-debarque-sur-linux-pour-surveiller-les-connexions-reseau/",
+    "source": "Next.ink",
+    "date": "2026-04-10",
+    "cat": "Open Source",
+    "desc": "Little Snitch est un utilitaire bien connu des utilisateurs de Mac. L&#8217;outil surveille et contrôle les connexions sortantes des applications installées sur sa machine. La première version remonte à 2003, ce qui ne rajeunira personne, et les mises à jour régulières distribuées par le studio autrichien Objective Development ont achevé d&#8217;en",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-57",
+    "title": "Les Mac perdent leur connexion réseau après 49 jours, 17 heures, 2 minutes et 47 secondes",
+    "url": "https://next.ink/233093/les-mac-perdent-leur-connexion-reseau-apres-49-jours-17-heures-2-minutes-et-47-secondes/",
+    "source": "Next.ink",
+    "date": "2026-04-10",
+    "cat": "Numérique & Société",
+    "desc": "Au bout de 49 jours, 17 heures, 2 minutes et 47 secondes, un Mac resté allumé tout ce temps commencera à perdre sa connexion réseau. La seule solution ? Le redémarrage de l&#8217;ordinateur. En cause : un problème d&#8217;horloge interne… Une «&#160;bombe à retardement&#160;», c&#8217;est ainsi que Photon, un service qui connecte des agents IA [&#8",
+    "auto": true
+  },
+  {
+    "id": "tech-1775983225-58",
+    "title": "☕️ Les anciens Kindle privés de la bibliothèque d’Amazon",
+    "url": "https://next.ink/brief_article/les-anciens-kindle-prives-de-la-bibliotheque-damazon/",
+    "source": "Next.ink",
+    "date": "2026-04-10",
+    "cat": "Big Tech",
+    "desc": "Amazon ferme la porte de sa bibliothèque aux anciens Kindle. Les liseuses et les tablettes Kindle Fire sorties avant 2012 ne pourront plus accéder à la boutique de livres numériques à compter du 20 mai. Les bouquins déjà stockés sur ces appareils continueront d&#8217;être lisibles, mais il ne sera plus possible d&#8217;en acheter et télécharger [&#",
     "auto": true
   },
   {
@@ -427,376 +797,6 @@
     "date": "2026-04-10",
     "cat": "Numérique & Société",
     "desc": "Le Dyson V12s Detect Slim Submarine est idéal pour nettoyer et laver vos sols en profondeur. En ce moment, le constructeur vous offre en plus un aspirateur à main super efficace en cadeau.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-38",
-    "title": "Windows 11 : Microsoft admet un « problème » avec l’horloge, mais c’est fait exprès",
-    "url": "https://www.01net.com/actualites/windows11-admet-probleme-horloge-fait-expres.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Certains utilisateurs ont cru avoir repéré un nouveau bug sur Windows 11. En effet, l’heure affichée sur l’écran de verrouillage n’est pas toujours la même que celle renseignée sur le bureau. Sur son blog, Microsoft explique la raison.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-39",
-    "title": "Votre Galaxy est-il dans la liste ? Samsung étend le support d’AirDrop à ces nouveaux modèles",
-    "url": "https://www.01net.com/actualites/votre-galaxy-est-il-dans-liste-samsung-etend-support-airdrop-nouveaux-modeles.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Après les Galaxy S26, Samsung déploie actuellement le support d'AirDrop via la fonction Quick Share sur un plus grand nombre de smartphones Galaxy. Voici la nouvelle liste.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-40",
-    "title": "Anker SOLIX Solarbank Max AC : la batterie solaire de 7 kWh qui s’adapte à votre installation existante",
-    "url": "https://www.01net.com/actualites/anker-solix-solarbank-max-ac-la-batterie-solaire-de-7-kwh-qui-sadapte-a-votre-installation-existante.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "La Solarbank Max AC d'Anker SOLIX est une batterie plug-and-play de 7 kWh compatible avec les installations solaires existantes, disponible en France fin mai 2026.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-41",
-    "title": "Ce SSD NVMe interne ultra-performant de 4 To est à un bon prix sur Amazon",
-    "url": "https://www.01net.com/bons-plans/ce-ssd-nvme-interne-ultra-performant-de-4-to-est-a-un-bon-prix-sur-amazon.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Malgré la hausse des prix de la mémoire et de la RAM qui touche toute l'industrie, il est possible de trouver quelques bonnes affaires, comme en témoigne cette offre signée Amazon sur le SSD haut de gamme Lexar NQ790.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-42",
-    "title": "Pour défendre l’iPhone, Apple fait tout pour obtenir les secrets de Samsung",
-    "url": "https://www.01net.com/actualites/defendre-iphone-apple-reclame-aide-principal-concurrent.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Apple demande à son principal rival de lui fournir les preuves que les utilisateurs changent librement de smartphone. Le procès antitrust américain prend un tour inattendu.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-43",
-    "title": "Pour gagner la « bataille de la cybersécurité », la CIA va déployer des « collègues » IA aux côtés de ses agents",
-    "url": "https://www.01net.com/actualites/bataille-cybersecurite-cia-deployer-collegues-ia-cotes-agents.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Hardware",
-    "desc": "Le directeur adjoint de la CIA explique comment l’intelligence artificielle va se développer au sein du service de renseignement. Dans un contexte particulièrement tendu, la maîtrise de l’IA est primordiale pour la CIA.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-44",
-    "title": "Bouygues Telecom dégaine le forfait du printemps 2026 : la concurrence est sur le carreau 💥",
-    "url": "https://www.01net.com/bons-plans/bouygues-telecom-degaine-le-forfait-du-printemps-2026-la-concurrence-est-sur-le-carreau.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Le dernier forfait sans engagement B&amp;You de Bouygues Telecom propose un rapport qualité-prix difficile à battre. En souscrivant simultanément à l'offre Pure Fibre, vous pouvez l'obtenir pour un tarif ultra-avantageux.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-45",
-    "title": "Cyberattaque contre Apple Intelligence : une faille permet de manipuler l’IA de votre iPhone, Mac et iPad",
-    "url": "https://www.01net.com/actualites/cyberattaque-contre-apple-intelligence-faille-permet-manipuler-ia-votre-iphone-mac-et-ipad.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Une faille permettant de contourner les protections d'Apple Intelligence a été découverte. En fusionnant deux tactiques, des chercheurs ont obligé l'IA d'Apple à insulter l'utilisateur. Explications.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-46",
-    "title": "Publicis choisit Microsoft pour industrialiser son marketing par l’IA",
-    "url": "https://www.silicon.fr/business-1367/publicis-choisit-microsoft-pour-industrialiser-son-marketing-par-lia-226588",
-    "source": "Silicon.fr",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Les deux groupes officialisent un accord technologique d'envergure : déploiement massif de Copilot, adoption d'Azure comme cloud de référence, et co-innovation autour d'une plateforme marketing pilotée par l'IA agentique The post Publicis choisit Microsoft pour industrialiser son marketing par l&rsquo;IA appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-47",
-    "title": "Réservation en ligne : les agents IA, nouvelle porte d’entrée des fraudeurs",
-    "url": "https://www.silicon.fr/business-1367/reservation-en-ligne-les-agents-ia-nouvelle-porte-dentree-des-fraudeurs-226583",
-    "source": "Silicon.fr",
-    "date": "2026-04-10",
-    "cat": "Hardware",
-    "desc": "L'essor du commerce agentique bouleverse les règles du jeu pour les plateformes de réservation. Datadome, spécialiste de la lutte contre les bots, tire la sonnette d'alarme : derrière la promesse de simplicité offerte par les agents IA se dessine un nouveau front de vulnérabilités. The post Réservation en ligne : les agents IA, nouvelle porte d&rsq",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-48",
-    "title": "Wasabi acquiert Lyve Cloud de Seagate",
-    "url": "https://www.silicon.fr/cloud-1370/wasabi-acquiert-lyve-cloud-de-seagate-226580",
-    "source": "Silicon.fr",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "L'opération permet à Wasabi de renforcer sa position sur le marché entreprise, tandis que Seagate entre à son capital. The post Wasabi acquiert Lyve Cloud de Seagate appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-49",
-    "title": "AWS lance S3 Files et rapproche stockage objet et système de fichiers",
-    "url": "https://www.silicon.fr/cloud-1370/aws-lance-s3-files-et-rapproche-stockage-objet-et-systeme-de-fichiers-226577",
-    "source": "Silicon.fr",
-    "date": "2026-04-10",
-    "cat": "Hardware",
-    "desc": "AWS lance S3 Files pour transformer ses buckets objet en systèmes de fichiers accessibles, une arme économique face à EFS et la concurrence cloud. The post AWS lance S3 Files et rapproche stockage objet et système de fichiers appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-65",
-    "title": "Cap vers la Terre : voilà où se trouve en temps réel la capsule Orion de l’équipage Artémis II",
-    "url": "https://www.numerama.com/sciences/2224335-cap-vers-la-terre-voila-ou-se-trouve-en-temps-reel-la-capsule-orion-de-lequipage-artemis-ii.html",
-    "source": "Numerama",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Partie pour un voyage historique d'environ 10 jours, la mission Artémis II file désormais vers la Terre, après avoir survolé la Lune. Pour suivre ce périple exceptionnel, la NASA fournit un outil en ligne pour traquer la capsule Orion et son équipage en temps réel.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-66",
-    "title": "Double dose de leasing social pour 2026 : 100 000 voitures électriques éligibles confirmées",
-    "url": "https://www.numerama.com/vroom/2230603-double-dose-de-leasing-social-pour-2026-100-000-voitures-electriques-eligibles-confirmees.html",
-    "source": "Numerama",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Il n’y aura pas un, mais deux dispositifs de leasing social en 2026 pour la voiture électrique. Deux fois 50 000 dossiers qui ne cibleront pas les mêmes bénéficiaires.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-67",
-    "title": "Tyler Rake : le meilleur film d’action de Netflix a une bonne nouvelle pour vous",
-    "url": "https://www.numerama.com/pop-culture/2230377-tyler-rake-le-meilleur-film-daction-de-netflix-a-une-bonne-nouvelle-pour-vous.html",
-    "source": "Numerama",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Après deux volets qui ont pulvérisé les records d'audience sur Netflix, l'un des mercenaires les plus increvables du cinéma s'apprête à reprendre du service. Le géant du streaming vient de donner le feu vert à un nouveau chapitre de la saga Extraction, qui s'annonce déjà plus ambitieux que les précédents. Voici tout ce que l'on sait sur ce projet m",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-68",
-    "title": "Manipulateur, menteur, imposteur ? L’enquête qui accable Sam Altman, le patron d’OpenAI",
-    "url": "https://www.numerama.com/tech/2230257-manipulateur-menteur-imposteur-lenquete-qui-accable-sam-altman-le-patron-dopenai.html",
-    "source": "Numerama",
-    "date": "2026-04-10",
-    "cat": "IA & Modèles",
-    "desc": "Sam Altman, l’un des visages les plus influents de l’intelligence artificielle, fait l’objet d’un portrait particulièrement critique dans une enquête du New Yorker. Le magazine y relaie des accusations de manipulation, des doutes sur sa maîtrise technique et une affaire familiale grave, contestée par l’intéressé.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-69",
-    "title": "Artémis II : quand et comment les astronautes vont-ils rentrer sur Terre ?",
-    "url": "https://www.numerama.com/sciences/2227319-artemis-ii-quand-et-comment-les-astronautes-vont-ils-rentrer-sur-terre.html",
-    "source": "Numerama",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Le retour au bercail se rapproche pour les quatre astronautes de la mission Artémis II. Dix jours après leur départ pour une boucle autour de la Lune, les voilà sur le chemin du retour. Arrivée prévue sur Terre au tout début du week-end.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-70",
-    "title": "Disney veut mettre fin à la démesure des prochains films Avatar",
-    "url": "https://www.numerama.com/pop-culture/2230217-disney-veut-mettre-fin-a-la-demesure-des-prochains-films-avatar.html",
-    "source": "Numerama",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "C’est la fin du « chèque en blanc » pour Pandora. Malgré des records de recettes qui feraient pâlir n'importe quel studio, Disney a décidé de revoir sa stratégie concernant l'avenir de la franchise de James Cameron. Pour les épisodes 4 et 5 d'Avatar, la firme aux grandes oreilles compte imposer des limites inédites qui pourraient bien changer notre",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-71",
-    "title": "☕️ Victime d’un hack, CPUID a distribué un malware au lieu de CPU-Z et HWMonitor",
-    "url": "https://next.ink/brief_article/victime-dun-hack-cpuid-a-distribue-des-versions-infectees-de-cpu-z-et-hwmonitor/",
-    "source": "Next.ink",
-    "date": "2026-04-10",
-    "cat": "Sécurité",
-    "desc": "CPUID, l&#8217;éditeur des utilitaires CPU-Z et HWMonitor, a été victime d&#8217;un hack ayant permis à des malandrins de distribuer un cheval de Troie à la place de ces deux outils. Les liens de téléchargement officiels ont été modifiés pour pointer vers des fichiers malveillants. L&#8217;attaque a eu lieu entre les 9 et 10 avril. La [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-72",
-    "title": "OpenAI aussi a son moment Mythos… et assure sa com’ face à Anthropic",
-    "url": "https://next.ink/233215/openai-aussi-a-son-moment-mythos-et-assure-sa-com-face-a-anthropic/",
-    "source": "Next.ink",
-    "date": "2026-04-10",
-    "cat": "IA & Modèles",
-    "desc": "« Moi aussi, moi aussi, moi aussi » ! C’est la première réaction que nous avons eue face aux récentes « fuites » des plans d’OpenAI pour contrer Mythos d’Anthropic. L’entreprise de Sam Altman veut marquer sa différence sur deux plans – la puissance de calcul et les performances – tout en copiant Anthropic avec [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-73",
-    "title": "☕️ Meta supprime les pubs des avocats qui veulent l’attaquer en justice",
-    "url": "https://next.ink/brief_article/meta-supprime-les-pubs-des-avocats-qui-veulent-lattaquer-en-justice/",
-    "source": "Next.ink",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Meta gêné aux entournures. Le géant des réseaux sociaux a nettoyé Facebook, Instagram, Threads et Messenger de dizaines de publicités pour des firmes d&#8217;avocats proposant leurs services… contre Meta. Fin mars,&#160;l&#8217;entreprise et YouTube étaient condamnés&#160;par une cour californienne à verser un total de 6 millions de dollars à une j",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-74",
-    "title": "☕️ L’ANFR ordonne le rappel de deux routeurs Wi-Fi Mikrotik et Wavlink",
-    "url": "https://next.ink/brief_article/lanfr-ordonne-le-rappel-de-deux-routeurs-wi-fi-mikrotik-et-wavlink/",
-    "source": "Next.ink",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "L’Agence nationale des fréquences (ANFR) a demandé à deux fabricants d&#8217;équipements réseau de rappeler un routeur Wi-Fi commercialisé sur le sol français en raison de manquements constatés au niveau des conditions d&#8217;utilisation du spectre radio dans la bande des 5 GHz. Les deux appareils concernés sont le routeur Mantbox 52 15S de Mikrot",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-75",
-    "title": "☕️ La Wii se prend pour un Mac",
-    "url": "https://next.ink/brief_article/la-wii-se-prend-pour-un-mac/",
-    "source": "Next.ink",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "La Wii est un Mac comme un autre, la preuve : la vénérable console de Nintendo peut faire tourner Mac OS X ! Il n&#8217;y avait fondamentalement aucun obstacle insurmontable, il suffisait «&#160;juste&#160;» de plonger les mains dans le cambouis très profondément. Bryan Keller, développeur de son état, avait cette envie depuis l&#8217;université, e",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-76",
-    "title": "L’État veut réduire ses dépendances extra-européennes, la Dinum bientôt sous Linux",
-    "url": "https://next.ink/233186/letat-veut-reduire-ses-dependances-extra-europeennes-la-dinum-bientot-sous-linux/",
-    "source": "Next.ink",
-    "date": "2026-04-10",
-    "cat": "Open Source",
-    "desc": "L&#8217;État affiche ses ambitions en matière de souveraineté numérique, avec une première décision aux accents symboliques : la Dinum, sa direction interministérielle du numérique, se prépare à passer de Windows à Linux sur ses postes de travail. Elle coordonnera par ailleurs les travaux préparatoires des ministères et opérateurs publics, auxquels",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-77",
-    "title": "#Nextpresso : on installe Vaultwarden sur une VM gratuite Google et Oracle… ça marche ?",
-    "url": "https://next.ink/228859/nextpresso-on-installe-vaultwarden-sur-une-vm-gratuite-google-et-oracle-ca-marche/",
-    "source": "Next.ink",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Google et Oracle proposent des VM gratuites, sans limite de durée. Elles sont chiches en caractéristiques techniques, mais c’est largement suffisant pour installer un gestionnaire de mots de passe comme Vaultwarden, et ainsi en profiter gratuitement. Next vous explique les conditions et détaille la procédure. Nous avons déjà présenté plusieurs hébe",
-    "auto": true
-  },
-  {
-    "id": "tech-1775896550-78",
-    "title": "☕️ Amazon envisage de vendre ses puces Trainium à des tiers",
-    "url": "https://next.ink/brief_article/amazon-envisage-de-vendre-ses-puces-trainium-a-des-tiers/",
-    "source": "Next.ink",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Après le commerce en ligne et le cloud computing, Amazon pourrait-il devenir un vendeur de puces, et donc un concurrent direct de NVIDIA ? L&#8217;hypothèse est explicitement évoquée par Andy Jassy, CEO d&#8217;Amazon, dans sa lettre annuelle aux actionnaires, publiée le 9 avril. Il y décrit comment les semiconducteurs sont devenus une activité de ",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-37",
-    "title": "Chrome : Google lance l’arme ultime contre l’une des plus grandes menaces d’Internet",
-    "url": "https://www.01net.com/actualites/chrome-google-arme-plus-grandes-menaces-internet.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Google active enfin sa protection matérielle contre les infostealers dans Chrome 146. Problème : les utilisateurs Mac devront attendre.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-38",
-    "title": "Un message vocal de « livreur » généré par IA : la nouvelle arnaque au colis qui fait des ravages",
-    "url": "https://www.01net.com/actualites/un-message-vocal-de-livreur-genere-par-ia-la-nouvelle-arnaque-au-colis-qui-fait-des-ravages.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Hardware",
-    "desc": "Si vous pensiez avoir tout vu avec les fausses photos de colis générées par intelligence artificielle, préparez-vous à une nouvelle technique encore plus difficile à détecter. Les pirates intègrent désormais des messages vocaux ultra-réalistes pour vous convaincre de cliquer sur leurs liens piégés.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-39",
-    "title": "Les videoprojecteurs ETOE à prix cassé en ce moment chez Geekbuying",
-    "url": "https://www.01net.com/bons-plans/les-videoprojecteurs-etoe-a-prix-casse-en-ce-moment-chez-geekbuying.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Découvrez dès maintenant les réductions folles sur cette sélection de vidéoprojecteurs de la marque ETOE chez Geekbuying.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-40",
-    "title": "Ionity augmente ses prix : voici les nouveaux tarifs du kWh et l’astuce pour ne pas payer plus cher",
-    "url": "https://www.01net.com/actualites/ionity-augmente-prix-voici-nouveaux-tarifs-kwh-lastuce-pour-pas-payer-plus-cher.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Mauvaise nouvelle, Ionity revoit ses tarifs à la hausse en ce mois d’avril. Bonne nouvelle, certains pourront tout de même échapper à l’augmentation du kWh sur les bornes rapides selon des conditions bien précises.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-41",
-    "title": "4,5 millions d’adresses e-mail exposées : une fuite massive frappe la France, des ministères et des ambassades touchés",
-    "url": "https://www.01net.com/actualites/45-millions-adresses-e-mail-exposees-fuite-massive-frappe-france-ministeres-ambassades-concernes.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Une erreur vient d'exposer 4,5 millions d’adresses e-mail appartenant à de grandes entreprises françaises, comme Renault ou Carrefour, et à des institutions du gouvernement. Laissée en accès libre sur Internet, une base de données a divulgué une montagne de données sensibles.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-42",
-    "title": "Souveraineté numérique : l’État français veut abandonner Windows pour Linux",
-    "url": "https://www.01net.com/actualites/souverainete-numerique-letat-francais-veut-abandonner-windows-pour-linux.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Le Gouvernement franchit une étape importante dans sa quête pour une indépendance numérique. L’administration française ne doit plus dépendre d’outils dont elle ne maîtrise ni les tarifs, ni les règles, ni la sécurité.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-43",
-    "title": "L’alternative à Starlink d’Amazon approche, mais le chemin est encore long",
-    "url": "https://www.01net.com/actualites/alternative-starlink-amazon-approche-chemin-encore-long.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Big Tech",
-    "desc": "Le PDG d’Amazon a annoncé une nouvelle fête de lancement pour le service Internet par satellite d’Amazon. Cette nouvelle fenêtre de lancement est étonnamment proche vu le nombre conséquent de satellites qui doivent encore être envoyés en orbite.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-44",
-    "title": "ChatGPT Pro : OpenAI lance un nouveau forfait, voici ce qu’il propose",
-    "url": "https://www.01net.com/actualites/chatgpt-pro-ce-que-propose-nouveau-forfait-103-euros-mois.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "IA & Modèles",
-    "desc": "OpenAI étoffe sa gamme avec un nouvel abonnement ChatGPT Pro à 103 € par mois pour combler le fossé entre l’offre Plus et l’autre forfait Pro.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-45",
-    "title": "Test Marshall Bromley 450 : quand un ampli de guitare s’invite à la soirée",
-    "url": "https://www.01net.com/tests/test-marshall-bromley-450-avis.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "Marshall enrichit sa gamme festive avec la Bromley 450, une enceinte de soirée compacte inspirée de la 750 mais plus accessible et mieux protégée. Son système stéréo à 360°, ses 40 heures d'autonomie et son design ampli de guitare en font un objet à part sur un marché dominé par les LED criardes et le plastique bon marché.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-46",
-    "title": "Votre prochain Uber sera-t-il un Volkswagen ID. Buzz sans chauffeur ? Les tests débutent avec une technologie bluffante",
-    "url": "https://www.01net.com/actualites/prochain-uber-sera-volkswagen-id-buzz-sans-chauffeur-tests-debutent-avec-technologie-bluffante.html",
-    "source": "01net",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "MOIA America et Uber ont débuté les premiers essais sur route des Volkswagen ID.Buzz entièrement autonomes. L’objectif ? Préparer les véhicules pour une mise en service commerciale dès la fin d’année.",
-    "auto": true
-  },
-  {
-    "id": "tech-1775811734-64",
-    "title": "Cette machine Asus avec RTX 5070 s’effondre sous les 1200 €",
-    "url": "https://www.numerama.com/tech/2229653-cette-machine-asus-avec-rtx-5070-seffondre-sous-les-1200-e.html",
-    "source": "Numerama",
-    "date": "2026-04-10",
-    "cat": "Numérique & Société",
-    "desc": "[Deal du jour] Besoin de changer votre PC portable pour une machine plus dans l'air du temps ? Cdiscount propose le PC portable Asus TUF Gaming A16 à un excellent prix.",
     "auto": true
   }
 ]
