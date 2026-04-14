@@ -1,6 +1,46 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-13T09:49:14
+// Dernière collecte : 2026-04-14T09:11:20
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1776157855-0",
+    title: "Pixels de suivi dans les courriers électroniques : vous devez être mieux informés",
+    url: "https://www.cnil.fr/fr/pixels-de-suivi-dans-les-courriers-electroniques-vous-devez-etre-mieux-informes",
+    source: "CNIL",
+    date: "2026-04-14",
+    cat: "RGPD",
+    desc: "Ouvrir un courriel est devenu un geste banal du quotidien. Certains messages contiennent pourtant des traceurs qui peuvent collecter des informations sur vos habitudes numériques. La CNIL vous explique vos droits&amp;nbsp;: vous devez être mieux informés et garder le contrôle.",
+    auto: true
+  },
+  {
+    id: "auto-1776157855-1",
+    title: "Pixels de suivi dans les courriers électroniques : la CNIL publie ses recommandations pour mieux protéger la vie privée",
+    url: "https://www.cnil.fr/fr/recommandation-pixel-suivi-courriels",
+    source: "CNIL",
+    date: "2026-04-14",
+    cat: "RGPD",
+    desc: "À l’issue d’une consultation publique, la CNIL publie la version finale de ses recommandations sur les pixels de suivi dans les courriels. Elle précise le cadre applicable afin d’aider les acteurs à mieux comprendre leurs obligations et assurer le respect des droits des personnes concernées.",
+    auto: true
+  },
+  {
+    id: "auto-1776157855-2",
+    title: "Le France Cybersecurity Challenge arrive à son terme",
+    url: "http://cyber.gouv.fr/actualites/le-france-cybersecurity-challenge-arrive-a-son-terme/",
+    source: "ANSSI",
+    date: "2026-04-13",
+    cat: "Cybersécurité",
+    desc: "L’édition 2026 du France Cybersecurity Challenge (FCSC) s’est tenue du vendredi 3 au dimanche 12 avril, une compétition que l’ANSSI […]",
+    auto: true
+  },
+  {
+    id: "auto-1776157855-28",
+    title: "Ateliers de la simplification du Conseil d’État : nouvelle étude sur le contentieux environnemental",
+    url: "https://www.conseil-etat.fr/actualites/ateliers-de-la-simplification-du-conseil-d-etat-nouvelle-etude-sur-le-contentieux-environnemental",
+    source: "Conseil d'État",
+    date: "2026-04-13",
+    cat: "Jurisprudence",
+    desc: "En 2024, le Conseil d’État a lancé les « ateliers de la simplification » pour accompagner le Gouvernement dans la simplification de la norme existante afin de faciliter la mise en œuvre de l’action publique. Une nouvelle étude est disponible sur le contentieux environnemental et notamment sur les au",
+    auto: true
+  },
   {
     id: "auto-1775896507-26",
     title: "Observatoire des marchés des communications électroniques",
@@ -761,45 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 12 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s Proposal for a European Biotech Act . The Proposal aims to strengthen Europe’s biotechnology and biomanufacturing sectors, particularly in the area of health, by streamlinin",
     auto: true
   },
-  {
-    id: "auto-1774532375-17",
-    title: "Marché du haut et du très haut débit fixe",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-du-haut-et-du-tres-haut-debit-fixe-120326.html",
-    source: "ARCEP",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "En 10 ans, la part des abonnements internet fixe en fibre optique est passée de 5 % à 82 %",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-51",
-    title: "Décision n° 2025-1185 QPC du 13 mars 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20251185QPC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-03-12",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1773395949-0",
-    title: "Ordre du jour de la séance plénière du 12 mars 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-mars-2026",
-    source: "CNIL",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1773395949-1",
-    title: "Réglementation européenne sur les biotechnologies : le CEPD et le Contrôleur européen de la protection des données publient un avis",
-    url: "https://www.cnil.fr/fr/reglementation-europeenne-sur-les-biotechnologies-le-cepd-et-le-controleur-europeen-de-la-protection",
-    source: "CNIL",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "Le CEPD et l'EDPS soutiennent l'harmonisation des essais cliniques dans le cadre de la réglementation européenne sur les biotechnologies, mais demandent des garanties spécifiques pour les données sensibles relatives à la santé.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-13T09:49:14";
+window.AUTO_VEILLE_UPDATED = "2026-04-14T09:11:20";
