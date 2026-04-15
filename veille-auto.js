@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-14T09:11:20
+// Dernière collecte : 2026-04-15T09:12:29
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1776244327-0",
+    title: "Les sanctions prononcées par la CNIL",
+    url: "https://www.cnil.fr/fr/les-sanctions-prononcees-par-la-cnil",
+    source: "CNIL",
+    date: "2026-04-14",
+    cat: "Jurisprudence",
+    desc: "Les sanctions prononcées par la formation restreinte de la CNIL&amp;nbsp;depuis l'entrée en vigueur de la loi relative au défenseur des droits.",
+    auto: true
+  },
+  {
+    id: "auto-1776244327-26",
+    title: "Rencontre avec le président du Conseil d’État égyptien",
+    url: "https://www.conseil-etat.fr/actualites/rencontre-avec-le-president-du-conseil-d-etat-egyptien",
+    source: "Conseil d'État",
+    date: "2026-04-14",
+    cat: "Jurisprudence",
+    desc: "Lundi 13 avril 2026, le vice-président du Conseil d’État, Didier-Roland Tabuteau, a reçu une délégation du Conseil d’État égyptien conduite par son président Osama Youssef Shalaby.",
+    auto: true
+  },
+  {
+    id: "auto-1776244327-38",
+    title: "Enhancing compliance and consistency: EDPB adopts DPIA template",
+    url: "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+    source: "EDPB",
+    date: "2026-04-14",
+    cat: "RGPD",
+    desc: "Brussels, 14 April - In line with the EDPB’s Helsinki Statement to make GDPR compliance easier and strengthen consistency across Europe, the EDPB has adopted a template for Data Protection Impact Assessments (DPIA) . The template will help organisations structure, harmonise and evidence their DPIA reporting processes. The template is complemented b",
+    auto: true
+  },
   {
     id: "auto-1776157855-0",
     title: "Pixels de suivi dans les courriers électroniques : vous devez être mieux informés",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La deuxième réunion du comité d’histoire du Conseil constitutionnel s’est tenue le 11 mars 2026 sous la présidence de Richard FERRAND.",
     auto: true
   },
-  {
-    id: "auto-1774532375-85",
-    title: "Latest EDPS Newsletter out now",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/latest-edps-newsletter-out-now",
-    source: "EDPS",
-    date: "2026-03-13",
-    cat: "RGPD",
-    desc: "Latest EDPS Newsletter out now ileanjoh Fri, 03/13/2026 - 10:41 Tue, 03/17/2026 - 12:00 After a very busy start to 2026 indeed, we have a bumper newsletter for you. Catch up on everything from our joint opinions issued with the European Data Protection Board, new rules to protect the independence of EU data protection officers, blog posts from the ",
-    auto: true
-  },
-  {
-    id: "auto-1773479052-0",
-    title: "Serveur mandataire web filtrant : les recommandations de la CNIL",
-    url: "https://www.cnil.fr/fr/recommandation-serveur-mandataire-web-filtrant",
-    source: "CNIL",
-    date: "2026-03-13",
-    cat: "RGPD",
-    desc: "La CNIL souhaite promouvoir des solutions de cybersécurité conformes au RGPD, tant dans leur usage que dès leur conception. Dans ce but, elle publie une recommandation destinée à accompagner les utilisateurs et les fournisseurs de serveurs mandataires web filtrants.",
-    auto: true
-  },
-  {
-    id: "auto-1775983196-39",
-    title: "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
-    url: "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
-    source: "EDPB",
-    date: "2026-03-12",
-    cat: "RGPD",
-    desc: "Brussels, 12 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s Proposal for a European Biotech Act . The Proposal aims to strengthen Europe’s biotechnology and biomanufacturing sectors, particularly in the area of health, by streamlinin",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-14T09:11:20";
+window.AUTO_VEILLE_UPDATED = "2026-04-15T09:12:29";
