@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-15T09:12:29
+// Dernière collecte : 2026-04-16T09:12:55
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1776330741-0",
+    title: "AIPD : le CEPD lance une consultation publique sur un modèle européen",
+    url: "https://www.cnil.fr/fr/aipd-le-cepd-lance-une-consultation-publique",
+    source: "CNIL",
+    date: "2026-04-16",
+    cat: "RGPD",
+    desc: "Le Comité européen de la protection des données (CEPD) a élaboré un document-type à destination des responsables de traitement afin de les aider à documenter les résultats de leur analyse d’impact concernant la protection des données (AIPD). Une consultation publique sur ce projet est ouverte jusqu'au&amp;nbsp;9 juin 2026.",
+    auto: true
+  },
+  {
+    id: "auto-1776330741-26",
+    title: "Universités : 10 projets retenus par le Conseil d’Etat pour renforcer les liens entre étudiants et justice administrative",
+    url: "https://www.conseil-etat.fr/actualites/universites-10-projets-retenus-par-le-conseil-d-etat-pour-renforcer-les-liens-entre-etudiants-et-justice-administrative",
+    source: "Conseil d'État",
+    date: "2026-04-15",
+    cat: "Jurisprudence",
+    desc: "Dans le cadre de son appel à manifestation d’intérêts (AMI), le Conseil d’État a sélectionné 10 projets universitaires sur les 26 candidatures reçues, visant à renforcer les passerelles entre les étudiantes et étudiants, leurs universités et la justice administrative.",
+    auto: true
+  },
   {
     id: "auto-1776244327-0",
     title: "Les sanctions prononcées par la CNIL",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "",
     auto: true
   },
-  {
-    id: "auto-1774532375-103",
-    title: "The low-tech approach serving the digital resilience of organisations: Adaptation strategies in times of fluctuations",
-    url: "https://www.cigref.fr/the-low-tech-approach-serving-the-digital-resilience-of-organisations-adaptation-strategies-in-times-of-fluctuations",
-    source: "CIGREF",
-    date: "2026-03-16",
-    cat: "Cybersécurité",
-    desc: "In a context of multiple crises and the increasing vulnerability of digital systems, Cigref, in partnership with the French Institute for Sustainable IT (Institut du Numérique Responsable &#8211; INR), has published its latest report: « The low-tech approach serving the digital resilience of organisations: Adaptation strategies in times of fluctuat",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-50",
-    title: "Réunion du comité d’histoire du Conseil constitutionnel",
-    url: "https://www.conseil-constitutionnel.fr/actualites/reunion-du-comite-d-histoire-du-conseil-constitutionnel",
-    source: "Conseil constitutionnel",
-    date: "2026-03-13",
-    cat: "RGPD",
-    desc: "La deuxième réunion du comité d’histoire du Conseil constitutionnel s’est tenue le 11 mars 2026 sous la présidence de Richard FERRAND.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-15T09:12:29";
+window.AUTO_VEILLE_UPDATED = "2026-04-16T09:12:55";
