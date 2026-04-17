@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1776417007-35",
+    "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
+    "source": "EDPB",
+    "date": "2026-04-16",
+    "cat": "RGPD",
+    "desc": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes . In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted two opinions on the two sets of the Europrivacy certification criteria ",
+    "auto": true
+  },
+  {
     "id": "auto-1776330741-0",
     "title": "AIPD : le CEPD lance une consultation publique sur un modèle européen",
     "url": "https://www.cnil.fr/fr/aipd-le-cepd-lance-une-consultation-publique",
@@ -780,23 +790,13 @@
     "auto": true
   },
   {
-    "id": "auto-1774532375-49",
-    "title": "Rencontre avec la Cour constitutionnelle de Roumanie",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/rencontre-avec-la-cour-constitutionnelle-de-roumanie",
-    "source": "Conseil constitutionnel",
+    "id": "auto-1776417007-54",
+    "title": "The low-tech approach serving the digital resilience of organisations: Adaptation strategies in times of fluctuations",
+    "url": "https://www.cigref.fr/the-low-tech-approach-serving-the-digital-resilience-of-organisations-adaptation-strategies-in-times-of-fluctuations",
+    "source": "CIGREF",
     "date": "2026-03-16",
-    "cat": "RGPD",
-    "desc": "Le président Richard Ferrand et Mme Véronique Malbec, membre du Conseil constitutionnel, ont reçu le 16 mars 2026 Mme Elena-Simina Tănăsescu, présidente de la Cour constitutionnelle de Roumanie et de l’Association des Cours constitutionnelles francophones (ACCF).",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-66",
-    "title": "Le Comité d’histoire du Conseil d’État et de la juridiction administrative remet son prix de thèse 2026",
-    "url": "https://www.conseil-etat.fr/actualites/le-comite-d-histoire-du-conseil-d-etat-et-de-la-juridiction-administrative-remet-son-prix-de-these-2026",
-    "source": "Conseil d'État",
-    "date": "2026-03-16",
-    "cat": "RGPD",
-    "desc": "",
+    "cat": "Cybersécurité",
+    "desc": "In a context of multiple crises and the increasing vulnerability of digital systems, Cigref, in partnership with the French Institute for Sustainable IT (Institut du Numérique Responsable &#8211; INR), has published its latest report: « The low-tech approach serving the digital resilience of organisations: Adaptation strategies in times of fluctuat",
     "auto": true
   }
 ]
