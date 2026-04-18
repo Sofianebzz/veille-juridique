@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-17T09:10:42
+// Dernière collecte : 2026-04-18T08:41:20
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1776501644-26",
+    title: "[18/05] Rapport d’activité 2025 de la juridiction administrative : Rencontre-débat au Conseil d’État",
+    url: "https://www.conseil-etat.fr/actualites/18-05-rapport-d-activite-2025-de-la-juridiction-administrative-rencontre-debat-au-conseil-d-etat",
+    source: "Conseil d'État",
+    date: "2026-04-17",
+    cat: "Jurisprudence",
+    desc: "Rapport d&rsquo;activit&eacute; 2025 de la juridiction administrative Rencontre-d&eacute;bat au Conseil d&rsquo;&Eacute;tat Lundi 18 mai 2026, 17h30 &agrave; 19h30 A suivre en pr&eacute;sentiel ( inscription /&nbsp; avocats ) ou en direct sur cette page",
+    auto: true
+  },
+  {
+    id: "auto-1776501644-0",
+    title: "Ordre du jour de la séance plénière du 16 avril 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-16-avril-2026",
+    source: "CNIL",
+    date: "2026-04-16",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 16 avril 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
   {
     id: "auto-1776417007-35",
     title: "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "",
     auto: true
   },
-  {
-    id: "auto-1774532375-84",
-    title: "Towards trustworthy AI in the EU public administration: The EDPS Compass for its new role under the AI Act",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/towards-trustworthy-ai-eu-public-administration-edps-compass-its-new-role-under-ai-act",
-    source: "EDPS",
-    date: "2026-03-17",
-    cat: "RGPD",
-    desc: "Towards trustworthy AI in the EU public administration: The EDPS Compass for its new role under the AI Act francesco Tue, 03/17/2026 - 09:06 Tue, 03/17/2026 - 12:00 Under the AI Act (Regulation (EU) 2024/1689), the European Data Protection Supervisor is now a market surveillance authority for AI systems used by EU institutions and a notified body f",
-    auto: true
-  },
-  {
-    id: "auto-1776417007-54",
-    title: "The low-tech approach serving the digital resilience of organisations: Adaptation strategies in times of fluctuations",
-    url: "https://www.cigref.fr/the-low-tech-approach-serving-the-digital-resilience-of-organisations-adaptation-strategies-in-times-of-fluctuations",
-    source: "CIGREF",
-    date: "2026-03-16",
-    cat: "Cybersécurité",
-    desc: "In a context of multiple crises and the increasing vulnerability of digital systems, Cigref, in partnership with the French Institute for Sustainable IT (Institut du Numérique Responsable &#8211; INR), has published its latest report: « The low-tech approach serving the digital resilience of organisations: Adaptation strategies in times of fluctuat",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-17T09:10:42";
+window.AUTO_VEILLE_UPDATED = "2026-04-18T08:41:20";
