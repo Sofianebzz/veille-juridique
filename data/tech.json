@@ -1,5 +1,275 @@
 [
   {
+    "id": "tech-1776588332-18",
+    "title": "Un problème avec Windows ? Voici comment créer la clé USB ultime pour dépanner votre PC",
+    "url": "https://www.01net.com/astuces/un-probleme-avec-windows-voici-comment-creer-la-cle-usb-ultime-pour-depanner-votre-pc.html",
+    "source": "01net",
+    "date": "2026-04-19",
+    "cat": "Numérique & Société",
+    "desc": "N’attendez pas d’avoir des problèmes avec votre PC, créez une clé USB de dépannage à garder sous la main pour réparer votre ordinateur en cas d’avarie.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-19",
+    "title": "Un virus nord-coréen se cache dans la colonne vertébrale des cryptos",
+    "url": "https://www.01net.com/actualites/virus-nord-coreen-cache-colonne-vertebrale-cryptos.html",
+    "source": "01net",
+    "date": "2026-04-19",
+    "cat": "Sécurité",
+    "desc": "Un nouveau malware s'est implanté dans la blockchain, la technologie au cœur des cryptomonnaies. Déployé par les pirates nord-coréens de Lazarus, le logiciel malveillant résiste à toute tentative de suppression.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-20",
+    "title": "1 500 km en Audi A6 e-tron Avant : cette voiture électrique nous a obligés à changer notre score d’autonomie",
+    "url": "https://www.01net.com/tests/1-500-km-en-audi-a6-e-tron-avant-cette-voiture-electrique-nous-a-obliges-a-changer-notre-score-dautonomie.html",
+    "source": "01net",
+    "date": "2026-04-19",
+    "cat": "Numérique & Société",
+    "desc": "Notre essai longue autonomie de l'Audi A6 e-tron Avant a eu des conséquences inattendues. En plus de tester le break électrique à l'autonomie et à la vitesse de charge record, nous avons été contraints de revoir notre façon de juger les routières électriques. Explications.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-21",
+    "title": "Comment changer ses DNS sur macOS ?",
+    "url": "https://www.01net.com/astuces/comment-changer-ses-dns-sur-macos.html",
+    "source": "01net",
+    "date": "2026-04-19",
+    "cat": "Numérique & Société",
+    "desc": "Remplacez le résolveur DNS par défaut de votre opérateur par un DNS tiers pour accélérer votre navigation et contourner certains blocages.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-22",
+    "title": "Une arnaque Booking tente de vous piéger juste après une réservation, le timing est redoutable",
+    "url": "https://www.01net.com/actualites/arnaque-booking-tente-pieger-juste-apres-reservation-timing-redoutable.html",
+    "source": "01net",
+    "date": "2026-04-19",
+    "cat": "Numérique & Société",
+    "desc": "À l’approche des vacances, une nouvelle vague d’arnaques vise les utilisateurs de Booking. Les cybercriminels ont mis au point des messages malveillants sophistiqués en se servant d'informations compromises. L'arnaque survient juste après une réservation. La France fait partie des pays touchés.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-39",
+    "title": "La fusée géante New Glenn s’apprête à réutiliser son premier étage pour la première fois",
+    "url": "https://www.numerama.com/sciences/2231659-la-fusee-geante-new-glenn-sapprete-a-reutiliser-son-premier-etage-pour-la-premiere-fois.html",
+    "source": "Numerama",
+    "date": "2026-04-19",
+    "cat": "Numérique & Société",
+    "desc": "Ce dimanche 19 avril 2026, l’entreprise spatiale de Jeff Bezos s’apprête à faire décoller sa fusée lourde New Glenn pour la troisième fois (mission NG-3) au profit d’AST SpaceMobile. Un vol de grande importance à suivre en direct.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-40",
+    "title": "Smart pensait grandir avec ses SUV électriques, le résultat est brutal",
+    "url": "https://www.numerama.com/vroom/2234923-smart-pensait-grandir-avec-ses-suv-electriques-le-resultat-est-brutal.html",
+    "source": "Numerama",
+    "date": "2026-04-19",
+    "cat": "Hardware",
+    "desc": "Smart voulait grandir. Smart se retrouve à surnager. Et le plus ironique, c’est que son salut pourrait venir de la voiture que ses dirigeants ont eux-mêmes coulée. Parmi les mauvaises décisions stratégiques, le cas de Smart est certainement l'un des plus emblématiques, assez pour être au coeur de l'édito Watt Else du 16 avril 2026.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-0",
+    "title": "The RAM shortage could last years",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "source": "The Verge",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-1",
+    "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
+    "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
+    "source": "The Verge",
+    "date": "2026-04-18",
+    "cat": "Big Tech",
+    "desc": "Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook and Apple to remove ICE-tracking groups and apps. Judge Alonso granted the plaintiffs, Kassandra Rosado, who runs the ICE Sightings - Chicagoland Facebook group, and Kreisa",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-2",
+    "title": "Cheap stuff that doesn’t suck, take 3",
+    "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+    "source": "The Verge",
+    "date": "2026-04-18",
+    "cat": "Hardware",
+    "desc": "From&#160;fancy OLED TVs&#160;to&#160;robot vacuums with arms, we tend to cover a lot of cool stuff here at&#160;The Verge&#160;that, unfortunately, often costs as much as a month’s rent (or more). But with the ongoing tariff situation in the US and a global memory shortage pushing up the cost of, well, everything, we’re well aware that not [&#8230",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-3",
+    "title": "The AI apps are coming for your PC",
+    "url": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
+    "source": "The Verge",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "Hi, friends! Welcome to Installer No. 124, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me your Coachella fits, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about restaurant bread and GLP-1s and Lenny Rachitsky and [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-4",
+    "title": "Tesla brings its robotaxi service to Dallas and Houston",
+    "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "source": "TechCrunch",
+    "date": "2026-04-18",
+    "cat": "Big Tech",
+    "desc": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-5",
+    "title": "AI chip startup Cerebras files for IPO",
+    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "source": "TechCrunch",
+    "date": "2026-04-18",
+    "cat": "Startups & VC",
+    "desc": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-6",
+    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+    "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+    "source": "TechCrunch",
+    "date": "2026-04-18",
+    "cat": "IA & Modèles",
+    "desc": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-7",
+    "title": "The App Store is booming again, and AI may be why",
+    "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "source": "TechCrunch",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-23",
+    "title": "Rachat de SFR : faut-il craindre une hausse des prix des abonnements ?",
+    "url": "https://www.01net.com/actualites/rachat-de-sfr-faut-il-craindre-une-hausse-des-prix-des-abonnements.html",
+    "source": "01net",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "Les forfaits mobiles ont déjà bondi de 31 % en un an en France. Si le démantèlement de SFR se confirme, la fin de la guerre des prix pourrait être actée.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-24",
+    "title": "Concert de Céline Dion : pouvez-vous réclamer des dommages et intérêts si vous avez payé trop cher ?",
+    "url": "https://www.01net.com/actualites/concert-de-celine-dion-pouvez-vous-reclamer-des-dommages-et-interets-si-vous-avez-paye-trop-cher.html",
+    "source": "01net",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "Alors que le ministre du Commerce français a promis, mardi 14 avril, « des sanctions » après le fiasco des ventes de billets de la tournée de la chanteuse québécoise, les clients qui estiment avoir payé un prix abusif pourraient-ils réclamer un dédommagement ? Nous avons posé la question à Aude Guyon, avocate associée chez FBL avocats.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-25",
+    "title": "Bouygues : les nouveaux forfaits mobiles BIG sont là avec des prix encore plus bas",
+    "url": "https://www.01net.com/bons-plans/bouygues-les-nouveaux-forfaits-mobiles-big-sont-la-avec-des-prix-encore-plus-bas.html",
+    "source": "01net",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "Profitez dès maintenant des nouveaux forfaits mobiles Bouygues avec des prix bas et toujours plus d'avantages, sans engagement !",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-26",
+    "title": "L’Europe veut ouvrir la boîte noire de Google à ses concurrents, le DMA est là pour ça",
+    "url": "https://www.01net.com/actualites/leurope-veut-ouvrir-la-boite-noire-de-google-a-ses-concurrents-le-dma-est-la-pour-ca.html",
+    "source": "01net",
+    "date": "2026-04-18",
+    "cat": "Big Tech",
+    "desc": "Google s'est bâti sur des milliards de clics. Bruxelles vient d'inviter ses concurrents, chatbots IA compris, à venir se servir.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-27",
+    "title": "14 jours sans Internet sur smartphone : les effets surprenants sur votre cerveau",
+    "url": "https://www.01net.com/actualites/14-jours-sans-internet-smartphone-effets-surprenants-cerveau.html",
+    "source": "01net",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "Dix ans de vieillissement cognitif effacés en deux semaines. Voilà ce qu'une étude vient de mesurer sur des adultes privés d'internet mobile.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-41",
+    "title": "Ce que les données Strava au Marathon de Paris nous disent de la Gen Z française",
+    "url": "https://www.numerama.com/tech/2235287-ce-que-les-donnees-strava-au-marathon-de-paris-nous-disent-de-la-gen-z-francaise.html",
+    "source": "Numerama",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "Le 12 avril 2026, 60 000 coureurs et coureuses s'élançaient dans les rues de Paris pour affronter les 42,2 km du marathon de la capitale. Grâce aux montres connectées pour s'entraîner et aux applications sociales dédiées au sport, on peut faire des analyses impossibles il y a quelques années. Pour cette édition, Strava nous a fourni des données ava",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-42",
+    "title": "Éclipse solaire du 12 août 2026 : pourquoi vous devez acheter vos lunettes d’éclipse dès maintenant",
+    "url": "https://www.numerama.com/sciences/2234437-eclipse-solaire-du-12-aout-2026-pourquoi-vous-devez-acheter-vos-lunettes-declipse-des-maintenant.html",
+    "source": "Numerama",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "L'éclipse solaire du 12 août 2026 semble encore bien lointaine pour les Français et les Françaises. Pourtant, l'observation de ce phénomène astronomique doit être anticipée. Le risque d'une pénurie de lunettes d'éclipse certifiées sera réel à l'approche du jour J.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-43",
+    "title": "Qu’est-ce que l’aphasie, le trouble qui a frappé l’astronaute de l’ISS ?",
+    "url": "https://www.numerama.com/sciences/2233905-quest-ce-que-laphasie-le-trouble-qui-a-frappe-lastronaute-de-liss.html",
+    "source": "Numerama",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "L’aphasie, une subite perte de la parole, ne se retrouve sous le feu des projecteurs que lorsqu’elle touche des personnalités médiatiques. Pourtant, ce trouble, qui entraîne non seulement de grandes difficultés de communication, mais aussi une grande détresse psychique, affecte des centaines de milliers de personnes en France.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-44",
+    "title": "Le prix de la console Asus ROG Xbox Ally chute sous les 450 € avec cette promotion",
+    "url": "https://www.numerama.com/tech/2235299-le-prix-de-la-console-asus-rog-xbox-ally-chute-sous-les-450-e-avec-cette-promotion.html",
+    "source": "Numerama",
+    "date": "2026-04-18",
+    "cat": "Big Tech",
+    "desc": "[Deal du jour] Le modèle Z2 A de la console portable de Microsoft, en collaboration avec Asus, est en forte promotion. À moins de 450 €, elle devient tout de suite plus intéressante.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-45",
+    "title": "« Rester un acteur majeur » : Audi donne tout pour reconquérir le marché chinois",
+    "url": "https://www.numerama.com/vroom/2235677-rester-un-acteur-majeur-audi-donne-tout-pour-reconquerir-le-marche-chinois.html",
+    "source": "Numerama",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "Audi et le géant chinois SAIC franchissent une étape dans leur coopération industrielle. Les deux constructeurs ont annoncé le développement conjoint de quatre nouvelles voitures électriques, spécifiquement conçues pour répondre aux attentes du marché chinois.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-46",
+    "title": "FSD aux Pays-Bas : Tesla pulvérise le mythe des lenteurs administratives",
+    "url": "https://www.numerama.com/vroom/2235665-fsd-aux-pays-bas-tesla-pulverise-le-mythe-des-lenteurs-administratives.html",
+    "source": "Numerama",
+    "date": "2026-04-18",
+    "cat": "Big Tech",
+    "desc": "L'idée qu'une mise à jour logicielle de conduite autonome doive subir six mois de tests réglementaires avant d'être déployée en Europe vient de voler en éclats. Aux Pays-Bas, Tesla propose déjà une mise à jour de son FSD, prouvant que l'agilité logicielle peut cohabiter avec les exigences de sécurité.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-48",
+    "title": "#Flock : The ShAIning",
+    "url": "https://next.ink/234112/flock-the-shaining/",
+    "source": "Next.ink",
+    "date": "2026-04-18",
+    "cat": "Numérique & Société",
+    "desc": "All work and no play makes Flock a dull boy. All work and no play makes Flock a dull boy. All work and no play makes Flock a dull boy. All work and no play makes Flock a dull boy. All work and no play makes Flock a dull boy. All work and no play [&#8230;]",
+    "auto": true
+  },
+  {
     "id": "tech-1776501680-10",
     "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
     "url": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
@@ -77,6 +347,76 @@
     "date": "2026-04-18",
     "cat": "Numérique & Société",
     "desc": "Cette semaine sur Numerama, vous avez lu de la science, de l'automobile et de l'aérospatial !",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-28",
+    "title": "Face aux biais et aux hallucinations, le raisonnement ne rend pas les LLM plus robustes",
+    "url": "https://www.silicon.fr/data-ia-1372/llm-raisonnement-robustesse-226690",
+    "source": "Silicon.fr",
+    "date": "2026-04-17",
+    "cat": "IA & Modèles",
+    "desc": "Les capacités de raisonnement contribuent peu à accroître la robustesse des LLM face aux biais, aux hallucinations et au jailbreak. The post Face aux biais et aux hallucinations, le raisonnement ne rend pas les LLM plus robustes appeared first on Silicon.fr .",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-47",
+    "title": "ExoMars 2028 : sauvée de la malédiction, la mission européenne s’envolera vers Mars sur un Falcon Heavy",
+    "url": "https://www.numerama.com/sciences/2234699-exomars-2028-sauvee-de-la-malediction-la-mission-europeenne-senvolera-vers-mars-sur-un-falcon-heavy.html",
+    "source": "Numerama",
+    "date": "2026-04-17",
+    "cat": "Numérique & Société",
+    "desc": "Longtemps considérée comme maudite, la mission européenne ExoMars voit enfin son horizon s’éclaircir. Épaulé par la NASA, le rover Rosalind Franklin s’envolera fin 2028 à bord du rare et surpuissant Falcon Heavy de SpaceX, prêt à traquer d'anciennes traces de vie sous le sol martien.",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-49",
+    "title": "Netflix trace sa route après le rachat manqué de Warner, Reed Hastings sur le départ",
+    "url": "https://next.ink/233926/netflix-trace-sa-route-apres-le-rachat-manque-de-warner-reed-hastings-sur-le-depart/",
+    "source": "Next.ink",
+    "date": "2026-04-17",
+    "cat": "Numérique & Société",
+    "desc": "Netflix a publié jeudi de nouveaux résultats financiers record, soutenus par l&#8217;indemnité versée suite à la rupture des négociations liées au rachat de Warner. Le géant du streaming a dans le même temps annoncé le départ prochain de Reed Hastings, son emblématique cofondateur, aujourd&#8217;hui président du conseil d&#8217;administration. La p",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-50",
+    "title": "☕️ Zorin OS 18.1 est disponible, recommandant encore plus d’apps alternatives",
+    "url": "https://next.ink/brief_article/zorin-os-18-1-est-disponible-recommandant-encore-plus-dapps-alternatives/",
+    "source": "Next.ink",
+    "date": "2026-04-17",
+    "cat": "Numérique & Société",
+    "desc": "Comme la dernière version majeure de Zorin OS, la version 18.1 qui vient de sortir propose un environnement fait pour séduire les utilisateurs de Windows 10 qui se demandent par quoi remplacer l’ancien système. L&#8217;équipe de la distribution explique notamment dans un billet que la version 18.1 permet, avec son système de support des application",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-51",
+    "title": "L’IA de Google réécrit des titres d’articles et pages web de façon putaclic et erronée",
+    "url": "https://next.ink/233558/lia-de-google-reecrit-des-titres-darticles-et-pages-web-de-facon-putaclic-et-erronee/",
+    "source": "Next.ink",
+    "date": "2026-04-17",
+    "cat": "Big Tech",
+    "desc": "Aux États-Unis, Google expérimente le fait « d&#8217;identifier, sur une page, le contenu susceptible de constituer un titre utile et pertinent par rapport à la requête d&#8217;un utilisateur », avant de re-générer par IA les titres des pages et articles qu&#8217;il indexe. Quitte à ce qu&#8217;ils racontent le contraire, voire n&#8217;importe quoi",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-52",
+    "title": "Rachat de SFR : Orange, Free et Bouygues Telecom entrent en négociations exclusives",
+    "url": "https://next.ink/233932/rachat-de-sfr-orange-free-et-bouygues-telecom-entrent-en-negociations-exclusives/",
+    "source": "Next.ink",
+    "date": "2026-04-17",
+    "cat": "Numérique & Société",
+    "desc": "Le consortium constitué par Orange, Free et Bouygues Telecom annonce son entrée en négociations exclusives avec le groupe Altice en vue d&#8217;acquérir les actifs de SFR. La nouvelle offre porte sur un montant minimal de 20,35 milliards d&#8217;euros. Après les discussions, place aux négociations exclusives, qui signifient que les deux parties ont",
+    "auto": true
+  },
+  {
+    "id": "tech-1776588332-53",
+    "title": "Claude Opus 4.7 : le nouveau modèle d’Anthropic se veut plus performant et plus gourmand",
+    "url": "https://next.ink/233905/claude-opus-4-7-le-nouveau-modele-danthropic-se-veut-plus-performant-et-plus-gourmand/",
+    "source": "Next.ink",
+    "date": "2026-04-17",
+    "cat": "IA & Modèles",
+    "desc": "À chaque jour son grand modèle de langage, ou presque. Anthropic a en effet dévoilé Claude Opus 4.7, son LLM le plus performant (en dehors de Mythos). Des performances qui se paient : le modèle peut se montrer plus gourmand. Un peu plus de&#160;deux mois après Claude Opus 4.6, et&#160;une semaine après Mythos, Anthropic a [&#8230;]",
     "auto": true
   },
   {
@@ -457,346 +797,6 @@
     "date": "2026-04-17",
     "cat": "IA & Modèles",
     "desc": "ChatGPT va bientôt vous permettre de télécharger une photo de référence de votre visage pour créer des effets et styles avec l'IA.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-43",
-    "title": "ChatGPT, Gemini et Claude seraient meilleurs que les pubs pour vendre un produit : vous avez sûrement déjà été influencé",
-    "url": "https://www.01net.com/actualites/chatgpt-gemini-claude-vendent-influence.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "IA & Modèles",
-    "desc": "Un chatbot qui pousse un produit discrètement fait trois fois mieux qu'un moteur de recherche. Et prévenir l'utilisateur ne le protège presque pas.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-44",
-    "title": "Cybertruck : mais pourquoi Elon Musk achète-t-il ses propres voitures ?",
-    "url": "https://www.01net.com/actualites/cybertruck-mais-pourquoi-elon-musk-achete-t-il-ses-propres-voitures.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Big Tech",
-    "desc": "Parmi les 7 071 Cybertrucks immatriculés aux États-Unis au cours du quatrième trimestre 2025, pas moins de 1 279 ont été livrés à des sociétés d'Elon Musk.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-45",
-    "title": "Jusqu’à 36 euros de taxe copie privée sur votre prochain PC ou smartphone : ce qui vous attend",
-    "url": "https://www.01net.com/actualites/jusqua-36-euros-de-taxe-copie-privee-sur-votre-prochain-pc-ou-smartphone-ce-qui-vous-attend.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Les industries culturelles ont présenté leurs nouvelles exigences pour la redevance sur la copie privée lors d'une réunion de la commission copie privée au ministère de la Culture, le 15 avril. Les montants réclamés sur les téléphones et les tablettes s'envolent, et les ordinateurs pourraient être taxés pour la toute première fois. Cette offensive ",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-46",
-    "title": "Vers une « fuite de données massive » : l’app de vérification de l’âge de l’Europe est criblée de failles",
-    "url": "https://www.01net.com/actualites/vers-fuite-donnees-massive-app-verification-age-europe-criblee-failles.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "L'Europe vient de mettre au point son application de vérification de l’âge. Malheureusement, cette app, présentée comme « techniquement prête », est truffée de vulnérabilités préoccupantes. Pour un chercheur, l'app risque de provoquer une « fuite de données massive » à un moment donné.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-47",
-    "title": "Voici le nouveau visage de Google Chrome dont la France est toujours privée",
-    "url": "https://www.01net.com/actualites/voici-nouveau-visage-google-chrome-dont-france-toujours-privee.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Big Tech",
-    "desc": "Google déploie une mise à jour importante pour le mode IA de Chrome, introduisant un affichage en écran partagé, ainsi que la recherche croisée entre les onglets. Présentation.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-48",
-    "title": "La Commission européenne va avoir un « cloud souverain », plusieurs acteurs français sur les rangs",
-    "url": "https://www.01net.com/actualites/la-commission-europeenne-va-avoir-un-cloud-souverain-plusieurs-acteurs-francais-sur-les-rangs.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Hardware",
-    "desc": "Quatre groupes européens ont été sélectionnés par la Commission européenne pour fournir un « cloud souverain » aux institutions de l'Union européenne : parmi eux, les Français OVHCloud et CleverCloud, qui ont formé un consortium avec le luxembourgeois Post Telecom (Deep). On trouve aussi le Français Scaleway, ainsi qu'une alliance franco-américano-",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-49",
-    "title": "GoPro fait un -50% de folie sur sa Hero13 Black : une offre XL à saisir en urgence 🚨",
-    "url": "https://www.01net.com/bons-plans/gopro-fait-un-50-de-folie-sur-sa-hero13-black-une-offre-xl-a-saisir-en-urgence.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Cette généreuse remise tombe à pic si vous souhaitez vous équiper de cette excellente caméra d'action à moindre coût.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-50",
-    "title": "Les services, nouvel eldorado de l’IA",
-    "url": "https://www.silicon.fr/data-ia-1372/les-services-nouvel-eldorado-de-lia-226731",
-    "source": "Silicon.fr",
-    "date": "2026-04-17",
-    "cat": "Hardware",
-    "desc": "Une note publiée par Sequoia Capital rebat les cartes de l'investissement dans l'intelligence artificielle. La prochaine entreprise à mille milliards de dollars ne sera pas un éditeur de logiciels. Ce sera une société de services. The post Les services, nouvel eldorado de l&rsquo;IA appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-51",
-    "title": "Cloud souverain : Bruxelles choisit ses quatre champions européens",
-    "url": "https://www.silicon.fr/cloud-1370/cloud-souverain-bruxelles-choisit-ses-quatre-champions-europeens-226725",
-    "source": "Silicon.fr",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "La Commission européenne attribue un contrat de 180 millions € à Post Telecom, StackIT, Scaleway et Proximus pour héberger ses données pendant six ans. The post Cloud souverain : Bruxelles choisit ses quatre champions européens appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-52",
-    "title": "Lucy, un jalon quantique de plus dans la stratégie française de calcul hybride",
-    "url": "https://www.silicon.fr/business-1367/lucy-calcul-hybride-226716",
-    "source": "Silicon.fr",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Connecté au superordinateur Joliot-Curie, Lucy se positionne à la croisée de projets à dimension européenne dans le domaine du calcul hybride HPC/quantique. The post Lucy, un jalon quantique de plus dans la stratégie française de calcul hybride appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-53",
-    "title": "Rachat de SFR : Bouygues Telecom, Free-Groupe iliad et Orange proposent 20 milliards",
-    "url": "https://www.silicon.fr/business-1367/rachat-de-sfr-bouygues-telecom-free-groupe-iliad-et-orange-proposent-20-milliards-226703",
-    "source": "Silicon.fr",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Le consortium réunissant les trois grands opérateurs français augmente le montant de sa première offre à plus de 20 milliards € pour le rachat de SFR. The post Rachat de SFR : Bouygues Telecom, Free-Groupe iliad et Orange proposent 20 milliards appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-64",
-    "title": "World War Z 2 : la suite est officielle, Brad Pitt enfin de retour ?",
-    "url": "https://www.numerama.com/pop-culture/2235367-world-war-z-2-la-suite-est-officielle-brad-pitt-enfin-de-retour.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Après treize ans d'attente et de multiples annulations, Paramount Pictures a profité du CinemaCon 2026 pour officialiser le retour de&nbsp;World War Z&nbsp;en production. Entre rachat stratégique et volonté de capitaliser sur une franchise lucrative, le projet est désormais une priorité absolue pour le studio. Voici ce que l'on sait sur ce retour i",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-65",
-    "title": "Vos pare-brise sont moins sales qu’avant, et c’est une très mauvaise nouvelle",
-    "url": "https://www.numerama.com/sciences/2234081-vos-pare-brise-sont-moins-sales-quavant-et-cest-une-tres-mauvaise-nouvelle.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Le 13 avril 2026, le Muséum national d’Histoire naturelle a annoncé le lancement en France de « Bugs Matter », une initiative qui propose aux automobilistes de contribuer à la recherche sur le déclin des insectes, encore difficile à mesurer à grande échelle.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-66",
-    "title": "The Mandalorian and Grogu : c’est le grand retour de l’action dans l’univers Star Wars",
-    "url": "https://www.numerama.com/pop-culture/2235141-the-mandalorian-and-grogu-cest-le-grand-retour-de-laction-dans-lunivers-star-wars.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "L’émotion était palpable lors de la clôture du CinemaCon à Las Vegas, où Lucasfilm a dévoilé les ultimes images de The Mandalorian and Grogu. Ce premier long-métrage Star Wars depuis sept ans ne se contente pas de promettre du grand spectacle, il place le lien quasi paternel entre Din Djarin et son apprenti au cœur d'une aventure qui s'annonce épiq",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-67",
-    "title": "Sécurité : Le tout caméra de Tesla recalé par l’ADAC sous la pluie",
-    "url": "https://www.numerama.com/vroom/2235001-securite-le-tout-camera-de-tesla-recale-par-ladac-sous-la-pluie.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Big Tech",
-    "desc": "Une nouvelle étude de l'ADAC met en lumière des disparités majeures entre les systèmes d'aide au freinage d'urgence face aux intempéries. Si la technologie progresse, certains choix techniques montrent leurs limites dès que la visibilité chute.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-68",
-    "title": "« On doit réguler la parole sur les réseaux sociaux » : Macron veut en finir avec les faux comptes, à un an de la présidentielle",
-    "url": "https://www.numerama.com/politique/2234863-on-doit-reguler-la-parole-sur-les-reseaux-sociaux-macron-veut-en-finir-avec-les-faux-comptes-a-un-an-de-la-presidentielle.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "À tout juste un an de la prochaine élection présidentielle, à laquelle Emmanuel Macron ne participera pas, l'exécutif accélère sur le front de la sécurité démocratique. Dans le viseur du chef de l'État : l'opacité des algorithmes, les fermes de faux comptes et les ingérences étrangères.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-69",
-    "title": "La vente de SFR cache un changement majeur pour de nombreux opérateurs low-cost",
-    "url": "https://www.numerama.com/tech/2094611-la-vente-de-sfr-cache-un-changement-majeur-pour-de-nombreux-operateurs-low-cost.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Si vous êtes client RED ou SFR, les questions concernant les répercussions d'un rachat de l'opérateur sont logiques. Mais l’impact dépasse largement ces deux enseignes. Une galaxie d’opérateurs virtuels (MVNO) dépendent exclusivement des antennes de SFR pour fonctionner. Pour leurs abonnés, l'incertitude commence.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-70",
-    "title": "Vous changez l’heure sur Tomodachi Life ? La sanction de Nintendo est sévère",
-    "url": "https://www.numerama.com/pop-culture/2234429-vous-changez-lheure-sur-tomodachi-life-la-sanction-de-nintendo-est-severe.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Modifier l’horloge de sa console pour accélérer le temps dans Tomodachi Life n’est pas sans conséquence. Nintendo applique une pénalité temporaire qui peut affecter les boutiques, au risque de frustrer une partie des joueurs.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-71",
-    "title": "Des singes parviennent à se déplacer dans un univers virtuel en 3D grâce à une interface cerveau-machine",
-    "url": "https://www.numerama.com/sciences/2235107-des-singes-parviennent-a-se-deplacer-dans-un-univers-virtuel-en-3d-grace-a-une-interface-cerveau-machine.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Hardware",
-    "desc": "Des chercheurs belges sont parvenus à faire naviguer trois macaques rhésus dans un environnement virtuel en 3D grâce à une interface cerveau-machine et à l’intelligence artificielle. Partagée à la mi-avril 2026 dans Science Advances, leur expérience nourrit l’espoir de futures applications pour restaurer la mobilité de patients paralysés. Naviguer ",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-72",
-    "title": "Half-Life 2, Max Payne… Comment l’IA et le Path Tracing ressuscitent les jeux cultes des années 2000 [Sponso]",
-    "url": "https://www.numerama.com/pop-culture/2234209-half-life-2-max-payne-comment-lia-et-le-path-tracing-ressuscitent-les-jeux-cultes-des-annees-2000.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Big Tech",
-    "desc": "Cet article a été réalisé en collaboration avec NVIDIA Et si les cartes graphiques Nvidia Geforce de 2026 rendaient les vieux jeux des années 2000 plus beaux ? L'idée est tellement séduisante que Nvidia a donné les outils pour le faire aux moddeurs. Son nom : RTX Remix. Voici tout ce qu'il faut savoir à son sujet.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-73",
-    "title": "Le Xiaomi Poco M7 est un très bon smartphone à moins de 120 €",
-    "url": "https://www.numerama.com/tech/2235055-le-xiaomi-poco-m7-est-un-tres-bon-smartphone-a-moins-de-120-e.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "[Deal du jour] La gamme Poco de Xiaomi possède un excellent rapport qualité-prix. Le Poco M7 a de quoi séduire celles et ceux qui cherchent un bon smartphone pour le quotidien, ou comme premier téléphone pour leur ado.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-74",
-    "title": "Top Gun 3 confirmé : une crise existentielle pour le personnage de Maverick",
-    "url": "https://www.numerama.com/pop-culture/2234947-top-gun-3-confirme-une-crise-existentielle-pour-le-personnage-de-maverick.html",
-    "source": "Numerama",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Lors de la présentation de Paramount Pictures au CinemaCon 2026, le studio a confirmé le développement actif de Top Gun 3,avec un scénario en cours d'écriture. Après le triomphe planétaire de Maverick en 2022, Tom Cruise s’apprête à reprendre les commandes pour un troisième volet qui promet d’aller encore plus loin.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-75",
-    "title": "UE : la Commission a copié/collé les lobbys pour cacher les données sur les datacenters",
-    "url": "https://next.ink/234008/ue-la-commission-a-copie-colle-les-lobbys-pour-cacher-les-donnees-sur-les-datacenters/",
-    "source": "Next.ink",
-    "date": "2026-04-17",
-    "cat": "Big Tech",
-    "desc": "En 2024, Microsoft et le lobby bruxellois de la tech DigitalEurope ont obtenu que les données de consommation des datacenters de plus de 500 kW récoltées par la Commission européenne ne soient pas rendues publiques. Le consortium Investigate Europe montre que les amendements au texte européen réglementant ces informations sont des reprises quasimen",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-76",
-    "title": "☕️ Google : 1,6 milliard de publicités frauduleuses supprimées dans l’UE avec Gemini",
-    "url": "https://next.ink/brief_article/google-16-milliard-de-publicites-frauduleuses-supprimees-dans-lue-avec-gemini/",
-    "source": "Next.ink",
-    "date": "2026-04-17",
-    "cat": "IA & Modèles",
-    "desc": "Google ne cherche pas seulement à intégrer Gemini partout où c&#8217;est possible dans ses applications et services destinés au grand public. L&#8217;IA est également à pied d&#8217;œuvre dans les outils internes, comme celui qui fait la chasse aux mauvaises publicités. L&#8217;an dernier, l&#8217;entreprise a bloqué (PDF) ou supprimé 8,3 milliards",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-77",
-    "title": "OpenAI récupère le prénom de Rosalind Franklin pour son modèle spécialisé en biologie",
-    "url": "https://next.ink/233946/openai-recupere-le-prenom-de-rosalind-franklin-pour-son-modele-specialise-en-biologie/",
-    "source": "Next.ink",
-    "date": "2026-04-17",
-    "cat": "IA & Modèles",
-    "desc": "Avec GPT‑Rosalind, OpenAI veut encore affirmer que ses outils peuvent être utiles aux chercheurs mais surtout aux industries pharmaceutiques et biomédicales. L&#8217;entreprise de Sam Altman utilise aussi le prénom d&#8217;une chercheuse, Rosalind Franklin, dont le travail a été pillé par ses confrères qui ont eu le prix Nobel qu&#8217;elle n&#8217",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-78",
-    "title": "☕️ Bruxelles flèche 180M€ de contrats vers les acteurs du cloud, les Français en bonne place",
-    "url": "https://next.ink/brief_article/bruxelles-fleche-180me-de-contrats-vers-les-acteurs-du-cloud-les-francais-en-bonne-place/",
-    "source": "Next.ink",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "La Commission européenne a dévoilé vendredi 17 avril les lauréats de l&#8217;appel d&#8217;offres dynamique qu&#8217;elle avait enclenché en octobre 2025 pour permettre à ses différents bureaux et agences de s&#8217;équiper en ressources cloud. L&#8217;enveloppe, fixée à 180 millions d&#8217;euros sur six ans, profitera à quatre acteurs ou consorti",
-    "auto": true
-  },
-  {
-    "id": "tech-1776501680-79",
-    "title": "La mise à jour de Codex pose les bases de la « superapp » d’OpenAI",
-    "url": "https://next.ink/233910/la-mise-a-jour-de-codex-pose-les-bases-de-la-superapp-dopenai/",
-    "source": "Next.ink",
-    "date": "2026-04-17",
-    "cat": "IA & Modèles",
-    "desc": "Codex, l&#8217;application dédiée au code d&#8217;OpenAI, est la fondation de la «&#160;superapp&#160;» sur laquelle l&#8217;entreprise planche depuis plusieurs mois. Un premier pas qui se destine surtout aux développeurs, cible principale du logiciel. Mais on entrevoit déjà les usages grand public. Codex en a fait du chemin,&#160;depuis ses débuts",
-    "auto": true
-  },
-  {
-    "id": "tech-1776417042-8",
-    "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
-    "url": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
-    "source": "TechCrunch",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776417042-40",
-    "title": "Un robot s’est servi d’une friteuse : pourquoi c’est peut-être un tournant de l’IA",
-    "url": "https://www.01net.com/actualites/robot-parvient-friteuse-pourquoi-pourrait-marquer-tournant-ia.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Startups & VC",
-    "desc": "La startup Physical Intelligence a développé le modèle π0.7, capable d'effectuer des tâches auxquelles il n'a quasiment jamais été confronté. Il a notamment réussi à utiliser une friteuse qu'il ne connaissait pas.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776417042-41",
-    "title": "Insta360 X5 : vidéos 360°, 8K, autonomie 185 minutes… son prix chute de quasi -40%",
-    "url": "https://www.01net.com/bons-plans/insta360-x5-videos-360-8k-autonomie-185-minutes-son-prix-chute-de-quasi-40.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Il ne reste plus beaucoup d'exemplaires à ce prix très intéressant, alors dépêchez-vous avant qu'il ne soit trop tard.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776417042-42",
-    "title": "La Chine dévoile un coupe-câbles sous-marins capable de « perturber » Internet dans le monde entier",
-    "url": "https://www.01net.com/actualites/chine-devoile-coupe-cables-sous-marins-capable-saboter-internet.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "La Chine a développé un outil capable de sectionner des câbles sous-marins à 3 500 mètres de profondeur. Testé en mer, le coupe-câbles, présenté comme un outil de maintenance industrielle, pourrait-il servir à des opérations de sabotage d'Internet ?",
-    "auto": true
-  },
-  {
-    "id": "tech-1776417042-43",
-    "title": "Arnaque AMELI : des pirates tentent de vider votre compte et se paient votre tête",
-    "url": "https://www.01net.com/actualites/arnaque-ameli-des-pirates-tentent-de-vider-votre-compte-et-se-paient-votre-tete.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Une nouvelle vague d’arnaque à l’assurance maladie est actuellement en cours. Des pirates qui se font passer pour votre gestionnaire AMELI prétextent un problème de paiement pour tenter de vider votre compte bancaire.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776417042-44",
-    "title": "Rachat de SFR : pour 20,35 milliards, Bouygues, Free et Orange plus proches que jamais de démanteler leur rival",
-    "url": "https://www.01net.com/actualites/rachat-de-sfr-pour-20-milliards-bouygues-free-et-orange-plus-proches-que-jamais-de-demanteler-leur-rival.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Le paysage de la téléphonie française s'apprête à vivre un bouleversement sans précédent. Les opérateurs Bouygues Telecom, Free-Groupe iliad et Orange viennent d'annoncer l'ouverture de négociations exclusives avec le groupe Altice France pour se partager les actifs de leur rival historique SFR. L'opération s'élève à plus de 20 milliards d'euros.",
-    "auto": true
-  },
-  {
-    "id": "tech-1776417042-45",
-    "title": "Netflix : pourquoi vous ne reconnaîtrez plus l’application mobile d’ici deux semaines",
-    "url": "https://www.01net.com/actualites/netflix-pourquoi-vous-reconnaitrez-plus-application-mobile-deux-semaines.html",
-    "source": "01net",
-    "date": "2026-04-17",
-    "cat": "Numérique & Société",
-    "desc": "Netflix s'apprête à transformer radicalement la manière de naviguer sur son application mobile avec l'arrivée d'un flux vidéo vertical dès la fin du mois d'avril.",
     "auto": true
   }
 ]

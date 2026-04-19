@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-18T08:41:20
+// Dernière collecte : 2026-04-19T08:45:32
 window.AUTO_VEILLE = [
   {
     id: "auto-1776501644-26",
@@ -792,14 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1774532375-65",
-    title: "Signature d’un partenariat entre le Conseil d’État et la Bibliothèque nationale de France",
-    url: "https://www.conseil-etat.fr/actualites/signature-d-un-partenariat-entre-le-conseil-d-etat-et-la-bibliotheque-nationale-de-france",
-    source: "Conseil d'État",
+    id: "auto-1776588278-39",
+    title: "Towards trustworthy AI in the EU public administration: The EDPS Compass for its new role under the AI Act",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/towards-trustworthy-ai-eu-public-administration-edps-compass-its-new-role-under-ai-act",
+    source: "EDPS",
     date: "2026-03-17",
     cat: "RGPD",
-    desc: "",
+    desc: "Towards trustworthy AI in the EU public administration: The EDPS Compass for its new role under the AI Act francesco Tue, 03/17/2026 - 09:06 Tue, 03/17/2026 - 12:00 Under the AI Act (Regulation (EU) 2024/1689), the European Data Protection Supervisor is now a market surveillance authority for AI systems used by EU institutions and a notified body f",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-18T08:41:20";
+window.AUTO_VEILLE_UPDATED = "2026-04-19T08:45:32";
