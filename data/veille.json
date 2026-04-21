@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-1776763157-53",
+    "title": "Agression sexuelle sur mineur : anonymisation mais pas de suppression",
+    "url": "https://www.legalis.net/actualite/agression-sexuelle-sur-mineur-anonymisation-mais-pas-de-suppression/",
+    "source": "Legalis",
+    "date": "2026-04-21",
+    "cat": "Jurisprudence",
+    "desc": "Par un jugement du 8 avril 2026, le tribunal judiciaire de Paris a rejeté la demande de l’ex-chef de chœur de la maîtrise d’une cathédrale de supprimer de la page Wikipedia consacrée à la maîtrise, le paragraphe évoquant sa condamnation en 2007 pour agression sexuelle sur mineur. « La commission par le passé, même ancien, [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "auto-1776763157-0",
+    "title": "Revoir le webinaire - Élections municipales 2026 : quelles sont les nouvelles règles de ciblage électoral ?",
+    "url": "https://www.cnil.fr/fr/revoir-le-webinaire-elections-municipales-2026",
+    "source": "CNIL",
+    "date": "2026-04-20",
+    "cat": "RGPD",
+    "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux nouvelles règles de ciblage électoral.",
+    "auto": true
+  },
+  {
+    "id": "auto-1776763157-26",
+    "title": "Séminaire bilatéral avec le Conseil d’État grec",
+    "url": "https://www.conseil-etat.fr/actualites/seminaire-bilateral-avec-le-conseil-d-etat-grec",
+    "source": "Conseil d'État",
+    "date": "2026-04-20",
+    "cat": "Jurisprudence",
+    "desc": "Les jeudi 16 et vendredi 17 avril 2026, le vice-président du Conseil d’État, Didier-Roland Tabuteau, a accueilli une délégation du Conseil d’État grec* conduite par son président, Michail Pikramenos, pour la troisième édition des séminaires bilatéraux entre les deux institutions.",
+    "auto": true
+  },
+  {
     "id": "auto-1776678774-40",
     "title": "Latest EDPS newsletter out now",
     "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/latest-edps-newsletter-out-now-0",
@@ -767,36 +797,6 @@
     "date": "2026-03-19",
     "cat": "RGPD",
     "desc": "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025 , the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR . The GDPR ensures that individuals are informed wh",
-    "auto": true
-  },
-  {
-    "id": "auto-1773914799-1",
-    "title": "L’ANSSI lance un appel à commentaires sur les architectures de référence de sa nouvelle doctrine de supervision de sécurité",
-    "url": "http://cyber.gouv.fr/actualites/lanssi-lance-un-appel-a-commentaires-supervision-de-securite/",
-    "source": "ANSSI",
-    "date": "2026-03-19",
-    "cat": "Cybersécurité",
-    "desc": "Cet appel à commentaires est destiné à l’ensemble de l’écosystème que l’ANSSI accompagne, aussi bien les bénéficiaires que les offreurs […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-48",
-    "title": "Journée d’échanges avec la Cour constitutionnelle du Kosovo",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/journee-d-echanges-avec-la-cour-constitutionnelle-du-kosovo",
-    "source": "Conseil constitutionnel",
-    "date": "2026-03-18",
-    "cat": "RGPD",
-    "desc": "Le 18 mars 2026, le président Richard Ferrand a reçu une délégation de la Cour constitutionnelle du Kosovo, conduite par son président, Monsieur Nexhmi Rexhepi, pour une journée de travail au Conseil constitutionnel.",
-    "auto": true
-  },
-  {
-    "id": "auto-1773914799-2",
-    "title": "NIS 2 : l’ANSSI poursuit et renforce sa dynamique d’accompagnement",
-    "url": "http://cyber.gouv.fr/actualites/nis-2-lanssi-poursuit-et-renforce-sa-dynamique-daccompagnement/",
-    "source": "ANSSI",
-    "date": "2026-03-18",
-    "cat": "Cybersécurité",
-    "desc": "Dans un contexte marqué par une intensification de la menace cyber qui touche l’ensemble de l’économie et de la société, […]",
     "auto": true
   }
 ]
