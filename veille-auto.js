@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-21T09:19:56
+// Dernière collecte : 2026-04-22T09:14:16
 window.AUTO_VEILLE = [
   {
     id: "auto-1776763157-53",
@@ -662,6 +662,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1776849219-0",
+    title: "L’ANSSI lance un appel à commentaires sur les architectures de référence de sa nouvelle doctrine de supervision de sécurité",
+    url: "http://cyber.gouv.fr/actualites/lanssi-lance-un-appel-a-commentaires-supervision-de-securite/",
+    source: "ANSSI",
+    date: "2026-03-19",
+    cat: "Cybersécurité",
+    desc: "Cet appel à commentaires est destiné à l’ensemble de l’écosystème que l’ANSSI accompagne, aussi bien les bénéficiaires que les offreurs […]",
+    auto: true
+  },
+  {
     id: "auto-1774532375-43",
     title: "Décision n° 2025-1187 QPC du 20 mars 2026",
     url: "https://www.conseil-constitutionnel.fr/decision/2026/20251187QPC.htm",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
     auto: true
   },
-  {
-    id: "auto-1773914799-0",
-    title: "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
-    url: "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
-    source: "EDPB",
-    date: "2026-03-19",
-    cat: "RGPD",
-    desc: "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025 , the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR . The GDPR ensures that individuals are informed wh",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-21T09:19:56";
+window.AUTO_VEILLE_UPDATED = "2026-04-22T09:14:16";
