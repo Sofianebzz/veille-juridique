@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-1776936051-37",
+    "title": "Stakeholder event on competition and data protection: save the date",
+    "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection-save-date_en",
+    "source": "EDPB",
+    "date": "2026-04-23",
+    "cat": "RGPD",
+    "desc": "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection . The event will take place on 29 June 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. ",
+    "auto": true
+  },
+  {
+    "id": "auto-1776936051-0",
+    "title": "Lignes directrices pour la recherche scientifique et certification : les derniers documents adoptés par le CEPD",
+    "url": "https://www.cnil.fr/fr/cepd-lignes-directrices-pour-la-recherche-scientifique-et-certification",
+    "source": "CNIL",
+    "date": "2026-04-22",
+    "cat": "RGPD",
+    "desc": "Lors de sa dernière session plénière, le Comité européen de la protection des données (CEPD) a adopté des lignes directrices dans le domaine de la recherche médicale et scientifique, ainsi que deux avis concernant la certification européenne Europrivacy.",
+    "auto": true
+  },
+  {
+    "id": "auto-1776936051-1",
+    "title": "S-SDLC et DevSecOps en Europe : Enjeux actuels et perspectives d’avenir",
+    "url": "http://cyber.gouv.fr/actualites/s-sdlc-et-devsecops-enjeux-et-perspectives/",
+    "source": "ANSSI",
+    "date": "2026-04-22",
+    "cat": "Cybersécurité",
+    "desc": "La sécurisation du cycle de développement logiciel n’est plus une option : c’est un enjeu stratégique ! Face à l’ […]",
+    "auto": true
+  },
+  {
     "id": "auto-1776763157-53",
     "title": "Agression sexuelle sur mineur : anonymisation mais pas de suppression",
     "url": "https://www.legalis.net/actualite/agression-sexuelle-sur-mineur-anonymisation-mais-pas-de-suppression/",
@@ -660,6 +690,16 @@
     "auto": true
   },
   {
+    "id": "auto-1776936051-38",
+    "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
+    "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+    "source": "EDPB",
+    "date": "2026-03-19",
+    "cat": "RGPD",
+    "desc": "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025 , the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR . The GDPR ensures that individuals are informed wh",
+    "auto": true
+  },
+  {
     "id": "auto-1776849219-0",
     "title": "L’ANSSI lance un appel à commentaires sur les architectures de référence de sa nouvelle doctrine de supervision de sécurité",
     "url": "http://cyber.gouv.fr/actualites/lanssi-lance-un-appel-a-commentaires-supervision-de-securite/",
@@ -757,46 +797,6 @@
     "date": "2026-03-19",
     "cat": "RGPD",
     "desc": "Der Beitrag Omnibus Survey Report – Analysis of the CEDPO Questionnaire on Omnibus IV and VII erschien zuerst auf Confederation of European Data Protection Organisations .",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-102",
-    "title": "Rupture structurelle dans l’ingénierie logicielle avec l’IA générative et l’IA agentique",
-    "url": "https://www.cigref.fr/rupture-structurelle-dans-lingenierie-logicielle-avec-lia-generative-et-lia-agentique",
-    "source": "CIGREF",
-    "date": "2026-03-19",
-    "cat": "IA",
-    "desc": "Restitution des travaux du Do Tank Cast &#38; Cigref Aujourd&#8217;hui l’IA générative et agentique pénètre comme un véritable tsunami le domaine de l&#8217;ingénierie logicielle, révolutionnant en profondeur les usages, les fonctions, le design comme la modernisation des applications ou la gestion des supports IT. Pour faire le point sur l’état de",
-    "auto": true
-  },
-  {
-    "id": "auto-1774083731-0",
-    "title": "Ordre du jour de la séance plénière du 19 mars 2026",
-    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-19-mars-2026",
-    "source": "CNIL",
-    "date": "2026-03-19",
-    "cat": "RGPD",
-    "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 19 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    "auto": true
-  },
-  {
-    "id": "auto-1774000876-1",
-    "title": "CEF 2026 : Le CEPD lance une action coordonnée concernant les obligations de transparence et d'information",
-    "url": "https://www.cnil.fr/fr/cef-2026-obligations-transparence-information",
-    "source": "CNIL",
-    "date": "2026-03-19",
-    "cat": "RGPD",
-    "desc": "Après avoir consacré en 2025 une action coordonnée (CEF) au droit à l’effacement, le Comité européen de la protection des données s’intéressera cette année aux obligations de transparence et d’information prévues par le RGPD. La CNIL en assurera la coordination avec le CEPD.",
-    "auto": true
-  },
-  {
-    "id": "auto-1774000876-2",
-    "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
-    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
-    "source": "EDPB",
-    "date": "2026-03-19",
-    "cat": "Cybersécurité",
-    "desc": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
     "auto": true
   }
 ]
