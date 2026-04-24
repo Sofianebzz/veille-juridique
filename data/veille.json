@@ -690,6 +690,26 @@
     "auto": true
   },
   {
+    "id": "auto-1777022706-35",
+    "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+    "source": "EDPB",
+    "date": "2026-03-19",
+    "cat": "Cybersécurité",
+    "desc": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
+    "auto": true
+  },
+  {
+    "id": "auto-1777022706-52",
+    "title": "Rupture structurelle dans l’ingénierie logicielle avec l’IA générative et l’IA agentique",
+    "url": "https://www.cigref.fr/rupture-structurelle-dans-lingenierie-logicielle-avec-lia-generative-et-lia-agentique",
+    "source": "CIGREF",
+    "date": "2026-03-19",
+    "cat": "IA",
+    "desc": "Restitution des travaux du Do Tank Cast &#38; Cigref Aujourd&#8217;hui l’IA générative et agentique pénètre comme un véritable tsunami le domaine de l&#8217;ingénierie logicielle, révolutionnant en profondeur les usages, les fonctions, le design comme la modernisation des applications ou la gestion des supports IT. Pour faire le point sur l’état de",
+    "auto": true
+  },
+  {
     "id": "auto-1776936051-38",
     "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
     "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
@@ -777,26 +797,6 @@
     "date": "2026-03-19",
     "cat": "RGPD",
     "desc": "High-Level Debate: “From Omnibus to Opportunity: Driving Data Protection and Innovation” iraskval Thu, 03/19/2026 - 16:54 Fri, 03/20/2026 - 12:00 On 8 June 2026, the European Data Protection Supervisor (EDPS), the German Federal Commissioner for Data Protection and Freedom of Information ( BfDI ), and the Bavarian Data Protection Commissioner ( Bay",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-83",
-    "title": "EDPB-EDPS Joint Opinion on the Proposal for a Cybersecurity Act 2 and the Proposal on amendments to the NIS 2 Directive",
-    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/edpb-edps-joint-opinion-cybersecurity-act-2-and-amendments-nis-2-directive",
-    "source": "EDPS",
-    "date": "2026-03-19",
-    "cat": "Cybersécurité",
-    "desc": "EDPB-EDPS Joint Opinion on the Proposal for a Cybersecurity Act 2 and the Proposal on amendments to the NIS 2 Directive ileanjoh Thu, 03/19/2026 - 12:30 Thu, 03/19/2026 - 12:00 On 18 March 2026, the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) adopted a joint opinion on the European Commission’s proposal ",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-91",
-    "title": "Omnibus Survey Report – Analysis of the CEDPO Questionnaire on Omnibus IV and VII",
-    "url": "https://cedpo.eu/omnibus-survey-report-analysis-of-the-cedpo-questionnaire-on-omnibus-iv-and-vii/",
-    "source": "CEDPO",
-    "date": "2026-03-19",
-    "cat": "RGPD",
-    "desc": "Der Beitrag Omnibus Survey Report – Analysis of the CEDPO Questionnaire on Omnibus IV and VII erschien zuerst auf Confederation of European Data Protection Organisations .",
     "auto": true
   }
 ]
