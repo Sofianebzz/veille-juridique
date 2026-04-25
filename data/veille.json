@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1777106617-0",
+    "title": "Vote par correspondance électronique : la CNIL met à jour sa recommandation",
+    "url": "https://www.cnil.fr/fr/recommandation-vote-electronique",
+    "source": "CNIL",
+    "date": "2026-04-24",
+    "cat": "RGPD",
+    "desc": "À l’issue d’une consultation publique, la CNIL actualise sa recommandation sur la sécurité des systèmes de vote par correspondance électronique. Elle offre un cadre plus clair et plus opérationnel, en maintenant un haut niveau d’exigence en matière de sécurité, de confidentialité et de sincérité du scrutin.&amp;nbsp;",
+    "auto": true
+  },
+  {
     "id": "auto-1776936051-37",
     "title": "Stakeholder event on competition and data protection: save the date",
     "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection-save-date_en",
@@ -690,6 +700,26 @@
     "auto": true
   },
   {
+    "id": "auto-1777106617-39",
+    "title": "EDPB-EDPS Joint Opinion on the Proposal for a Cybersecurity Act 2 and the Proposal on amendments to the NIS 2 Directive",
+    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/edpb-edps-joint-opinion-cybersecurity-act-2-and-amendments-nis-2-directive",
+    "source": "EDPS",
+    "date": "2026-03-19",
+    "cat": "Cybersécurité",
+    "desc": "EDPB-EDPS Joint Opinion on the Proposal for a Cybersecurity Act 2 and the Proposal on amendments to the NIS 2 Directive ileanjoh Thu, 03/19/2026 - 12:30 Thu, 03/19/2026 - 12:00 On 18 March 2026, the EDPB and the EDPS adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the ",
+    "auto": true
+  },
+  {
+    "id": "auto-1777106617-44",
+    "title": "Omnibus Survey Report – Analysis of the CEDPO Questionnaire on Omnibus IV and VII",
+    "url": "https://cedpo.eu/omnibus-survey-report-analysis-of-the-cedpo-questionnaire-on-omnibus-iv-and-vii/",
+    "source": "CEDPO",
+    "date": "2026-03-19",
+    "cat": "RGPD",
+    "desc": "Der Beitrag Omnibus Survey Report – Analysis of the CEDPO Questionnaire on Omnibus IV and VII erschien zuerst auf Confederation of European Data Protection Organisations .",
+    "auto": true
+  },
+  {
     "id": "auto-1777022706-35",
     "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
     "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
@@ -767,36 +797,6 @@
     "date": "2026-03-19",
     "cat": "Jurisprudence",
     "desc": "Le Conseil constitutionnel déclare conforme à la Constitution la loi relative à l’organisation des jeux Olympiques et Paralympiques de 2030.",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-47",
-    "title": "Décision n° 2025-1186 QPC du 19 mars 2026 - Communiqué de presse",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2025-1186-qpc-du-19-mars-2026-communique-de-presse",
-    "source": "Conseil constitutionnel",
-    "date": "2026-03-19",
-    "cat": "Cybersécurité",
-    "desc": "Le Conseil constitutionnel déclare conformes à la Constitution les dispositions législatives renforçant l’encadrement de la mise en location de résidences secondaires en meublés touristiques dans certaines copropriétés.",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-64",
-    "title": "Le Conseil d’État reçoit le président de la Cour constitutionnelle du Kosovo",
-    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-recoit-le-president-de-la-cour-constitutionnelle-du-kosovo",
-    "source": "Conseil d'État",
-    "date": "2026-03-19",
-    "cat": "RGPD",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-82",
-    "title": "High-Level Debate: “From Omnibus to Opportunity: Driving Data Protection and Innovation”",
-    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/high-level-debate-omnibus-opportunity-driving-data-protection-and-innovation_en",
-    "source": "EDPS",
-    "date": "2026-03-19",
-    "cat": "RGPD",
-    "desc": "High-Level Debate: “From Omnibus to Opportunity: Driving Data Protection and Innovation” iraskval Thu, 03/19/2026 - 16:54 Fri, 03/20/2026 - 12:00 On 8 June 2026, the European Data Protection Supervisor (EDPS), the German Federal Commissioner for Data Protection and Freedom of Information ( BfDI ), and the Bavarian Data Protection Commissioner ( Bay",
     "auto": true
   }
 ]
