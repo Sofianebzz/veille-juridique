@@ -1,5 +1,345 @@
 [
   {
+    "id": "tech-1777193612-25",
+    "title": "Arnaque au deuil : cette escroquerie fait des ravages après la perte d’un proche",
+    "url": "https://www.01net.com/actualites/arnaque-au-deuil-cette-escroquerie-fait-des-ravages-chez-les-personnes-en-deuil.html",
+    "source": "01net",
+    "date": "2026-04-26",
+    "cat": "Numérique & Société",
+    "desc": "La « fraude au deuil » cible des personnes psychologiquement fragiles. L'auteur de cette arnaque se fait passer pour un assureur, un avocat ou encore un notaire.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-26",
+    "title": "J’ai couru le marathon avec une montre milieu de gamme : mon conseil est simple",
+    "url": "https://www.01net.com/actualites/jai-couru-le-marathon-avec-une-montre-milieu-de-gamme-mon-conseil-est-simple.html",
+    "source": "01net",
+    "date": "2026-04-26",
+    "cat": "Hardware",
+    "desc": "Peut on préparer et courir un marathon avec une montre milieu de gamme ? Pour le savoir rien de mieux que d'essayer avec la Garmin Forerunner 570 et un dossard pour le marathon de Paris.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-27",
+    "title": "Combien valent vos données sur le dark web ? Faites le test",
+    "url": "https://www.01net.com/actualites/combien-valent-donnees-dark-web-faites-test.html",
+    "source": "01net",
+    "date": "2026-04-26",
+    "cat": "Numérique & Société",
+    "desc": "Cartes bancaires, identités complètes et comptes en ligne s'échangent actuellement sur le dark web. Ces informations sensibles sont vendues à des prix relativement bas sur les marchés criminels. Pour découvrir ce que vos informations valent sur le dark web, vous pouvez vous servir du calculateur mis en ligne par NordVPN. On vous explique comment ça",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-28",
+    "title": "Test Trek Charter+ : un vélo électrique ultra confortable doté d’une batterie gigantesque",
+    "url": "https://www.01net.com/tests/test-trek-charter-avis.html",
+    "source": "01net",
+    "date": "2026-04-26",
+    "cat": "Numérique & Société",
+    "desc": "Entièrement équipé, bien motorisé, doté d'une batterie monumentale de 800 Wh et d'une transmission par courroie, le Charter+ de Trek frappe fort sur un segment où les prétentions tarifaires s’envolent souvent. il s'impose comme un concurrent sérieux et bien plus accessible de certains ténors du genre.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-41",
+    "title": "Essai Denza Z9GT : le missile chinois vient frapper la France avec audace",
+    "url": "https://www.numerama.com/vroom/2239289-essai-denza-z9gt-le-missile-chinois-vient-frapper-la-france-avec-audace.html",
+    "source": "Numerama",
+    "date": "2026-04-26",
+    "cat": "Numérique & Société",
+    "desc": "Une puissance phénoménale de 1 156 ch, une recharge en seulement 5 minutes et un confort indéniable, la Denza Z9GT accumule les superlatifs. Le vaisseau amiral chinois ne manque pas d'arguments pour convaincre, mais cela suffira-t-il à faire chavirer les cœurs (et les portefeuilles) ? Numerama raconte cette prise en main hors norme.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-42",
+    "title": "C’est le grand embouteillage des nouvelles marques électriques et cela commence à lasser",
+    "url": "https://www.numerama.com/vroom/2240727-cest-le-grand-embouteillage-des-nouvelles-marques-electriques-et-cela-commence-a-lasser.html",
+    "source": "Numerama",
+    "date": "2026-04-26",
+    "cat": "Numérique & Société",
+    "desc": "Les lancements de marques s’enchaînent à un rythme inédit. Mais plus les marques arrivent nombreuses, moins leur arrivée compte. Voilà ce qui a inspiré l'édito de la newsletter Watt Else du 23 avril 2026.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-43",
+    "title": "Le trailer épique de la Bataille de Gaulle, ChatGPT vs Gemini et saison 3 des Anneaux de pouvoir – le récap’ de la semaine",
+    "url": "https://www.numerama.com/tech/2240631-le-trailer-epique-de-la-bataille-de-gaulle-chatgpt-vs-gemini-et-saison-3-des-anneaux-de-pouvoir-le-recap-de-la-semaine.html",
+    "source": "Numerama",
+    "date": "2026-04-26",
+    "cat": "IA & Modèles",
+    "desc": "Parmi les sujets qui ont retenu votre attention cette semaine, il y avait la rivalité entre ChatGPT et Gemini, des nouvelles de la saison 3 des Anneaux de pouvoir et une bande-annonce marquante sur le film La Bataille de Gaulle.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-0",
+    "title": "Trump fires the entire National Science Board",
+    "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+    "source": "The Verge",
+    "date": "2026-04-25",
+    "cat": "Startups & VC",
+    "desc": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been funda",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-1",
+    "title": "An influx of used EVs could drive down prices",
+    "url": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
+    "source": "The Verge",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to more than double to 300,000 in 2026, and double again to 600,000 in 2027 and [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-2",
+    "title": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
+    "url": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
+    "source": "The Verge",
+    "date": "2026-04-25",
+    "cat": "Hardware",
+    "desc": "I’ve been testing compact, magnetic Qi2 power banks that can snap onto your phone for an upcoming buying guide. They make recharging much easier than bringing along a huge battery that weighs down your bag. One of my favorites so far is the Sharge Icemag 3, a 10,000mAh model that can wirelessly output 25W to [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-3",
+    "title": "The Govee smart lamp brightened up my room, and then my life",
+    "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+    "source": "The Verge",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-4",
+    "title": "Xbox’s weirdest studio is on a roll",
+    "url": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
+    "source": "The Verge",
+    "date": "2026-04-25",
+    "cat": "Big Tech",
+    "desc": "For a while there, it seemed like Double Fine might be struggling under the Microsoft corporate umbrella. The game studio led by Tim Schafer is beloved for offbeat titles like Br&#252;tal Legend and Broken Age, but after being acquired by Microsoft in 2019, its only new release for years was a long-awaited sequel to Psychonauts. [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-5",
+    "title": "Sho Miyake answers life’s greatest questions",
+    "url": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview",
+    "source": "The Verge",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Acclaimed Japanese director Sho Miyake has arrived in the States. He's brought with him two feature films: Small, Slow But Steady and Two Seasons, Two Strangers, a pair of naturalistic portraits that deal with the uneasy human desire to relate to other people. Seclusion and unease are bedrocks to Miyake's growing filmography. \"I like these [&#8230;",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-6",
+    "title": "The US gets the worst phones",
+    "url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+    "source": "The Verge",
+    "date": "2026-04-25",
+    "cat": "Big Tech",
+    "desc": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing the boundaries of mobile photography, software, and processing power. But over the last few years, they've sat back, content to iterate rather than [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-7",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "source": "TechCrunch",
+    "date": "2026-04-25",
+    "cat": "IA & Modèles",
+    "desc": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-8",
+    "title": "Maine’s governor vetoes data center moratorium",
+    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "source": "TechCrunch",
+    "date": "2026-04-25",
+    "cat": "Hardware",
+    "desc": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-9",
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "source": "TechCrunch",
+    "date": "2026-04-25",
+    "cat": "IA & Modèles",
+    "desc": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-10",
+    "title": "The climate tech IPO window could finally be cracking open",
+    "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+    "source": "TechCrunch",
+    "date": "2026-04-25",
+    "cat": "Startups & VC",
+    "desc": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-11",
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "source": "TechCrunch",
+    "date": "2026-04-25",
+    "cat": "Startups & VC",
+    "desc": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-12",
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "source": "TechCrunch",
+    "date": "2026-04-25",
+    "cat": "Startups & VC",
+    "desc": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-13",
+    "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+    "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+    "source": "TechCrunch",
+    "date": "2026-04-25",
+    "cat": "Big Tech",
+    "desc": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-14",
+    "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
+    "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
+    "source": "TechCrunch",
+    "date": "2026-04-25",
+    "cat": "Startups & VC",
+    "desc": "Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-15",
+    "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+    "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+    "source": "Ars Technica",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "\"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-16",
+    "title": "Palantir employees are talking about company's \"descent into fascism\"",
+    "url": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
+    "source": "Ars Technica",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Slack messages, interviews with current and former works paint picture of company in turmoil.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-29",
+    "title": "Vous avez des panneaux solaires ? L’État va racheter 4 fois moins cher votre électricité",
+    "url": "https://www.01net.com/actualites/vous-avez-des-panneaux-solaires-letat-va-racheter-4-fois-moins-cher-votre-electricite.html",
+    "source": "01net",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Le gouvernement s'apprête à bouleverser l'économie des panneaux solaires résidentiels. Un projet d'arrêté, soumis au Conseil Supérieur de l'Énergie début avril, prévoit de réduire à 1,1 centime le tarif de rachat du surplus et de supprimer la prime à l'autoconsommation pour toutes les petites installations. De quoi rendre la revente d'électricité q",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-30",
+    "title": "Comment modifier son DNS sur iPhone et iPad ?",
+    "url": "https://www.01net.com/astuces/comment-modifier-son-dns-sur-iphone-et-ipad-1395559.html",
+    "source": "01net",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Changez le serveur DNS configuré par défaut sur votre iPhone ou votre iPad pour accélérer votre navigation et contourner certaines restrictions.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-44",
+    "title": "J’ai échangé mon fidèle combo clavier-souris pour tester la manette ultime sur PC",
+    "url": "https://www.numerama.com/tech/2239169-jai-echange-mon-fidele-combo-clavier-souris-pour-tester-la-manette-ultime-sur-pc.html",
+    "source": "Numerama",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Lancée en octobre 2025, la Razer Raiju V3 Pro affiche une promesse claire : être une manette taillée pour la compétition, conçue en collaboration avec des pros de l'e-sport. Après des années à ne jurer que par le combo clavier/souris, j'ai voulu vérifier par moi-même si cette manette premium pouvait me réconcilier avec le format (et me rendre meill",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-45",
+    "title": "Quels sont les pires films de zombies de l’histoire du cinéma ?",
+    "url": "https://www.numerama.com/pop-culture/2237457-quels-sont-les-pires-films-de-zombies-de-lhistoire-du-cinema.html",
+    "source": "Numerama",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Faire une liste des pires films de zombies n’est pas une mince affaire, tant le genre regorge de longs-métrages allant du passable au franchement inregardable. Les morts-vivants occupent en effet une place centrale dans le cinéma de série B, voire Z, au point qu’il suffit de s’y pencher un instant pour en trouver un représentant qui a tout d'un nav",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-46",
+    "title": "« Tout portait à croire que c’était réglo », on vous raconte l’arnaque à l’IBAN qui piège les vendeurs Leboncoin",
+    "url": "https://www.numerama.com/cyberguerre/2238445-tout-portait-a-croire-que-cetait-reglo-on-vous-raconte-larnaque-a-liban-qui-piege-les-vendeurs-leboncoin.html",
+    "source": "Numerama",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Martin J., lecteur de Numerama, a souhaité nous faire part de sa mésaventure survenue lors d'une vente sur Leboncoin, la plateforme d'annonces numéro 1 en France. Une arnaque rendue possible par une faille structurelle du site, mêlant phishing particulièrement retors et ingénierie sociale bien rodée.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-47",
+    "title": "Une voiture sur cinq était électrique en mars en Europe : une croissance visible enfin dans tous les pays",
+    "url": "https://www.numerama.com/vroom/2240665-une-voiture-sur-cinq-etait-electrique-en-mars-en-europe-une-croissance-visible-enfin-dans-tous-les-pays.html",
+    "source": "Numerama",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Tous les pays européens affichent des immatriculations de véhicules électriques en hausse, enfin, tous sauf deux. Sur le mois de mars, la voiture électrique affiche même une croissance insolente de 48,9 % dans l’Union européenne.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-48",
+    "title": "Où précommander le remake Assassin’s Creed Black Flag Resynced au meilleur prix ?",
+    "url": "https://www.numerama.com/pop-culture/2240329-ou-precommander-le-remake-assassins-creed-black-flag-resynced-au-meilleur-prix.html",
+    "source": "Numerama",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "[Précommande] Annoncé officiellement en mars dernier, le remake d'Assassin's Creed Black Flag se dévoile enfin via une longue vidéo de présentation. Le jeu est déjà disponible en précommande.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-49",
+    "title": "Les coulisses de la vidéo de présentation du MacBook Neo sont incroyables",
+    "url": "https://www.numerama.com/tech/2240789-les-coulisses-de-la-video-de-presentation-du-macbook-neo-sont-incroyables.html",
+    "source": "Numerama",
+    "date": "2026-04-25",
+    "cat": "Big Tech",
+    "desc": "Au tout début du mois de mars 2026, Apple annonçait le MacBook Neo, avec une vidéo de présentation qui transformait une plaque d'aluminium en ordinateur ultra-abordable. Les coulisses de ce reveal sont incroyables.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-50",
+    "title": "Les propriétaires d’une Switch 2 vont pouvoir découvrir l’un des meilleurs MMORPG",
+    "url": "https://www.numerama.com/pop-culture/2240779-les-proprietaires-dune-switch-2-vont-pouvoir-decouvrir-lun-des-meilleurs-mmorpg.html",
+    "source": "Numerama",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Square Enix a officialisé l'arrivée d'une version Switch 2 pour Final Fantasy XIV, son MMORPG particulièrement populaire. Elle nécessitera un abonnement à part.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-51",
+    "title": "#Flock : la tactique du parasite",
+    "url": "https://next.ink/235458/flock-la-tactique-du-parasite/",
+    "source": "Next.ink",
+    "date": "2026-04-25",
+    "cat": "Numérique & Société",
+    "desc": "Ça s’infiltre partout, ça nous aura tout aspiré (ou presque) jusqu’à s’en faire éclater la ventrèche : l’argent, les données, nos pensées, des fantasmes, notre vie privée et même professionnelle, jusqu’à nos espoirs d’un lendemain qui chante. Ça donne envie de prendre la fuite, mais même pour ça on est cernés, il y en a [&#8230;]",
+    "auto": true
+  },
+  {
     "id": "tech-1777106653-8",
     "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
     "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
@@ -77,6 +417,36 @@
     "date": "2026-04-25",
     "cat": "Numérique & Société",
     "desc": "Du vendredi 24 au dimanche 26 avril 2026, Ligue 1+ diffuse gratuitement huit matchs de Ligue 1 sur neuf prévus. Il ne faut pas forcément installer l'application officielle ou créer un compte : certains opérateurs et partenaires permettent aussi de regarder les rencontres en clair.",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-31",
+    "title": "L’ANSSI alerte à son tour sur les dangers d’OpenClaw… et de Claude Cowork",
+    "url": "https://www.silicon.fr/cybersecurite-1371/anssi-openclaw-226895",
+    "source": "Silicon.fr",
+    "date": "2026-04-24",
+    "cat": "IA & Modèles",
+    "desc": "Le CERT-FR émet un bulletin d'alerte qui vise en premier lieu OpenClaw, mais qui mentionne aussi Claude Cowork. The post L&rsquo;ANSSI alerte à son tour sur les dangers d&rsquo;OpenClaw&#8230; et de Claude Cowork appeared first on Silicon.fr .",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-52",
+    "title": "Vers la fin du « 100 % renouvelable » ? La réforme du Scope 2 fait grincer des dents",
+    "url": "https://next.ink/235171/vers-la-fin-du-100-renouvelable-la-reforme-du-scope-2-fait-grincer-des-dents/",
+    "source": "Next.ink",
+    "date": "2026-04-24",
+    "cat": "Numérique & Société",
+    "desc": "Une partie de l&#8217;industrie s&#8217;est levée comme un seul homme pour s&#8217;opposer à une réforme des règles de calcul des émissions indirectes de CO₂. Porté par le Greenhouse Gas Protocol, ce projet a pour objectif d&#8217;améliorer la fiabilité des données et leur utilité pour les politiques climatiques. Au vu de l&#8217;environnement poli",
+    "auto": true
+  },
+  {
+    "id": "tech-1777193612-53",
+    "title": "GPT-5.5, Privacy Filter, ChatGPT Images 2.0 : OpenAI fait feu de tout bois",
+    "url": "https://next.ink/235174/gpt-5-5-privacy-filter-chatgpt-images-2-0-openai-fait-feu-de-tout-bois/",
+    "source": "Next.ink",
+    "date": "2026-04-24",
+    "cat": "IA & Modèles",
+    "desc": "On n&#8217;en est pas à un nouveau LLM par jour, mais pas loin ! OpenAI a dévoilé GPT-5.5, alors que son prédécesseur GPT-5.4 remonte à début mars. Cette nouvelle version s&#8217;ajoute au lancement de ChatGPT Images 2.0 il y a quelques jours, et à celui de Privacy Filter qui masque les données personnelles dans du [&#8230;]",
     "auto": true
   },
   {
@@ -427,376 +797,6 @@
     "date": "2026-04-24",
     "cat": "Big Tech",
     "desc": "Pour quelques jours encore, dans le cadre de la semaine tech sur Amazon, vous avez l'occasion de réaliser une excellente affaire sur le disque dur Seagate édition spéciale Amazon en version 5 To.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-45",
-    "title": "Fuite de données : l’hémorragie continue avec le piratage d’une nouvelle administration française",
-    "url": "https://www.01net.com/actualites/fuite-donnees-hemorragie-continue-piratage-nouvelle-administration-francaise.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Une nouvelle cyberattaque secoue la France. L’Agence de services et de paiement (ASP) a été victime d’une intrusion qui s'est soldée par un vol de données.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-46",
-    "title": "Ce robot Sony met une raclée aux joueurs professionnels de ping-pong",
-    "url": "https://www.01net.com/actualites/robot-sony-raclee-joueurs-professionnels-ping-pong.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Neuf caméras, huit articulations et zéro état d'âme. Le robot Ace de Sony AI vient de battre des joueurs professionnels de tennis de table en conditions officielles.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-47",
-    "title": "DeepSeek, Moonshot, MiniMax : la Maison Blanche accuse la Chine de voler l’IA américaine",
-    "url": "https://www.01net.com/actualites/deepseek-moonshot-minimax-la-maison-blanche-accuse-la-chine-de-voler-lia-americaine.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "IA & Modèles",
-    "desc": "La Maison Blanche accuse des entités principalement basées en Chine de mener des campagnes délibérées pour piller les modèles d'IA américains les plus avancés. L'attaque intervient à quelques semaines du sommet Trump-Xi à Pékin.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-48",
-    "title": "Meta remet ça et supprime 8 000 postes pour financer l’IA",
-    "url": "https://www.01net.com/actualites/meta-remet-ca-et-supprime-8-000-postes-pour-financer-lia.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "Big Tech",
-    "desc": "Troisième charrette en quatre mois. Meta licencie 10 % de ses effectifs tout en prévoyant de dépenser jusqu'à 135 milliards de dollars en infrastructure IA cette année.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-49",
-    "title": "Une « sacrée leçon d’humilité » : Tim Cook revient sur sa « véritable grosse erreur » chez Apple",
-    "url": "https://www.01net.com/actualites/apple-tim-cook-revient-veritable-grosse-erreur.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "Big Tech",
-    "desc": "À quelques mois de passer la main, Tim Cook fait ses comptes et dresse le bilan de ses 15 ans à la tête d'Apple. Il a notamment évoqué son plus gros regret en tant que PDG.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-50",
-    "title": "Le Samsung Galaxy Z Flip 8 s’annonce vraiment sans la moindre surprise",
-    "url": "https://www.01net.com/actualites/samsung-galaxy-z-flip8-sans-nouveaute-design-batterie-photo.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Les amateurs de smartphones pliants risquent d'être déçus par la prochaine itération de Samsung. De nouvelles indiscrétions venues de Corée du Sud et des rendus tridimensionnels confirment que le futur Galaxy Z Flip 8 ne bénéficiera d'aucune amélioration majeure, que ce soit en matière de design, d'autonomie ou de photo.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-51",
-    "title": "Cohere et Aleph Alpha : les noces de l’IA souveraine",
-    "url": "https://www.silicon.fr/business-1367/cohere-et-aleph-alpha-les-noces-de-lia-souveraine-226910",
-    "source": "Silicon.fr",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Le canadien Cohere s'offre l'allemand Aleph Alpha pour créer un champion de l'IA souveraine valorisé quelque 20 milliards $. The post Cohere et Aleph Alpha : les noces de l&rsquo;IA souveraine appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-52",
-    "title": "DeepSeek-V4 ou la perspective sérieuse d’une stack IA chinoise",
-    "url": "https://www.silicon.fr/data-ia-1372/deepseek-v4-226908",
-    "source": "Silicon.fr",
-    "date": "2026-04-24",
-    "cat": "IA & Modèles",
-    "desc": "DeepSeek a publié une preview de ses modèles V4, qui ouvrent la voie à une indépendance vis-à-vis de NVIDIA, avec Huawei en palliatif. The post DeepSeek-V4 ou la perspective sérieuse d&rsquo;une stack IA chinoise appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-53",
-    "title": "Meta va licencier 8 000 employés pour financer ses ambitions en IA",
-    "url": "https://www.silicon.fr/uncategorized/meta-va-licencier-8-000-employes-pour-financer-ses-ambitions-en-ia-226904",
-    "source": "Silicon.fr",
-    "date": "2026-04-24",
-    "cat": "Big Tech",
-    "desc": "Meta va supprimer 10 % de ses effectifs en mai pour financer ses investissements colossaux dans l'intelligence artificielle. The post Meta va licencier 8 000 employés pour financer ses ambitions en IA appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-54",
-    "title": "OpenAI nomme Emmanuel Marill à la tête de la région EMEA",
-    "url": "https://www.silicon.fr/emploi-formation-1373/openai-nomme-emmanuel-marill-a-la-tete-de-la-region-emea-226901",
-    "source": "Silicon.fr",
-    "date": "2026-04-24",
-    "cat": "IA & Modèles",
-    "desc": "Emmanuel Marill, ex-patron d'Airbnb en Europe, prend les commandes d'Open AI pour la région EMEA. The post OpenAI nomme Emmanuel Marill à la tête de la région EMEA appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-55",
-    "title": "Le codage agentique, point de rupture pour le business model du SaaS",
-    "url": "https://www.silicon.fr/cloud-1370/codage-agentique-saas-226898",
-    "source": "Silicon.fr",
-    "date": "2026-04-24",
-    "cat": "IA & Modèles",
-    "desc": "Les assistants de codage illustrent l'incompatibilité des workloads agentiques avec la facturation par siège. GitHub et Anthropic, entre autres, ont pris des mesures. The post Le codage agentique, point de rupture pour le business model du SaaS appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-60",
-    "title": "Fusion Warner Bros. Discovery / Paramount : où en est-on vraiment dans le rachat ?",
-    "url": "https://www.numerama.com/pop-culture/2240481-fusion-warner-bros-discovery-paramount-ou-en-est-on-vraiment-dans-le-rachat.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Le paysage médiatique mondial est sur le point de basculer. Ce vendredi 24 avril 2026, lors d'une assemblée générale extraordinaire, les actionnaires de Warner Bros. Discovery (WBD) ont massivement voté en faveur du rachat par Paramount Skydance. Si cette étape marque une victoire cruciale pour David Ellison, le futur patron de l'entité fusionnée, ",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-61",
-    "title": "De grosses nouveautés arrivent sur Android : Google prépare une conférence spéciale",
-    "url": "https://www.numerama.com/tech/2240473-de-grosses-nouveautes-arrivent-sur-android-google-prepare-une-conference-speciale.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Big Tech",
-    "desc": "Une semaine avant la Google I/O, le géant du web organisera une conférence dédiée exclusivement à l'écosystème Android. En plus de la mise à jour Android 17, d'autres nouveautés pourraient être dévoilées et déployées sur des centaines de millions de smartphones.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-62",
-    "title": "Oubliez les supercars, la voiture la plus mythique des Français débarque dans Gran Turismo 7",
-    "url": "https://www.numerama.com/pop-culture/2240349-oubliez-les-supercars-la-voiture-la-plus-mythique-des-francais-debarque-dans-gran-turismo-7.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Enfin, une véritable voiture de légende fait son entrée dans Gran Turismo 7. Polyphony Digital continue d’enrichir son vaste catalogue de véhicules avec un fleuron de l’industrie automobile française : la Renault Twingo de 1993.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-63",
-    "title": "Kill Bill intégral : plus qu’un film, l’expérience ultime en version longue arrive en France",
-    "url": "https://www.numerama.com/pop-culture/2240287-kill-bill-integral-plus-quun-film-lexperience-ultime-en-version-longue-arrive-en-france.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "C’est l'Arlésienne du cinéma de Quentin Tarantino. Après plus de deux décennies d'attente, le montage fusionné des deux volumes de Kill Bill, intitulé The Whole Bloody Affair, s’apprête à envahir les écrans français. Une sortie événementielle qui promet une expérience radicale et inédite pour les amoureux de la mariée.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-64",
-    "title": "« Plante un clou dans le miroir et récite le Psaume 91 à l’envers » : une étude recense les IA les plus enclines à nourrir les spirales délirantes",
-    "url": "https://www.numerama.com/tech/2240053-plante-un-clou-dans-le-miroir-et-recite-le-psaume-91-a-lenvers-une-etude-recense-les-ia-les-plus-enclines-a-nourrir-les-spirales-delirantes.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "IA & Modèles",
-    "desc": "C'est un benchmark d’un nouveau genre. Selon une étude scientifique publiée le 23 avril 2026, certains modèles de langage (LLM) peuvent activement renforcer les croyances délirantes de leurs utilisateurs. Les écarts de comportement sont considérables d’un modèle à l’autre.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-65",
-    "title": "Le séjour de Sophie Adenot dans l’ISS pourrait être perturbé par l’arrivée précoce de Crew-13",
-    "url": "https://www.numerama.com/sciences/2240271-le-sejour-de-sophie-adenot-dans-liss-pourrait-etre-perturbe-par-larrivee-precoce-de-crew-13.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "La NASA vient d'annoncer la composition du Crew-13. Ce vol initialement prévu en novembre a été avancé à mi-septembre, ce qui pourrait raccourcir de plusieurs semaines le séjour de Sophie Adenot et du Crew-12 dans l'ISS.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-66",
-    "title": "Ces ados préfèrent les petites amies IA aux vraies relations (et les experts paniquent)",
-    "url": "https://www.numerama.com/tech/2240157-ces-ados-preferent-les-petites-amies-ia-aux-vraies-relations-et-les-experts-paniquent.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Au Royaume-Uni, les petites amies virtuelles séduisent de plus en plus les adolescents. Mais derrière ces relations sans rejet, sans conflit et toujours disponibles, les experts redoutent une génération plus douée pour séduire les chatbots que pour affronter les humains.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-67",
-    "title": "Disney+ est en ce moment à 4,99 € par mois, mais pour une durée (très) limitée",
-    "url": "https://www.numerama.com/pop-culture/2240235-disney-est-en-ce-moment-a-499-e-par-mois-mais-pour-une-duree-tres-limitee.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "[Deal du jour] La plateforme de streaming Disney+ n’offre que très rarement des promotions sur ses abonnements. Avec cette offre à 4,99 € par mois pendant trois mois, c’est le moment idéal pour découvrir le service.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-68",
-    "title": "Avec son look d’anime rétro, Orbitals pourrait bien devenir le nouveau Split Fiction",
-    "url": "https://www.numerama.com/pop-culture/2239963-avec-son-look-danime-retro-orbitals-pourrait-bien-devenir-le-nouveau-split-fiction.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Hardware",
-    "desc": "L'éditeur Kepler Interactive et le développeur Shapefarm ont publié une vidéo de gameplay d'Orbitals, un jeu d'aventure coopératif inspiré des animes des années 80/90. Et ça donne sacrément envie.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-69",
-    "title": "Netflix France : 16 films et séries à voir en mai 2026",
-    "url": "https://www.numerama.com/pop-culture/2239959-netflix-france-16-films-et-series-a-voir-en-mai-2026.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Il est temps de découvrir la sélection de films et de séries qui paraîtront sur Netflix tout au long du mois de mai.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-70",
-    "title": "L’Europe enferme six personnes pendant 100 jours pour la science",
-    "url": "https://www.numerama.com/sciences/2240001-leurope-enferme-six-personnes-pendant-100-jours-pour-la-science.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Pour préparer les futurs voyages vers la Lune et Mars, l'Agence spatiale européenne (ESA) vient de lancer SOLIS100. Six volontaires vont vivre enfermés pendant plus de trois mois dans un complexe allemand pour tester les limites du mental humain.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-71",
-    "title": "Avengers : « J’avais tort », Jon Favreau brise le silence sur la fin tragique d’Iron Man",
-    "url": "https://www.numerama.com/pop-culture/2239899-avengers-javais-tort-jon-favreau-brise-le-silence-sur-la-fin-tragique-diron-man.html",
-    "source": "Numerama",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Jon Favreau admet avoir eu tort concernant la mort de Tony Stark dans Avengers : Endgame. Près de sept ans après la conclusion de la Saga de l&#8217;Infini, Jon Favreau, réalisateur d&#8217;Iron Man et pilier du Marvel Cinematic Universe (MCU), est revenu en 2026 sur l&#8217;un des moments les plus marquants de l&#8217;histoire du cinéma, [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-72",
-    "title": "#Nexpresso Toocki TCT67-34B1 : un chargeur de 67 W avec USB Type-C rétractable, à 20 euros",
-    "url": "https://next.ink/235334/nexpresso-toocki-tct67-34b1-un-chargeur-de-67-w-avec-usb-type-c-retractable-a-20-euros/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "Hardware",
-    "desc": "Le fabricant chinois Toocki propose un chargeur USB à moins de 20 euros avec une puissance affichée de 67 watts en USB Type-C, avec en prime un câble USB intégré. Une bonne affaire ? Nous l’avons passé dans notre protocole de test : les tensions et la puissance sont bonnes, mais il chauffe, beaucoup. Toocki [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-73",
-    "title": "En faisant condamner Spliiit, la LFP a-t-elle marqué contre son camp ?",
-    "url": "https://next.ink/234830/en-faisant-condamner-spliiit-la-lfp-a-t-elle-marque-contre-son-camp/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "C&#8217;est une première : Spliiit, le service de partage d&#8217;abonnements, a été condamné en référé par le tribunal judiciaire de Paris saisi par la Ligue de football professionnel (LFP). En cause : le partage de comptes pour Ligue 1+, la plateforme de streaming de la LFP.&#160; La décision du tribunal judiciaire de Paris du 17 [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-74",
-    "title": "☕️ Rémunération des stagiaires : fuite de données à l’Agence de services et de paiement",
-    "url": "https://next.ink/brief_article/remuneration-des-stagiaires-fuite-de-donnees-a-lagence-de-services-et-de-paiement/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "L&#8217;Agence de services et de paiement (ASP) a alerté, vendredi 24 avril, certains destinataires des versements qu&#8217;elle opère pour le compte de l’État d&#8217;une fuite de données susceptible d&#8217;avoir exposé des informations personnelles. En l&#8217;occurrence, la fuite concerne les usagers du portail Profil, dédié à la rémunération d",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-75",
-    "title": "Anthropic et la stratégie marketing de la peur autour de sa nouvelle IA Mythos (2/3)",
-    "url": "https://next.ink/234918/anthropic-et-la-strategie-marketing-de-la-peur-autour-de-sa-nouvelle-ia-mythos-2-3/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "IA & Modèles",
-    "desc": "Le lancement de Mythos Preview, l&#8217;IA dédiée à la cybersécurité d&#8217;Anthropic, a défrayé la chronique en surfant sur la peur, l&#8217;incertitude et le doute concernant ses capacités de détection des failles de sécurité, et le nombre de vulnérabilités qu&#8217;elle pourrait identifier. Certains professionnels de la cybersécurité et de l&#8",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-76",
-    "title": "96 % des demandes administratives de retraits concernent des contenus pédosexuels",
-    "url": "https://next.ink/235047/96-des-demandes-administratives-de-retraits-concernent-des-contenus-pedosexuels/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "En 2025, le nombre de demandes administratives de retraits de contenus, venant en grande majorité de l’Office anti-cybercriminalité, a augmenté de 8,7 % mais la plupart d&#8217;entre elles sont liées à des contenus pédosexuels. Celles concernant le terrorisme sont en nette baisse de 40 % par rapport à 2024. Les demandes de retrait adressées par [&#",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-77",
-    "title": "☕️ Erreur 521 en série : des dizaines de sites pirates hors ligne",
-    "url": "https://next.ink/brief_article/erreur-521-en-serie-des-dizaines-de-sites-pirates-hors-ligne/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Plusieurs sites de contenus piratés très populaires affichent désormais une erreur 521 de Cloudflare. Impossible d&#8217;y accéder, et le plus intéressant c&#8217;est qu&#8217;ils sont tous tombés en même temps : le serveur d&#8217;origine refuse la connexion ou ne répond plus. Myflixerz, Sflix, Watchseries, HDtoday et d&#8217;autres encore sont au",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-78",
-    "title": "☕️ Next sera ce week-end au Festival des médias indépendants à Paris",
-    "url": "https://next.ink/brief_article/next-sera-ce-week-end-au-festival-des-medias-independants-a-paris/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Ce week-end des 25 et 26 avril aura lieu un Festival des médias indépendants réunissant plus de 40 médias, dont Next et les 7 médias membres de La Presse Libre, ainsi que Basta!, Blast, Bon Pote, Disclose, Facto !, Fakir, La Déferlante, Médianes, l&#8217;Observatoire des multinationales, Reporterre, Sciences Critiques, Socialter et StreetPress, not",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-79",
-    "title": "Meta va licencier 10 % de ses effectifs, plan de départ volontaire chez Microsoft",
-    "url": "https://next.ink/235194/meta-va-licencier-10-de-ses-effectifs-plan-de-depart-volontaire-chez-microsoft/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "Big Tech",
-    "desc": "Meta et Microsoft ont tous deux confirmé cette semaine d&#8217;importantes coupes à venir dans leurs effectifs. Le premier prévoit de licencier 8 000 personnes, soit environ 10 % de ses équipes, d&#8217;ici le mois de juin, et réduit la voilure au niveau des nouvelles embauches. Le second vient pour sa part de lancer un plan [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1777106653-80",
-    "title": "☕️ Polymarket : un soldat US arrêté pour son gain de 430 000$ sur la chute de Maduro",
-    "url": "https://next.ink/brief_article/polymarket-un-soldat-us-arrete-pour-son-pari-de-430-000-sur-la-chute-de-maduro/",
-    "source": "Next.ink",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Un soldat états-unien a été arrêté dans le cadre du pari sur la chute de Maduro, qui lui avait permis d&#8217;empocher 430 000 dollars sur Polymarket. Ce gain avait été remarqué vu le montant du gain, et le timing du pari. L&#8217;utilisateur avait commencé à parier sur la plateforme Polymarket à propos du sujet « Maduro démis [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1777022741-0",
-    "title": "Saros is pure action nirvana",
-    "url": "https://www.theverge.com/entertainment/917462/saros-review-ps5",
-    "source": "The Verge",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "The alien world of Saros feels like it has been touched by King Midas. The sky is golden after another impossibly frequent solar eclipse; rocks, specifically those of the precious resource Lucenite, radiate a shimmering amber. Even the body of our gruff hero Arjun Devraj (played by Rahul Kohli) is liable to turn deep, opulent [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1777022741-32",
-    "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-    "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-    "source": "MIT Tech Review",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A&#8230;",
-    "auto": true
-  },
-  {
-    "id": "tech-1777022741-36",
-    "title": "Des dizaines de sites pirates sont inaccessibles, que se passe-t-il ?",
-    "url": "https://www.01net.com/actualites/des-dizaines-de-sites-pirates-sont-inaccessibles-que-se-passe-t-il.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "Numérique & Société",
-    "desc": "Des dizaines de sites de streaming illégal sont devenus inaccessibles, sans explication.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777022741-37",
-    "title": "Roborock Saros 10R : la Rolls-Royce des robots-aspirateurs chute à -40% sur Amazon ⚡️",
-    "url": "https://www.01net.com/bons-plans/roborock-saros-10r-la-rolls-royce-des-robots-aspirateurs-chute-a-40-sur-amazon.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "Big Tech",
-    "desc": "Dans le cadre des promos de la Tech Week, Amazon propose une offre inédite sur le robot aspirateur ultra haut de gamme Roborock Saros 10R. Si vous voulez ce qui se fait de mieux à l'heure actuelle tout en faisant de grosses économies, c'est un bon plan qu'il ne faut absolument pas manquer.",
-    "auto": true
-  },
-  {
-    "id": "tech-1777022741-38",
-    "title": "Google dévoile « Workspace Intelligence » : votre manière de travailler va radicalement changer",
-    "url": "https://www.01net.com/actualites/google-devoile-workspace-intelligence-votre-maniere-travailler-radicalement-changer.html",
-    "source": "01net",
-    "date": "2026-04-24",
-    "cat": "IA & Modèles",
-    "desc": "Marre de chercher un document dans vos mails ou de jongler entre dix onglets ? Google lance Workspace Intelligence pour transformer Gemini en un assistant personnel capable de comprendre tout le contexte de votre entreprise.",
     "auto": true
   }
 ]

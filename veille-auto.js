@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-25T08:44:13
+// Dernière collecte : 2026-04-26T08:53:32
 window.AUTO_VEILLE = [
   {
     id: "auto-1777106617-0",
@@ -702,6 +702,26 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1777193572-25",
+    title: "Le Conseil d’État reçoit le président de la Cour constitutionnelle du Kosovo",
+    url: "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-recoit-le-president-de-la-cour-constitutionnelle-du-kosovo",
+    source: "Conseil d'État",
+    date: "2026-03-19",
+    cat: "Jurisprudence",
+    desc: "",
+    auto: true
+  },
+  {
+    id: "auto-1777193572-39",
+    title: "High-Level Debate: “From Omnibus to Opportunity: Driving Data Protection and Innovation”",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/high-level-debate-omnibus-opportunity-driving-data-protection-and-innovation_en",
+    source: "EDPS",
+    date: "2026-03-19",
+    cat: "RGPD",
+    desc: "High-Level Debate: “From Omnibus to Opportunity: Driving Data Protection and Innovation” iraskval Thu, 03/19/2026 - 16:54 Fri, 03/20/2026 - 12:00 On 8 June 2026, the European Data Protection Supervisor (EDPS), the German Federal Commissioner for Data Protection and Freedom of Information ( BfDI ), and the Bavarian Data Protection Commissioner ( Bay",
+    auto: true
+  },
+  {
     id: "auto-1777106617-39",
     title: "EDPB-EDPS Joint Opinion on the Proposal for a Cybersecurity Act 2 and the Proposal on amendments to the NIS 2 Directive",
     url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/edpb-edps-joint-opinion-cybersecurity-act-2-and-amendments-nis-2-directive",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "",
     auto: true
   },
-  {
-    id: "auto-1774532375-45",
-    title: "Décision n° 2025-1186 QPC du 19 mars 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20251186QPC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-03-19",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-46",
-    title: "Décision n° 2026-902 DC du 19 mars 2026 - Communiqué de presse",
-    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-902-dc-du-19-mars-2026-communique-de-presse",
-    source: "Conseil constitutionnel",
-    date: "2026-03-19",
-    cat: "Jurisprudence",
-    desc: "Le Conseil constitutionnel déclare conforme à la Constitution la loi relative à l’organisation des jeux Olympiques et Paralympiques de 2030.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-25T08:44:13";
+window.AUTO_VEILLE_UPDATED = "2026-04-26T08:53:32";
