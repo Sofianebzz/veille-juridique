@@ -1,6 +1,486 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-26T08:53:38
+// Dernière collecte : 2026-04-27T10:09:28
 window.AUTO_TECH = [
+  {
+    id: "tech-1777284564-6",
+    title: "Meta inks deal for solar power at night, beamed from space",
+    url: "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+    source: "TechCrunch",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-7",
+    title: "Truecaller faces mounting pressures as its growth matures",
+    url: "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
+    source: "TechCrunch",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-20",
+    title: "Avec la pénurie, la RAM représente 20 % du coût d’un Galaxy S26 : Samsung s’étrangle avec ses propres puces",
+    url: "https://www.01net.com/actualites/avec-penurie-ram-represente-20-cout-galaxy-s26-samsung-etrangle-propres-puces.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Hardware",
+    desc: "Le smartphone le plus vendu de l'histoire de Samsung pourrait précipiter sa division mobile vers sa toute première perte annuelle. Le coupable n'est ni un concurrent ni un défaut de conception, mais un composant que Samsung fabrique lui-même.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-21",
+    title: "OpenAI préparerait le smartphone ChatGPT qui va faire disparaître les applications",
+    url: "https://www.01net.com/actualites/openai-preparerait-le-smartphone-qui-va-faire-disparaitre-les-applications.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "IA & Modèles",
+    desc: "Si l'on en croit les informations de l'analyste Ming-Chi Kuo, OpenAI travaillerait avec plusieurs géants de l'électronique sur un smartphone entièrement repensé autour de l'IA. Le projet reste à confirmer et OpenAI n'a fait aucune déclaration officielle à ce stade.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-22",
+    title: "Windows 11 : Microsoft modifie Windows Update de fond en comble",
+    url: "https://www.01net.com/actualites/windows-11-microsoft-modifie-windows-update-de-fond-en-comble.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "Microsoft teste auprès des Insiders une mise à jour qui modifie en profondeur le fonctionnement de Windows Update. Vous pourrez bientôt mettre en pause indéfiniment les mises à jour et ne serez plus obligé de mettre à jour votre PC avant de l’éteindre.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-23",
+    title: "Le Porsche Cayenne Coupé est un monstre électrique de 1 156 ch qui s’inspire de la 911",
+    url: "https://www.01net.com/actualites/porsche-cayenne-coupe-monstre-electrique-1-156-ch-sinspire-911.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Porsche dévoile la déclinaison Coupé de son Cayenne électrique. Cette nouvelle variante reprend la fiche technique de la version standard en y ajoutant un style plus avenant inspiré de l’iconique 911.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-24",
+    title: "Un chargeur universel pour tous les PC portables ? Voici ce qui a changé depuis le 26 avril",
+    url: "https://www.01net.com/actualites/un-chargeur-universel-pour-tous-les-pc-portables-voici-ce-qui-a-change-depuis-le-26-avril.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Après les smartphones en 2024, l'USB-C est maintenant obligatoire pour presque tous les ordinateurs portables, depuis le dimanche 26 avril : voici ce qu'il faut retenir.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-25",
+    title: "Gmail, Agenda, Drive, Keep : Google change radicalement le design de ses icônes",
+    url: "https://www.01net.com/actualites/gmail-agenda-drive-keep-google-change-radicalement-design-icones.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "Google met un sacré coup de peinture aux icônes de ses services phares. De Gmail en passant par Google Keep, Agenda, Docs ou encore Drive, les changements sont importants.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-26",
+    title: "Oubliez l’ancien modèle : l’Audi Q4 e-tron transforme son habitacle et fait le plein d’écrans",
+    url: "https://www.01net.com/actualites/oubliez-lancien-modele-laudi-q4-e-tron-transforme-habitacle-plein-decrans.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Audi présente la version restylée du Q4 e-tron. Le SUV compact électrique corrige légèrement son style mais transforme complètement son habitacle. Il s’équipe aussi d’équipements inédits pour séduire.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-27",
+    title: "Cette compagnie aérienne française annule plusieurs vols à cause du prix du carburant",
+    url: "https://www.01net.com/actualites/compagnie-aerienne-francaise-annonce-suppression-plusieurs-vols.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Transavia France annule 2 % de ses vols prévus en mai et juin 2026 en raison de la hausse des prix du kérosène liée à la situation géopolitique au Moyen-Orient. Les passagers affectés seront informés individuellement.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-28",
+    title: "John Ternus, le nouveau patron d’Apple, laisse entrevoir ses plans pour l’entreprise",
+    url: "https://www.01net.com/actualites/john-ternus-nouveau-patron-apple-laisse-entrevoir-plans.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "Dans quelques mois, Apple tournera une page de son histoire. Tim Cook passera le flambeau à John Ternus. Lors d'une première réunion avec les employés, le nouveau patron d'Apple a dévoilé ses ambitions pour la marque à la pomme.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-29",
+    title: "Voici la Hyundai Ioniq V, la berline électrique au look de vaisseau spatial qui veut détrôner Tesla",
+    url: "https://www.01net.com/actualites/voici-hyundai-ioniq-v-berline-electrique-vaisseau-spatial-veut-detroner-tesla.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "Hyundai dévoile la Ioniq V, une berline électrique au style pour le moins spectaculaire. Avec ses 600 km d’autonomie et son habitacle faisant la part belle au numérique, la coréenne compte tailler des croupières à la Tesla Model 3.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-30",
+    title: "Peugeot change tout : voici les Concept 6 et 8, le futur spectaculaire de la marque",
+    url: "https://www.01net.com/actualites/peugeot-change-tout-voici-concept-6-8-futur-spectaculaire-marque.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Peugeot présente deux prototypes étonnants au Salon de l’automobile de Pékin. Nommés Concept 6 et 8, ces études de style donneront suite à des modèles de série électriques orientés vers le haut de gamme.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-31",
+    title: "Windows K2 : voici le plan secret de Microsoft pour sauver Windows 11",
+    url: "https://www.01net.com/actualites/windows-k2-plan-secret-microsoft-sauver-windows-11.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "L’opération de sauvetage de Windows 11 est la priorité absolue de Microsoft. En interne, la firme de Redmond a mis en place son plan Windows K2, un projet d’envergure visant à optimiser Windows 11 pour regagner la confiance des utilisateurs.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-32",
+    title: "Recharge en 4 minutes : la nouvelle batterie de CATL va rendre les pompes à essence totalement obsolètes",
+    url: "https://www.01net.com/actualites/recharge-4-minutes-nouvelle-batterie-catl-va-rendre-pompes-essence-obsoletes.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Le Salon de l’automobile de Pékin est l’occasion pour les constructeurs de montrer les muscles. Le chinois CATL prend acte avec une nouvelle batterie pulvérisant tous les records de charge existants avec un 10 à 80 % en 4 minutes.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-33",
+    title: "Cyberattaque chez France Titres : le site est en « maintenance » depuis deux jours",
+    url: "https://www.01net.com/actualites/cyberattaque-ants-site-maintenance-depuis-deux-jours.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Frappée par une cyberattaque, l'Agence Nationale des Titres Sécurisés (ANTS) est toujours dans la tourmente. L'administration a été obligée de fermer son portail en ligne pour une opération de maintenance qui s'éternise. Le site reste partiellement inaccessible et toutes les démarches en ligne sont suspendues, sans date de rétablissement annoncée.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-34",
+    title: "« Tesla n’est plus la référence » : le PDG de Ford lâche une bombe et s’attire les foudres des fans d’Elon Musk",
+    url: "https://www.01net.com/actualites/tesla-plus-reference-pdg-ford-lache-bombe-sattire-foudres-fans-delon-musk.html",
+    source: "01net",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "Face à la menace électrique chinoise, le PDG de Ford multiplie les déclarations choc. La dernière en date aura de quoi faire réagir : selon lui, il ne faudrait plus se tourner vers Tesla pour contrer les modèles de l’Empire du Milieu.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-49",
+    title: "Un voyageur temporel a-t-il vraiment prédit le tireur de Washington en 2023 ?",
+    url: "https://www.numerama.com/tech/2240905-un-voyageur-temporel-a-t-il-vraiment-predit-le-tireur-de-washington-en-2023.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "En décembre 2023, un compte X a publié un message avec comme seul texte : « Cole Allen ». Après la fusillade visant Donald Trump au dîner des correspondants de la Maison-Blanche, ce tweet est devenu, pour la complosphère, la nouvelle « preuve » qu’un voyageur temporel se cache sur la plateforme.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-50",
+    title: "Quels astronautes sont dans la Station spatiale internationale (ISS) en ce moment ?",
+    url: "https://www.numerama.com/sciences/1292486-quels-astronautes-sont-dans-liss-en-ce-moment.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Le nombre d’astronautes à bord de la Station spatiale internationale (ISS) évolue constamment au rythme des rotations d’équipages. Pour savoir qui se trouve dans la Station spatiale internationale, la NASA et ses partenaires tiennent un registre rigoureux de chaque mission.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-51",
+    title: "Cette réplique Lego du Faucon Millenium à exposer est à -40 %",
+    url: "https://www.numerama.com/pop-culture/2241109-cette-replique-a-exposer-du-lego-faucon-millenium-est-a-40.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "[Deal du jour] Si vous avez envie d'un Lego Faucon Millenium sans vouloir investir dans le set à 849,99 €, ce petit modèle à exposer est en ce moment en promotion.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-52",
+    title: "« On a fait preuve d’arrogance » : le patron des batteries françaises ACC reconnaît ses erreurs face à la réalité industrielle",
+    url: "https://www.numerama.com/vroom/2241023-on-a-fait-preuve-darrogance-le-patron-des-batteries-francaises-acc-reconnait-ses-erreurs-face-a-la-realite-industrielle.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "L’Europe pensait pouvoir combler son retard sur les batteries. Les premiers industriels, comme l'entreprise ACC, découvrent une réalité bien plus complexe. Son patron admet des erreurs, tout en misant encore avec optimisme sur les années à venir.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-53",
+    title: "Ils saturent votre attention pour infiltrer votre réseau : on décortique la campagne cybercriminelle « Snow »",
+    url: "https://www.numerama.com/cyberguerre/2240967-ils-saturent-votre-attention-pour-infiltrer-votre-reseau-on-decortique-la-campagne-cybercriminelle-snow.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Sécurité",
+    desc: "Dans un rapport publié le 23 avril 2026, les chercheurs en cybersécurité de Mandiant ont disséqué les méthodes d’intrusion du groupe de hackers UNC6692. Leur stratégie ? Se positionner d’abord comme élément perturbateur, puis comme sauveur.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-54",
+    title: "Après 560 jours d’absence, la fusée lourde de SpaceX fait son grand retour",
+    url: "https://www.numerama.com/sciences/2241005-apres-560-jours-dabsence-la-fusee-geante-de-spacex-fait-son-grand-retour.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "La fusée lourde de SpaceX fait son grand retour sur les pas de tir. Après plus d'un an et demi d'absence, le Falcon Heavy décolle ce lundi 27 avril 2026 pour mettre en orbite le satellite de télécommunications Viasat-3 F3. Le lancement est à suivre en direct.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-55",
+    title: "Jusqu’à 595 km d’autonomie : Audi revoit son SUV électrique best-seller",
+    url: "https://www.numerama.com/vroom/2240887-jusqua-595-km-dautonomie-audi-revoit-son-suv-electrique-best-seller.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "C'est l'heure du restylage pour l'Audi Q4 e-tron. Le SUV compact de la marque aux anneaux évolue sagement, mais sûrement, et vient désormais titiller la barre des 600 km d'autonomie.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-56",
+    title: "Bouygues Telecom dévoile Mega BiG, son forfait concurrent de Free Max… avec trois grosses différences",
+    url: "https://www.numerama.com/tech/2240957-bouygues-telecom-devoile-mega-big-son-forfait-concurrent-de-free-max-avec-trois-grosses-differences.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Commercialisé à 19,99 euros pour les abonnés Bbox et 29,99 euros pour le grand public, le forfait Mega BiG de Bouygues Telecom s'adresse aux voyageurs en quête d'un forfait utilisable dans plus de 150 pays. Mais contrairement à son équivalent chez Free Mobile (Free Max), il propose une quantité « limitée » d'Internet en France et à l'international.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-57",
+    title: "Après le succès de Battlefield 6, Hollywood prépare enfin l’adaptation ultime",
+    url: "https://www.numerama.com/pop-culture/2240889-apres-le-succes-de-battlefield-6-hollywood-prepare-enfin-ladaptation-ultime.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Michael B. Jordan et Christopher McQuarrie s’associent pour adapter à l'écran la célèbre franchise de jeux vidéo Battlefield. Entre l’acteur oscarisé de Sinners et le réalisateur de Mission: Impossible, ce long-métrage s'annonce comme l'un des événements cinématographiques les plus massifs des prochaines années.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-58",
+    title: "Un acteur de Clair Obscur: Expedition 33 pense que les jeux vidéo n’ont pas besoin d’être adaptés en film ou en série",
+    url: "https://www.numerama.com/pop-culture/2240875-un-acteur-de-clair-obscur-expedition-33-pense-que-les-jeux-video-nont-pas-besoin-detre-adaptes-en-film-ou-en-serie.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Ben Starr, acteur qui a incarné Verso dans Clair Obscur: Expedition 33, s'est exprimé sur le besoin d'adapter des jeux vidéo en série et/ou en film. Selon lui, ce n'est pas du tout nécessaire.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-59",
+    title: "Le créateur de Mario et Zelda a estimé qu’il était du « devoir de Nintendo de produire des alternatives à GTA »",
+    url: "https://www.numerama.com/pop-culture/2240893-le-createur-de-mario-et-zelda-a-estime-quil-etait-du-devoir-de-nintendo-de-produire-des-alternatives-a-gta.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Il y a un avant et un après Grand Theft Auto III. Suite au succès du jeu de Rockstar, qui a popularisé le genre, Nintendo a fait un choix stratégique clair à l'époque : ne pas suivre cette tendance.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-60",
+    title: "L’usage du téléphone au volant entraînera la suspension immédiate du permis dans certains départements",
+    url: "https://www.numerama.com/politique/2240883-lusage-du-telephone-au-volant-entrainera-la-suspension-immediate-du-permis-dans-certains-departements.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Certains départements en France métropolitaine vont connaître un durcissement des règles du Code de la route. À partir du 1er mai 2026, le simple fait d'utiliser son smartphone entraînera la suspension immédiate du permis de conduire pour l'automobiliste pris sur le fait.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-61",
+    title: "Le premier teaser de la suite de l’excellent Alien: Isolation est déjà flippant",
+    url: "https://www.numerama.com/pop-culture/2240867-le-premier-teaser-de-la-suite-de-lexcellent-alien-isolation-est-deja-flippant.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Sans crier gare, Sega a diffusé un premier teaser pour Alien: Isolation 2, la suite de l'un des meilleurs jeux d'horreur jamais réalisés.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-62",
+    title: "Internet haut débit par satellite : voici une alternative française qui défie les géants étrangers [Sponso]",
+    url: "https://www.numerama.com/tech/2231549-internet-haut-debit-par-satellite-voici-une-alternative-francaise-qui-defie-les-geants-etrangers.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "Cet article a été réalisé en collaboration avec Nordnet Jusqu’à 200 Mb/s de débit et des options intéressantes pour les familles comme les professionnels : la connexion haut débit par satellite de Nordnet est un service 100 % français qui offre une solution viable pour les oubliés de la fibre.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-63",
+    title: "Gmail, Drive, Meet… Préparez-vous à du changement pour les services Google",
+    url: "https://www.numerama.com/tech/2240855-gmail-drive-meet-preparez-vous-a-du-changement-pour-les-services-google.html",
+    source: "Numerama",
+    date: "2026-04-27",
+    cat: "IA & Modèles",
+    desc: "Google préparerait une refonte majeure des icônes de ses applications avec des dégradés inspirés de Gemini et de sa nouvelle identité visuelle. Tous les services pourraient évoluer dans les prochaines semaines.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-64",
+    title: "☕️ France Titres : le portail de l’ANTS est fermé pour maintenance depuis vendredi",
+    url: "https://next.ink/brief_article/france-titres-le-portail-de-lants-est-ferme-pour-maintenance-depuis-vendredi/",
+    source: "Next.ink",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "S&#8217;agissait-il du piratage de trop ? Le portail France Titres (ants.gouv.fr) a été placé en maintenance technique à compter du vendredi 24 avril, à 19h30 : «&#160;L&#8217;accès à votre compte est momentanément indisponible. L’ANTS poursuit les mesures de renforcement de sécurité de son portail. Tous les moyens sont mis en œuvre pour que cette ",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-65",
+    title: "☕️ XChat : Elon Musk lance son concurrent à Signal ou WhatsApp sur iOS",
+    url: "https://next.ink/brief_article/xchat-elon-musk-lance-son-concurrent-a-signal-ou-whatsapp-sur-ios/",
+    source: "Next.ink",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "En attendant que X devienne la «&#160;super app&#160;» bonne à tout faire dont rêve Elon Musk, le réseau social vient de lancer sa messagerie, XChat, sous forme d&#8217;application dédiée. Cette première mouture publique est réservée aux utilisateurs d&#8217;iPhone sous iOS 26. «&#160;Discutez avec n&#8217;importe qui sur X. En toute confidentialit",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-66",
+    title: "Claude Code réfléchissait trop, puis plus assez : Anthropic corrige le coup de mou",
+    url: "https://next.ink/235482/claude-code-reflechissait-trop-puis-plus-assez-anthropic-corrige-le-coup-de-mou/",
+    source: "Next.ink",
+    date: "2026-04-27",
+    cat: "IA & Modèles",
+    desc: "Le coup de mou qui a affecté Claude Code ces dernières semaines n&#8217;était pas une vue de l&#8217;esprit. Anthropic a constaté l&#8217;existence de problèmes, et les a corrigés. Claude Code a connu des soucis de fonctionnement entre la fin du mois de mars et mi-avril. Des utilisateurs se sont plaints d&#8217;une dégradation du service. Suite [&#",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-67",
+    title: "Vote électronique en AG d’assos, copros, primaires, etc. : les recommandations de la CNIL",
+    url: "https://next.ink/235341/vote-electronique-en-ag-dassos-copros-primaires-etc-les-recommandations-de-la-cnil/",
+    source: "Next.ink",
+    date: "2026-04-27",
+    cat: "Numérique & Société",
+    desc: "La pratique du vote par correspondance électronique se développe de plus en plus. Ce constat posé, la CNIL a émis une nouvelle recommandation pour proposer un cadre plus clair sur les objectifs de sécurité. Celle-ci est applicable pour tout nouveau scrutin dont la préparation n&#8217;a pas déjà commencé. Elle s&#8217;accompagne d&#8217;un guide plu",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-68",
+    title: "☕️ Le canadien Cohere et l’allemand Aleph Alpha forment une alternative IA aux États-Unis",
+    url: "https://next.ink/brief_article/le-canadien-cohere-et-lallemand-aleph-alpha-forment-une-alternative-ia-aux-etats-unis/",
+    source: "Next.ink",
+    date: "2026-04-27",
+    cat: "Big Tech",
+    desc: "Le Canadien Cohere acquiert l&#8217;Allemand Aleph Alpha afin de construire une alternative IA aux géants américains et chinois. Un dossier surveillé de près par Ottawa et Berlin. Cohere, fondée en 2019 à Toronto par d&#8217;anciens chercheurs de Google, développe de grands modèles de langage pour les entreprises, et les déploie dans les infrastruc",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-0",
+    title: "Google’s new gradient icon design is coming to more apps",
+    url: "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
+    source: "The Verge",
+    date: "2026-04-26",
+    cat: "Big Tech",
+    desc: "In late 2025, Google started rolling out new icons with a gradient design. Now it seems the new look is coming to the rest of Google's apps. 9to5Google got its hands on images of the new icons that ditch the uniform circle design that tries to cram in every color of the Google logo. In [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-1",
+    title: "Trump turns the WHCD shooting into a pitch for the White House ballroom",
+    url: "https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom",
+    source: "The Verge",
+    date: "2026-04-26",
+    cat: "Hardware",
+    desc: "Within hours of an armed gunman's attempt to enter the White House Correspondents Dinner, attended by top administration officials and hundreds of journalists, President Donald Trump did what he does best: use the assassination attempt to defend his ballroom project. During a White House press conference just hours after he and several cabinet memb",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-2",
+    title: "Tomora’s Come Closer is an ecstatic love letter to 90s dance music",
+    url: "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music",
+    source: "The Verge",
+    date: "2026-04-26",
+    cat: "Numérique & Société",
+    desc: "Before Coachella, Tomora wasn't on my radar at all. It's actually only by chance that I stumbled upon them - I opened the wrong stream because my TV was lagging like a MFer. I paused for a few moments, entranced by the two ethereal Nordic women banging on giant drums to a techno beat. I [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-3",
+    title: "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+    url: "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
+    source: "The Verge",
+    date: "2026-04-26",
+    cat: "Numérique & Société",
+    desc: "When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot, and now through May 7th, it’s available directly from Skylight for $259.99 ($40 off), its best price to date. Skylight’s 15-inch smart calendar im",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-4",
+    title: "After three months on Linux, I don’t miss Windows at all",
+    url: "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
+    source: "The Verge",
+    date: "2026-04-26",
+    cat: "Open Source",
+    desc: "In January I finally made good on my threat/promise to install Linux on my desktop. I wanted to see how far I could get using a Linux PC as my main computer without doing a bunch of research beforehand or troubleshooting afterwards. Since then I have booted into Windows exactly twice: once to scan a [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-5",
+    title: "The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face",
+    url: "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
+    source: "The Verge",
+    date: "2026-04-26",
+    cat: "Numérique & Société",
+    desc: "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Hollywood trends and streaming culture, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes on Sundays at 8AM ET. Opt in for The Stepback here. How it started Under David Zaslav's leadership, WBD got very [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-8",
+    title: "Amazon’s new podcast strategy: Monetize everything",
+    url: "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
+    source: "TechCrunch",
+    date: "2026-04-26",
+    cat: "Big Tech",
+    desc: "Amazon's podcasting business seems to have transformed over the past six months.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-9",
+    title: "What Tim Cook built",
+    url: "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+    source: "TechCrunch",
+    date: "2026-04-26",
+    cat: "Big Tech",
+    desc: "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-10",
+    title: "To buy this Bay Area home, you’ll need Anthropic equity",
+    url: "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    source: "TechCrunch",
+    date: "2026-04-26",
+    cat: "IA & Modèles",
+    desc: "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-11",
+    title: "Prime Video drops full trailer for Spider-Noir",
+    url: "https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/",
+    source: "Ars Technica",
+    date: "2026-04-26",
+    cat: "Numérique & Société",
+    desc: "It's \"a detective story, but the detective happens to also have spider powers.”—EP Chris Miller",
+    auto: true
+  },
+  {
+    id: "tech-1777284564-12",
+    title: "New robotic control software avoids jamming their joints",
+    url: "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
+    source: "Ars Technica",
+    date: "2026-04-26",
+    cat: "Numérique & Société",
+    desc: "Software lets robots learn from each other even if they have different hardware.",
+    auto: true
+  },
   {
     id: "tech-1777193612-25",
     title: "Arnaque au deuil : cette escroquerie fait des ravages après la perte d’un proche",
@@ -321,485 +801,5 @@ window.AUTO_TECH = [
     desc: "Au tout début du mois de mars 2026, Apple annonçait le MacBook Neo, avec une vidéo de présentation qui transformait une plaque d'aluminium en ordinateur ultra-abordable. Les coulisses de ce reveal sont incroyables.",
     auto: true
   },
-  {
-    id: "tech-1777193612-50",
-    title: "Les propriétaires d’une Switch 2 vont pouvoir découvrir l’un des meilleurs MMORPG",
-    url: "https://www.numerama.com/pop-culture/2240779-les-proprietaires-dune-switch-2-vont-pouvoir-decouvrir-lun-des-meilleurs-mmorpg.html",
-    source: "Numerama",
-    date: "2026-04-25",
-    cat: "Numérique & Société",
-    desc: "Square Enix a officialisé l'arrivée d'une version Switch 2 pour Final Fantasy XIV, son MMORPG particulièrement populaire. Elle nécessitera un abonnement à part.",
-    auto: true
-  },
-  {
-    id: "tech-1777193612-51",
-    title: "#Flock : la tactique du parasite",
-    url: "https://next.ink/235458/flock-la-tactique-du-parasite/",
-    source: "Next.ink",
-    date: "2026-04-25",
-    cat: "Numérique & Société",
-    desc: "Ça s’infiltre partout, ça nous aura tout aspiré (ou presque) jusqu’à s’en faire éclater la ventrèche : l’argent, les données, nos pensées, des fantasmes, notre vie privée et même professionnelle, jusqu’à nos espoirs d’un lendemain qui chante. Ça donne envie de prendre la fuite, mais même pour ça on est cernés, il y en a [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-8",
-    title: "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
-    url: "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-    source: "TechCrunch",
-    date: "2026-04-25",
-    cat: "Startups & VC",
-    desc: "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-36",
-    title: "Quels sont les meilleurs casques à réduction de bruit en avril 2026 ?",
-    url: "https://www.01net.com/guide-achat/meilleurs-casques-reduction-de-bruit.html",
-    source: "01net",
-    date: "2026-04-25",
-    cat: "Numérique & Société",
-    desc: "Pour rentrer dans votre bulle en vous isolant du monde, rien ne vaut un bon casque à réduction de bruit. Voici notre sélection des meilleurs modèles.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-37",
-    title: "Des capteurs Météo France trafiqués : des escrocs ont gagné une fortune avec… un sèche-cheveux",
-    url: "https://www.01net.com/actualites/capteurs-meteo-france-trafiques-comment-escrocs-gagne-milliers-dollars.html",
-    source: "01net",
-    date: "2026-04-25",
-    cat: "Numérique & Société",
-    desc: "À Roissy, un capteur de Météo‑France a affiché une température improbable. Quelques minutes plus tard, des parieurs empochaient des dizaines de milliers de dollars sur Polymarket. Tout porte à croire que des internautes cupides ont décidé de forcer le destin en trafiquant les sondes de Météo France. L'opération pourrait avoir été réalisée à l'aide ",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-38",
-    title: "Alerte à la contrefaçon : ces faux portefeuilles Ledger cherchent à siphonner toutes vos cryptos",
-    url: "https://www.01net.com/actualites/alerte-a-la-contrefacon-ces-faux-portefeuilles-ledger-cherchent-a-siphonner-toutes-vos-cryptos.html",
-    source: "01net",
-    date: "2026-04-25",
-    cat: "Numérique & Société",
-    desc: "Des faux portefeuilles Ledger circulent sur des boutiques en ligne, notamment chinoises. Ces contrefaçons sont taillées pour aspirer les cryptomonnaies de leurs utilisateurs.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-39",
-    title: "Si vous répondez à ce mail officiel d’Apple, vous risquez de tout perdre",
-    url: "https://www.01net.com/actualites/si-vous-repondez-a-ce-mail-officiel-dapple-vous-risquez-de-tout-perdre.html",
-    source: "01net",
-    date: "2026-04-25",
-    cat: "Numérique & Société",
-    desc: "Des pirates ont trouvé un moyen redoutable pour tromper les utilisateurs Apple. Ils se servent désormais d'une véritable alerte envoyée par Apple. Inventive et terriblement efficace, l'attaque risque d'aboutir au piratage de votre compte bancaire.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-40",
-    title: "Test du Tineco Pure One A90S : le balai sans fil qui met votre aspirateur traîneau à la retraite",
-    url: "https://www.01net.com/tests/test-du-tineco-pure-one-a90s-le-balai-sans-fil-qui-met-votre-aspirateur-traineau-a-la-retraite.html",
-    source: "01net",
-    date: "2026-04-25",
-    cat: "Hardware",
-    desc: "Le Tineco Pure One A90S tente de s'imposer sur le segment premium avec une promesse forte : allier une puissance brute de 270 Air Watts à une intelligence artificielle capable de reconnaître les sols. Si son tube pliable et son éclairage LED séduisent, ce modèle haut de gamme souffre d'un poids conséquent et d'une station d'accueil décevante pour l",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-58",
-    title: "Ce spin-off de The Boys est déjà annulé",
-    url: "https://www.numerama.com/pop-culture/2240767-ce-spin-off-de-the-boys-est-deja-annule.html",
-    source: "Numerama",
-    date: "2026-04-25",
-    cat: "Numérique & Société",
-    desc: "Les producteurs de Gen V, le premier spin-off de la série The Boys, n'iront pas au-delà de la deuxième saison. Certains personnages reviendront dans d'autres projets parallèles.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-59",
-    title: "Ligue 1+ est gratuit ce week-end : comment regarder les matchs sur votre télé ou smartphone ?",
-    url: "https://www.numerama.com/pop-culture/2240645-ligue-1-est-gratuit-ce-week-end-comment-regarder-les-matchs-sur-votre-tele-ou-smartphone.html",
-    source: "Numerama",
-    date: "2026-04-25",
-    cat: "Numérique & Société",
-    desc: "Du vendredi 24 au dimanche 26 avril 2026, Ligue 1+ diffuse gratuitement huit matchs de Ligue 1 sur neuf prévus. Il ne faut pas forcément installer l'application officielle ou créer un compte : certains opérateurs et partenaires permettent aussi de regarder les rencontres en clair.",
-    auto: true
-  },
-  {
-    id: "tech-1777193612-31",
-    title: "L’ANSSI alerte à son tour sur les dangers d’OpenClaw… et de Claude Cowork",
-    url: "https://www.silicon.fr/cybersecurite-1371/anssi-openclaw-226895",
-    source: "Silicon.fr",
-    date: "2026-04-24",
-    cat: "IA & Modèles",
-    desc: "Le CERT-FR émet un bulletin d'alerte qui vise en premier lieu OpenClaw, mais qui mentionne aussi Claude Cowork. The post L&rsquo;ANSSI alerte à son tour sur les dangers d&rsquo;OpenClaw&#8230; et de Claude Cowork appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1777193612-52",
-    title: "Vers la fin du « 100 % renouvelable » ? La réforme du Scope 2 fait grincer des dents",
-    url: "https://next.ink/235171/vers-la-fin-du-100-renouvelable-la-reforme-du-scope-2-fait-grincer-des-dents/",
-    source: "Next.ink",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "Une partie de l&#8217;industrie s&#8217;est levée comme un seul homme pour s&#8217;opposer à une réforme des règles de calcul des émissions indirectes de CO₂. Porté par le Greenhouse Gas Protocol, ce projet a pour objectif d&#8217;améliorer la fiabilité des données et leur utilité pour les politiques climatiques. Au vu de l&#8217;environnement poli",
-    auto: true
-  },
-  {
-    id: "tech-1777193612-53",
-    title: "GPT-5.5, Privacy Filter, ChatGPT Images 2.0 : OpenAI fait feu de tout bois",
-    url: "https://next.ink/235174/gpt-5-5-privacy-filter-chatgpt-images-2-0-openai-fait-feu-de-tout-bois/",
-    source: "Next.ink",
-    date: "2026-04-24",
-    cat: "IA & Modèles",
-    desc: "On n&#8217;en est pas à un nouveau LLM par jour, mais pas loin ! OpenAI a dévoilé GPT-5.5, alors que son prédécesseur GPT-5.4 remonte à début mars. Cette nouvelle version s&#8217;ajoute au lancement de ChatGPT Images 2.0 il y a quelques jours, et à celui de Privacy Filter qui masque les données personnelles dans du [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-0",
-    title: "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
-    url: "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
-    source: "The Verge",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to Windows Update to users on its Dev and Experimental Windows Insider channels, including the ability to indefinitely delay updates up to 35 days at a time. [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-1",
-    title: "Alex Jones has uncovered another massive conspiracy",
-    url: "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
-    source: "The Verge",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian Tim Heidecker's past (publicly available) work. \"The Onion newspaper has been rocked by the discovery that their new creative dire",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-2",
-    title: "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
-    url: "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
-    source: "The Verge",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the internet, a suspect has been taken into custody by police. The Straits Times reports Singaporean police have arrested a 26-year-old man who is alleged to have uploaded the new Avatar movie (previously",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-3",
-    title: "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
-    url: "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
-    source: "The Verge",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10 Pro to the Pixel Buds Pro 2, as well as the wearables like the Pixel Watch 4. In fact, [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-4",
-    title: "The RAM shortage could get even worse if Samsung labor protests cut production",
-    url: "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
-    source: "The Verge",
-    date: "2026-04-24",
-    cat: "Hardware",
-    desc: "The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing employee protests over demands for wages that are more competitive with rival chip manufacturer SK Hynix, including removing Samsung's cap on bonus pay, [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-5",
-    title: "How Project Maven taught the military to love AI",
-    url: "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-    source: "The Verge",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-6",
-    title: "360-degree cameras have a new superpower",
-    url: "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
-    source: "The Verge",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY. Insta360, the leading maker of 360-degree cameras, is now partnered with a 12-person UK startup called Splatica to help creators do just that. Last January, [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-7",
-    title: "Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?",
-    url: "https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings",
-    source: "The Verge",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Tesla's Cybercab is now in production at the company's Gigafactory in Austin, Texas, but Elon Musk is sounding unusually cautious about the rollout. The robotaxi's start of production was announced Thursday on X, with Tesla posting a video shot from inside a steering wheel-less Cybercab as it drove out of the factory with the caption, [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-9",
-    title: "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-    url: "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "IA & Modèles",
-    desc: "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-10",
-    title: "Palantir is reportedly helping the IRS investigate financial crimes",
-    url: "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-11",
-    title: "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
-    url: "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Startups & VC",
-    desc: "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-12",
-    title: "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
-    url: "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Startups & VC",
-    desc: "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-13",
-    title: "Meta’s loss is Thinking Machines’ gain",
-    url: "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-14",
-    title: "X-energy stock pops 27% on first day of trading following upsized IPO",
-    url: "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Startups & VC",
-    desc: "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-15",
-    title: "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    url: "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Startups & VC",
-    desc: "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-16",
-    title: "Google to invest up to $40B in Anthropic in cash and compute",
-    url: "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "IA & Modèles",
-    desc: "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-17",
-    title: "Marked-up Mac minis flood eBay amid shortages driven by AI",
-    url: "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "IA & Modèles",
-    desc: "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-18",
-    title: "Nuclear startup X-energy raises $1B in data center-driven IPO",
-    url: "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Startups & VC",
-    desc: "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-19",
-    title: "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-    url: "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-20",
-    title: "Tim Cook is stepping down. What happens to Apple now?",
-    url: "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-21",
-    title: "Nothing introduces an AI-powered dictation tool",
-    url: "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "Nothing's new on-device dictation tool supports over 100 languages.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-22",
-    title: "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
-    url: "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-    source: "TechCrunch",
-    date: "2026-04-24",
-    cat: "IA & Modèles",
-    desc: "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-23",
-    title: "Google will invest as much as $40 billion in Anthropic",
-    url: "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-    source: "Ars Technica",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "This follows a similar, but smaller, investment by Amazon just days ago.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-24",
-    title: "Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine",
-    url: "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
-    source: "Ars Technica",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "Amid RFK Jr.'s anti-vaccine agenda, Moderna withdrew its FDA application last year.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-25",
-    title: "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
-    url: "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
-    source: "Ars Technica",
-    date: "2026-04-24",
-    cat: "Sécurité",
-    desc: "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-26",
-    title: "Report: Samsung execs worried company could lose money on smartphones for the first time",
-    url: "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
-    source: "Ars Technica",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "The AI-driven memory shortage is hitting Samsung's bottom line.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-27",
-    title: "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
-    url: "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
-    source: "Ars Technica",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "Beloved wolf gripped the nation after burrowing out of the zoo.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-28",
-    title: "Six things I'll remember when I think about Tim Cook's version of Apple",
-    url: "https://arstechnica.com/gadgets/2026/04/six-things-ill-remember-when-i-think-about-tim-cooks-version-of-apple/",
-    source: "Ars Technica",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Under Cook, Apple became hugely successful, if not always surprising.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-29",
-    title: "Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company",
-    url: "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
-    source: "Ars Technica",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "\"If it doesn’t rely on a solid, there’s no reason why we can’t launch.\"",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-30",
-    title: "Three reasons why DeepSeek’s new model matters",
-    url: "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-    source: "MIT Tech Review",
-    date: "2026-04-24",
-    cat: "IA & Modèles",
-    desc: "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-31",
-    title: "The Download: supercharged scams and studying AI healthcare",
-    url: "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-    source: "MIT Tech Review",
-    date: "2026-04-24",
-    cat: "IA & Modèles",
-    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-41",
-    title: "Cyberattaque contre l’ANFR : les données de 330 000 personnes piratées",
-    url: "https://www.01net.com/actualites/cyberattaque-contre-lanfr-donnees-330-000-personnes-piratees.html",
-    source: "01net",
-    date: "2026-04-24",
-    cat: "Numérique & Société",
-    desc: "L'Agence nationale des fréquences (ANFR) a été piratée. Des données personnelles ont été volées, et mises en vente sur le dark web.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-42",
-    title: "Ce PC portable Lenovo ultime génération est à prix fou sur Amazon (Core i7, RAM 16Go, SSD 1To)",
-    url: "https://www.01net.com/bons-plans/ce-pc-portable-lenovo-ultime-generation-est-a-prix-fou-sur-amazon-core-i7-ram-16go-ssd-1to.html",
-    source: "01net",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Dans le cadre d'une vente flash, Amazon propose une très belle réduction sur le PC portable Lenovo IdeaPad Slim 3 (16IRH10). Si vous voulez vous en équiper au prix le plus bas du moment, c'est une affaire en or à saisir rapidement.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-43",
-    title: "Google veut réinventer Fitbit avec un coach IA nouvelle génération",
-    url: "https://www.01net.com/actualites/google-veut-reinventer-fitbit-avec-un-coach-ia-nouvelle-generation.html",
-    source: "01net",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Google améliore sensiblement le coach IA intégré aux produits Fitbit. Par ailleurs, le service Fitbit Premium pourrait bientôt être remplacé par Google Santé.",
-    auto: true
-  },
-  {
-    id: "tech-1777106653-44",
-    title: "Malgré la flambée des prix, Amazon affiche une belle remise sur ce HDD portable Seagate 5 To",
-    url: "https://www.01net.com/bons-plans/malgre-la-flambee-des-prix-amazon-affiche-une-belle-remise-sur-ce-hdd-portable-seagate-5-to.html",
-    source: "01net",
-    date: "2026-04-24",
-    cat: "Big Tech",
-    desc: "Pour quelques jours encore, dans le cadre de la semaine tech sur Amazon, vous avez l'occasion de réaliser une excellente affaire sur le disque dur Seagate édition spéciale Amazon en version 5 To.",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-04-26T08:53:38";
+window.AUTO_TECH_UPDATED = "2026-04-27T10:09:28";

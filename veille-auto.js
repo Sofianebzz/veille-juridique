@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-26T08:53:32
+// Dernière collecte : 2026-04-27T10:09:24
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1777284529-35",
+    title: "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+    url: "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
+    source: "EDPB",
+    date: "2026-04-27",
+    cat: "RGPD",
+    desc: "Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for organisations across Europe. The moment that led to the creation of the EDPB The GDPR led to the establishment of the European Dat",
+    auto: true
+  },
   {
     id: "auto-1777106617-0",
     title: "Vote par correspondance électronique : la CNIL met à jour sa recommandation",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "",
     auto: true
   },
-  {
-    id: "auto-1774532375-44",
-    title: "Décision n° 2026-902 DC du 19 mars 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/2026902DC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-03-19",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-26T08:53:32";
+window.AUTO_VEILLE_UPDATED = "2026-04-27T10:09:24";
