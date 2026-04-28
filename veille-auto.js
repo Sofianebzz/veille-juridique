@@ -1,6 +1,46 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-27T10:09:24
+// Dernière collecte : 2026-04-28T10:08:50
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1777370895-68",
+    title: "RGPD : la CJUE sanctionne l'instrumentalisation du droit d'accès",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/rgpd-la-cjue-sanctionne-l-instrumentalisation-du-droit-d-acces-DNU100f0",
+    source: "Lextenso",
+    date: "2026-05-06",
+    cat: "Jurisprudence",
+    desc: "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
+    auto: true
+  },
+  {
+    id: "auto-1777370895-0",
+    title: "Commerce de détail : la CNIL approuve le code de conduite porté par l’Alliance du Commerce",
+    url: "https://www.cnil.fr/fr/la-cnil-approuve-le-code-de-conduite-porte-par-lalliance-du-commerce",
+    source: "CNIL",
+    date: "2026-04-28",
+    cat: "RGPD",
+    desc: "Ce code&amp;nbsp;de&amp;nbsp;conduite aide les commerçants français du secteur de l’habillement et de la chaussure à s’engager en faveur de la protection de leurs clients. Il traduit concrètement les exigences du RGPD et renforce la protection des données dans la vente et la distribution, aussi bien en magasin qu’en ligne.",
+    auto: true
+  },
+  {
+    id: "auto-1777370895-1",
+    title: "Le rapport d’activité du DPO : piloter la conformité et valoriser ses actions",
+    url: "https://www.cnil.fr/fr/rapport-activite-dpo",
+    source: "CNIL",
+    date: "2026-04-27",
+    cat: "RGPD",
+    desc: "Recommandé par la CNIL, le rapport d’activité du délégué / de la déléguée à la protection des données participe au pilotage de la conformité et permet au DPO de rendre compte de son activité à la direction. Pour favoriser et faciliter son élaboration, la CNIL propose un modèle.",
+    auto: true
+  },
+  {
+    id: "auto-1777370895-2",
+    title: "Locked Shields 2026 : la France se distingue",
+    url: "http://cyber.gouv.fr/actualites/locked-shields-2026-la-france-se-distingue/",
+    source: "ANSSI",
+    date: "2026-04-27",
+    cat: "Cybersécurité",
+    desc: "Le Centre d’excellence de cyberdéfense coopérative de l’OTAN (CCDCOE) a organisé, entre le 13 avril et le 24 avril 2026, […]",
+    auto: true
+  },
   {
     id: "auto-1777284529-35",
     title: "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
@@ -761,45 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
     auto: true
   },
-  {
-    id: "auto-1777022706-52",
-    title: "Rupture structurelle dans l’ingénierie logicielle avec l’IA générative et l’IA agentique",
-    url: "https://www.cigref.fr/rupture-structurelle-dans-lingenierie-logicielle-avec-lia-generative-et-lia-agentique",
-    source: "CIGREF",
-    date: "2026-03-19",
-    cat: "IA",
-    desc: "Restitution des travaux du Do Tank Cast &#38; Cigref Aujourd&#8217;hui l’IA générative et agentique pénètre comme un véritable tsunami le domaine de l&#8217;ingénierie logicielle, révolutionnant en profondeur les usages, les fonctions, le design comme la modernisation des applications ou la gestion des supports IT. Pour faire le point sur l’état de",
-    auto: true
-  },
-  {
-    id: "auto-1776936051-38",
-    title: "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
-    url: "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
-    source: "EDPB",
-    date: "2026-03-19",
-    cat: "RGPD",
-    desc: "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025 , the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR . The GDPR ensures that individuals are informed wh",
-    auto: true
-  },
-  {
-    id: "auto-1776849219-0",
-    title: "L’ANSSI lance un appel à commentaires sur les architectures de référence de sa nouvelle doctrine de supervision de sécurité",
-    url: "http://cyber.gouv.fr/actualites/lanssi-lance-un-appel-a-commentaires-supervision-de-securite/",
-    source: "ANSSI",
-    date: "2026-03-19",
-    cat: "Cybersécurité",
-    desc: "Cet appel à commentaires est destiné à l’ensemble de l’écosystème que l’ANSSI accompagne, aussi bien les bénéficiaires que les offreurs […]",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-43",
-    title: "Décision n° 2025-1187 QPC du 20 mars 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20251187QPC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-03-19",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-27T10:09:24";
+window.AUTO_VEILLE_UPDATED = "2026-04-28T10:08:50";
