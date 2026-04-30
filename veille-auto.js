@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-04-29T10:00:23
+// Dernière collecte : 2026-04-30T10:01:25
 window.AUTO_VEILLE = [
   {
     id: "auto-1777370895-68",
@@ -9,6 +9,36 @@ window.AUTO_VEILLE = [
     date: "2026-05-06",
     cat: "Jurisprudence",
     desc: "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
+    auto: true
+  },
+  {
+    id: "auto-1777543244-0",
+    title: "Revoir le webinaire - Usages numériques des enfants : comment sensibiliser les parents-salariés ?",
+    url: "https://www.cnil.fr/fr/revoir-le-webinaire-numerique-enfants-sensibilisation-parents-salaries",
+    source: "CNIL",
+    date: "2026-04-30",
+    cat: "RGPD",
+    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux usages numériques des enfants.",
+    auto: true
+  },
+  {
+    id: "auto-1777543244-1",
+    title: "Open-source : L’ANSSI maintient le projet Keysas et en transfère la maintenance à la société Tyrex",
+    url: "http://cyber.gouv.fr/actualites/open-source-lanssi-maintient-le-projet-keysas-et-en-transf%C3%A8re-la-maintenance-%C3%A0-la-soci%C3%A9t%C3%A9-tyrex/",
+    source: "ANSSI",
+    date: "2026-04-29",
+    cat: "Cybersécurité",
+    desc: "Développé par l’ANSSI dans le cadre de ses travaux et mis à disposition de tous en open-source depuis plusieurs années, […]",
+    auto: true
+  },
+  {
+    id: "auto-1777543244-25",
+    title: "Identification individuelle des policiers et gendarmes : le Conseil d’État enjoint au ministre de l’intérieur d’achever avant fin 2026 la mise en œ...",
+    url: "https://www.conseil-etat.fr/actualites/identification-individuelle-des-policiers-et-gendarmes-le-conseil-d-etat-enjoint-au-ministre-de-l-interieur-d-achever-avant-fin-2026-la-mise-en-ae",
+    source: "Conseil d'État",
+    date: "2026-04-29",
+    cat: "Jurisprudence",
+    desc: "Saisi par deux associations, le Conseil d’État enjoint aujourd’hui au ministre de l’intérieur de mettre en œuvre sans délai toutes les mesures annoncées pour garantir que le numéro d’identification individuel soit effectivement porté par les policiers et gendarmes. Il lui enjoint également de comman",
     auto: true
   },
   {
@@ -59,6 +89,16 @@ window.AUTO_VEILLE = [
     date: "2026-04-24",
     cat: "RGPD",
     desc: "À l’issue d’une consultation publique, la CNIL actualise sa recommandation sur la sécurité des systèmes de vote par correspondance électronique. Elle offre un cadre plus clair et plus opérationnel, en maintenant un haut niveau d’exigence en matière de sécurité, de confidentialité et de sincérité du scrutin.&amp;nbsp;",
+    auto: true
+  },
+  {
+    id: "auto-1777543244-35",
+    title: "Stakeholder event on competition and data protection",
+    url: "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
+    source: "EDPB",
+    date: "2026-04-23",
+    cat: "RGPD",
+    desc: "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection .&nbsp; The event is an opportunity for stakeholders to inform and support the ongoing work on this topic. It also reflects the EDPB’s co",
     auto: true
   },
   {
@@ -752,54 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1777456788-0",
-    title: "L’ANSSI lance un appel à commentaires sur les architectures de référence de sa nouvelle doctrine de supervision de sécurité",
-    url: "http://cyber.gouv.fr/actualites/lanssi-lance-un-appel-a-commentaires-supervision-de-securite/",
-    source: "ANSSI",
-    date: "2026-03-19",
-    cat: "Cybersécurité",
-    desc: "Cet appel à commentaires est destiné à l’ensemble de l’écosystème que l’ANSSI accompagne, aussi bien les bénéficiaires que les offreurs […]",
-    auto: true
-  },
-  {
-    id: "auto-1777456788-35",
-    title: "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
-    url: "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+    id: "auto-1777543244-36",
+    title: "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+    url: "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
     source: "EDPB",
     date: "2026-03-19",
-    cat: "RGPD",
-    desc: "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025 , the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR . The GDPR ensures that individuals are informed wh",
-    auto: true
-  },
-  {
-    id: "auto-1777456788-51",
-    title: "Rupture structurelle dans l’ingénierie logicielle avec l’IA générative et l’IA agentique",
-    url: "https://www.cigref.fr/rupture-structurelle-dans-lingenierie-logicielle-avec-lia-generative-et-lia-agentique",
-    source: "CIGREF",
-    date: "2026-03-19",
-    cat: "IA",
-    desc: "Restitution des travaux du Do Tank Cast &#38; Cigref Aujourd&#8217;hui l’IA générative et agentique pénètre comme un véritable tsunami le domaine de l&#8217;ingénierie logicielle, révolutionnant en profondeur les usages, les fonctions, le design comme la modernisation des applications ou la gestion des supports IT. Pour faire le point sur l’état de",
-    auto: true
-  },
-  {
-    id: "auto-1777193572-25",
-    title: "Le Conseil d’État reçoit le président de la Cour constitutionnelle du Kosovo",
-    url: "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-recoit-le-president-de-la-cour-constitutionnelle-du-kosovo",
-    source: "Conseil d'État",
-    date: "2026-03-19",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1777193572-39",
-    title: "High-Level Debate: “From Omnibus to Opportunity: Driving Data Protection and Innovation”",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/high-level-debate-omnibus-opportunity-driving-data-protection-and-innovation_en",
-    source: "EDPS",
-    date: "2026-03-19",
-    cat: "RGPD",
-    desc: "High-Level Debate: “From Omnibus to Opportunity: Driving Data Protection and Innovation” iraskval Thu, 03/19/2026 - 16:54 Fri, 03/20/2026 - 12:00 On 8 June 2026, the European Data Protection Supervisor (EDPS), the German Federal Commissioner for Data Protection and Freedom of Information ( BfDI ), and the Bavarian Data Protection Commissioner ( Bay",
+    cat: "Cybersécurité",
+    desc: "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-04-29T10:00:23";
+window.AUTO_VEILLE_UPDATED = "2026-04-30T10:01:25";
