@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1777627659-70",
+    "title": "Achats numériques de l'État et souveraineté : la France à l'heure des choix, l'Allemagne en éclaireur",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/achats-numeriques-de-l-etat-et-souverainete-la-france-a-l-heure-des-choix-l-allemagne-en-eclaireur-DNU100f1",
+    "source": "Lextenso",
+    "date": "2026-05-06",
+    "cat": "Jurisprudence",
+    "desc": "La circulaire du 5&nbsp;f&eacute;vrier 2026 sur la commande publique num&eacute;rique &eacute;rige la souverainet&eacute; en crit&egrave;re d&#039;achat, mais rel&egrave;gue le logiciel libre &agrave; une recommandation et l&#039;interop&eacute;rabilit&eacute; &agrave; un simple facteur de pond&eacute;ration, en retrait du cadre l&eacute;gislatif n",
+    "auto": true
+  },
+  {
     "id": "auto-1777370895-68",
     "title": "RGPD : la CJUE sanctionne l'instrumentalisation du droit d'accès",
     "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/rgpd-la-cjue-sanctionne-l-instrumentalisation-du-droit-d-acces-DNU100f0",
@@ -7,6 +17,36 @@
     "date": "2026-05-06",
     "cat": "Jurisprudence",
     "desc": "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
+    "auto": true
+  },
+  {
+    "id": "auto-1777627659-24",
+    "title": "Nouveau service en ligne : formulaires pour les certificats de non-recours ou de non-opposition à un changement de nom",
+    "url": "https://www.conseil-etat.fr/actualites/nouveau-service-en-ligne-formulaires-pour-les-certificats-de-non-recours-ou-de-non-opposition-a-un-changement-de-nom",
+    "source": "Conseil d'État",
+    "date": "2026-04-30",
+    "cat": "Cybersécurité",
+    "desc": "Le Conseil d’État vous propose un nouveau service en ligne de demande de certificat de non recours ou de non-opposition à changement de nom : simple, rapide, conçu pour les justiciables et leurs conseils.",
+    "auto": true
+  },
+  {
+    "id": "auto-1777627659-25",
+    "title": "Le Conseil d’État rejette le recours formé par La Jeune Garde contre le décret qui prononçait sa dissolution",
+    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-forme-par-la-jeune-garde-contre-le-decret-qui-prononcait-sa-dissolution",
+    "source": "Conseil d'État",
+    "date": "2026-04-30",
+    "cat": "Jurisprudence",
+    "desc": "Saisi par La Jeune Garde, le Conseil d’État juge aujourd’hui que la dissolution de ce groupement de fait décidée par le Gouvernement est adaptée, nécessaire et proportionnée à la gravité des atteintes portées à l’ordre public. Il relève que La Jeune Garde a mené et incité à commettre des agissements",
+    "auto": true
+  },
+  {
+    "id": "auto-1777627659-26",
+    "title": "Protection des droits d’auteur contre le piratage : le traitement de données personnelles doit être revu",
+    "url": "https://www.conseil-etat.fr/actualites/protection-des-droits-d-auteur-contre-le-piratage-le-traitement-de-donnees-personnelles-doit-etre-revu",
+    "source": "Conseil d'État",
+    "date": "2026-04-30",
+    "cat": "RGPD",
+    "desc": "Après avoir interrogé la Cour de justice de l’Union européenne, le Conseil d’État juge aujourd’hui que le dispositif de « réponse graduée » pour lutter contre le piratage en ligne d’œuvres protégées n’est pas conforme au droit européen, car il n’impose pas que les données utilisées par l’Arcom soien",
     "auto": true
   },
   {
@@ -757,46 +797,6 @@
     "date": "2026-03-20",
     "cat": "Jurisprudence",
     "desc": "À l’invitation du Président Ferrand, vendredi 20 mars 2026, le Conseil constitutionnel a accueilli une délégation de la Cour de justice de l’Union européenne, conduite par son Président, Monsieur Koen Lenaerts.",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-62",
-    "title": "« Health Data Hub » : le traitement automatisé des données de santé autorisé par la CNIL est conforme au RGPD",
-    "url": "https://www.conseil-etat.fr/actualites/health-data-hub-le-traitement-automatise-des-donnees-de-sante-autorise-par-la-cnil-est-conforme-au-rgpd",
-    "source": "Conseil d'État",
-    "date": "2026-03-20",
-    "cat": "RGPD",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774532375-63",
-    "title": "Séminaire avec les juridictions suprêmes thaïlandaises au Conseil d’État",
-    "url": "https://www.conseil-etat.fr/actualites/seminaire-avec-les-juridictions-supremes-thailandaises-au-conseil-d-etat",
-    "source": "Conseil d'État",
-    "date": "2026-03-20",
-    "cat": "RGPD",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1774000876-0",
-    "title": "Les dispositifs de captation sonore couplés à la vidéoprotection",
-    "url": "https://www.cnil.fr/fr/les-dispositifs-de-captation-sonore-couples-la-videoprotection",
-    "source": "CNIL",
-    "date": "2026-03-20",
-    "cat": "RGPD",
-    "desc": "L’enregistrement du son par une caméra de vidéoprotection est interdit par la loi. Néanmoins, l’installation d’un dispositif de captation sonore dans un lieu placé sous vidéoprotection peut être légale, dans des cas très précis.",
-    "auto": true
-  },
-  {
-    "id": "auto-1777543244-36",
-    "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
-    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
-    "source": "EDPB",
-    "date": "2026-03-19",
-    "cat": "Cybersécurité",
-    "desc": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
     "auto": true
   }
 ]
