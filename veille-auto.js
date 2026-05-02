@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-01T09:28:15
+// Dernière collecte : 2026-05-02T09:00:11
 window.AUTO_VEILLE = [
   {
     id: "auto-1777627659-70",
@@ -19,6 +19,16 @@ window.AUTO_VEILLE = [
     date: "2026-05-06",
     cat: "Jurisprudence",
     desc: "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
+    auto: true
+  },
+  {
+    id: "auto-1777712370-37",
+    title: "New episode of the Newsletter Digest is out",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/new-episode-newsletter-digest-out",
+    source: "EDPS",
+    date: "2026-04-30",
+    cat: "Cybersécurité",
+    desc: "New episode of the Newsletter Digest is out miriam Thu, 04/30/2026 - 16:32 Fri, 05/01/2026 - 12:00 Curious about how the EU is tackling AI supervision, cybersecurity rules, and data protection in the health industry? Our newest episode breaks it all down. 1 Have a listen",
     auto: true
   },
   {
@@ -782,24 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1774532375-16",
-    title: "Audiovisuel et TNT",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/audiovisuel-et-tnt-200326.html",
-    source: "ARCEP",
+    id: "auto-1777712370-24",
+    title: "« Health Data Hub » : le traitement automatisé des données de santé autorisé par la CNIL est conforme au RGPD",
+    url: "https://www.conseil-etat.fr/actualites/health-data-hub-le-traitement-automatise-des-donnees-de-sante-autorise-par-la-cnil-est-conforme-au-rgpd",
+    source: "Conseil d'État",
     date: "2026-03-20",
     cat: "RGPD",
-    desc: "Régulation de la diffusion audiovisuelle hertzienne terrestre : l’Arcep lance une consultation publique « Bilan et perspectives » en vue d’un nouveau cycle de régulation",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-42",
-    title: "Le Conseil constitutionnel et la Cour de justice de l’Union européenne se rencontrent pour échanger sur les enjeux constitutionnels et conventionnels contemporains",
-    url: "https://www.conseil-constitutionnel.fr/actualites/le-conseil-constitutionnel-et-la-cour-de-justice-de-l-union-europeenne-se-rencontrent-pour-echanger",
-    source: "Conseil constitutionnel",
-    date: "2026-03-20",
-    cat: "Jurisprudence",
-    desc: "À l’invitation du Président Ferrand, vendredi 20 mars 2026, le Conseil constitutionnel a accueilli une délégation de la Cour de justice de l’Union européenne, conduite par son Président, Monsieur Koen Lenaerts.",
+    desc: "",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-01T09:28:15";
+window.AUTO_VEILLE_UPDATED = "2026-05-02T09:00:11";
