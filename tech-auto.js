@@ -1,6 +1,276 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-02T09:00:16
+// Dernière collecte : 2026-05-03T09:17:45
 window.AUTO_TECH = [
+  {
+    id: "tech-1777799861-15",
+    title: "« J’aurais dû demander » : une IA a rasé toute la base de données d’une entreprise en 9 secondes",
+    url: "https://www.01net.com/actualites/ia-rase-toute-base-donnees-entreprise-9-secondes.html",
+    source: "01net",
+    date: "2026-05-03",
+    cat: "IA & Modèles",
+    desc: "En neuf secondes, un agent d'IA a effacé l'intégralité de la base de données d'une startup américaine, sauvegardes comprises. L'IA, basée sur Claude, a présenté ses excuses et reconnu qu'il s'agit d'une grosse erreur.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-16",
+    title: "Utilisateurs de Samsung Galaxy A37 : ne désactivez pas cette option",
+    url: "https://www.01net.com/actualites/utilisateurs-de-samsung-galaxy-a37-ne-desactivez-pas-cette-option.html",
+    source: "01net",
+    date: "2026-05-03",
+    cat: "Numérique & Société",
+    desc: "Avant la publication du test complet, le Samsung Galaxy A37 est passé par la 01lab. En ligne de mire, la charge du nouveau entrée de gamme du constructeur. Résultats ? On vous laisse découvrir.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-17",
+    title: "Des ados en « quête de notoriété » : qui sont vraiment les pirates qui volent les données des Français ?",
+    url: "https://www.01net.com/actualites/ados-quete-notoriete-qui-sont-vraiment-pirates-qui-volent-donnees-francais.html",
+    source: "01net",
+    date: "2026-05-03",
+    cat: "Sécurité",
+    desc: "Derrière la vague de cyberattaques qui déferle sur la France, on trouve une nouvelle génération de hackers, souvent très jeunes, attirés par l’argent et la notoriété.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-18",
+    title: "Non, la batterie de votre voiture électrique n’est pas bonne pour la casse dans 5 ans",
+    url: "https://www.01net.com/actualites/non-batterie-voiture-electrique-pas-bonne-pour-casse-dans-5-ans.html",
+    source: "01net",
+    date: "2026-05-03",
+    cat: "Numérique & Société",
+    desc: "Les batteries équipant les véhicules électriques ont encore des progrès à faire pour atteindre une efficacité optimale. Certains résultats sont néanmoins encourageants. C’est le cas de l’usure des batteries, qui s’est avérée très limitée sur les véhicules modernes.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-35",
+    title: "Cinq biopics musicaux à voir absolument avant ou après Michael",
+    url: "https://www.numerama.com/pop-culture/2244727-cinq-biopics-musicaux-a-voir-absolument-avant-ou-apres-micheal.html",
+    source: "Numerama",
+    date: "2026-05-03",
+    cat: "Numérique & Société",
+    desc: "Le roi de la pop s'est emparé du grand écran. Avec la sortie du très attendu film sur Michael Jackson, le genre du biopic musical confirme sa domination sur le box-office mondial. L’occasion idéale de se replonger dans ces chefs-d’œuvre qui ont su transformer des légendes de la musique en icônes de cinéma.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-36",
+    title: "Vous aimez le poker, mais détestez miser ? Ce jeu de société est fait pour vous",
+    url: "https://www.numerama.com/pop-culture/2244989-tapis-sur-all-in-predictions-le-poker-sans-argent.html",
+    source: "Numerama",
+    date: "2026-05-03",
+    cat: "Numérique & Société",
+    desc: "Le poker est indéniablement un excellent jeu… mais seulement lorsqu’un enjeu, financier ou matériel, vient pimenter la partie. Sans cela, il perd une bonne part de son intérêt. All In Predictions propose justement une relecture originale de ce grand classique, en repensant la manière de créer de la tension autour du jeu. Comment ça se joue ? Quel e",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-37",
+    title: "Le véhicule électrique idéal pour la transition existe déjà, mais on le méprise",
+    url: "https://www.numerama.com/vroom/2245739-le-vehicule-electrique-ideal-pour-la-transition-existe-deja-mais-on-le-meprise.html",
+    source: "Numerama",
+    date: "2026-05-03",
+    cat: "Numérique & Société",
+    desc: "Le véhicule le plus cohérent de la transition reste marginal. Pas à cause d'un problème technique, mais d'un problème d’ego. La question des quadricycles électriques a été au menu de l'édito de la newsletter Watt Else du 30 avril 2026.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-38",
+    title: "Les drôles de prédictions d’une IA bloquée en 1930, une curieuse voiture électrique à réaction & le test du quadricycle français Ipop – le récap’ de la semaine",
+    url: "https://www.numerama.com/vroom/2245555-les-droles-de-predictions-dune-ia-bloquee-en-1930-une-curieuse-voiture-electrique-a-reaction-le-test-du-quadricycle-francais-ipop-le-recap-de-la-semaine.html",
+    source: "Numerama",
+    date: "2026-05-03",
+    cat: "Startups & VC",
+    desc: "Un fabricant chinois d’aspirateurs présente une voiture électrique à réaction ? Une IA figée en 1930 ? Ou encore le test d'un quadricycle français ? Voilà ce qui a notamment retenu votre attention cette semaine.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-0",
+    title: "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
+    url: "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+    source: "The Verge",
+    date: "2026-05-02",
+    cat: "Big Tech",
+    desc: "New Mexico Attorney General Ra&#250;l Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more consequential for Meta and the social media industry at large. Beginning Monday, attorneys for Meta and New Mexico will return [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-1",
+    title: "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
+    url: "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
+    source: "The Verge",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.com, instructing fliers not to go to airports, with air traffic control records capturing controllers and pilots signing off to each other as its last",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-2",
+    title: "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15",
+    url: "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal",
+    source: "The Verge",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C. It’s also common for more than one to need to be recharged at a time, which is where they come in handy. I can charge my Nintendo Switch 2 [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-3",
+    title: "AI-generated actors and scripts are now ineligible for Oscars",
+    url: "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    source: "TechCrunch",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Bad news for Tilly Norwood.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-4",
+    title: "Farewell, Jeeves: Ask.com shuts down",
+    url: "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+    source: "TechCrunch",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Owner IAC says it's discontinuing its search business.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-5",
+    title: "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+    url: "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+    source: "TechCrunch",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-6",
+    title: "The best AI dictation apps, tested and ranked",
+    url: "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    source: "TechCrunch",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-7",
+    title: "Beyond Lovable and Mistral: 21 European startups to watch",
+    url: "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+    source: "TechCrunch",
+    date: "2026-05-02",
+    cat: "IA & Modèles",
+    desc: "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-9",
+    title: "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+    url: "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+    source: "Ars Technica",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Acoustic fire suppression goes commercial.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-19",
+    title: "L’Airbus A400M va pouvoir larguer 50 drones ou 12 missiles en plein vol : la transformation se confirme",
+    url: "https://www.01net.com/actualites/lairbus-a400m-va-pouvoir-larguer-50-drones-ou-12-missiles-en-plein-vol-la-transformation-se-confirme.html",
+    source: "01net",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Un module amovible permettant de larguer jusqu'à 50 drones ou 12 missiles de croisière depuis la soute de l'A400M Atlas est en développement. L'avion de transport militaire européen confirme sa polyvalence.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-20",
+    title: "Shokz OpenRun Pro 2 : moitié prix sur le casque le plus populaire auprès des coureurs et sportifs",
+    url: "https://www.01net.com/bons-plans/shokz-openrun-pro-2-moitie-prix-sur-le-casque-le-plus-populaire-aupres-des-coureurs-et-sportifs.html",
+    source: "01net",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Si vous cherchez un bon casque pour le sport qui ne vous encombre pas les oreilles, ce modèle à conduction osseuse est parfait. En ce moment, il passe à un prix très intéressant pendant la French Week.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-39",
+    title: "Spaceship France : CNES lance un appel à projet pour une cuisine spatiale",
+    url: "https://www.numerama.com/sciences/2244967-spaceship-france-cnes-lance-un-appel-a-projet-pour-une-cuisine-spatiale.html",
+    source: "Numerama",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "L'agence spatiale française a lancé un appel à projets pour développer une cuisine compatible avec l'exploration spatiale. Il s'agit d'améliorer l'autonomie et le confort des astronautes engagés dans des missions habitées plus longues.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-40",
+    title: "La nouvelle exclusivité de la PS5 est déjà en promotion",
+    url: "https://www.numerama.com/pop-culture/2245541-la-nouvelle-exclusivite-de-la-ps5-est-deja-en-promotion.html",
+    source: "Numerama",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Après l’inoubliable Returnal, le studio Housemarque et Sony Interactive Entertainment frappent à nouveau. Sorti le 30 avril 2026, l'exclusivité PS5 Saros tient toutes ses promesses et s'affiche déjà à prix réduit pour son lancement.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-41",
+    title: "J’ai essayé le Ford Capri : son plus gros défaut n’est même pas de sa faute",
+    url: "https://www.numerama.com/vroom/2242529-jai-essaye-le-ford-capri-son-plus-gros-defaut-nest-meme-pas-de-sa-faute.html",
+    source: "Numerama",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Autrefois coupé emblématique, la Ford Capri est devenue un SUV. Un sacrilège ? Peut-être. Du moins, le modèle a perdu sa personnalité pour se conformer au consensus automobile. Heureusement, cette nouvelle mouture est agréable à emmener, enfin presque.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-42",
+    title: "La revanche de la Comtesse",
+    url: "https://www.numerama.com/tech/2245489-la-revanche-de-la-comtesse.html",
+    source: "Numerama",
+    date: "2026-05-02",
+    cat: "Hardware",
+    desc: "Nouvelle frontière pour l'IA générative ? Les contrepèteries, fondées sur des inversions de syllabes et souvent déchiffrées de manière phonétique, échappent à l'intelligence des modèles les plus puissants. C'est le sujet de la newsletter ToujoursPlus du jeudi 30 avril 2026 : inscrivez-vous gratuitement pour avoir les suivants !",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-43",
+    title: "Anatomie d’un nuage : comment naissent les gouttes de pluie ?",
+    url: "https://www.numerama.com/sciences/2244067-anatomie-dun-nuage-comment-naissent-les-gouttes-de-pluie.html",
+    source: "Numerama",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Phénomène aussi familier que méconnu, la pluie cache une mécanique physique fascinante. Deux experts nous entraînent au cœur des nuages pour comprendre comment, de l'évaporation à la condensation, la vapeur d’eau finit par se transformer en gouttes.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-44",
+    title: "Au fait, pourquoi Anthropic s’appelle Anthropic ?",
+    url: "https://www.numerama.com/tech/2235391-au-fait-pourquoi-anthropic-sappelle-anthropic.html",
+    source: "Numerama",
+    date: "2026-05-02",
+    cat: "IA & Modèles",
+    desc: "Anthropic. Derrière ce nom un peu austère se cache en réalité toute une vision de l’intelligence artificielle : une technologie pensée avant tout dans son rapport à l’humain, et non comme une simple démonstration de puissance.",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-45",
+    title: "Vous avez reçu ce SMS après l’achat d’une voiture électrique ? Ce n’est pas une arnaque",
+    url: "https://www.numerama.com/vroom/2245731-vous-avez-recu-ce-sms-apres-lachat-dune-voiture-electrique-ce-nest-pas-une-arnaque.html",
+    source: "Numerama",
+    date: "2026-05-02",
+    cat: "Big Tech",
+    desc: "La question anime les groupes de propriétaires de voitures électriques, surtout chez Tesla. Est-ce que ce SMS à propos d’un contrôle de l’acquisition d’un véhicule électrique est une tentative d’arnaque ou une opération légitime&nbsp;?",
+    auto: true
+  },
+  {
+    id: "tech-1777799861-46",
+    title: "Phénomène lumineux dans le ciel le 1er mai : ce n’était pas un ovni",
+    url: "https://www.numerama.com/sciences/2245713-phenomene-lumineux-dans-le-ciel-le-1er-mai-ce-netait-pas-un-ovni.html",
+    source: "Numerama",
+    date: "2026-05-02",
+    cat: "Numérique & Société",
+    desc: "Un étonnant phénomène lumineux a été observé dans le ciel français le soir du vendredi 1er mai 2026. Il ne s’agit pas d’un OVNI, mais du dégazage du second étage d’une fusée de SpaceX, un événement qui était attendu par les observateurs. Une traînée lumineuse a pu être aperçue dans le ciel français ce 1er [&#8230;]",
+    auto: true
+  },
   {
     id: "tech-1777712411-32",
     title: "Coup dur pour Hadopi : la riposte graduée de l’Arcom viole les lois européennes",
@@ -531,275 +801,5 @@ window.AUTO_TECH = [
     desc: "Lancé en 2019, le Fairphone 3 s'apprête à tirer sa révérence du côté de son fabricant officiel. Mais grâce à un système d'exploitation alternatif open source, l'appareil va repousser les limites de la longévité dans l'univers de la tech.",
     auto: true
   },
-  {
-    id: "tech-1777627695-47",
-    title: "Bye-bye Waze et Google Maps : quelle appli GPS européenne gratuite adopter pour se déplacer",
-    url: "https://www.01net.com/astuces/bye-bye-waze-et-google-maps-quelle-appli-gps-europeenne-gratuite-adopter-pour-se-deplacer.html",
-    source: "01net",
-    date: "2026-05-01",
-    cat: "Big Tech",
-    desc: "Waze et Google Maps, deux applications de cartographie et de navigation appartenant à Google, figurent parmi les plus utilisées au monde, y compris en France. Il existe pourtant pléthore d’alternatives souveraines tout à fait capable de rivaliser avec les géants américains. Voici nos cinq favorites.",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-48",
-    title: "Le chiffrement ne protège ni des coupures à la technologie US, ni des lois US extraterritoriales, avertit le gendarme de la cybersécurité français",
-    url: "https://www.01net.com/actualites/le-chiffrement-ne-protege-ni-des-coupures-a-la-technologie-us-ni-des-lois-us-extraterritoriales-avertit-le-gendarme-de-la-cybersecurite-francais.html",
-    source: "01net",
-    date: "2026-05-01",
-    cat: "Hardware",
-    desc: "Jeudi 30 avril, Vincent Strubel, à la tête de l'Anssi - le gendarme français de la cybersécurité - était auditionné à l'Assemblée nationale par la commission d’enquête qui veut dresser l’état des lieux de nos faiblesses en matière numérique. L'occasion pour le directeur général de l’Agence nationale de la sécurité des systèmes d’information de reve",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-49",
-    title: "Victime d’une cyberattaque, cette crypto a été réinitialisée de toute urgence",
-    url: "https://www.01net.com/actualites/victime-cyberattaque-crypto-remise-zero-urgence.html",
-    source: "01net",
-    date: "2026-05-01",
-    cat: "Numérique & Société",
-    desc: "Pour faire face aux pirates, la crypto Litecoin a dû effacer une demi-heure d'histoire de sa blockchain. En procédant à un retour en arrière technique, le réseau a annulé les transactions frauduleuses avant qu’elles ne deviennent permanentes.",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-69",
-    title: "Au fait, pourquoi l’IA Claude d’Anthropic s’appelle Claude ?",
-    url: "https://www.numerama.com/tech/2235401-au-fait-pourquoi-claude-sappelle-claude.html",
-    source: "Numerama",
-    date: "2026-05-01",
-    cat: "IA & Modèles",
-    desc: "Pourquoi le chatbot d'Anthropic porte-t-il un prénom complètement oublié par les Français ?",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-70",
-    title: "Voyage dans les abysses : voilà l’incroyable vision des animaux de l’extrême",
-    url: "https://www.numerama.com/sciences/2242753-ce-que-les-creatures-des-abysses-voient-dans-le-noir.html",
-    source: "Numerama",
-    date: "2026-05-01",
-    cat: "Numérique & Société",
-    desc: "Comment les créatures des abysses perçoivent-elles un monde sans soleil ? Dans un extrait de leur ouvrage Secrets de l'océan profond, les chercheurs Juliette Ravaux et Sébastien Duperron nous entraînent à plus de 2 000 mètres sous la surface. Des crevettes détectrices de chaleur aux poissons hypersensibles à la bioluminescence, découvrez les fascin",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-71",
-    title: "Amazon casse le prix de nombreux jeux pépites sur Switch 2 pour les French Days",
-    url: "https://www.numerama.com/pop-culture/2244905-amazon-casse-le-prix-de-nombreux-jeux-pepites-sur-switch-2-pour-les-french-days.html",
-    source: "Numerama",
-    date: "2026-05-01",
-    cat: "Big Tech",
-    desc: "Les French Days battent leur plein et les jeux vidéo sont aussi de la partie. Pour vous éviter de fouiller tout le catalogue d'Amazon, nous avons fait le tri et regroupé ici les meilleures offres du moment sur nos véritables jeux coups de cœur actuellement en promotion.",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-72",
-    title: "Le casting 100 % francophone rêvé pour Clair Obscur : Expedition 33",
-    url: "https://www.numerama.com/pop-culture/2236057-le-casting-100-francophone-reve-pour-clair-obscur-expedition-33.html",
-    source: "Numerama",
-    date: "2026-05-01",
-    cat: "Numérique & Société",
-    desc: "Clair Obscur : Expedition 33 a ébloui son monde avec sa direction artistique inspirée de la Belle Époque. En attendant le film, nous nous sommes prêtés au jeu du casting idéal. Exit Hollywood : pour incarner Gustave, Lune ou Maëlle, voici la distribution 100 % française que l'on juge idéale pour réussir et faire rayonner le projet à l'international",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-73",
-    title: "Étoiles filantes, pleine Lune, retour de Mercure : que voir dans le ciel en mai 2026 ?",
-    url: "https://www.numerama.com/sciences/2242841-etoiles-filantes-pleine-lune-retour-de-mercure-que-voir-dans-le-ciel-en-mai-2026.html",
-    source: "Numerama",
-    date: "2026-05-01",
-    cat: "Hardware",
-    desc: "Que peut-on observer à l'œil nu dans le ciel en mai 2026 ? Deux occurrences de la pleine Lune, des étoiles filantes et plusieurs conjonctions. Voici le programme astronomique du mois, accessible même aux débutants.",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-83",
-    title: "#Flock : Vive la fête du travail !",
-    url: "https://next.ink/236560/flock-vive-la-fete-du-travail/",
-    source: "Next.ink",
-    date: "2026-05-01",
-    cat: "Numérique & Société",
-    desc: "À tous les travailleurs de ce monde : à ceux qui se lèvent tôt pour aller au turbin, à ceux qui se font fliquer le long du chemin, à ceux qui sont scrutés jusqu&#8217;à la moelle par leur boîte pour finir à la poubelle le lendemain, à ceux qui se font virer par un manager [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-84",
-    title: "#Nextquick : Pourquoi et comment Opus 4.7 crame ses tokens beaucoup plus vite qu’Opus 4.6",
-    url: "https://next.ink/236418/nextquick-pourquoi-et-comment-opus-4-7-crame-ses-tokens-beaucoup-plus-vite-quopus-4-6/",
-    source: "Next.ink",
-    date: "2026-05-01",
-    cat: "Numérique & Société",
-    desc: "Opus 4.7 est plus performant certes, mais consomme aussi bien plus vite les forfaits des utilisateurs. La faute à la tokenization et à une réflexion plus « intense », deux éléments qui engloutissent plus de tokens. Autre conséquence : même si Opus 4.6 et 4.7 coûtent le même prix par tokens via l’API, à usage [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777712411-42",
-    title: "Mistral AI structure une brique agentique autour du moteur Temporal",
-    url: "https://www.silicon.fr/data-ia-1372/mistral-ai-workflows-226978",
-    source: "Silicon.fr",
-    date: "2026-04-30",
-    cat: "IA & Modèles",
-    desc: "Mistral AI a adapté l'orchestrateur Temporal et y a associé un SDK Python pour coder des workflows déterministes. The post Mistral AI structure une brique agentique autour du moteur Temporal appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1777712411-63",
-    title: "Copy fail : depuis 2017, une faille dans le noyau Linux permettait à un utilisateur de passer root",
-    url: "https://next.ink/236230/copy-fail-depuis-2017-une-faille-dans-le-noyau-linux-permettait-a-un-utilisateur-de-passer-root/",
-    source: "Next.ink",
-    date: "2026-04-30",
-    cat: "Open Source",
-    desc: "Depuis 2017, une vulnérabilité dans le module cryptographique authencesn du noyau Linux laissait à un compte d&#8217;un simple utilisateur la possibilité de passer en root. Elle concerne la plupart des grandes distributions jusqu&#8217;au déploiement du patch, qui est déjà en cours. C&#8217;est l&#8217;entreprise de sécurité Xint.io qui a révélé, c",
-    auto: true
-  },
-  {
-    id: "tech-1777712411-64",
-    title: "Sans crier gare, la Chine sort un supercalculateur de 2,47 ExaFLOPS… sans GPU",
-    url: "https://next.ink/236229/sans-crier-gare-la-chine-sort-un-supercalculateur-de-247-exaflops-sans-gpu/",
-    source: "Next.ink",
-    date: "2026-04-30",
-    cat: "Hardware",
-    desc: "La Chine a utilisé un supercalculateur pour entrainer une IA, rien d’exceptionnel si ce n’est la puissance de la machine : 1,2 ExaFLOPS… et elle n’était qu’à un quart de sa puissance théorique ! Si la Chine participait encore au Top500, LineShine pourrait être au coude à coude avec le numéro un mondial : El [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777712411-65",
-    title: "☕️ 45 ans plus tard, Microsoft publie le code source de 86-DOS 1.00",
-    url: "https://next.ink/brief_article/45-ans-plus-tard-microsoft-publie-le-code-source-de-86-dos-1-00/",
-    source: "Next.ink",
-    date: "2026-04-30",
-    cat: "Big Tech",
-    desc: "Quand la publication d&#8217;une archive prend des accents de découverte archéologique : Microsoft a annoncé lundi 28 avril la publication du «&#160;plus ancien code source DOS jamais découvert ». Le code en question fait effectivement figure d&#8217;antiquité à l&#8217;échelle de l&#8217;informatique moderne : il est daté du 28 avril 1981, et reco",
-    auto: true
-  },
-  {
-    id: "tech-1777712411-66",
-    title: "Cloud souverain : des acteurs européens lancent leur propre label",
-    url: "https://next.ink/236187/cloud-souverain-des-acteurs-europeens-lancent-leur-propre-label/",
-    source: "Next.ink",
-    date: "2026-04-30",
-    cat: "Numérique & Société",
-    desc: "Pas convaincues par la grille de notation dévoilée par Bruxelles en fin d&#8217;année dernière, des entreprises européennes du cloud ont lancé leur propre référentiel pour des services infonuagiques « souverains et résilients ». Les fournisseurs ayant décroché leur badge ont fait l&#8217;objet d&#8217;audits approfondis. Un badge rouge pour les fou",
-    auto: true
-  },
-  {
-    id: "tech-1777712411-67",
-    title: "☕️ Le studio Spiders en liquidation suite à la chute de Nacon",
-    url: "https://next.ink/brief_article/le-studio-spiders-en-liquidation-suite-a-la-chute-de-nacon/",
-    source: "Next.ink",
-    date: "2026-04-30",
-    cat: "Numérique & Société",
-    desc: "Nouveau coup dur pour l&#8217;industrie française du jeu vidéo. Les difficultés d&#8217;Ubisoft font régulièrement la une de l&#8217;actualité, mais un autre acteur est en grand danger : le groupe Nacon, planté par sa maison mère BigBen Interactive. Un de ses studios, Spiders, vient de mettre la clé sous la porte. Nacon est un nom qui [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777712411-68",
-    title: "☕️ YouTube généralise le mode « image dans l’image » gratuit dans ses apps mobiles",
-    url: "https://next.ink/brief_article/youtube-generalise-le-mode-image-dans-limage-gratuit-dans-ses-apps-mobiles/",
-    source: "Next.ink",
-    date: "2026-04-30",
-    cat: "Numérique & Société",
-    desc: "L&#8217;application mobile de YouTube va finalement permettre aux utilisateurs du monde entier de regarder une vidéo dans une vignette par-dessus l&#8217;interface de son smartphone ou d&#8217;une autre app (picture-in-picture), sans avoir à payer un abonnement Premium. Fini les manipulations douteuses, exit les bidouilles de fortune, terminé les s",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-0",
-    title: "The craziest part of Musk v. Altman happened while the jury was out of the room",
-    url: "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Big Tech",
-    desc: "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-1",
-    title: "Roblox’s daily users continue to drop as age checks slow growth",
-    url: "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Numérique & Société",
-    desc: "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of last year, which was a drop from 152 million in Q3 [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-2",
-    title: "Congress keeps kicking surveillance reform down the road",
-    url: "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Hardware",
-    desc: "Congress has reauthorized Section 702 of the Foreign Intelligence Surveillance Act - but only for another 45 days. The extension is meant to give legislators more time to negotiate reforms to the controversial wiretapping bill. If the past few weeks are any indication of how future debates will go, however, we're in for a bumpy [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-3",
-    title: "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
-    url: "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Big Tech",
-    desc: "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. In an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was off the charts,\" but there's \"a little less flexibility at the moment for getting more parts.\" Cook added during an [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-4",
-    title: "Rivian’s revenue is up as R2 production kicks into gear",
-    url: "https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Numérique & Société",
-    desc: "Rivian reported its first quarter earnings of 2026, providing us a closer look at the company's financial health as it kicks off production for the crucial R2 electric vehicle. We've already got Rivian's production and delivery statement from the first three months of the year. The company sold 10,365 vehicles in Q1, representing 20 percent [&#8230",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-5",
-    title: "Rivian downsizes new EV factory after Trump’s DOE slashes loan agreement",
-    url: "https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Numérique & Société",
-    desc: "Rivian announced some changes today with regard to the factory its building in the state of Georgia. The company was planning to build the facility in two phases, each resulting in 200,000 vehicles of annual production capacity, for a total of 400,000 units. Rivian held a ground breaking ceremony late last year. Now the company [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-6",
-    title: "The logic of the racist Supreme Court isn’t adding up",
-    url: "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Numérique & Société",
-    desc: "Close watchers of the Supreme Court knew that the conservative supermajority was about to murder what was left of the Voting Rights Act. Wednesday's decision in Louisiana v. Callais took down Section 2 of the law, clearing the way for racist gerrymandering, because it is now racist to remedy racism. The decision is an affront [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-7",
-    title: "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
-    url: "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Big Tech",
-    desc: "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices. \"Some players in select markets will be able [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-8",
-    title: "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
-    url: "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Big Tech",
-    desc: "Meta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. After winning a $375 million jury award against Meta in a trial that argued the company misled [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1777627695-9",
-    title: "With Saros, Housemarque makes a case for doing next-gen games differently",
-    url: "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
-    source: "The Verge",
-    date: "2026-04-30",
-    cat: "Numérique & Société",
-    desc: "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a risk. Should one put a disproportionate effort into how a thing looks, then said work may [&#8230;]",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-05-02T09:00:16";
+window.AUTO_TECH_UPDATED = "2026-05-03T09:17:45";
