@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-03T09:17:41
+// Dernière collecte : 2026-05-04T10:08:12
 window.AUTO_VEILLE = [
   {
     id: "auto-1777627659-70",
@@ -792,14 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1777799821-24",
-    title: "Séminaire avec les juridictions suprêmes thaïlandaises au Conseil d’État",
-    url: "https://www.conseil-etat.fr/actualites/seminaire-avec-les-juridictions-supremes-thailandaises-au-conseil-d-etat",
+    id: "auto-1777889253-24",
+    title: "« Health Data Hub » : le traitement automatisé des données de santé autorisé par la CNIL est conforme au RGPD",
+    url: "https://www.conseil-etat.fr/actualites/health-data-hub-le-traitement-automatise-des-donnees-de-sante-autorise-par-la-cnil-est-conforme-au-rgpd",
     source: "Conseil d'État",
     date: "2026-03-20",
-    cat: "Jurisprudence",
+    cat: "RGPD",
     desc: "",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-03T09:17:41";
+window.AUTO_VEILLE_UPDATED = "2026-05-04T10:08:12";
