@@ -1,6 +1,46 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-05T09:57:10
+// Dernière collecte : 2026-05-06T10:11:48
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1778062272-0",
+    title: "Vue d’ensemble",
+    url: "https://www.cnil.fr/fr/g7-vue-d-ensemble",
+    source: "CNIL",
+    date: "2026-05-06",
+    cat: "Cybersécurité",
+    desc: "Les autorités de protection des données et de la vie privée du G7 collaborent afin d’identifier les enjeux et opportunités communs, de s’adapter avec agilité aux évolutions en cours et de mettre en œuvre des approches réglementaires concertées visant, autant que possible, à assurer une uniformité et une certitude juridique.",
+    auto: true
+  },
+  {
+    id: "auto-1778062272-1",
+    title: "Les membres et les résultats",
+    url: "https://www.cnil.fr/fr/g7-membres-et-resultats",
+    source: "CNIL",
+    date: "2026-05-06",
+    cat: "International",
+    desc: "Créée en 2021, la Table ronde des autorités de protection des données des pays et de la vie privée du G7 réunit, sous l’impulsion de la présidence annuelle, les autorités compétentes de l'Allemagne, du Canada, des États-Unis, la France, l'Italie, du Japon, du Royaume-Uni auxquels s’ajoute celles de l'Union européenne.",
+    auto: true
+  },
+  {
+    id: "auto-1778062272-2",
+    title: "Médiathèque",
+    url: "https://www.cnil.fr/fr/g7-mediatheque",
+    source: "CNIL",
+    date: "2026-05-06",
+    cat: "RGPD",
+    desc: "Retrouvez dans cette rubrique les communiqués de presse ainsi que les photos et vidéos de l’évènement.",
+    auto: true
+  },
+  {
+    id: "auto-1778062272-3",
+    title: "G7 2026 : la CNIL accueille à Paris la Table ronde des autorités de protection des données et de la vie privée",
+    url: "https://www.cnil.fr/fr/g7-2026-la-cnil-accueille-la-table-ronde",
+    source: "CNIL",
+    date: "2026-05-06",
+    cat: "RGPD",
+    desc: "Du 23 au 26 juin 2026, les autorités de protection des données des pays du G7 se réuniront à Paris sous la présidence de la CNIL. Cette rencontre annuelle vise à renforcer la coopération internationale et à promouvoir une protection élevée des données personnelles à l’ère des transformations numériques.",
+    auto: true
+  },
   {
     id: "auto-1777974988-69",
     title: "Résiliation des contrats de services de communications électroniques : la CJUE rend une décision favorable à l'utilisateur final",
@@ -42,6 +82,26 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1778062272-4",
+    title: "Ordre du jour de la séance plénière du 5 mai 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-mai-2026",
+    source: "CNIL",
+    date: "2026-05-05",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 5 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1778062272-30",
+    title: "Services publics : le Conseil d’État enjoint à l’État de garantir un accès normal à la plateforme en ligne de l’ANEF",
+    url: "https://www.conseil-etat.fr/actualites/services-publics-le-conseil-d-etat-enjoint-a-l-etat-de-garantir-un-acces-normal-a-la-plateforme-en-ligne-de-l-anef",
+    source: "Conseil d'État",
+    date: "2026-05-05",
+    cat: "Plateformes",
+    desc: "Saisi par plusieurs associations, le Conseil d’État enjoint aujourd’hui à l’État de prendre plusieurs mesures pour garantir un accès normal des usagers au service public de l’Administration numérique pour les étrangers en France (ANEF). Par cette décision, le Conseil d’État rappelle que toute admini",
+    auto: true
+  },
+  {
     id: "auto-1777974988-0",
     title: "IA conversationnelle et santé mentale des jeunes : résultats de l’enquête européenne",
     url: "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
@@ -59,6 +119,16 @@ window.AUTO_VEILLE = [
     date: "2026-05-05",
     cat: "RGPD",
     desc: "Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on 9 May 2026 , and we would be delighted to welcome you. Come and visit us We invi",
+    auto: true
+  },
+  {
+    id: "auto-1778062272-5",
+    title: "Publication du rapport d'activité 2025 de l'ANSSI",
+    url: "http://cyber.gouv.fr/actualites/publication-du-rapport-dactivite-2025-de-lanssi/",
+    source: "ANSSI",
+    date: "2026-05-04",
+    cat: "Cybersécurité",
+    desc: "L’année 2025 a été marquée par la publication de la Revue nationale Stratégique (RNS) 2025 qui fixe de nouvelles orientations […]",
     auto: true
   },
   {
@@ -731,75 +801,5 @@ window.AUTO_VEILLE = [
     desc: "",
     auto: true
   },
-  {
-    id: "auto-1774532375-81",
-    title: "New episode is out!",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/new-episode-out",
-    source: "EDPS",
-    date: "2026-03-25",
-    cat: "RGPD",
-    desc: "New episode is out! miriam Wed, 03/25/2026 - 17:56 Thu, 03/26/2026 - 12:00 Newsletter Digest brings you a wealth of information in audio format. Today, we are focusing on three key developments shaping the future of data protection in Europe. 1 Have a listen today!",
-    auto: true
-  },
-  {
-    id: "auto-1774518498-0",
-    title: "Rémi STEFANINI, nouveau directeur des technologies, de l’innovation et de l’intelligence artificielle",
-    url: "https://www.cnil.fr/fr/remi-stefanini-directeur-dtia",
-    source: "CNIL",
-    date: "2026-03-25",
-    cat: "RGPD",
-    desc: "Rémi STEFANINI rejoindra la CNIL le 15 avril 2026 en tant que directeur des technologies, de l’innovation et de l’IA de la CNIL.",
-    auto: true
-  },
-  {
-    id: "auto-1774434862-0",
-    title: "Vie privée des enfants : les résultats de l’audit du Global Privacy Enforcement Network",
-    url: "https://www.cnil.fr/fr/vie-privee-des-enfants-les-resultats-de-laudit-du-global-privacy-enforcement-network",
-    source: "CNIL",
-    date: "2026-03-25",
-    cat: "RGPD",
-    desc: "Lors de leur audit de novembre 2025, 27&amp;nbsp;autorités internationales de protection des données ont examiné les pratiques de sites web et d’applications mobiles en matière de protection de la vie privée des enfants.",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-13",
-    title: "Fibre optique",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/fibre-optique-240326.html",
-    source: "ARCEP",
-    date: "2026-03-24",
-    cat: "RGPD",
-    desc: "Économie des réseaux d’initiative publique : l’Arcep met en consultation publique un modèle de coûts de maintien en conditions opérationnelles",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-14",
-    title: "Comptabilité règlementaire",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques.html",
-    source: "ARCEP",
-    date: "2026-03-24",
-    cat: "Jurisprudence",
-    desc: "En application du 6° de l’article L. 5-2 du CPCE, l'Arcep publie la décision n° 2026-0459 du 17 mars 2026 agréant le cabinet KPMG pour réaliser l'audit des comptes réglementaires de La Poste pour les exercices 2025 à 2027.",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-101",
-    title: "Cigref’s 2025 Strategic Orientation Report: ‘Four archetypes of the digital function for 2040’",
-    url: "https://www.cigref.fr/cigrefs-2025-strategic-orientation-report-four-archetypes-of-the-digital-function-for-2040",
-    source: "CIGREF",
-    date: "2026-03-24",
-    cat: "RGPD",
-    desc: "At its 55th General Meeting, Cigref unveiled the 2025 edition of its Strategic Orientation Report, ‘Four archetypes of the digital function for 2040’. Ce rapport est disponible en français (French version). « This report is more than just an analysis; it is a call to action. The guidelines and recommendations it sets out have a clear [&#8230;] L’ar",
-    auto: true
-  },
-  {
-    id: "auto-1774434862-1",
-    title: "EDPB conference on cross-regulatory cooperation: what we learned",
-    url: "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
-    source: "EDPB",
-    date: "2026-03-24",
-    cat: "RGPD",
-    desc: "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of key EU institutions, European Data Protection Authorities, academia and industry.&nbsp; K",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-05T09:57:10";
+window.AUTO_VEILLE_UPDATED = "2026-05-06T10:11:48";
