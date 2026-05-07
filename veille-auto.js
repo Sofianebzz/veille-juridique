@@ -1,6 +1,56 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-06T10:11:48
+// Dernière collecte : 2026-05-07T10:17:23
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1778149003-0",
+    title: "Demandes de crédit : comprendre l’utilisation de vos données et vos droits",
+    url: "https://www.cnil.fr/fr/demandes-de-credit-comprendre-lutilisation-de-vos-donnees-et-vos-droits",
+    source: "CNIL",
+    date: "2026-05-07",
+    cat: "RGPD",
+    desc: "Acheter un logement, financer un achat… demander un crédit implique de partager de nombreuses données personnelles. Pour mieux vous protéger, la CNIL publie des recommandations pour les professionnels qui renforcent la transparence, encadrent les pratiques et facilitent l’exercice de vos droits.",
+    auto: true
+  },
+  {
+    id: "auto-1778149003-1",
+    title: "Octroi de crédit : la CNIL publie sa recommandation sur l’utilisation de données personnelles pour l’évaluation de la solvabilité",
+    url: "https://www.cnil.fr/fr/recommandation-octroi-de-credit",
+    source: "CNIL",
+    date: "2026-05-07",
+    cat: "RGPD",
+    desc: "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’évaluation de la solvabilité dans le cadre de l’octroi de crédit. Elle renforce transparence et contrôle, notamment des décisions automatisées, et accompagne les acteurs à mieux comprendre leurs obligations.",
+    auto: true
+  },
+  {
+    id: "auto-1778149003-74",
+    title: "Qualification des données pseudonymisées et RGPD : la nécessité d'une appréciation in concreto",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/qualification-des-donnees-pseudonymisees-et-rgpd-la-necessite-d-une-appreciation-in-concreto-DNU100f6",
+    source: "Lextenso",
+    date: "2026-05-06",
+    cat: "RGPD",
+    desc: "En jugeant que des donn&eacute;es pseudonymis&eacute;es demeurent des donn&eacute;es personnelles d&egrave;s lors qu&#039;une r&eacute;identification reste possible sans effort disproportionn&eacute;, le Conseil d&#039;&Eacute;tat confirme une approche contextualis&eacute;e de l&#039;identifiabilit&eacute; au sens du RGPD, centr&eacute;e sur les ca",
+    auto: true
+  },
+  {
+    id: "auto-1778149003-75",
+    title: "L'expérimentation prolongée de la vidéosurveillance algorithmique",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/l-experimentation-prolongee-de-la-videosurveillance-algorithmique-DNU100f5",
+    source: "Lextenso",
+    date: "2026-05-06",
+    cat: "IA",
+    desc: "Dans cette d&eacute;cision, le Conseil constitutionnel juge conforme &agrave; la Constitution, en particulier &agrave; son article&nbsp;37-1, habilitant les pouvoirs l&eacute;gislatif et r&eacute;glementaire &agrave; adopter des mesures &agrave; temps et objet limit&eacute;s &agrave; titre exp&eacute;rimental, la prolongation de l&#039;exp&eacute;r",
+    auto: true
+  },
+  {
+    id: "auto-1778149003-76",
+    title: "Nouvelle suite de l'affaire Shein : la cour d'appel de Paris confirme le jugement rejetant le blocage de la plateforme",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/nouvelle-suite-de-l-affaire-shein-la-cour-d-appel-de-paris-confirme-le-jugement-rejetant-le-blocage-de-la-plateforme-DNU100f4",
+    source: "Lextenso",
+    date: "2026-05-06",
+    cat: "Plateformes",
+    desc: "La cour d&#039;appel de Paris a confirm&eacute; le jugement prononc&eacute; par le tribunal judiciaire de Paris en refusant d&#039;ordonner le blocage de la plateforme Shein, demand&eacute; par le gouvernement fran&ccedil;ais. Cependant, elle a ordonn&eacute; &agrave; celle-ci, avec effet imm&eacute;diat, de mettre en place des mesures de filtrage ",
+    auto: true
+  },
   {
     id: "auto-1778062272-0",
     title: "Vue d’ensemble",
@@ -79,6 +129,16 @@ window.AUTO_VEILLE = [
     date: "2026-05-06",
     cat: "Jurisprudence",
     desc: "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
+    auto: true
+  },
+  {
+    id: "auto-1778149003-26",
+    title: "Arrêté fixant la tarification applicable aux réquisitions des opérateurs de communications électroniques",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques.html",
+    source: "ARCEP",
+    date: "2026-05-05",
+    cat: "Jurisprudence",
+    desc: "L’Arcep publie l’avis n°&nbsp;2026‑0564 qu’elle a rendu sur un arrêté pris en application des articles R. 213-1 et R. 213-2 du code de procédure pénale fixant la tarification applicable aux réquisitions des opérateurs de communications électroniques.&nbsp;",
     auto: true
   },
   {
@@ -652,6 +712,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1778149003-27",
+    title: "Fibre optique",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/fibre-optique-020426.html",
+    source: "ARCEP",
+    date: "2026-04-02",
+    cat: "Plateformes",
+    desc: "Cadre de régulation de la fibre optique : la Commission européenne conforte le bilan du cadre de régulation notifié par l’Arcep",
+    auto: true
+  },
+  {
     id: "auto-1775296566-26",
     title: "Fréquences",
     url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/frequences-020426.html",
@@ -731,75 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L’Arcep publie les données trimestrielles de couverture mobile au quatrième trimestre 2025 avec plus de 420 000 données de tests réalisés dans le cadre d’un nouveau partenariat avec Ookla ®",
     auto: true
   },
-  {
-    id: "auto-1775042248-25",
-    title: "Réseaux mobiles",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-mobiles-300326.html",
-    source: "ARCEP",
-    date: "2026-03-30",
-    cat: "Plateformes",
-    desc: "L’Arcep publie un rapport sur l’impact de l’extinction des technologies 2G et 3G sur la couverture des réseaux mobiles",
-    auto: true
-  },
-  {
-    id: "auto-1775042248-26",
-    title: "Extinction des réseaux mobiles 2G et 3G",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/extinction-des-reseaux-mobiles-2g-et-3g-300326.html",
-    source: "ARCEP",
-    date: "2026-03-30",
-    cat: "Plateformes",
-    desc: "A l’approche de l’extinction de la 2G, la baisse des cartes SIM « 2G » s’accentue au 4ème trimestre 2025, à un rythme qui s’avère toutefois insatisfaisant.",
-    auto: true
-  },
-  {
-    id: "auto-1774955565-1",
-    title: "Opération Cactus 2026 : renforcer durablement la sensibilisation de la communauté éducative aux cybermenaces",
-    url: "https://www.cnil.fr/fr/operation-cactus-2026",
-    source: "CNIL",
-    date: "2026-03-30",
-    cat: "Cybersécurité",
-    desc: "Le ministère de l’Éducation nationale a conduit une opération nationale de prévention de grande ampleur reposant sur une simulation d’hameçonnage.&amp;nbsp;Cette initiative vise à renforcer la vigilance et la responsabilisation de l’ensemble de la communauté éducative face à l’une des formes de cyberattaque les plus répandues.",
-    auto: true
-  },
-  {
-    id: "auto-1774955565-36",
-    title: "New blog post: Prior consultations, zero surprises",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/new-blog-post-prior-consultations-zero-surprises",
-    source: "EDPS",
-    date: "2026-03-30",
-    cat: "RGPD",
-    desc: "New blog post: Prior consultations, zero surprises ileanjoh Mon, 03/30/2026 - 14:39 Mon, 03/30/2026 - 12:00 In his latest blog post, Supervisor Wojciech Wiewiórowski discusses prior consultations between EU law and justice authorities and the EDPS. These checks are required when planned data processing operations are likely to result in a high risk",
-    auto: true
-  },
-  {
-    id: "auto-1774691691-0",
-    title: "Ordre du jour de la séance plénière du 26 mars 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-26-mars-2026",
-    source: "CNIL",
-    date: "2026-03-26",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 26 mars 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1774607643-24",
-    title: "Décision n° 2026-1188 QPC du 27 mars 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261188QPC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-03-26",
-    cat: "Jurisprudence",
-    desc: "M. Pierre C. [Notification du droit de se taire à la personne faisant l’objet d’une composition pénale et confidentialité de ses déclarations en cas d’échec de la procédure]",
-    auto: true
-  },
-  {
-    id: "auto-1774532375-61",
-    title: "Un mois, une juridiction : le tribunal administratif de Caen",
-    url: "https://www.conseil-etat.fr/actualites/un-mois-une-juridiction-le-tribunal-administratif-de-caen2",
-    source: "Conseil d'État",
-    date: "2026-03-26",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-06T10:11:48";
+window.AUTO_VEILLE_UPDATED = "2026-05-07T10:17:23";
