@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-07T10:17:23
+// Dernière collecte : 2026-05-08T09:10:28
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1778231393-0",
+    title: "Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée",
+    url: "https://www.cnil.fr/fr/privacy-research-day-2026",
+    source: "CNIL",
+    date: "2026-05-07",
+    cat: "RGPD",
+    desc: "La cinquième édition de la Journée de recherche sur la vie privée (Privacy Research Day) se tiendra le 24 juin 2026, dans le cadre du G7 des autorités de protection des données accueilli par la CNIL. Cet évènement international, reliant le monde académique aux acteurs de la régulation des données, s’adresse aux experts, aux chercheurs et aux admini",
+    auto: true
+  },
+  {
+    id: "auto-1778231393-25",
+    title: "« Récit d'une année » : découvrez le bilan d'activité 2025 du Conseil d'État",
+    url: "https://www.conseil-etat.fr/actualites/recit-d-une-annee-decouvrez-le-bilan-d-activite-2025-du-conseil-d-etat",
+    source: "Conseil d'État",
+    date: "2026-05-07",
+    cat: "Jurisprudence",
+    desc: "Le Conseil d’État publie aujourd’hui son bilan d&#039;activité 2025. Il revient sur les décisions de justice, avis juridiques, études qui ont marqué l&#039;année et qui illustrent la manière dont l&#039;institution veille quotidiennement au respect du droit et des libertés fondamentales, sur des thé",
+    auto: true
+  },
+  {
+    id: "auto-1778231393-38",
+    title: "Safe and Ethical AI: a big European idea for the world",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/safe-and-ethical-ai-big-european-idea-world",
+    source: "EDPS",
+    date: "2026-05-07",
+    cat: "RGPD",
+    desc: "Safe and Ethical AI: a big European idea for the world miriam Thu, 05/07/2026 - 16:04 Fri, 05/08/2026 - 12:00 On 9 May, Europeans celebrate Europe Day. Europe has continued to shape big ideas that unite people around shared values &amp; fundamental rights. Our commitment to human-centric, transparent technology remains more important than ever. 1 R",
+    auto: true
+  },
   {
     id: "auto-1778149003-0",
     title: "Demandes de crédit : comprendre l’utilisation de vos données et vos droits",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le numérique infuse chaque strate de nos activités, la cybersécurité ne peut donc plus être cantonnée à une simple gestion technique. Elle est devenue un levier de résilience, au service de la performance et de la compétitivité. C’est tout l’enjeu du nouveau rapport publié par le Cigref, en partenariat avec l’ANSSI : « Gouvernance de [&#8230;] L’ar",
     auto: true
   },
-  {
-    id: "auto-1774955565-0",
-    title: "Données post mortem : publication du cahier air2025 sur l’éthique des traces numériques",
-    url: "https://www.cnil.fr/fr/cahier-air2025",
-    source: "CNIL",
-    date: "2026-03-31",
-    cat: "RGPD",
-    desc: "Dans le cadre de sa mission éthique, la CNIL publie son cahier air2025 à la suite du colloque du 15 octobre 2025 sur le thème des données post mortem, organisé en partenariat avec la Bibliothèque nationale de France.",
-    auto: true
-  },
-  {
-    id: "auto-1775042248-23",
-    title: "Qualité de service mobile",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/qualite-de-service-mobile-300326.html",
-    source: "ARCEP",
-    date: "2026-03-30",
-    cat: "Plateformes",
-    desc: "L’Arcep ajoute plus de 400 000 tests réalisés par des consommateurs sur « Mon réseau mobile », dans le cadre d’un partenariat avec Ookla ®",
-    auto: true
-  },
-  {
-    id: "auto-1775042248-24",
-    title: "Couverture mobile",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-300326.html",
-    source: "ARCEP",
-    date: "2026-03-30",
-    cat: "Plateformes",
-    desc: "L’Arcep publie les données trimestrielles de couverture mobile au quatrième trimestre 2025 avec plus de 420 000 données de tests réalisés dans le cadre d’un nouveau partenariat avec Ookla ®",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-07T10:17:23";
+window.AUTO_VEILLE_UPDATED = "2026-05-08T09:10:28";
