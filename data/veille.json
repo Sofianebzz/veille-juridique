@@ -340,6 +340,16 @@
     "auto": true
   },
   {
+    "id": "auto-1778317947-14",
+    "title": "Couverture mobile",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-230426.html",
+    "source": "ARCEP",
+    "date": "2026-04-23",
+    "cat": "Plateformes",
+    "desc": "« Mon réseau mobile » : l’Arcep lance une consultation publique pour adapter les cartes de couverture aux évolutions technologiques",
+    "auto": true
+  },
+  {
     "id": "auto-1777543244-35",
     "title": "Stakeholder event on competition and data protection",
     "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
@@ -787,16 +797,6 @@
     "date": "2026-04-02",
     "cat": "RGPD",
     "desc": "La CNIL publie un référentiel pour aider les responsables de traitement à identifier les durées de conservation pour leurs activités de gestion du personnel.",
-    "auto": true
-  },
-  {
-    "id": "auto-1775042248-50",
-    "title": "Gouvernance de la sécurité numérique : orientation, déploiement et pilotage",
-    "url": "https://www.cigref.fr/gouvernance-de-la-securite-numerique-orientation-deploiement-et-pilotage",
-    "source": "CIGREF",
-    "date": "2026-03-31",
-    "cat": "Cybersécurité",
-    "desc": "Le numérique infuse chaque strate de nos activités, la cybersécurité ne peut donc plus être cantonnée à une simple gestion technique. Elle est devenue un levier de résilience, au service de la performance et de la compétitivité. C’est tout l’enjeu du nouveau rapport publié par le Cigref, en partenariat avec l’ANSSI : « Gouvernance de [&#8230;] L’ar",
     "auto": true
   }
 ]

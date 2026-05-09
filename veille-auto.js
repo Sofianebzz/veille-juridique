@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-08T09:10:28
+// Dernière collecte : 2026-05-09T09:13:21
 window.AUTO_VEILLE = [
   {
     id: "auto-1778231393-0",
@@ -339,6 +339,16 @@ window.AUTO_VEILLE = [
     date: "2026-04-24",
     cat: "RGPD",
     desc: "À l’issue d’une consultation publique, la CNIL actualise sa recommandation sur la sécurité des systèmes de vote par correspondance électronique. Elle offre un cadre plus clair et plus opérationnel, en maintenant un haut niveau d’exigence en matière de sécurité, de confidentialité et de sincérité du scrutin.&amp;nbsp;",
+    auto: true
+  },
+  {
+    id: "auto-1778317947-14",
+    title: "Couverture mobile",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-230426.html",
+    source: "ARCEP",
+    date: "2026-04-23",
+    cat: "Plateformes",
+    desc: "« Mon réseau mobile » : l’Arcep lance une consultation publique pour adapter les cartes de couverture aux évolutions technologiques",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La CNIL publie un référentiel pour aider les responsables de traitement à identifier les durées de conservation pour leurs activités de gestion du personnel.",
     auto: true
   },
-  {
-    id: "auto-1775042248-50",
-    title: "Gouvernance de la sécurité numérique : orientation, déploiement et pilotage",
-    url: "https://www.cigref.fr/gouvernance-de-la-securite-numerique-orientation-deploiement-et-pilotage",
-    source: "CIGREF",
-    date: "2026-03-31",
-    cat: "Cybersécurité",
-    desc: "Le numérique infuse chaque strate de nos activités, la cybersécurité ne peut donc plus être cantonnée à une simple gestion technique. Elle est devenue un levier de résilience, au service de la performance et de la compétitivité. C’est tout l’enjeu du nouveau rapport publié par le Cigref, en partenariat avec l’ANSSI : « Gouvernance de [&#8230;] L’ar",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-08T09:10:28";
+window.AUTO_VEILLE_UPDATED = "2026-05-09T09:13:21";
