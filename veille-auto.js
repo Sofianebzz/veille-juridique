@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-10T09:24:34
+// Dernière collecte : 2026-05-11T10:55:51
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1778496913-0",
+    title: "Les lunettes connectées : la CNIL appelle à la vigilance",
+    url: "https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance",
+    source: "CNIL",
+    date: "2026-05-11",
+    cat: "RGPD",
+    desc: "L’essor des lunettes connectées constitue un nouveau défi pour la vie privée et soulève des enjeux éthiques et sociétaux forts. La CNIL alerte sur ces risques, qui nécessitent une vigilance collective, et lance son plan d’action.",
+    auto: true
+  },
   {
     id: "auto-1778231393-0",
     title: "Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 avril 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
     auto: true
   },
-  {
-    id: "auto-1775126324-0",
-    title: "Gestion des ressources humaines : la CNIL publie un référentiel de durées de conservation",
-    url: "https://www.cnil.fr/fr/referentiel-durees-conservation-donnees-rh",
-    source: "CNIL",
-    date: "2026-04-02",
-    cat: "RGPD",
-    desc: "La CNIL publie un référentiel pour aider les responsables de traitement à identifier les durées de conservation pour leurs activités de gestion du personnel.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-10T09:24:34";
+window.AUTO_VEILLE_UPDATED = "2026-05-11T10:55:51";
