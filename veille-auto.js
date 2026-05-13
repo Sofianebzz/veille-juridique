@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-12T10:26:54
+// Dernière collecte : 2026-05-13T10:17:19
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1778667404-0",
+    title: "Confidentialité de l’euro numérique : où en sommes-nous ?",
+    url: "https://www.cnil.fr/fr/confidentialite-de-leuro-numerique-ou-en-sommes-nous",
+    source: "CNIL",
+    date: "2026-05-13",
+    cat: "RGPD",
+    desc: "La proposition de règlement sur l’euro numérique est en cours de vote au Parlement européen et l'Eurosystème se prépare à son émission d'ici 2029. La CNIL et l’autorité fédérale allemande de protection des données (BfDI) reviennent sur les enjeux et travaux sur la vie privée des européens.",
+    auto: true
+  },
+  {
+    id: "auto-1778667404-1",
+    title: "Ordre du jour de la séance plénière du 12 mai 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-mai-2026",
+    source: "CNIL",
+    date: "2026-05-12",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 12 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1778667404-26",
+    title: "Distribution de la presse",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/distribution-de-la-presse-120526.html",
+    source: "ARCEP",
+    date: "2026-05-12",
+    cat: "Plateformes",
+    desc: "L’Arcep lance un appel à commentaires sur des propositions de revalorisation de la rémunération des kiosquiers",
+    auto: true
+  },
   {
     id: "auto-1778496913-0",
     title: "Les lunettes connectées : la CNIL appelle à la vigilance",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Cadre de régulation de la fibre optique : la Commission européenne conforte le bilan du cadre de régulation notifié par l’Arcep",
     auto: true
   },
-  {
-    id: "auto-1775296566-26",
-    title: "Fréquences",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/frequences-020426.html",
-    source: "ARCEP",
-    date: "2026-04-02",
-    cat: "Plateformes",
-    desc: "Attribution de fréquences pour les réseaux mobiles professionnels : l’Arcep étend à Mayotte les modalités d’attribution de la bande 2,6 GHz TDD",
-    auto: true
-  },
-  {
-    id: "auto-1775210907-3",
-    title: "Revoir le webinaire - Développement d’un système IA, webscraping : comment mobiliser la base légale de l’intérêt légitime ?",
-    url: "https://www.cnil.fr/fr/revoir-le-webinaire-developpement-ia-webscraping-base-legale-interet-legitime",
-    source: "CNIL",
-    date: "2026-04-02",
-    cat: "RGPD",
-    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au développement de systèmes d'intelligence artificielle.",
-    auto: true
-  },
-  {
-    id: "auto-1775210907-4",
-    title: "Ordre du jour de la séance plénière du 2 avril 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-avril-2026",
-    source: "CNIL",
-    date: "2026-04-02",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 avril 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-12T10:26:54";
+window.AUTO_VEILLE_UPDATED = "2026-05-13T10:17:19";
