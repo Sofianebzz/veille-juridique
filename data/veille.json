@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1778753364-25",
+    "title": "Le Conseil d’État rejette le recours d’Amazon contre le montant minimal des frais de livraison des livres",
+    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-d-amazon-contre-le-montant-minimal-des-frais-de-livraison-des-livres",
+    "source": "Conseil d'État",
+    "date": "2026-05-13",
+    "cat": "Plateformes",
+    "desc": "Saisi par la société Amazon EU, le Conseil d’État juge aujourd’hui que le montant minimal des frais de livraison des livres fixé par le Gouvernement en application de la loi, est conforme au droit européen. En effet, l’arrêté du 4 avril 2023 – fixant à 3 euros les frais de livraison des commandes de",
+    "auto": true
+  },
+  {
+    "id": "auto-1778753364-26",
+    "title": "Fruits et légumes provenant de pays hors UE et contenant des résidus de pesticides interdits : le Gouvernement pouvait suspendre leur importation",
+    "url": "https://www.conseil-etat.fr/actualites/fruits-et-legumes-provenant-de-pays-hors-ue-et-contenant-des-residus-de-pesticides-interdits-le-gouvernement-pouvait-suspendre-leur-importation",
+    "source": "Conseil d'État",
+    "date": "2026-05-13",
+    "cat": "Cybersécurité",
+    "desc": "Saisi par la Chambre syndicale des importateurs français de fruits et légumes, le Conseil d’État juge aujourd’hui que le Gouvernement pouvait légalement suspendre l’importation d’aliments provenant de pays hors Union européenne qui contiennent des résidus de certains pesticides interdits en Europe. ",
+    "auto": true
+  },
+  {
     "id": "auto-1778667404-0",
     "title": "Confidentialité de l’euro numérique : où en sommes-nous ?",
     "url": "https://www.cnil.fr/fr/confidentialite-de-leuro-numerique-ou-en-sommes-nous",
@@ -720,6 +740,16 @@
     "auto": true
   },
   {
+    "id": "auto-1778753364-24",
+    "title": "Fréquences",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/frequences-070426.html",
+    "source": "ARCEP",
+    "date": "2026-04-07",
+    "cat": "Plateformes",
+    "desc": "L’Arcep apporte des précisions sur les perspectives d’utilisation des fréquences 3410 – 3490 MHz et sur le réaménagement futur de la bande 3,4 – 3,8 GHz dans l’Hexagone",
+    "auto": true
+  },
+  {
     "id": "auto-1775638452-1",
     "title": "Outil PIA : téléchargez et installez le logiciel de la CNIL",
     "url": "https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil",
@@ -767,36 +797,6 @@
     "date": "2026-04-03",
     "cat": "RGPD",
     "desc": "La CNIL propose régulièrement des webinaires à destination des professionnels. Ces webinaires sont gratuits et ouverts à tous.",
-    "auto": true
-  },
-  {
-    "id": "auto-1775210907-1",
-    "title": "Les contrôles en 2026 : recrutement, répertoire électoral unique et fédérations sportives",
-    "url": "https://www.cnil.fr/fr/controles-prioritaires-2026",
-    "source": "CNIL",
-    "date": "2026-04-03",
-    "cat": "Cybersécurité",
-    "desc": "Chaque année, la CNIL définit des thématiques prioritaires de contrôle. Parmi celles choisies pour 2026 figurent le recrutement, le répertoire électoral unique et les fédérations sportives. D’autres annonces relatives à la cybersécurité interviendront à l’occasion de la publication du rapport annuel de la CNIL en mai.",
-    "auto": true
-  },
-  {
-    "id": "auto-1775210907-2",
-    "title": "Désigner un délégué à la protection des données (DPO) ou modifier une désignation",
-    "url": "https://www.cnil.fr/fr/designation-dpo",
-    "source": "CNIL",
-    "date": "2026-04-03",
-    "cat": "RGPD",
-    "desc": "Avant de désigner en ligne votre délégué à la protection des données, vérifiez qu'il dispose du statut, des compétences et des moyens nécessaires à l’exercice de ses missions.",
-    "auto": true
-  },
-  {
-    "id": "auto-1778149003-27",
-    "title": "Fibre optique",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/fibre-optique-020426.html",
-    "source": "ARCEP",
-    "date": "2026-04-02",
-    "cat": "Plateformes",
-    "desc": "Cadre de régulation de la fibre optique : la Commission européenne conforte le bilan du cadre de régulation notifié par l’Arcep",
     "auto": true
   }
 ]
