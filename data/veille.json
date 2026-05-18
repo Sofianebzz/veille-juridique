@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1779104360-60",
+    "title": "Constat : ce qu’un huissier ne doit pas faire",
+    "url": "https://www.legalis.net/actualite/constat-ce-quun-huissier-ne-doit-pas-faire/",
+    "source": "Legalis",
+    "date": "2026-05-18",
+    "cat": "Jurisprudence",
+    "desc": "Par un arrêt du 10 avril 2026, la cour d’appel de Paris a confirmé le jugement du 31 janvier 2023 du tribunal de commerce de Nanterre qui avait débouté la société Wuha de ses demandes dirigées contre la société Lefebvre Sarrut et ses filiales Éditions Francis Lefebvre (EFL), Éditions Dalloz (ED) et Éditions Législatives éditrices, [&#8230;]",
+    "auto": true
+  },
+  {
     "id": "auto-1778753364-25",
     "title": "Le Conseil d’État rejette le recours d’Amazon contre le montant minimal des frais de livraison des livres",
     "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-d-amazon-contre-le-montant-minimal-des-frais-de-livraison-des-livres",
@@ -787,16 +797,6 @@
     "date": "2026-04-03",
     "cat": "Jurisprudence",
     "desc": "Saisi en urgence par des associations, des élus et des particuliers, le Conseil d’État juge aujourd’hui que la participation du public aux décisions sur les travaux nécessaires à l’organisation des Jeux Olympiques et Paralympiques d’hiver de 2030 dans les Alpes françaises n’a pas à prendre la forme ",
-    "auto": true
-  },
-  {
-    "id": "auto-1775210907-0",
-    "title": "Les webinaires de la CNIL",
-    "url": "https://www.cnil.fr/fr/les-webinaires-de-la-cnil",
-    "source": "CNIL",
-    "date": "2026-04-03",
-    "cat": "RGPD",
-    "desc": "La CNIL propose régulièrement des webinaires à destination des professionnels. Ces webinaires sont gratuits et ouverts à tous.",
     "auto": true
   }
 ]
