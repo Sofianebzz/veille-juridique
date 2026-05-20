@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-19T10:57:41
+// Dernière collecte : 2026-05-20T10:45:16
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1779273875-24",
+    title: "Le rapport d’activité 2025 de la juridiction administrative est en ligne",
+    url: "https://www.conseil-etat.fr/actualites/le-rapport-d-activite-2025-de-la-juridiction-administrative-est-en-ligne",
+    source: "Conseil d'État",
+    date: "2026-05-19",
+    cat: "Jurisprudence",
+    desc: "Le rapport public du Conseil d’État présente l’activité juridictionnelle et consultative de la juridiction administrative en 2025.",
+    auto: true
+  },
   {
     id: "auto-1779188225-0",
     title: "Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le logiciel open source PIA facilite la conduite et la formalisation d’analyses d’impact relatives à la protection des données (AIPD) telles que prévues par le RGPD.",
     auto: true
   },
-  {
-    id: "auto-1775561457-0",
-    title: "Accompagnement des professionnels : le programme de travail de la CNIL pour 2026",
-    url: "https://www.cnil.fr/fr/accompagnement-des-professionnels-le-programme-de-travail-de-la-cnil-pour-2026",
-    source: "CNIL",
-    date: "2026-04-07",
-    cat: "RGPD",
-    desc: "En 2026, la CNIL poursuit son accompagnement des acteurs publics et privés dans leur mise en conformité avec le RGPD et de certaines dispositions du RIA. S’appuyant sur un dialogue régulier avec les représentants des différents secteurs, elle présente les principaux travaux et ressources qu’elle prévoit de publier ou soumettre à consultation.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-19T10:57:41";
+window.AUTO_VEILLE_UPDATED = "2026-05-20T10:45:16";
