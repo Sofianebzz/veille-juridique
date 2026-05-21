@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-1779362135-24",
+    "title": "Marc Guillaume nommé vice-président du Conseil d’État",
+    "url": "https://www.conseil-etat.fr/actualites/marc-guillaume-nomme-vice-president-du-conseil-d-etat",
+    "source": "Conseil d'État",
+    "date": "2026-05-21",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1779362135-25",
+    "title": "Ateliers de la simplification du Conseil d’État : nouvelle étude sur le contrôle des incapacités des professionnels et des bénévoles en contact ave...",
+    "url": "https://www.conseil-etat.fr/actualites/ateliers-de-la-simplification-du-conseil-d-etat-nouvelle-etude-sur-le-controle-des-incapacites-des-professionnels-et-des-benevoles-en-contact-ave",
+    "source": "Conseil d'État",
+    "date": "2026-05-20",
+    "cat": "Jurisprudence",
+    "desc": "En 2024, le Conseil d’État a lancé les « ateliers de la simplification » pour accompagner le Gouvernement dans la simplification de la norme existante afin de faciliter la mise en œuvre de l’action publique. Une nouvelle étude est disponible sur le contrôle des incapacités des professionnels et béné",
+    "auto": true
+  },
+  {
+    "id": "auto-1779362135-26",
+    "title": "Le rapport public 2025 de la juridiction administrative est en ligne",
+    "url": "https://www.conseil-etat.fr/actualites/le-rapport-public-2025-de-la-juridiction-administrative-est-en-ligne",
+    "source": "Conseil d'État",
+    "date": "2026-05-19",
+    "cat": "Jurisprudence",
+    "desc": "Le rapport public du Conseil d’État présente l’activité juridictionnelle et consultative de la juridiction administrative en 2025.",
+    "auto": true
+  },
+  {
     "id": "auto-1779273875-24",
     "title": "Le rapport d’activité 2025 de la juridiction administrative est en ligne",
     "url": "https://www.conseil-etat.fr/actualites/le-rapport-d-activite-2025-de-la-juridiction-administrative-est-en-ligne",
@@ -767,36 +797,6 @@
     "date": "2026-04-08",
     "cat": "Cybersécurité",
     "desc": "Les &Eacute;tats n&#039;ont pas r&eacute;ussi &agrave; adopter les r&egrave;gles de proc&eacute;dure de la COP de la Convention de l&#039;ONU contre la cybercriminalit&eacute;. Derri&egrave;re cet &eacute;chec, de profondes tensions g&eacute;opolitiques et des controverses majeures d&#039;interpr&eacute;tation et de mise en &oelig;uvre de la conven",
-    "auto": true
-  },
-  {
-    "id": "auto-1775638452-0",
-    "title": "Municipales 2026 : le bilan de l’observatoire des élections de la CNIL",
-    "url": "https://www.cnil.fr/fr/municipales-2026-bilan-observatoire",
-    "source": "CNIL",
-    "date": "2026-04-08",
-    "cat": "Jurisprudence",
-    "desc": "À l’occasion des élections municipales des 15 et 22&amp;nbsp;mars 2026, la CNIL a reçu 739&amp;nbsp;signalements, majoritairement pour des opérations de prospection par SMS (63&amp;nbsp;%), et a instruit 81&amp;nbsp;plaintes. À ce stade, quatre contrôles ont été engagés, ainsi qu’une procédure de sanction simplifiée.",
-    "auto": true
-  },
-  {
-    "id": "auto-1778753364-24",
-    "title": "Fréquences",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/frequences-070426.html",
-    "source": "ARCEP",
-    "date": "2026-04-07",
-    "cat": "Plateformes",
-    "desc": "L’Arcep apporte des précisions sur les perspectives d’utilisation des fréquences 3410 – 3490 MHz et sur le réaménagement futur de la bande 3,4 – 3,8 GHz dans l’Hexagone",
-    "auto": true
-  },
-  {
-    "id": "auto-1775638452-1",
-    "title": "Outil PIA : téléchargez et installez le logiciel de la CNIL",
-    "url": "https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil",
-    "source": "CNIL",
-    "date": "2026-04-07",
-    "cat": "RGPD",
-    "desc": "Le logiciel open source PIA facilite la conduite et la formalisation d’analyses d’impact relatives à la protection des données (AIPD) telles que prévues par le RGPD.",
     "auto": true
   }
 ]
