@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-1779446631-0",
+    "title": "Ordre du jour de la séance plénière du 21 mai 2026",
+    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-mai-2026",
+    "source": "CNIL",
+    "date": "2026-05-21",
+    "cat": "RGPD",
+    "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 21 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    "auto": true
+  },
+  {
+    "id": "auto-1779446631-1",
+    "title": "Mise à jour du référentiel d’exigences PACS en version 2.0",
+    "url": "http://cyber.gouv.fr/actualites/mise-a-jour-du-referentiel-pacs/",
+    "source": "ANSSI",
+    "date": "2026-05-21",
+    "cat": "Cybersécurité",
+    "desc": "Découvrez la nouvelle version du référentiel pour la qualification des prestataires d'accompagnement et de conseil en sécurité des systèmes d'information publié par l'ANSSI.",
+    "auto": true
+  },
+  {
+    "id": "auto-1779446631-25",
+    "title": "Environnement",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-eapns-210526.html",
+    "source": "ARCEP",
+    "date": "2026-05-21",
+    "cat": "Plateformes",
+    "desc": "Enquête annuelle « Pour un numérique soutenable » : La consommation électrique des centres de données continue de progresser (+ 38% en 3 ans)",
+    "auto": true
+  },
+  {
+    "id": "auto-1779446631-26",
+    "title": "Marc Guillaume nouveau vice-président du Conseil d’État",
+    "url": "https://www.conseil-etat.fr/actualites/marc-guillaume-nouveau-vice-president-du-conseil-d-etat",
+    "source": "Conseil d'État",
+    "date": "2026-05-21",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1779446631-50",
+    "title": "Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations",
+    "url": "https://www.cigref.fr/accessibilite-numerique-organiser-piloter-et-outiller-le-passage-a-lechelle-dans-les-grandes-organisations",
+    "source": "CIGREF",
+    "date": "2026-05-21",
+    "cat": "Contrats IT",
+    "desc": "Le 21 mai 2026, journée mondiale de sensibilisation à l’accessibilité, le Cigref publie son nouveau rapport intitulé « Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations ». Fruit d’une année de travail, ce document propose un cadre méthodologique et des retours d&#8217;expérience (REX) con",
+    "auto": true
+  },
+  {
     "id": "auto-1779362135-24",
     "title": "Marc Guillaume nommé vice-président du Conseil d’État",
     "url": "https://www.conseil-etat.fr/actualites/marc-guillaume-nomme-vice-president-du-conseil-d-etat",
@@ -747,56 +797,6 @@
     "date": "2026-04-08",
     "cat": "Jurisprudence",
     "desc": "Dans l&#039;arr&ecirc;t Shipova du 12&nbsp;mars 2026, la Cour de justice impose aux &Eacute;tats membres de reconna&icirc;tre le changement d&#039;identit&eacute; de genre au nom de la libre circulation. Cet arr&ecirc;t important est &agrave; mettre en perspective avec les arr&ecirc;ts Mousse et Deldits dans lesquels la CJUE s&#039;&eacute;tait fon",
-    "auto": true
-  },
-  {
-    "id": "auto-1775725277-70",
-    "title": "La Commission européenne précise la mise en œuvre de la fonctionnalité de déclaration de l'EMFA : une régulation procédurale des relations entre médias et plateformes",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-commission-europeenne-precise-la-mise-en-oeuvre-de-la-fonctionnalite-de-declaration-de-l-emfa-une-regulation-procedurale-des-relations-entre-medias-et-plateformes-DNU100e7",
-    "source": "Lextenso",
-    "date": "2026-04-08",
-    "cat": "Plateformes",
-    "desc": "Les lignes directrices adopt&eacute;es par la Commission europ&eacute;enne le 11&nbsp;f&eacute;vrier 2026 pr&eacute;cisent la mise en &oelig;uvre de la fonctionnalit&eacute; de d&eacute;claration pr&eacute;vue &agrave; l&#039;article&nbsp;18 du r&egrave;glement (UE) 2024/1083, dit European Media Freedom Act (EMFA). Destin&eacute; aux tr&egrave;s gr",
-    "auto": true
-  },
-  {
-    "id": "auto-1775725277-71",
-    "title": "Le risque de réidentification de données de santé pseudonymisées",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/le-risque-de-reidentification-de-donnees-de-sante-pseudonymisees-DNU100e6",
-    "source": "Lextenso",
-    "date": "2026-04-08",
-    "cat": "Jurisprudence",
-    "desc": "La pseudonymisation n&#039;est pas une anonymisation&nbsp;: le Conseil d&#039;&Eacute;tat juge que la pseudonymisation de donn&eacute;es de sant&eacute; par des codes n&#039;exclut pas la qualification de donn&eacute;e &agrave; caract&egrave;re personnel d&egrave;s lors que l&#039;identification demeure, en pratique, possible au regard de facteurs ",
-    "auto": true
-  },
-  {
-    "id": "auto-1775725277-72",
-    "title": "Adoption du rapport Voss sur l'IAG par le Parlement européen",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/adoption-du-rapport-voss-sur-l-iag-par-le-parlement-europeen-DNU100e5",
-    "source": "Lextenso",
-    "date": "2026-04-08",
-    "cat": "IA",
-    "desc": "Le Parlement europ&eacute;en a adopt&eacute; &agrave; 460 voix une r&eacute;solution sur le droit d&#039;auteur et l&#039;IAG fond&eacute;e sur le rapport de l&#039;euro d&eacute;put&eacute; Axel Voss. PE, rapp., Le droit d&#039;auteur et l&#039;intelligence artificielle g&eacute;n&eacute;rative&nbsp;&ndash;&nbsp;opportunit&eacute;s et d&eacute;fis",
-    "auto": true
-  },
-  {
-    "id": "auto-1775725277-73",
-    "title": "Google condamné à indemniser M6 pour abus de position dominante dans la publicité en ligne",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/google-condamne-a-indemniser-m6-pour-abus-de-position-dominante-dans-la-publicite-en-ligne-DNU100e4",
-    "source": "Lextenso",
-    "date": "2026-04-08",
-    "cat": "Jurisprudence",
-    "desc": "Le tribunal des activit&eacute;s &eacute;conomiques de Paris a jug&eacute; la soci&eacute;t&eacute; Google coupable d&#039;abus de position dominante dans la publicit&eacute; en ligne et l&#039;a, &agrave; ce titre, condamn&eacute;e &agrave; indemniser le groupe M6 &agrave; hauteur de 23&nbsp;millions d&#039;euros de dommages et int&eacute;r&ecirc;",
-    "auto": true
-  },
-  {
-    "id": "auto-1775725277-74",
-    "title": "Convention des Nations Unies contre la cybercriminalité : échec des négociations sur les règles de procédure",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/convention-des-nations-unies-contre-la-cybercriminalite-echec-des-negociations-sur-les-regles-de-procedure-DNU100e3",
-    "source": "Lextenso",
-    "date": "2026-04-08",
-    "cat": "Cybersécurité",
-    "desc": "Les &Eacute;tats n&#039;ont pas r&eacute;ussi &agrave; adopter les r&egrave;gles de proc&eacute;dure de la COP de la Convention de l&#039;ONU contre la cybercriminalit&eacute;. Derri&egrave;re cet &eacute;chec, de profondes tensions g&eacute;opolitiques et des controverses majeures d&#039;interpr&eacute;tation et de mise en &oelig;uvre de la conven",
     "auto": true
   }
 ]
