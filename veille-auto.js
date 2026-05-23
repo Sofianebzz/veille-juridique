@@ -1,6 +1,46 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-22T10:44:27
+// Dernière collecte : 2026-05-23T09:45:58
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1779529522-25",
+    title: "Parution du guide de jurisprudence 2025 du Conseil d’État : « Le Petit Combarnous »",
+    url: "https://www.conseil-etat.fr/actualites/parution-du-guide-de-jurisprudence-2025-du-conseil-d-etat-le-petit-combarnous",
+    source: "Conseil d'État",
+    date: "2026-05-22",
+    cat: "Jurisprudence",
+    desc: "Le Conseil d’État publie la nouvelle édition de son guide de jurisprudence, intitulé « Le Petit Combarnous ». Cet ouvrage propose une sélection des décisions les plus marquantes rendues par le Conseil d’État au cours de l’année 2025.",
+    auto: true
+  },
+  {
+    id: "auto-1779529522-32",
+    title: "CPDP 2026 - Closing remarks",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/cpdp-2026-closing-remarks-0",
+    source: "EDPS",
+    date: "2026-05-22",
+    cat: "RGPD",
+    desc: "CPDP 2026 - Closing remarks francesco Fri, 05/22/2026 - 18:03 Fri, 05/22/2026 - 12:00 1 Read the speech",
+    auto: true
+  },
+  {
+    id: "auto-1779529522-23",
+    title: "L’Arcep publie une mise en demeure relative au respect d’une obligation découlant d’une décision de règlement de différend",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/med-reunicable-210526.html",
+    source: "ARCEP",
+    date: "2026-05-21",
+    cat: "Jurisprudence",
+    desc: "Dans le cadre du contrôle d’une obligation découlant d’un règlement de différend, l’Arcep a été amenée à prononcer une décision de mise en demeure à l’encontre de la société Réunicable.",
+    auto: true
+  },
+  {
+    id: "auto-1779529522-24",
+    title: "Régulation de la distribution de la presse",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/regulation-de-la-distribution-de-la-presse-210526.html",
+    source: "ARCEP",
+    date: "2026-05-21",
+    cat: "Contrats IT",
+    desc: "L’Arcep publie une mise en demeure relative aux conditions techniques, tarifaires et contractuelles proposées par France Messagerie pour l’année 2026.",
+    auto: true
+  },
   {
     id: "auto-1779446631-0",
     title: "Ordre du jour de la séance plénière du 21 mai 2026",
@@ -761,45 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Sociétés Legrand SNC et autres [Contestation des perquisitions et saisies dans le cadre d&#039;une information judiciaire]",
     auto: true
   },
-  {
-    id: "auto-1775811714-27",
-    title: "Décision n° 2026-1192 QPC du 10 avril 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261192QPC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-04-09",
-    cat: "Jurisprudence",
-    desc: "M. Sofiane S. [Impossibilité pour l’accusé placé en détention provisoire de s’opposer à l’utilisation de la visioconférence devant la juridiction saisie d’une demande de mise en liberté]",
-    auto: true
-  },
-  {
-    id: "auto-1775725277-38",
-    title: "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
-    url: "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
-    source: "EDPB",
-    date: "2026-04-09",
-    cat: "RGPD",
-    desc: "Brussels, 09 April - The European Data Protection Board (EDPB) has published its&nbsp; 2025 Annual Report . The report provides an overview of the EDPB work carried out in 2025 and reflects on important milestones, such as the adoption of the&nbsp; Helsinki Statement on Enhanced Clarity, Support, and Engagement . “In 2025, we saw the data protectio",
-    auto: true
-  },
-  {
-    id: "auto-1775811714-72",
-    title: "Nouvelles missions de VIGINUM dans la lutte contre la cyberpropagande étrangère et élaboration d'une intelligence artificielle à caractère défensif",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n4/nouvelles-missions-de-viginum-dans-la-lutte-contre-la-cyberpropagande-etrangere-et-elaboration-d-une-intelligence-artificielle-a-caractere-defensif-DNU100e9",
-    source: "Lextenso",
-    date: "2026-04-08",
-    cat: "IA",
-    desc: "Le d&eacute;cret du 11&nbsp;f&eacute;vrier 2026 &eacute;tend les missions de VIGINUM, service charg&eacute; de la lutte contre les ing&eacute;rences num&eacute;riques &eacute;trang&egrave;res. Il l&#039;autorise &agrave; collecter des donn&eacute;es publiques sur les plateformes en ligne pendant 15&nbsp;jours, via des comptes d&eacute;di&eacute;s e",
-    auto: true
-  },
-  {
-    id: "auto-1775725277-69",
-    title: "Données relatives au genre : la libre circulation au service de la reconnaissance transgenre",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/donnees-relatives-au-genre-la-libre-circulation-au-service-de-la-reconnaissance-transgenre-DNU100e8",
-    source: "Lextenso",
-    date: "2026-04-08",
-    cat: "Jurisprudence",
-    desc: "Dans l&#039;arr&ecirc;t Shipova du 12&nbsp;mars 2026, la Cour de justice impose aux &Eacute;tats membres de reconna&icirc;tre le changement d&#039;identit&eacute; de genre au nom de la libre circulation. Cet arr&ecirc;t important est &agrave; mettre en perspective avec les arr&ecirc;ts Mousse et Deldits dans lesquels la CJUE s&#039;&eacute;tait fon",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-22T10:44:27";
+window.AUTO_VEILLE_UPDATED = "2026-05-23T09:45:58";
