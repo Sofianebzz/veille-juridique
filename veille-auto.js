@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-23T09:45:58
+// Dernière collecte : 2026-05-24T09:50:02
 window.AUTO_VEILLE = [
   {
     id: "auto-1779529522-25",
@@ -772,6 +772,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1779616160-25",
+    title: "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+    url: "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
+    source: "EDPB",
+    date: "2026-04-09",
+    cat: "RGPD",
+    desc: "Brussels, 09 April - The European Data Protection Board (EDPB) has published its&nbsp; 2025 Annual Report . The report provides an overview of the EDPB work carried out in 2025 and reflects on important milestones, such as the adoption of the&nbsp; Helsinki Statement on Enhanced Clarity, Support, and Engagement . “In 2025, we saw the data protectio",
+    auto: true
+  },
+  {
     id: "auto-1775896507-26",
     title: "Observatoire des marchés des communications électroniques",
     url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/observatoire-des-marches-des-communications-electroniques-t42025-090426.html",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Les feuilles de route de la sécurité numérique de l’État, établies annuellement, fixent les efforts prioritaires que doivent fournir les […]",
     auto: true
   },
-  {
-    id: "auto-1775811714-26",
-    title: "Décision n° 2026-1190 QPC du 10 avril 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261190QPC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-04-09",
-    cat: "Jurisprudence",
-    desc: "Sociétés Legrand SNC et autres [Contestation des perquisitions et saisies dans le cadre d&#039;une information judiciaire]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-23T09:45:58";
+window.AUTO_VEILLE_UPDATED = "2026-05-24T09:50:02";
