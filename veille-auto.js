@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-27T11:32:29
+// Dernière collecte : 2026-05-28T11:31:56
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1779967880-66",
+    title: "Pixels de suivi dans les courriels : la CNIL étend la logique des cookies à l'e-mailing",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/pixels-de-suivi-dans-les-courriels-la-cnil-etend-la-logique-des-cookies-a-l-e-mailing-DNU100f8",
+    source: "Lextenso",
+    date: "2026-06-08",
+    cat: "RGPD",
+    desc: "La CNIL a adopt&eacute;, le 12&nbsp;mars 2026, une recommandation relative aux pixels de suivi dans les courriels, destin&eacute;e &agrave; pr&eacute;ciser l&#039;application de l&#039;article&nbsp;82 de la loi Informatique et libert&eacute;s aux dispositifs de tracking ins&eacute;r&eacute;s dans les courriels. CNIL, D&eacute;lib. n&deg;&nbsp;2026-",
+    auto: true
+  },
   {
     id: "auto-1779881507-64",
     title: "Apple condamné pour violation du droit des clauses abusives et du droit des données personnelles",
@@ -9,6 +19,46 @@ window.AUTO_VEILLE = [
     date: "2026-06-08",
     cat: "RGPD",
     desc: "Apr&egrave;s avoir jug&eacute; recevable l&#039;action intent&eacute;e par une association de consommateurs contre la soci&eacute;t&eacute; Apple, la cour d&#039;appel de Paris condamne celle-ci &agrave; r&eacute;parer le pr&eacute;judice caus&eacute; &agrave; l&#039;int&eacute;r&ecirc;t collectif des consommateurs par les clauses abusives et illic",
+    auto: true
+  },
+  {
+    id: "auto-1779967880-0",
+    title: "Données de santé : sanction de 5 millions d’euros à l’encontre de la société IQVIA",
+    url: "https://www.cnil.fr/fr/donnees-sante-sanction-5-millions-iqvia",
+    source: "CNIL",
+    date: "2026-05-28",
+    cat: "Jurisprudence",
+    desc: "Le 26 mai 2026, la société IQVIA OPERATIONS FRANCE a été sanctionnée d’une amende de 5&amp;nbsp;millions d’euros, notamment pour non-respect des garanties visant à limiter les risques pour les personnes dans le cadre de la gestion d’entrepôts de données de santé.",
+    auto: true
+  },
+  {
+    id: "auto-1779967880-49",
+    title: "From technological dependency to economic capture: the cost of cloud & software services inflation to Europe",
+    url: "https://www.cigref.fr/from-technological-dependency-to-economic-capture-the-cost-of-cloud-software-services-inflation-to-europe",
+    source: "CIGREF",
+    date: "2026-05-28",
+    cat: "Contrats IT",
+    desc: "Asterès publishes a second study commissioned by Cigref. Focusing on the capture of economic value linked to technological dependencies, it presents a unique and unequivocal assessment. The rising costs of cloud and software services are no longer merely a budgetary challenge; they are becoming a systemic threat to the European economy. In 2025, As",
+    auto: true
+  },
+  {
+    id: "auto-1779967880-50",
+    title: "De la dépendance technologique à la captation économique : ce que les hausses tarifaires du cloud-logiciel coûtent à l’Europe",
+    url: "https://www.cigref.fr/de-la-dependance-technologique-a-la-captation-economique-ce-que-les-hausses-tarifaires-du-cloud-logiciel-coutent-a-leurope",
+    source: "CIGREF",
+    date: "2026-05-28",
+    cat: "Contrats IT",
+    desc: "Asterès publie une seconde étude commandée par le Cigref. Consacrée à la captation de valeur économique liée aux dépendances technologiques, elle dresse un constat inédit et sans appel. L’inflation tarifaire des services de cloud et de logiciels n’est plus seulement un défi budgétaire, elle devient une menace systémique pour l’économie européenne.&",
+    auto: true
+  },
+  {
+    id: "auto-1779967880-1",
+    title: "« IA générative et vie privée » : une affiche coproduite par la PIPC et la CNIL pour sensibiliser les utilisateurs d’IA à la protection de leurs données",
+    url: "https://www.cnil.fr/fr/ia-generative-et-vie-privee-affiche-coproduite-pipc-cnil",
+    source: "CNIL",
+    date: "2026-05-27",
+    cat: "RGPD",
+    desc: "Dans le cadre de leur partenariat, la CNIL et la PIPC (autorité de protection des données de la Corée du Sud) ont produit une affiche pour expliquer comment protéger ses données personnelles lorsqu'on utilise des services d'IA générative.",
     auto: true
   },
   {
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Lundi 13 avril 2026, le vice-président du Conseil d’État, Didier-Roland Tabuteau, a reçu une délégation du Conseil d’État égyptien conduite par son président Osama Youssef Shalaby.",
     auto: true
   },
-  {
-    id: "auto-1776244327-38",
-    title: "Enhancing compliance and consistency: EDPB adopts DPIA template",
-    url: "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
-    source: "EDPB",
-    date: "2026-04-14",
-    cat: "RGPD",
-    desc: "Brussels, 14 April - In line with the EDPB’s Helsinki Statement to make GDPR compliance easier and strengthen consistency across Europe, the EDPB has adopted a template for Data Protection Impact Assessments (DPIA) . The template will help organisations structure, harmonise and evidence their DPIA reporting processes. The template is complemented b",
-    auto: true
-  },
-  {
-    id: "auto-1776157855-0",
-    title: "Pixels de suivi dans les courriers électroniques : vous devez être mieux informés",
-    url: "https://www.cnil.fr/fr/pixels-de-suivi-dans-les-courriers-electroniques-vous-devez-etre-mieux-informes",
-    source: "CNIL",
-    date: "2026-04-14",
-    cat: "RGPD",
-    desc: "Ouvrir un courriel est devenu un geste banal du quotidien. Certains messages contiennent pourtant des traceurs qui peuvent collecter des informations sur vos habitudes numériques. La CNIL vous explique vos droits&amp;nbsp;: vous devez être mieux informés et garder le contrôle.",
-    auto: true
-  },
-  {
-    id: "auto-1776157855-1",
-    title: "Pixels de suivi dans les courriers électroniques : la CNIL publie ses recommandations pour mieux protéger la vie privée",
-    url: "https://www.cnil.fr/fr/recommandation-pixel-suivi-courriels",
-    source: "CNIL",
-    date: "2026-04-14",
-    cat: "RGPD",
-    desc: "À l’issue d’une consultation publique, la CNIL publie la version finale de ses recommandations sur les pixels de suivi dans les courriels. Elle précise le cadre applicable afin d’aider les acteurs à mieux comprendre leurs obligations et assurer le respect des droits des personnes concernées.",
-    auto: true
-  },
-  {
-    id: "auto-1776157855-2",
-    title: "Le France Cybersecurity Challenge arrive à son terme",
-    url: "http://cyber.gouv.fr/actualites/le-france-cybersecurity-challenge-arrive-a-son-terme/",
-    source: "ANSSI",
-    date: "2026-04-13",
-    cat: "Cybersécurité",
-    desc: "L’édition 2026 du France Cybersecurity Challenge (FCSC) s’est tenue du vendredi 3 au dimanche 12 avril, une compétition que l’ANSSI […]",
-    auto: true
-  },
-  {
-    id: "auto-1776157855-28",
-    title: "Ateliers de la simplification du Conseil d’État : nouvelle étude sur le contentieux environnemental",
-    url: "https://www.conseil-etat.fr/actualites/ateliers-de-la-simplification-du-conseil-d-etat-nouvelle-etude-sur-le-contentieux-environnemental",
-    source: "Conseil d'État",
-    date: "2026-04-13",
-    cat: "Jurisprudence",
-    desc: "En 2024, le Conseil d’État a lancé les « ateliers de la simplification » pour accompagner le Gouvernement dans la simplification de la norme existante afin de faciliter la mise en œuvre de l’action publique. Une nouvelle étude est disponible sur le contentieux environnemental et notamment sur les au",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-27T11:32:29";
+window.AUTO_VEILLE_UPDATED = "2026-05-28T11:31:56";
