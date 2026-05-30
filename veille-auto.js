@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-05-29T11:22:08
+// Dernière collecte : 2026-05-30T09:53:11
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1780134768-68",
+    title: "Escroquerie en ligne et responsabilité classique des acteurs numériques et bancaires",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/escroquerie-en-ligne-et-responsabilite-classique-des-acteurs-numeriques-et-bancaires-DNU100f9",
+    source: "Lextenso",
+    date: "2026-06-08",
+    cat: "Plateformes",
+    desc: "Saisi d&#039;un litige n&eacute; d&#039;une escroquerie commise par l&#039;interm&eacute;diaire d&#039;un faux profil sur LinkedIn, le tribunal judiciaire de Paris refuse d&#039;engager la responsabilit&eacute; de la soci&eacute;t&eacute; fran&ccedil;aise de la plateforme ainsi que celle de la banque ayant ex&eacute;cut&eacute; les virements litigi",
+    auto: true
+  },
   {
     id: "auto-1779967880-66",
     title: "Pixels de suivi dans les courriels : la CNIL étend la logique des cookies à l'e-mailing",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Latest EDPS newsletter out now ileanjoh Fri, 04/17/2026 - 12:12 Mon, 04/20/2026 - 12:00 Welcome to this edition of the EDPS Newsletter, focusing on new regulatory roles and essential safeguards . Catch up on our joint opinions regarding the European Biotech Act and the EU's cybersecurity package, the launch of the EDPS Compass for the AI Act, refle",
     auto: true
   },
-  {
-    id: "auto-1776501644-26",
-    title: "[18/05] Rapport d’activité 2025 de la juridiction administrative : Rencontre-débat au Conseil d’État",
-    url: "https://www.conseil-etat.fr/actualites/18-05-rapport-d-activite-2025-de-la-juridiction-administrative-rencontre-debat-au-conseil-d-etat",
-    source: "Conseil d'État",
-    date: "2026-04-17",
-    cat: "Jurisprudence",
-    desc: "Rapport d&rsquo;activit&eacute; 2025 de la juridiction administrative Rencontre-d&eacute;bat au Conseil d&rsquo;&Eacute;tat Lundi 18 mai 2026, 17h30 &agrave; 19h30 A suivre en pr&eacute;sentiel ( inscription /&nbsp; avocats ) ou en direct sur cette page",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-05-29T11:22:08";
+window.AUTO_VEILLE_UPDATED = "2026-05-30T09:53:11";
