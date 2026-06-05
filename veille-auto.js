@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-04T11:00:57
+// Dernière collecte : 2026-06-05T11:21:03
 window.AUTO_VEILLE = [
   {
     id: "auto-1780134768-68",
@@ -29,6 +29,26 @@ window.AUTO_VEILLE = [
     date: "2026-06-08",
     cat: "RGPD",
     desc: "Apr&egrave;s avoir jug&eacute; recevable l&#039;action intent&eacute;e par une association de consommateurs contre la soci&eacute;t&eacute; Apple, la cour d&#039;appel de Paris condamne celle-ci &agrave; r&eacute;parer le pr&eacute;judice caus&eacute; &agrave; l&#039;int&eacute;r&ecirc;t collectif des consommateurs par les clauses abusives et illic",
+    auto: true
+  },
+  {
+    id: "auto-1780658436-0",
+    title: "Ordre du jour de la séance plénière du 4 juin 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-4-juin-2026",
+    source: "CNIL",
+    date: "2026-06-04",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 4 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1780658436-54",
+    title: "Souveraineté et résilience numériques : note de position doctrinale du Cigref",
+    url: "https://www.cigref.fr/souverainete-et-resilience-numeriques-note-de-position-doctrinale-du-cigref",
+    source: "CIGREF",
+    date: "2026-06-04",
+    cat: "Cybersécurité",
+    desc: "Face à l&#8217;intensification des rivalités géopolitiques et à l&#8217;état de polycrise permanent, le concept de « souveraineté numérique » est devenu omniprésent. Cependant, son utilisation excessive par les acteurs du marché l&#8217;a progressivement transformé en un simple argument marketing, créant une profonde confusion sémantique et opérati",
     auto: true
   },
   {
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux nouvelles règles de ciblage électoral.",
     auto: true
   },
-  {
-    id: "auto-1776763157-26",
-    title: "Séminaire bilatéral avec le Conseil d’État grec",
-    url: "https://www.conseil-etat.fr/actualites/seminaire-bilateral-avec-le-conseil-d-etat-grec",
-    source: "Conseil d'État",
-    date: "2026-04-20",
-    cat: "Jurisprudence",
-    desc: "Les jeudi 16 et vendredi 17 avril 2026, le vice-président du Conseil d’État, Didier-Roland Tabuteau, a accueilli une délégation du Conseil d’État grec* conduite par son président, Michail Pikramenos, pour la troisième édition des séminaires bilatéraux entre les deux institutions.",
-    auto: true
-  },
-  {
-    id: "auto-1776678774-40",
-    title: "Latest EDPS newsletter out now",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/latest-edps-newsletter-out-now-0",
-    source: "EDPS",
-    date: "2026-04-17",
-    cat: "Cybersécurité",
-    desc: "Latest EDPS newsletter out now ileanjoh Fri, 04/17/2026 - 12:12 Mon, 04/20/2026 - 12:00 Welcome to this edition of the EDPS Newsletter, focusing on new regulatory roles and essential safeguards . Catch up on our joint opinions regarding the European Biotech Act and the EU's cybersecurity package, the launch of the EDPS Compass for the AI Act, refle",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-04T11:00:57";
+window.AUTO_VEILLE_UPDATED = "2026-06-05T11:21:03";
