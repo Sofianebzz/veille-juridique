@@ -30,6 +30,16 @@
     "auto": true
   },
   {
+    "id": "auto-1780739856-16",
+    "title": "Prêt de la Tapisserie de Bayeux : Rejet de la requête dirigée contre la décision du Président de la République qui est liée aux relations interna...",
+    "url": "https://www.conseil-etat.fr/actualites/pret-de-la-tapisserie-de-bayeux-rejet-de-la-requete-dirigee-contre-la-decision-du-president-de-la-republique-qui-est-liee-aux-relations-interna",
+    "source": "Conseil d'État",
+    "date": "2026-06-05",
+    "cat": "Jurisprudence",
+    "desc": "Saisi par une association de défense du patrimoine, le Conseil d’Etat rejette la demande d’annulation de la décision du Président de la République de prêter au Royaume-Uni la Tapisserie de Bayeux. Ce prêt a été annoncé lors d’une visite d’Etat au Royaume-Uni, dans le cadre d’une déclaration relative",
+    "auto": true
+  },
+  {
     "id": "auto-1780658436-0",
     "title": "Ordre du jour de la séance plénière du 4 juin 2026",
     "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-4-juin-2026",
@@ -47,6 +57,16 @@
     "date": "2026-06-04",
     "cat": "Cybersécurité",
     "desc": "Face à l&#8217;intensification des rivalités géopolitiques et à l&#8217;état de polycrise permanent, le concept de « souveraineté numérique » est devenu omniprésent. Cependant, son utilisation excessive par les acteurs du marché l&#8217;a progressivement transformé en un simple argument marketing, créant une profonde confusion sémantique et opérati",
+    "auto": true
+  },
+  {
+    "id": "auto-1780739856-15",
+    "title": "Décision n° 2026-1201 QPC du 2 juin 2026 - Communiqué de presse",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1201-qpc-du-2-juin-2026-communique-de-presse",
+    "source": "Conseil constitutionnel",
+    "date": "2026-06-02",
+    "cat": "Jurisprudence",
+    "desc": "Le mercredi 27 mai, le Conseil constitutionnel a tenu sa 13e audience publique « hors-les murs » au Tribunal judiciaire de Mende. Cette audience portait sur deux questions prioritaires de constitutionnalité (QPC) dont l’affaire 2026-1201 QPC relative à la notification du droit de se taire lors d’une procédure de sanction administrative en droit de ",
     "auto": true
   },
   {
@@ -777,26 +797,6 @@
     "date": "2026-04-22",
     "cat": "Cybersécurité",
     "desc": "La sécurisation du cycle de développement logiciel n’est plus une option : c’est un enjeu stratégique ! Face à l’ […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1776763157-53",
-    "title": "Agression sexuelle sur mineur : anonymisation mais pas de suppression",
-    "url": "https://www.legalis.net/actualite/agression-sexuelle-sur-mineur-anonymisation-mais-pas-de-suppression/",
-    "source": "Legalis",
-    "date": "2026-04-21",
-    "cat": "Jurisprudence",
-    "desc": "Par un jugement du 8 avril 2026, le tribunal judiciaire de Paris a rejeté la demande de l’ex-chef de chœur de la maîtrise d’une cathédrale de supprimer de la page Wikipedia consacrée à la maîtrise, le paragraphe évoquant sa condamnation en 2007 pour agression sexuelle sur mineur. « La commission par le passé, même ancien, [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1776763157-0",
-    "title": "Revoir le webinaire - Élections municipales 2026 : quelles sont les nouvelles règles de ciblage électoral ?",
-    "url": "https://www.cnil.fr/fr/revoir-le-webinaire-elections-municipales-2026",
-    "source": "CNIL",
-    "date": "2026-04-20",
-    "cat": "RGPD",
-    "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux nouvelles règles de ciblage électoral.",
     "auto": true
   }
 ]
