@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-07T10:23:57
+// Dernière collecte : 2026-06-08T12:23:43
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1780921380-0",
+    title: "G7 : Retour sur la réunion plénière du groupe de travail dédié à la cybersécurité",
+    url: "http://cyber.gouv.fr/actualites/g7-retour-sur-la-r%C3%A9union-pl%C3%A9ni%C3%A8re-du-groupe-de-travail-d%C3%A9di%C3%A9-%C3%A0-la-cybers%C3%A9curit%C3%A9/",
+    source: "ANSSI",
+    date: "2026-06-08",
+    cat: "Cybersécurité",
+    desc: "Dans le cadre de la présidence française du G7, l’ANSSI a accueilli à Paris, le 27 mai 2026, la réunion […]",
+    auto: true
+  },
+  {
+    id: "auto-1780921380-43",
+    title: "Lutte contre le piratage en ligne : la réponse graduée n'est pas conforme au droit européen",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/lutte-contre-le-piratage-en-ligne-la-reponse-graduee-n-est-pas-conforme-au-droit-europeen-DNU100g0",
+    source: "Lextenso",
+    date: "2026-06-08",
+    cat: "Jurisprudence",
+    desc: "Tirant les cons&eacute;quences de l&#039;arr&ecirc;t de la CJUE du 30&nbsp;avril 2024, le Conseil d&#039;&Eacute;tat consid&egrave;re que le dispositif de r&eacute;ponse gradu&eacute;e, mis en place pour lutter contre le piratage en ligne d&#039;&oelig;uvres prot&eacute;g&eacute;es, est contraire au droit de l&#039;Union europ&eacute;enne. CE, 30&n",
+    auto: true
+  },
   {
     id: "auto-1780134768-68",
     title: "Escroquerie en ligne et responsabilité classique des acteurs numériques et bancaires",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection . The event will take place on 29 June 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. ",
     auto: true
   },
-  {
-    id: "auto-1776936051-0",
-    title: "Lignes directrices pour la recherche scientifique et certification : les derniers documents adoptés par le CEPD",
-    url: "https://www.cnil.fr/fr/cepd-lignes-directrices-pour-la-recherche-scientifique-et-certification",
-    source: "CNIL",
-    date: "2026-04-22",
-    cat: "RGPD",
-    desc: "Lors de sa dernière session plénière, le Comité européen de la protection des données (CEPD) a adopté des lignes directrices dans le domaine de la recherche médicale et scientifique, ainsi que deux avis concernant la certification européenne Europrivacy.",
-    auto: true
-  },
-  {
-    id: "auto-1776936051-1",
-    title: "S-SDLC et DevSecOps en Europe : Enjeux actuels et perspectives d’avenir",
-    url: "http://cyber.gouv.fr/actualites/s-sdlc-et-devsecops-enjeux-et-perspectives/",
-    source: "ANSSI",
-    date: "2026-04-22",
-    cat: "Cybersécurité",
-    desc: "La sécurisation du cycle de développement logiciel n’est plus une option : c’est un enjeu stratégique ! Face à l’ […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-07T10:23:57";
+window.AUTO_VEILLE_UPDATED = "2026-06-08T12:23:43";
