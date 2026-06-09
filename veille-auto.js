@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-08T12:23:43
+// Dernière collecte : 2026-06-09T10:55:19
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1781002501-25",
+    title: "Concurrence",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/concurrence-080626.html",
+    source: "ARCEP",
+    date: "2026-06-08",
+    cat: "Plateformes",
+    desc: "Rachat de SFR : l’Arcep prend acte de la signature d’un protocole d’accord par Bouygues Telecom, le groupe Iliad et Orange",
+    auto: true
+  },
   {
     id: "auto-1780921380-0",
     title: "G7 : Retour sur la réunion plénière du groupe de travail dédié à la cybersécurité",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection .&nbsp; The event is an opportunity for stakeholders to inform and support the ongoing work on this topic. It also reflects the EDPB’s co",
     auto: true
   },
-  {
-    id: "auto-1776936051-37",
-    title: "Stakeholder event on competition and data protection: save the date",
-    url: "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection-save-date_en",
-    source: "EDPB",
-    date: "2026-04-23",
-    cat: "RGPD",
-    desc: "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection . The event will take place on 29 June 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. ",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-08T12:23:43";
+window.AUTO_VEILLE_UPDATED = "2026-06-09T10:55:19";
