@@ -1,6 +1,56 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-09T10:55:19
+// Dernière collecte : 2026-06-10T11:34:17
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1781091214-0",
+    title: "L’ANSSI accompagne les organisateurs dans la cybersécurité du Sommet du G7 à Evian",
+    url: "http://cyber.gouv.fr/actualites/lanssi-accompagne-les-organisateurs-dans-la-cybersecurite-du-sommet-du-g7-a-evian/",
+    source: "ANSSI",
+    date: "2026-06-09",
+    cat: "Cybersécurité",
+    desc: "Dans un contexte de fortes tensions géopolitiques mondiales, la présidence française du G7 en 2026 est exposée à de potentielles […]",
+    auto: true
+  },
+  {
+    id: "auto-1781091214-15",
+    title: "Coopération entre régulateurs",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/cooperation-entre-regulateurs-090626.html",
+    source: "ARCEP",
+    date: "2026-06-09",
+    cat: "Plateformes",
+    desc: "Rencontre semestrielle des autorités administratives et publiques indépendantes : l’IA au service de la régulation",
+    auto: true
+  },
+  {
+    id: "auto-1781091214-54",
+    title: "Le contrat portant sur la conception et la réalisation d'un site internet n'est pas une vente",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/le-contrat-portant-sur-la-conception-et-la-realisation-d-un-site-internet-n-est-pas-une-vente-DNU100g3",
+    source: "Lextenso",
+    date: "2026-06-08",
+    cat: "Contrats IT",
+    desc: "Le contrat ayant pour objet la conception et la r&eacute;alisation d&#039;un site internet n&#039;est pas un contrat de vente mais un contrat de prestation de services. Partant, lorsqu&#039;un tel contrat est conclu hors &eacute;tablissement, le consommateur b&eacute;n&eacute;ficie d&#039;un droit de r&eacute;tractation dont le d&eacute;lai d&#039;",
+    auto: true
+  },
+  {
+    id: "auto-1781091214-55",
+    title: "Le droit à l'effacement d'une condamnation pénale nominative",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/le-droit-a-l-effacement-d-une-condamnation-penale-nominative-DNU100g2",
+    source: "Lextenso",
+    date: "2026-06-08",
+    cat: "RGPD",
+    desc: "La mention nominative d&#039;une condamnation p&eacute;nale sur une plateforme encyclop&eacute;dique constitue un traitement de donn&eacute;es personnelles sensibles&nbsp;dont la lic&eacute;it&eacute; suppose une mise en balance entre le droit &agrave; l&#039;oubli et le droit &agrave; l&#039;information du public. Apr&egrave;s un contr&ocirc;le de",
+    auto: true
+  },
+  {
+    id: "auto-1781091214-56",
+    title: "Cloud souverain et données sensibles de l'État : le décret du 14 avril 2026, étape attendue d'une souveraineté en chantier",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/cloud-souverain-et-donnees-sensibles-de-l-etat-le-decret-du-14-avril-2026-etape-attendue-d-une-souverainete-en-chantier-DNU100g1",
+    source: "Lextenso",
+    date: "2026-06-08",
+    cat: "Contrats IT",
+    desc: "Pr&egrave;s de deux ans apr&egrave;s la promulgation de la loi SREN, le d&eacute;cret du 14&nbsp;avril 2026 rend enfin opposable l&#039;obligation, pour les administrations de l&#039;&Eacute;tat, ses op&eacute;rateurs et six groupements d&#039;int&eacute;r&ecirc;t public, de recourir &agrave; des prestataires cloud qualifi&eacute;s SecNumCloud pour",
+    auto: true
+  },
   {
     id: "auto-1781002501-25",
     title: "Concurrence",
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Recommandé par la CNIL, le rapport d’activité du délégué / de la déléguée à la protection des données participe au pilotage de la conformité et permet au DPO de rendre compte de son activité à la direction. Pour favoriser et faciliter son élaboration, la CNIL propose un modèle.",
     auto: true
   },
-  {
-    id: "auto-1777370895-2",
-    title: "Locked Shields 2026 : la France se distingue",
-    url: "http://cyber.gouv.fr/actualites/locked-shields-2026-la-france-se-distingue/",
-    source: "ANSSI",
-    date: "2026-04-27",
-    cat: "Cybersécurité",
-    desc: "Le Centre d’excellence de cyberdéfense coopérative de l’OTAN (CCDCOE) a organisé, entre le 13 avril et le 24 avril 2026, […]",
-    auto: true
-  },
-  {
-    id: "auto-1777284529-35",
-    title: "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
-    url: "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
-    source: "EDPB",
-    date: "2026-04-27",
-    cat: "RGPD",
-    desc: "Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for organisations across Europe. The moment that led to the creation of the EDPB The GDPR led to the establishment of the European Dat",
-    auto: true
-  },
-  {
-    id: "auto-1777106617-0",
-    title: "Vote par correspondance électronique : la CNIL met à jour sa recommandation",
-    url: "https://www.cnil.fr/fr/recommandation-vote-electronique",
-    source: "CNIL",
-    date: "2026-04-24",
-    cat: "RGPD",
-    desc: "À l’issue d’une consultation publique, la CNIL actualise sa recommandation sur la sécurité des systèmes de vote par correspondance électronique. Elle offre un cadre plus clair et plus opérationnel, en maintenant un haut niveau d’exigence en matière de sécurité, de confidentialité et de sincérité du scrutin.&amp;nbsp;",
-    auto: true
-  },
-  {
-    id: "auto-1778317947-14",
-    title: "Couverture mobile",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-230426.html",
-    source: "ARCEP",
-    date: "2026-04-23",
-    cat: "Plateformes",
-    desc: "« Mon réseau mobile » : l’Arcep lance une consultation publique pour adapter les cartes de couverture aux évolutions technologiques",
-    auto: true
-  },
-  {
-    id: "auto-1777543244-35",
-    title: "Stakeholder event on competition and data protection",
-    url: "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
-    source: "EDPB",
-    date: "2026-04-23",
-    cat: "RGPD",
-    desc: "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection .&nbsp; The event is an opportunity for stakeholders to inform and support the ongoing work on this topic. It also reflects the EDPB’s co",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-09T10:55:19";
+window.AUTO_VEILLE_UPDATED = "2026-06-10T11:34:17";
