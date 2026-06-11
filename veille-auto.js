@@ -1,6 +1,56 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-10T11:34:17
+// Dernière collecte : 2026-06-11T12:05:30
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1781179511-27",
+    title: "Réseaux du futur",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-du-futur-110626.html",
+    source: "ARCEP",
+    date: "2026-06-11",
+    cat: "Plateformes",
+    desc: "« Les technologies du quantique et leur impact sur les réseaux », cinquième note publiée par l’Arcep dans le cadre de son cycle de réflexion prospective « Réseaux du futur »",
+    auto: true
+  },
+  {
+    id: "auto-1781179511-0",
+    title: "Le CEPD rencontre le commissaire européen McGrath et adopte un modèle commun de notification des violations de données",
+    url: "https://www.cnil.fr/fr/le-cepd-rencontre-le-commissaire-europeen-mcgrath-et-adopte-un-modele-commun-de-notification-des",
+    source: "CNIL",
+    date: "2026-06-10",
+    cat: "RGPD",
+    desc: "Lors de sa dernière session plénière, le CEPD a rencontré Michael McGrath, commissaire européen chargé de la démocratie, de la justice, de l'État de droit et de la protection des consommateurs. Par ailleurs, le CEPD a adopté un&amp;nbsp;modèle commun de notification des violations de données.",
+    auto: true
+  },
+  {
+    id: "auto-1781179511-1",
+    title: "Communications par voie électronique aux prospects et clients : quelles règles respecter ?",
+    url: "https://www.cnil.fr/fr/communication-electronique-quelles-regles",
+    source: "CNIL",
+    date: "2026-06-10",
+    cat: "RGPD",
+    desc: "Prospection commerciale, messages d’information… les entreprises échangent régulièrement avec leurs prospects et leurs clients. Selon les cas, les personnes doivent soit donner leur accord préalable, soit pouvoir s’opposer facilement.",
+    auto: true
+  },
+  {
+    id: "auto-1781179511-28",
+    title: "Extinction des réseaux mobiles 2G et 3G",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/extinction-des-reseaux-mobiles-2g-et-3g-100626.html",
+    source: "ARCEP",
+    date: "2026-06-10",
+    cat: "Plateformes",
+    desc: "L’accélération de la migration des terminaux « 2G » doit encore s’amplifier",
+    auto: true
+  },
+  {
+    id: "auto-1781179511-34",
+    title: "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+    url: "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
+    source: "EDPB",
+    date: "2026-06-10",
+    cat: "Cybersécurité",
+    desc: "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template . The Board held a meeting with Commissioner McGrath, engaging in a fruitful discussion about common priorities ",
+    auto: true
+  },
   {
     id: "auto-1781091214-0",
     title: "L’ANSSI accompagne les organisateurs dans la cybersécurité du Sommet du G7 à Evian",
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Après avoir interrogé la Cour de justice de l’Union européenne, le Conseil d’État juge aujourd’hui que le dispositif de « réponse graduée » pour lutter contre le piratage en ligne d’œuvres protégées n’est pas conforme au droit européen, car il n’impose pas que les données utilisées par l’Arcom soien",
     auto: true
   },
-  {
-    id: "auto-1777543244-0",
-    title: "Revoir le webinaire - Usages numériques des enfants : comment sensibiliser les parents-salariés ?",
-    url: "https://www.cnil.fr/fr/revoir-le-webinaire-numerique-enfants-sensibilisation-parents-salaries",
-    source: "CNIL",
-    date: "2026-04-30",
-    cat: "RGPD",
-    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux usages numériques des enfants.",
-    auto: true
-  },
-  {
-    id: "auto-1777543244-1",
-    title: "Open-source : L’ANSSI maintient le projet Keysas et en transfère la maintenance à la société Tyrex",
-    url: "http://cyber.gouv.fr/actualites/open-source-lanssi-maintient-le-projet-keysas-et-en-transf%C3%A8re-la-maintenance-%C3%A0-la-soci%C3%A9t%C3%A9-tyrex/",
-    source: "ANSSI",
-    date: "2026-04-29",
-    cat: "Cybersécurité",
-    desc: "Développé par l’ANSSI dans le cadre de ses travaux et mis à disposition de tous en open-source depuis plusieurs années, […]",
-    auto: true
-  },
-  {
-    id: "auto-1777543244-25",
-    title: "Identification individuelle des policiers et gendarmes : le Conseil d’État enjoint au ministre de l’intérieur d’achever avant fin 2026 la mise en œ...",
-    url: "https://www.conseil-etat.fr/actualites/identification-individuelle-des-policiers-et-gendarmes-le-conseil-d-etat-enjoint-au-ministre-de-l-interieur-d-achever-avant-fin-2026-la-mise-en-ae",
-    source: "Conseil d'État",
-    date: "2026-04-29",
-    cat: "Jurisprudence",
-    desc: "Saisi par deux associations, le Conseil d’État enjoint aujourd’hui au ministre de l’intérieur de mettre en œuvre sans délai toutes les mesures annoncées pour garantir que le numéro d’identification individuel soit effectivement porté par les policiers et gendarmes. Il lui enjoint également de comman",
-    auto: true
-  },
-  {
-    id: "auto-1777370895-0",
-    title: "Commerce de détail : la CNIL approuve le code de conduite porté par l’Alliance du Commerce",
-    url: "https://www.cnil.fr/fr/la-cnil-approuve-le-code-de-conduite-porte-par-lalliance-du-commerce",
-    source: "CNIL",
-    date: "2026-04-28",
-    cat: "RGPD",
-    desc: "Ce code&amp;nbsp;de&amp;nbsp;conduite aide les commerçants français du secteur de l’habillement et de la chaussure à s’engager en faveur de la protection de leurs clients. Il traduit concrètement les exigences du RGPD et renforce la protection des données dans la vente et la distribution, aussi bien en magasin qu’en ligne.",
-    auto: true
-  },
-  {
-    id: "auto-1777370895-1",
-    title: "Le rapport d’activité du DPO : piloter la conformité et valoriser ses actions",
-    url: "https://www.cnil.fr/fr/rapport-activite-dpo",
-    source: "CNIL",
-    date: "2026-04-27",
-    cat: "RGPD",
-    desc: "Recommandé par la CNIL, le rapport d’activité du délégué / de la déléguée à la protection des données participe au pilotage de la conformité et permet au DPO de rendre compte de son activité à la direction. Pour favoriser et faciliter son élaboration, la CNIL propose un modèle.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-10T11:34:17";
+window.AUTO_VEILLE_UPDATED = "2026-06-11T12:05:30";
