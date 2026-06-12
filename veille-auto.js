@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-11T12:05:30
+// Dernière collecte : 2026-06-12T11:39:09
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1781264325-32",
+    title: "Coordinated Supervision Committee extends scope to include Eurodac",
+    url: "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
+    source: "EDPB",
+    date: "2026-06-12",
+    cat: "RGPD",
+    desc: "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the fingerprints of asylum applicants and irregular migrants, which has evolved into a full asylum",
+    auto: true
+  },
+  {
+    id: "auto-1781264325-63",
+    title: "Condamnation pour atteinte au droit à l’image d’un influenceur",
+    url: "https://www.legalis.net/actualite/condamnation-pour-atteinte-au-droit-a-limage-dun-influenceur/",
+    source: "Legalis",
+    date: "2026-06-11",
+    cat: "Jurisprudence",
+    desc: "La société qui a rediffusé les vidéos de micro-trottoir d’un influenceur qui figurait sur ces images a été condamnée à lui verser 5 000 € de dommages-intérêts en réparation de l’atteinte à son droit à l’image et 2 000 € en application de l’article 700 du code de procédure civile, par un jugement du 6 mai [&#8230;]",
+    auto: true
+  },
   {
     id: "auto-1781179511-27",
     title: "Réseaux du futur",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le Conseil d’État vous propose un nouveau service en ligne de demande de certificat de non recours ou de non-opposition à changement de nom : simple, rapide, conçu pour les justiciables et leurs conseils.",
     auto: true
   },
-  {
-    id: "auto-1777627659-25",
-    title: "Le Conseil d’État rejette le recours formé par La Jeune Garde contre le décret qui prononçait sa dissolution",
-    url: "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-forme-par-la-jeune-garde-contre-le-decret-qui-prononcait-sa-dissolution",
-    source: "Conseil d'État",
-    date: "2026-04-30",
-    cat: "Jurisprudence",
-    desc: "Saisi par La Jeune Garde, le Conseil d’État juge aujourd’hui que la dissolution de ce groupement de fait décidée par le Gouvernement est adaptée, nécessaire et proportionnée à la gravité des atteintes portées à l’ordre public. Il relève que La Jeune Garde a mené et incité à commettre des agissements",
-    auto: true
-  },
-  {
-    id: "auto-1777627659-26",
-    title: "Protection des droits d’auteur contre le piratage : le traitement de données personnelles doit être revu",
-    url: "https://www.conseil-etat.fr/actualites/protection-des-droits-d-auteur-contre-le-piratage-le-traitement-de-donnees-personnelles-doit-etre-revu",
-    source: "Conseil d'État",
-    date: "2026-04-30",
-    cat: "RGPD",
-    desc: "Après avoir interrogé la Cour de justice de l’Union européenne, le Conseil d’État juge aujourd’hui que le dispositif de « réponse graduée » pour lutter contre le piratage en ligne d’œuvres protégées n’est pas conforme au droit européen, car il n’impose pas que les données utilisées par l’Arcom soien",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-11T12:05:30";
+window.AUTO_VEILLE_UPDATED = "2026-06-12T11:39:09";
