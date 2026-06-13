@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1781346178-26",
+    "title": "Colloque bisannuel du Comité franco-britanno-irlandais de coopération judiciaire",
+    "url": "https://www.conseil-etat.fr/actualites/colloque-bisannuel-du-comite-franco-britanno-irlandais-de-cooperation-judiciaire",
+    "source": "Conseil d'État",
+    "date": "2026-06-12",
+    "cat": "Jurisprudence",
+    "desc": "Du 10 au 12 juin 2026, le Comité franco-britanno-irlandais de coopération judiciaire* s’est réuni au Conseil d’État et à la Cour de cassation pour un colloque sur la carrière, la formation, la déontologie et la discipline des magistrates et magistrats.",
+    "auto": true
+  },
+  {
     "id": "auto-1781264325-32",
     "title": "Coordinated Supervision Committee extends scope to include Eurodac",
     "url": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
@@ -780,23 +790,13 @@
     "auto": true
   },
   {
-    "id": "auto-1777712370-37",
-    "title": "New episode of the Newsletter Digest is out",
-    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/new-episode-newsletter-digest-out",
-    "source": "EDPS",
-    "date": "2026-04-30",
-    "cat": "Cybersécurité",
-    "desc": "New episode of the Newsletter Digest is out miriam Thu, 04/30/2026 - 16:32 Fri, 05/01/2026 - 12:00 Curious about how the EU is tackling AI supervision, cybersecurity rules, and data protection in the health industry? Our newest episode breaks it all down. 1 Have a listen",
-    "auto": true
-  },
-  {
-    "id": "auto-1777627659-24",
-    "title": "Nouveau service en ligne : formulaires pour les certificats de non-recours ou de non-opposition à un changement de nom",
-    "url": "https://www.conseil-etat.fr/actualites/nouveau-service-en-ligne-formulaires-pour-les-certificats-de-non-recours-ou-de-non-opposition-a-un-changement-de-nom",
+    "id": "auto-1781346178-27",
+    "title": "Le Conseil d’État rejette le recours formé par La Jeune Garde contre le décret qui prononçait sa dissolution",
+    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-forme-par-la-jeune-garde-contre-le-decret-qui-prononcait-sa-dissolution",
     "source": "Conseil d'État",
     "date": "2026-04-30",
-    "cat": "Cybersécurité",
-    "desc": "Le Conseil d’État vous propose un nouveau service en ligne de demande de certificat de non recours ou de non-opposition à changement de nom : simple, rapide, conçu pour les justiciables et leurs conseils.",
+    "cat": "Jurisprudence",
+    "desc": "",
     "auto": true
   }
 ]
