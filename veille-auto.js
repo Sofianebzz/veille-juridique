@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-13T10:23:24
+// Dernière collecte : 2026-06-14T10:45:25
 window.AUTO_VEILLE = [
   {
     id: "auto-1781346178-26",
@@ -792,14 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1781346178-27",
-    title: "Le Conseil d’État rejette le recours formé par La Jeune Garde contre le décret qui prononçait sa dissolution",
-    url: "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-forme-par-la-jeune-garde-contre-le-decret-qui-prononcait-sa-dissolution",
+    id: "auto-1781433898-26",
+    title: "Nouveau service en ligne : formulaires pour les certificats de non-recours ou de non-opposition à un changement de nom",
+    url: "https://www.conseil-etat.fr/actualites/nouveau-service-en-ligne-formulaires-pour-les-certificats-de-non-recours-ou-de-non-opposition-a-un-changement-de-nom",
     source: "Conseil d'État",
     date: "2026-04-30",
-    cat: "Jurisprudence",
+    cat: "Cybersécurité",
     desc: "",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-13T10:23:24";
+window.AUTO_VEILLE_UPDATED = "2026-06-14T10:45:25";
