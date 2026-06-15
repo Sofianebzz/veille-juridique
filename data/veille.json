@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1781531342-0",
+    "title": "Revoir le webinaire - Pixels de suivi dans les courriels : présentation des recommandations de la CNIL",
+    "url": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-recommandations-cnil",
+    "source": "CNIL",
+    "date": "2026-06-15",
+    "cat": "RGPD",
+    "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
+    "auto": true
+  },
+  {
+    "id": "auto-1781531342-31",
+    "title": "Managing Shadow AI’s Hidden Data Breach Risk",
+    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/managing-shadow-ais-hidden-data-breach-risk",
+    "source": "EDPS",
+    "date": "2026-06-15",
+    "cat": "Cybersécurité",
+    "desc": "Managing Shadow AI’s Hidden Data Breach Risk francesco Mon, 06/15/2026 - 09:25 Mon, 06/15/2026 - 12:00 The use of unauthorised AI tools that can expose personal data, create regulatory blind spots, and open security vulnerabilities. 1 Read blogpost by Wojciech Wiewiórowski",
+    "auto": true
+  },
+  {
     "id": "auto-1781346178-26",
     "title": "Colloque bisannuel du Comité franco-britanno-irlandais de coopération judiciaire",
     "url": "https://www.conseil-etat.fr/actualites/colloque-bisannuel-du-comite-franco-britanno-irlandais-de-cooperation-judiciaire",
@@ -777,26 +797,6 @@
     "date": "2026-05-05",
     "cat": "RGPD",
     "desc": "Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on 9 May 2026 , and we would be delighted to welcome you. Come and visit us We invi",
-    "auto": true
-  },
-  {
-    "id": "auto-1778062272-5",
-    "title": "Publication du rapport d'activité 2025 de l'ANSSI",
-    "url": "http://cyber.gouv.fr/actualites/publication-du-rapport-dactivite-2025-de-lanssi/",
-    "source": "ANSSI",
-    "date": "2026-05-04",
-    "cat": "Cybersécurité",
-    "desc": "L’année 2025 a été marquée par la publication de la Revue nationale Stratégique (RNS) 2025 qui fixe de nouvelles orientations […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1781433898-26",
-    "title": "Nouveau service en ligne : formulaires pour les certificats de non-recours ou de non-opposition à un changement de nom",
-    "url": "https://www.conseil-etat.fr/actualites/nouveau-service-en-ligne-formulaires-pour-les-certificats-de-non-recours-ou-de-non-opposition-a-un-changement-de-nom",
-    "source": "Conseil d'État",
-    "date": "2026-04-30",
-    "cat": "Cybersécurité",
-    "desc": "",
     "auto": true
   }
 ]
