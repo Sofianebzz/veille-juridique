@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1781614054-0",
+    "title": "Appel à manifestation d‘intérêt – Sécurité des écosystèmes de cybersécurité",
+    "url": "http://cyber.sites.beta.gouv.fr/actualites/appel-a-manifestation-dinteret-securite-des-ecosystemes-de-cybersecurite/",
+    "source": "ANSSI",
+    "date": "2026-06-16",
+    "cat": "Cybersécurité",
+    "desc": "L'ANSSI ouvre un appel à manifestation d‘intérêt pour le soutien à la création et le développement d’entités chargées de l’accompagnement […]",
+    "auto": true
+  },
+  {
+    "id": "auto-1781614054-17",
+    "title": "Un mois, une juridiction : le tribunal administratif de Cergy-Pontoise",
+    "url": "https://www.conseil-etat.fr/actualites/un-mois-une-juridiction-le-tribunal-administratif-de-cergy-pontoise2",
+    "source": "Conseil d'État",
+    "date": "2026-06-16",
+    "cat": "Jurisprudence",
+    "desc": "Le 8 juin 2026, le tribunal administratif de Cergy-Pontoise a accueilli le vice-président du Conseil d’État, Marc Guillaume, dans le cadre des rencontres mensuelles en juridiction. L’occasion de découvrir l’activité du tribunal administratif cergyssois, en prise avec le quotidien des citoyens et les",
+    "auto": true
+  },
+  {
     "id": "auto-1781531342-0",
     "title": "Revoir le webinaire - Pixels de suivi dans les courriels : présentation des recommandations de la CNIL",
     "url": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-recommandations-cnil",
@@ -17,6 +37,16 @@
     "date": "2026-06-15",
     "cat": "Cybersécurité",
     "desc": "Managing Shadow AI’s Hidden Data Breach Risk francesco Mon, 06/15/2026 - 09:25 Mon, 06/15/2026 - 12:00 The use of unauthorised AI tools that can expose personal data, create regulatory blind spots, and open security vulnerabilities. 1 Read blogpost by Wojciech Wiewiórowski",
+    "auto": true
+  },
+  {
+    "id": "auto-1781614054-32",
+    "title": "Hired by an algorithm: Data protection and AI regulation in modern HR practices",
+    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/hired-algorithm-data-protection-and-ai-regulation-modern-hr-practices",
+    "source": "EDPS",
+    "date": "2026-06-12",
+    "cat": "IA",
+    "desc": "Hired by an algorithm: Data protection and AI regulation in modern HR practices igkourai Fri, 06/12/2026 - 16:39 Tue, 06/16/2026 - 12:00 On 9 July, together with the EDPB trainees, we invite you to the conference on AI in recruitment. It will look at how artificial intelligence is increasingly used in HR and recruitment processes, along with the da",
     "auto": true
   },
   {
@@ -767,36 +797,6 @@
     "date": "2026-05-05",
     "cat": "RGPD",
     "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 5 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    "auto": true
-  },
-  {
-    "id": "auto-1778062272-30",
-    "title": "Services publics : le Conseil d’État enjoint à l’État de garantir un accès normal à la plateforme en ligne de l’ANEF",
-    "url": "https://www.conseil-etat.fr/actualites/services-publics-le-conseil-d-etat-enjoint-a-l-etat-de-garantir-un-acces-normal-a-la-plateforme-en-ligne-de-l-anef",
-    "source": "Conseil d'État",
-    "date": "2026-05-05",
-    "cat": "Plateformes",
-    "desc": "Saisi par plusieurs associations, le Conseil d’État enjoint aujourd’hui à l’État de prendre plusieurs mesures pour garantir un accès normal des usagers au service public de l’Administration numérique pour les étrangers en France (ANEF). Par cette décision, le Conseil d’État rappelle que toute admini",
-    "auto": true
-  },
-  {
-    "id": "auto-1777974988-0",
-    "title": "IA conversationnelle et santé mentale des jeunes : résultats de l’enquête européenne",
-    "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
-    "source": "CNIL",
-    "date": "2026-05-05",
-    "cat": "RGPD",
-    "desc": "Selon une enquête du Groupe VYV et de la CNIL menée dans quatre pays européens, près de 9 jeunes sur 10 utilisent une IA conversationnelle en France et près d’un sur deux y évoque des sujets personnels, ces outils s’imposant comme des interlocuteurs en matière de santé mentale — non sans risques pour leur bien-être et leurs données.",
-    "auto": true
-  },
-  {
-    "id": "auto-1777974988-33",
-    "title": "Europe Day 2026: let’s celebrate together",
-    "url": "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
-    "source": "EDPB",
-    "date": "2026-05-05",
-    "cat": "RGPD",
-    "desc": "Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on 9 May 2026 , and we would be delighted to welcome you. Come and visit us We invi",
     "auto": true
   }
 ]
