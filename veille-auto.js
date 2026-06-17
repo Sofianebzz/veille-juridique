@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-16T12:48:12
+// Dernière collecte : 2026-06-17T12:12:46
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1781698306-1",
+    title: "Publication d’un nouveau référentiel de formation dédié au pilotage de la remédiation",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/publication-dun-nouveau-r%C3%A9f%C3%A9rentiel-de-formation-d%C3%A9di%C3%A9-au-pilotage-de-la-rem%C3%A9diation/",
+    source: "ANSSI",
+    date: "2026-06-17",
+    cat: "Cybersécurité",
+    desc: "La formation au cœur des missions de l’ANSSI A l’heure où le secteur du numérique en général et particulièrement celui […]",
+    auto: true
+  },
+  {
+    id: "auto-1781698306-0",
+    title: "Nomination de Jean-Michel FIETIER au poste de directeur administratif et financier de la CNIL",
+    url: "https://www.cnil.fr/fr/nomination-jean-michel-fietier",
+    source: "CNIL",
+    date: "2026-06-16",
+    cat: "RGPD",
+    desc: "À compter du 15 juin 2026, Jean-Michel FIETIER est nommé directeur administratif et financier de la CNIL. Il succède à Jean-Marc SALMON, qui occupait ces fonctions depuis 2020.",
+    auto: true
+  },
+  {
+    id: "auto-1781698306-34",
+    title: "Latest EDPS Newsletter out now",
+    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/latest-edps-newsletter-out-now-1",
+    source: "EDPS",
+    date: "2026-06-16",
+    cat: "Plateformes",
+    desc: "Latest EDPS Newsletter out now ileanjoh Tue, 06/16/2026 - 17:08 Wed, 06/17/2026 - 12:00 Welcome to the latest edition of the EDPS Newsletter, featuring active AI governance and major supervisory milestones. Catch up on our Annual Report 2025, recommendations for the EU visa platform chatbot, insights from the Digital Omnibus high-level debate, and ",
+    auto: true
+  },
   {
     id: "auto-1781614054-0",
     title: "Appel à manifestation d‘intérêt – Sécurité des écosystèmes de cybersécurité",
@@ -69,6 +99,16 @@ window.AUTO_VEILLE = [
     date: "2026-06-12",
     cat: "RGPD",
     desc: "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the fingerprints of asylum applicants and irregular migrants, which has evolved into a full asylum",
+    auto: true
+  },
+  {
+    id: "auto-1781698306-17",
+    title: "Marché du haut et du très haut débit fixe",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-du-haut-et-du-tres-haut-debit-fixe-110626.html",
+    source: "ARCEP",
+    date: "2026-06-11",
+    cat: "Plateformes",
+    desc: "95 % des locaux sont raccordables à la fibre optique ; elle représente 84% des abonnements internet",
     auto: true
   },
   {
@@ -761,45 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La Cour de justice pr&eacute;cise le cadre juridique applicable &agrave; la collecte de donn&eacute;es biom&eacute;triques lors d&#039;enqu&ecirc;tes p&eacute;nales. Elle exclut toute collecte syst&eacute;matique sans appr&eacute;ciation individualis&eacute;e de la n&eacute;cessit&eacute; et exige une motivation claire, permettant &agrave; l&#039;i",
     auto: true
   },
-  {
-    id: "auto-1777627659-70",
-    title: "Achats numériques de l'État et souveraineté : la France à l'heure des choix, l'Allemagne en éclaireur",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/achats-numeriques-de-l-etat-et-souverainete-la-france-a-l-heure-des-choix-l-allemagne-en-eclaireur-DNU100f1",
-    source: "Lextenso",
-    date: "2026-05-06",
-    cat: "Jurisprudence",
-    desc: "La circulaire du 5&nbsp;f&eacute;vrier 2026 sur la commande publique num&eacute;rique &eacute;rige la souverainet&eacute; en crit&egrave;re d&#039;achat, mais rel&egrave;gue le logiciel libre &agrave; une recommandation et l&#039;interop&eacute;rabilit&eacute; &agrave; un simple facteur de pond&eacute;ration, en retrait du cadre l&eacute;gislatif n",
-    auto: true
-  },
-  {
-    id: "auto-1777370895-68",
-    title: "RGPD : la CJUE sanctionne l'instrumentalisation du droit d'accès",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/rgpd-la-cjue-sanctionne-l-instrumentalisation-du-droit-d-acces-DNU100f0",
-    source: "Lextenso",
-    date: "2026-05-06",
-    cat: "Jurisprudence",
-    desc: "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
-    auto: true
-  },
-  {
-    id: "auto-1778149003-26",
-    title: "Arrêté fixant la tarification applicable aux réquisitions des opérateurs de communications électroniques",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques.html",
-    source: "ARCEP",
-    date: "2026-05-05",
-    cat: "Jurisprudence",
-    desc: "L’Arcep publie l’avis n°&nbsp;2026‑0564 qu’elle a rendu sur un arrêté pris en application des articles R. 213-1 et R. 213-2 du code de procédure pénale fixant la tarification applicable aux réquisitions des opérateurs de communications électroniques.&nbsp;",
-    auto: true
-  },
-  {
-    id: "auto-1778062272-4",
-    title: "Ordre du jour de la séance plénière du 5 mai 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-mai-2026",
-    source: "CNIL",
-    date: "2026-05-05",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 5 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-16T12:48:12";
+window.AUTO_VEILLE_UPDATED = "2026-06-17T12:12:46";
