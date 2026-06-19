@@ -1,6 +1,56 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-18T11:46:55
+// Dernière collecte : 2026-06-19T12:00:51
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1781870425-0",
+    title: "Sécurité des données : les règles essentielles pour protéger les données et votre activité",
+    url: "https://www.cnil.fr/fr/securite-des-donnees-les-regles-essentielles",
+    source: "CNIL",
+    date: "2026-06-19",
+    cat: "Cybersécurité",
+    desc: "Le numérique offre des opportunités pour développer votre entreprise, mais il s’accompagne aussi de risques concernant la sécurité des données que vous détenez, qu’elles soient personnelles (fichiers clients, employés…) ou non (informations financières, industrielles…). Il est donc impératif de sécuriser les outils que vous utilisez.",
+    auto: true
+  },
+  {
+    id: "auto-1781870425-27",
+    title: "Décision n° 2026-1206 QPC du 19 juin 2026",
+    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261206QPC.htm",
+    source: "Conseil constitutionnel",
+    date: "2026-06-19",
+    cat: "Jurisprudence",
+    desc: "M. Olivier de L. et autre [Condition de desserte effective pour la qualification de terrains à bâtir dans le cadre de l&#039;évaluation de l&#039;indemnité d&#039;expropriation]",
+    auto: true
+  },
+  {
+    id: "auto-1781870425-1",
+    title: "Ordre du jour de la séance plénière du 18 juin 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-18-juin-2026",
+    source: "CNIL",
+    date: "2026-06-18",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 18 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1781870425-28",
+    title: "Décision n° 2026-904 DC du 18 juin 2026 - Communiqué de presse",
+    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-904-dc-du-18-juin-2026-communique-de-presse",
+    source: "Conseil constitutionnel",
+    date: "2026-06-18",
+    cat: "Jurisprudence",
+    desc: "Loi relative à la lutte contre les fraudes sociales et fiscales",
+    auto: true
+  },
+  {
+    id: "auto-1781870425-29",
+    title: "Décision n° 2026-904 DC du 18 juin 2026",
+    url: "https://www.conseil-constitutionnel.fr/decision/2026/2026904DC.htm",
+    source: "Conseil constitutionnel",
+    date: "2026-06-18",
+    cat: "Jurisprudence",
+    desc: "Loi relative à la lutte contre les fraudes sociales et fiscales",
+    auto: true
+  },
   {
     id: "auto-1781698306-1",
     title: "Publication d’un nouveau référentiel de formation dédié au pilotage de la remédiation",
@@ -279,6 +329,16 @@ window.AUTO_VEILLE = [
     date: "2026-06-08",
     cat: "RGPD",
     desc: "Apr&egrave;s avoir jug&eacute; recevable l&#039;action intent&eacute;e par une association de consommateurs contre la soci&eacute;t&eacute; Apple, la cour d&#039;appel de Paris condamne celle-ci &agrave; r&eacute;parer le pr&eacute;judice caus&eacute; &agrave; l&#039;int&eacute;r&ecirc;t collectif des consommateurs par les clauses abusives et illic",
+    auto: true
+  },
+  {
+    id: "auto-1781870425-30",
+    title: "Décision n° 2026-1203 QPC du 5 juin 2026 - Communiqué de presse",
+    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1203-qpc-du-5-juin-2026-communique-de-presse",
+    source: "Conseil constitutionnel",
+    date: "2026-06-05",
+    cat: "Jurisprudence",
+    desc: "Le mercredi 27 mai, le Conseil constitutionnel a tenu sa 13e audience publique « hors-les murs » au tribunal judiciaire de Mende. Cette audience portait sur deux questions prioritaires de constitutionnalité (QPC) dont l’affaire 2026-1203 QPC relative à la sanction du défaut de déclaration par le tiers saisi de ses obligations à l’égard du redevable",
     auto: true
   },
   {
@@ -722,84 +782,24 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1781783159-60",
-    title: "RGPD : la CJUE sanctionne l'instrumentalisation du droit d'accès",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/rgpd-la-cjue-sanctionne-l-instrumentalisation-du-droit-d-acces-DNU100f0",
+    id: "auto-1781870425-63",
+    title: "Collecte de données biométriques : la CJUE impose une nécessité absolue et motivée",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/collecte-de-donnees-biometriques-la-cjue-impose-une-necessite-absolue-et-motivee-DNU100f2",
     source: "Lextenso",
     date: "2026-05-06",
     cat: "Jurisprudence",
-    desc: "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
+    desc: "La Cour de justice pr&eacute;cise le cadre juridique applicable &agrave; la collecte de donn&eacute;es biom&eacute;triques lors d&#039;enqu&ecirc;tes p&eacute;nales. Elle exclut toute collecte syst&eacute;matique sans appr&eacute;ciation individualis&eacute;e de la n&eacute;cessit&eacute; et exige une motivation claire, permettant &agrave; l&#039;i",
     auto: true
   },
   {
-    id: "auto-1781783159-61",
-    title: "Achats numériques de l'État et souveraineté : la France à l'heure des choix, l'Allemagne en éclaireur",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/achats-numeriques-de-l-etat-et-souverainete-la-france-a-l-heure-des-choix-l-allemagne-en-eclaireur-DNU100f1",
+    id: "auto-1781870425-64",
+    title: "Résiliation des contrats de services de communications électroniques : la CJUE rend une décision favorable à l'utilisateur final",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/resiliation-des-contrats-de-services-de-communications-electroniques-la-cjue-rend-une-decision-favorable-a-l-utilisateur-final-DNU100f3",
     source: "Lextenso",
     date: "2026-05-06",
     cat: "Jurisprudence",
-    desc: "La circulaire du 5&nbsp;f&eacute;vrier 2026 sur la commande publique num&eacute;rique &eacute;rige la souverainet&eacute; en crit&egrave;re d&#039;achat, mais rel&egrave;gue le logiciel libre &agrave; une recommandation et l&#039;interop&eacute;rabilit&eacute; &agrave; un simple facteur de pond&eacute;ration, en retrait du cadre l&eacute;gislatif n",
-    auto: true
-  },
-  {
-    id: "auto-1778149003-74",
-    title: "Qualification des données pseudonymisées et RGPD : la nécessité d'une appréciation in concreto",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/qualification-des-donnees-pseudonymisees-et-rgpd-la-necessite-d-une-appreciation-in-concreto-DNU100f6",
-    source: "Lextenso",
-    date: "2026-05-06",
-    cat: "RGPD",
-    desc: "En jugeant que des donn&eacute;es pseudonymis&eacute;es demeurent des donn&eacute;es personnelles d&egrave;s lors qu&#039;une r&eacute;identification reste possible sans effort disproportionn&eacute;, le Conseil d&#039;&Eacute;tat confirme une approche contextualis&eacute;e de l&#039;identifiabilit&eacute; au sens du RGPD, centr&eacute;e sur les ca",
-    auto: true
-  },
-  {
-    id: "auto-1778149003-75",
-    title: "L'expérimentation prolongée de la vidéosurveillance algorithmique",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/l-experimentation-prolongee-de-la-videosurveillance-algorithmique-DNU100f5",
-    source: "Lextenso",
-    date: "2026-05-06",
-    cat: "IA",
-    desc: "Dans cette d&eacute;cision, le Conseil constitutionnel juge conforme &agrave; la Constitution, en particulier &agrave; son article&nbsp;37-1, habilitant les pouvoirs l&eacute;gislatif et r&eacute;glementaire &agrave; adopter des mesures &agrave; temps et objet limit&eacute;s &agrave; titre exp&eacute;rimental, la prolongation de l&#039;exp&eacute;r",
-    auto: true
-  },
-  {
-    id: "auto-1778149003-76",
-    title: "Nouvelle suite de l'affaire Shein : la cour d'appel de Paris confirme le jugement rejetant le blocage de la plateforme",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/nouvelle-suite-de-l-affaire-shein-la-cour-d-appel-de-paris-confirme-le-jugement-rejetant-le-blocage-de-la-plateforme-DNU100f4",
-    source: "Lextenso",
-    date: "2026-05-06",
-    cat: "Plateformes",
-    desc: "La cour d&#039;appel de Paris a confirm&eacute; le jugement prononc&eacute; par le tribunal judiciaire de Paris en refusant d&#039;ordonner le blocage de la plateforme Shein, demand&eacute; par le gouvernement fran&ccedil;ais. Cependant, elle a ordonn&eacute; &agrave; celle-ci, avec effet imm&eacute;diat, de mettre en place des mesures de filtrage ",
-    auto: true
-  },
-  {
-    id: "auto-1778062272-0",
-    title: "Vue d’ensemble",
-    url: "https://www.cnil.fr/fr/g7-vue-d-ensemble",
-    source: "CNIL",
-    date: "2026-05-06",
-    cat: "Cybersécurité",
-    desc: "Les autorités de protection des données et de la vie privée du G7 collaborent afin d’identifier les enjeux et opportunités communs, de s’adapter avec agilité aux évolutions en cours et de mettre en œuvre des approches réglementaires concertées visant, autant que possible, à assurer une uniformité et une certitude juridique.",
-    auto: true
-  },
-  {
-    id: "auto-1778062272-1",
-    title: "Les membres et les résultats",
-    url: "https://www.cnil.fr/fr/g7-membres-et-resultats",
-    source: "CNIL",
-    date: "2026-05-06",
-    cat: "International",
-    desc: "Créée en 2021, la Table ronde des autorités de protection des données des pays et de la vie privée du G7 réunit, sous l’impulsion de la présidence annuelle, les autorités compétentes de l'Allemagne, du Canada, des États-Unis, la France, l'Italie, du Japon, du Royaume-Uni auxquels s’ajoute celles de l'Union européenne.",
-    auto: true
-  },
-  {
-    id: "auto-1778062272-2",
-    title: "Médiathèque",
-    url: "https://www.cnil.fr/fr/g7-mediatheque",
-    source: "CNIL",
-    date: "2026-05-06",
-    cat: "RGPD",
-    desc: "Retrouvez dans cette rubrique les communiqués de presse ainsi que les photos et vidéos de l’évènement.",
+    desc: "Ni les d&eacute;cisions rendues par la CJUE &agrave; titre pr&eacute;judiciel, ni les lignes directrices de l&#039;ORECE, ni les d&eacute;cisions d&#039;une autorit&eacute; de r&eacute;gulation nationale ne constituent des changements dans le droit de l&#039;Union ou dans le droit national. Ainsi, face aux modifications op&eacute;r&eacute;es par un",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-18T11:46:55";
+window.AUTO_VEILLE_UPDATED = "2026-06-19T12:00:51";
