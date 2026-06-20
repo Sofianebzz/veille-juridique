@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-19T12:00:51
+// Dernière collecte : 2026-06-20T10:28:29
 window.AUTO_VEILLE = [
   {
     id: "auto-1781870425-0",
@@ -782,24 +782,24 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1781870425-63",
-    title: "Collecte de données biométriques : la CJUE impose une nécessité absolue et motivée",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/collecte-de-donnees-biometriques-la-cjue-impose-une-necessite-absolue-et-motivee-DNU100f2",
+    id: "auto-1781951275-57",
+    title: "RGPD : la CJUE sanctionne l'instrumentalisation du droit d'accès",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/rgpd-la-cjue-sanctionne-l-instrumentalisation-du-droit-d-acces-DNU100f0",
     source: "Lextenso",
     date: "2026-05-06",
     cat: "Jurisprudence",
-    desc: "La Cour de justice pr&eacute;cise le cadre juridique applicable &agrave; la collecte de donn&eacute;es biom&eacute;triques lors d&#039;enqu&ecirc;tes p&eacute;nales. Elle exclut toute collecte syst&eacute;matique sans appr&eacute;ciation individualis&eacute;e de la n&eacute;cessit&eacute; et exige une motivation claire, permettant &agrave; l&#039;i",
+    desc: "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
     auto: true
   },
   {
-    id: "auto-1781870425-64",
-    title: "Résiliation des contrats de services de communications électroniques : la CJUE rend une décision favorable à l'utilisateur final",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/resiliation-des-contrats-de-services-de-communications-electroniques-la-cjue-rend-une-decision-favorable-a-l-utilisateur-final-DNU100f3",
+    id: "auto-1781951275-58",
+    title: "Achats numériques de l'État et souveraineté : la France à l'heure des choix, l'Allemagne en éclaireur",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/achats-numeriques-de-l-etat-et-souverainete-la-france-a-l-heure-des-choix-l-allemagne-en-eclaireur-DNU100f1",
     source: "Lextenso",
     date: "2026-05-06",
     cat: "Jurisprudence",
-    desc: "Ni les d&eacute;cisions rendues par la CJUE &agrave; titre pr&eacute;judiciel, ni les lignes directrices de l&#039;ORECE, ni les d&eacute;cisions d&#039;une autorit&eacute; de r&eacute;gulation nationale ne constituent des changements dans le droit de l&#039;Union ou dans le droit national. Ainsi, face aux modifications op&eacute;r&eacute;es par un",
+    desc: "La circulaire du 5&nbsp;f&eacute;vrier 2026 sur la commande publique num&eacute;rique &eacute;rige la souverainet&eacute; en crit&egrave;re d&#039;achat, mais rel&egrave;gue le logiciel libre &agrave; une recommandation et l&#039;interop&eacute;rabilit&eacute; &agrave; un simple facteur de pond&eacute;ration, en retrait du cadre l&eacute;gislatif n",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-19T12:00:51";
+window.AUTO_VEILLE_UPDATED = "2026-06-20T10:28:29";
