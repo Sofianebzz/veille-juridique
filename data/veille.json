@@ -50,6 +50,16 @@
     "auto": true
   },
   {
+    "id": "auto-1782040275-15",
+    "title": "Décision n° 2026-7 RIP du 17 juin 2026 - Communiqué de presse",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-7-rip-du-17-juin-2026-communique-de-presse",
+    "source": "Conseil constitutionnel",
+    "date": "2026-06-17",
+    "cat": "Jurisprudence",
+    "desc": "Le Conseil constitutionnel juge que la proposition de loi visant à exclure de la notion de soin la provocation active à la mort ne porte pas sur une « réforme relative à la politique sociale de la nation », au sens de l’article 11 de la Constitution.",
+    "auto": true
+  },
+  {
     "id": "auto-1781698306-1",
     "title": "Publication d’un nouveau référentiel de formation dédié au pilotage de la remédiation",
     "url": "http://cyber.sites.beta.gouv.fr/actualites/publication-dun-nouveau-r%C3%A9f%C3%A9rentiel-de-formation-d%C3%A9di%C3%A9-au-pilotage-de-la-rem%C3%A9diation/",
@@ -780,23 +790,13 @@
     "auto": true
   },
   {
-    "id": "auto-1781951275-57",
-    "title": "RGPD : la CJUE sanctionne l'instrumentalisation du droit d'accès",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/rgpd-la-cjue-sanctionne-l-instrumentalisation-du-droit-d-acces-DNU100f0",
+    "id": "auto-1782040275-48",
+    "title": "Collecte de données biométriques : la CJUE impose une nécessité absolue et motivée",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/collecte-de-donnees-biometriques-la-cjue-impose-une-necessite-absolue-et-motivee-DNU100f2",
     "source": "Lextenso",
     "date": "2026-05-06",
     "cat": "Jurisprudence",
-    "desc": "Le droit d&#039;acc&egrave;s consacr&eacute; par l&#039;article&nbsp;15 du RGPD permet &agrave; toute personne concern&eacute;e de conna&icirc;tre les traitements op&eacute;r&eacute;s sur ses donn&eacute;es, d&#039;en v&eacute;rifier la lic&eacute;it&eacute; et d&#039;exercer, le cas &eacute;ch&eacute;ant, les autres droits reconnus par le r&egrave",
-    "auto": true
-  },
-  {
-    "id": "auto-1781951275-58",
-    "title": "Achats numériques de l'État et souveraineté : la France à l'heure des choix, l'Allemagne en éclaireur",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/achats-numeriques-de-l-etat-et-souverainete-la-france-a-l-heure-des-choix-l-allemagne-en-eclaireur-DNU100f1",
-    "source": "Lextenso",
-    "date": "2026-05-06",
-    "cat": "Jurisprudence",
-    "desc": "La circulaire du 5&nbsp;f&eacute;vrier 2026 sur la commande publique num&eacute;rique &eacute;rige la souverainet&eacute; en crit&egrave;re d&#039;achat, mais rel&egrave;gue le logiciel libre &agrave; une recommandation et l&#039;interop&eacute;rabilit&eacute; &agrave; un simple facteur de pond&eacute;ration, en retrait du cadre l&eacute;gislatif n",
+    "desc": "La Cour de justice pr&eacute;cise le cadre juridique applicable &agrave; la collecte de donn&eacute;es biom&eacute;triques lors d&#039;enqu&ecirc;tes p&eacute;nales. Elle exclut toute collecte syst&eacute;matique sans appr&eacute;ciation individualis&eacute;e de la n&eacute;cessit&eacute; et exige une motivation claire, permettant &agrave; l&#039;i",
     "auto": true
   }
 ]
