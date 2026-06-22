@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-21T11:12:13
+// Dernière collecte : 2026-06-22T13:28:41
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1782134901-33",
+    title: "EDPB gets a new look: discover the new website and brand identity",
+    url: "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
+    source: "EDPB",
+    date: "2026-06-22",
+    cat: "RGPD",
+    desc: "Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the consistent application of the GDPR across Europe, by providing guidance on key GDPR concepts and the interaction of the GDPR with other digita",
+    auto: true
+  },
   {
     id: "auto-1781870425-0",
     title: "Sécurité des données : les règles essentielles pour protéger les données et votre activité",
@@ -362,6 +372,66 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1782134901-34",
+    title: "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
+    url: "https://www.edpb.europa.eu/news/the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-the-confidentiality-of-a_en",
+    source: "EDPB",
+    date: "2026-06-04",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 18 December 2025 National case Controller:&nbsp;LTL S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 15 (Right to access by the data s",
+    auto: true
+  },
+  {
+    id: "auto-1782134901-35",
+    title: "The Italian SA fined Poste Vita for data breach",
+    url: "https://www.edpb.europa.eu/news/the-italian-sa-fined-poste-vita-for-data-breach_en",
+    source: "EDPB",
+    date: "2026-06-04",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 10 July 2025 National case Controller: Poste Vita s.p.a. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notification of a personal data breach to the supervisory authority) Decision:&nbsp;Administrative fine Key words: Administrative fine, Clients, Data ",
+    auto: true
+  },
+  {
+    id: "auto-1782134901-36",
+    title: "Imposition of fine on a telecommunications company for violations of data subject’s rights",
+    url: "https://www.edpb.europa.eu/news/imposition-of-fine-on-a-telecommunications-company-for-violations-of-data-subjects-rights_en",
+    source: "EDPB",
+    date: "2026-06-04",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 11 February 2026 National case Controller: Vodafone-Panafon S.A Hellenic Telecommunications Company Legal Reference: Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject, Article 12.2: Facilitation of the exercise of the rights of the data",
+    auto: true
+  },
+  {
+    id: "auto-1782134901-37",
+    title: "The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars",
+    url: "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-fined-a-company-120-000-eur-for-tracking-five-employees-who_en",
+    source: "EDPB",
+    date: "2026-06-04",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 27 November 2025 National case Controller: Pioneer Hi-Bred Italia Sementi s.r.l. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), &nbsp;Article 13 (Information to be provided where personal data are collected from the data subject",
+    auto: true
+  },
+  {
+    id: "auto-1782134901-38",
+    title: "Italian SA fines a company for post-sick leave questionnaires",
+    url: "https://www.edpb.europa.eu/news/italian-sa-fines-a-company-for-post-sick-leave-questionnaires_en",
+    source: "EDPB",
+    date: "2026-06-04",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 10 July 2025 National case Controller: Magna PT S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), &nbsp;Article 9 (Processing of special categories of personal data), &nbsp;Article 13 (Information to be provided where person",
+    auto: true
+  },
+  {
+    id: "auto-1782134901-39",
+    title: "The Italian Supervisory Authority has fined Verisure Italia for unlawful processing of personal data for direct marketing purposes",
+    url: "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawful-processing-of_en",
+    source: "EDPB",
+    date: "2026-06-04",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 27 November 2025 National case Controller:&nbsp;&nbsp;&nbsp;&nbsp;Verisure Italia srl Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 7 (Conditions for consent), Article 12 (Transparent information, communication and modalities for the exercise of the rights ",
+    auto: true
+  },
+  {
     id: "auto-1780658436-0",
     title: "Ordre du jour de la séance plénière du 4 juin 2026",
     url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-4-juin-2026",
@@ -632,6 +702,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1782134901-40",
+    title: "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+    url: "https://www.edpb.europa.eu/news/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while-protecting_en",
+    source: "EDPB",
+    date: "2026-05-19",
+    cat: "Cybersécurité",
+    desc: "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
+    auto: true
+  },
+  {
     id: "auto-1779362135-26",
     title: "Le rapport public 2025 de la juridiction administrative est en ligne",
     url: "https://www.conseil-etat.fr/actualites/le-rapport-public-2025-de-la-juridiction-administrative-est-en-ligne",
@@ -721,85 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 12 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
     auto: true
   },
-  {
-    id: "auto-1778667404-26",
-    title: "Distribution de la presse",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/distribution-de-la-presse-120526.html",
-    source: "ARCEP",
-    date: "2026-05-12",
-    cat: "Plateformes",
-    desc: "L’Arcep lance un appel à commentaires sur des propositions de revalorisation de la rémunération des kiosquiers",
-    auto: true
-  },
-  {
-    id: "auto-1778496913-0",
-    title: "Les lunettes connectées : la CNIL appelle à la vigilance",
-    url: "https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance",
-    source: "CNIL",
-    date: "2026-05-11",
-    cat: "RGPD",
-    desc: "L’essor des lunettes connectées constitue un nouveau défi pour la vie privée et soulève des enjeux éthiques et sociétaux forts. La CNIL alerte sur ces risques, qui nécessitent une vigilance collective, et lance son plan d’action.",
-    auto: true
-  },
-  {
-    id: "auto-1778231393-0",
-    title: "Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée",
-    url: "https://www.cnil.fr/fr/privacy-research-day-2026",
-    source: "CNIL",
-    date: "2026-05-07",
-    cat: "RGPD",
-    desc: "La cinquième édition de la Journée de recherche sur la vie privée (Privacy Research Day) se tiendra le 24 juin 2026, dans le cadre du G7 des autorités de protection des données accueilli par la CNIL. Cet évènement international, reliant le monde académique aux acteurs de la régulation des données, s’adresse aux experts, aux chercheurs et aux admini",
-    auto: true
-  },
-  {
-    id: "auto-1778231393-25",
-    title: "« Récit d'une année » : découvrez le bilan d'activité 2025 du Conseil d'État",
-    url: "https://www.conseil-etat.fr/actualites/recit-d-une-annee-decouvrez-le-bilan-d-activite-2025-du-conseil-d-etat",
-    source: "Conseil d'État",
-    date: "2026-05-07",
-    cat: "Jurisprudence",
-    desc: "Le Conseil d’État publie aujourd’hui son bilan d&#039;activité 2025. Il revient sur les décisions de justice, avis juridiques, études qui ont marqué l&#039;année et qui illustrent la manière dont l&#039;institution veille quotidiennement au respect du droit et des libertés fondamentales, sur des thé",
-    auto: true
-  },
-  {
-    id: "auto-1778231393-38",
-    title: "Safe and Ethical AI: a big European idea for the world",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/safe-and-ethical-ai-big-european-idea-world",
-    source: "EDPS",
-    date: "2026-05-07",
-    cat: "RGPD",
-    desc: "Safe and Ethical AI: a big European idea for the world miriam Thu, 05/07/2026 - 16:04 Fri, 05/08/2026 - 12:00 On 9 May, Europeans celebrate Europe Day. Europe has continued to shape big ideas that unite people around shared values &amp; fundamental rights. Our commitment to human-centric, transparent technology remains more important than ever. 1 R",
-    auto: true
-  },
-  {
-    id: "auto-1778149003-0",
-    title: "Demandes de crédit : comprendre l’utilisation de vos données et vos droits",
-    url: "https://www.cnil.fr/fr/demandes-de-credit-comprendre-lutilisation-de-vos-donnees-et-vos-droits",
-    source: "CNIL",
-    date: "2026-05-07",
-    cat: "RGPD",
-    desc: "Acheter un logement, financer un achat… demander un crédit implique de partager de nombreuses données personnelles. Pour mieux vous protéger, la CNIL publie des recommandations pour les professionnels qui renforcent la transparence, encadrent les pratiques et facilitent l’exercice de vos droits.",
-    auto: true
-  },
-  {
-    id: "auto-1778149003-1",
-    title: "Octroi de crédit : la CNIL publie sa recommandation sur l’utilisation de données personnelles pour l’évaluation de la solvabilité",
-    url: "https://www.cnil.fr/fr/recommandation-octroi-de-credit",
-    source: "CNIL",
-    date: "2026-05-07",
-    cat: "RGPD",
-    desc: "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’évaluation de la solvabilité dans le cadre de l’octroi de crédit. Elle renforce transparence et contrôle, notamment des décisions automatisées, et accompagne les acteurs à mieux comprendre leurs obligations.",
-    auto: true
-  },
-  {
-    id: "auto-1782040275-48",
-    title: "Collecte de données biométriques : la CJUE impose une nécessité absolue et motivée",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n5/collecte-de-donnees-biometriques-la-cjue-impose-une-necessite-absolue-et-motivee-DNU100f2",
-    source: "Lextenso",
-    date: "2026-05-06",
-    cat: "Jurisprudence",
-    desc: "La Cour de justice pr&eacute;cise le cadre juridique applicable &agrave; la collecte de donn&eacute;es biom&eacute;triques lors d&#039;enqu&ecirc;tes p&eacute;nales. Elle exclut toute collecte syst&eacute;matique sans appr&eacute;ciation individualis&eacute;e de la n&eacute;cessit&eacute; et exige une motivation claire, permettant &agrave; l&#039;i",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-21T11:12:13";
+window.AUTO_VEILLE_UPDATED = "2026-06-22T13:28:41";
