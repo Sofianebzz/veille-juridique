@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-22T13:28:41
+// Dernière collecte : 2026-06-23T10:57:14
 window.AUTO_VEILLE = [
   {
     id: "auto-1782134901-33",
@@ -462,6 +462,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1782212215-0",
+    title: "Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée",
+    url: "https://www.cnil.fr/fr/privacy-research-day-2026",
+    source: "CNIL",
+    date: "2026-05-28",
+    cat: "RGPD",
+    desc: "La cinquième édition de la Journée de recherche sur la vie privée (Privacy Research Day) se tiendra le 24 juin 2026, dans le cadre du G7 des autorités de protection des données accueilli par la CNIL. Cet évènement international, reliant le monde académique aux acteurs de la régulation des données, s’adresse aux experts, aux chercheurs et aux admini",
+    auto: true
+  },
+  {
     id: "auto-1780053710-0",
     title: "Ordre du jour de la séance plénière du 28 mai 2026",
     url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-28-mai-2026",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La proposition de règlement sur l’euro numérique est en cours de vote au Parlement européen et l'Eurosystème se prépare à son émission d'ici 2029. La CNIL et l’autorité fédérale allemande de protection des données (BfDI) reviennent sur les enjeux et travaux sur la vie privée des européens.",
     auto: true
   },
-  {
-    id: "auto-1778667404-1",
-    title: "Ordre du jour de la séance plénière du 12 mai 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-mai-2026",
-    source: "CNIL",
-    date: "2026-05-12",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 12 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-22T13:28:41";
+window.AUTO_VEILLE_UPDATED = "2026-06-23T10:57:14";
