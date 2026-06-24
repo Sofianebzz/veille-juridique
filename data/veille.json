@@ -1,5 +1,45 @@
 [
   {
+    "id": "auto-1782297764-0",
+    "title": "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
+    "url": "https://www.cnil.fr/fr/vigilance-accompagnement-violation-de-donnees",
+    "source": "CNIL",
+    "date": "2026-06-24",
+    "cat": "RGPD",
+    "desc": "Des victimes de violations de données personnelles reçoivent des courriels proposant une aide pour faire supprimer leurs informations en ligne. La CNIL invite à la prudence face à ces démarches dont elle n’est pas à l’origine.",
+    "auto": true
+  },
+  {
+    "id": "auto-1782297764-29",
+    "title": "Supporting GDPR consistency: EDPB launches dedicated form",
+    "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
+    "source": "EDPB",
+    "date": "2026-06-24",
+    "cat": "RGPD",
+    "desc": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki Statement on enhanced clarity, support and engagement , aimed at strengthening the dialogue with stakeholders and e",
+    "auto": true
+  },
+  {
+    "id": "auto-1782297764-1",
+    "title": "Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?",
+    "url": "https://www.cnil.fr/fr/elections-professionnelles-fonction-publique-vote-electronique",
+    "source": "CNIL",
+    "date": "2026-06-23",
+    "cat": "RGPD",
+    "desc": "Lorsque le recours au vote électronique est prévu pour les élections professionnelles dans la fonction publique, le système de vote doit faire l’objet d’une expertise indépendante. Dans ce cadre, les rapports d’expertise doivent désormais être transmis à la CNIL.",
+    "auto": true
+  },
+  {
+    "id": "auto-1782297764-17",
+    "title": "Nouvelle étape pour « Mon réseau mobile »",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/nouvelle-etape-pour-mon-reseau-mobile-230626.html",
+    "source": "ARCEP",
+    "date": "2026-06-23",
+    "cat": "Plateformes",
+    "desc": "L'Arcep annonce l'ouverture du code source de son application sous licence GPLv3",
+    "auto": true
+  },
+  {
     "id": "auto-1782134901-33",
     "title": "EDPB gets a new look: discover the new website and brand identity",
     "url": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
@@ -27,6 +67,16 @@
     "date": "2026-06-19",
     "cat": "Jurisprudence",
     "desc": "M. Olivier de L. et autre [Condition de desserte effective pour la qualification de terrains à bâtir dans le cadre de l&#039;évaluation de l&#039;indemnité d&#039;expropriation]",
+    "auto": true
+  },
+  {
+    "id": "auto-1782297764-18",
+    "title": "Couverture mobile",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-180626.html",
+    "source": "ARCEP",
+    "date": "2026-06-18",
+    "cat": "Plateformes",
+    "desc": "L’Arcep publie les données trimestrielles de couverture mobile au premier trimestre 2026.",
     "auto": true
   },
   {
@@ -570,6 +620,16 @@
     "auto": true
   },
   {
+    "id": "auto-1782297764-19",
+    "title": "Distribution de la presse",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/distribution-de-la-presse-220526.html",
+    "source": "ARCEP",
+    "date": "2026-05-22",
+    "cat": "Plateformes",
+    "desc": "L’Arcep publie son avis sur un avenant à l’accord interprofessionnel « assortiment et plafonnement » relatif à la presse dite « CPPAP hors IPG »",
+    "auto": true
+  },
+  {
     "id": "auto-1781783159-15",
     "title": "Services d’intermédiation de données",
     "url": "https://www.arcep.fr/actualites/actualites-et-communiques.html",
@@ -737,66 +797,6 @@
     "date": "2026-05-19",
     "cat": "Jurisprudence",
     "desc": "Le rapport public du Conseil d’État présente l’activité juridictionnelle et consultative de la juridiction administrative en 2025.",
-    "auto": true
-  },
-  {
-    "id": "auto-1779188225-0",
-    "title": "Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025",
-    "url": "https://www.cnil.fr/fr/rapport-annuel-2025",
-    "source": "CNIL",
-    "date": "2026-05-18",
-    "cat": "RGPD",
-    "desc": "Accompagnement des professionnels, contrôle de leurs pratiques, sensibilisation du public, mais aussi régulation de l’IA, cybersécurité et coopération européenne… la CNIL fait le bilan d’une année 2025 intense, au service de la protection des données personnelles et de la vie privée de tous.",
-    "auto": true
-  },
-  {
-    "id": "auto-1779188225-25",
-    "title": "[17h30] Rapport d’activité 2025 de la juridiction administrative : Rencontre-débat au Conseil d’État",
-    "url": "https://www.conseil-etat.fr/actualites/17h30-rapport-d-activite-2025-de-la-juridiction-administrative-rencontre-debat-au-conseil-d-etat",
-    "source": "Conseil d'État",
-    "date": "2026-05-18",
-    "cat": "Jurisprudence",
-    "desc": "Rapport d&rsquo;activit&eacute; 2025 de la juridiction administrative Rencontre-d&eacute;bat au Conseil d&rsquo;&Eacute;tat Lundi 18 mai 2026, 17h30 &agrave; 19h30 A suivre en pr&eacute;sentiel ( inscription /&nbsp; avocats ) ou en direct sur cette page",
-    "auto": true
-  },
-  {
-    "id": "auto-1779104360-60",
-    "title": "Constat : ce qu’un huissier ne doit pas faire",
-    "url": "https://www.legalis.net/actualite/constat-ce-quun-huissier-ne-doit-pas-faire/",
-    "source": "Legalis",
-    "date": "2026-05-18",
-    "cat": "Jurisprudence",
-    "desc": "Par un arrêt du 10 avril 2026, la cour d’appel de Paris a confirmé le jugement du 31 janvier 2023 du tribunal de commerce de Nanterre qui avait débouté la société Wuha de ses demandes dirigées contre la société Lefebvre Sarrut et ses filiales Éditions Francis Lefebvre (EFL), Éditions Dalloz (ED) et Éditions Législatives éditrices, [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1778753364-25",
-    "title": "Le Conseil d’État rejette le recours d’Amazon contre le montant minimal des frais de livraison des livres",
-    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-d-amazon-contre-le-montant-minimal-des-frais-de-livraison-des-livres",
-    "source": "Conseil d'État",
-    "date": "2026-05-13",
-    "cat": "Plateformes",
-    "desc": "Saisi par la société Amazon EU, le Conseil d’État juge aujourd’hui que le montant minimal des frais de livraison des livres fixé par le Gouvernement en application de la loi, est conforme au droit européen. En effet, l’arrêté du 4 avril 2023 – fixant à 3 euros les frais de livraison des commandes de",
-    "auto": true
-  },
-  {
-    "id": "auto-1778753364-26",
-    "title": "Fruits et légumes provenant de pays hors UE et contenant des résidus de pesticides interdits : le Gouvernement pouvait suspendre leur importation",
-    "url": "https://www.conseil-etat.fr/actualites/fruits-et-legumes-provenant-de-pays-hors-ue-et-contenant-des-residus-de-pesticides-interdits-le-gouvernement-pouvait-suspendre-leur-importation",
-    "source": "Conseil d'État",
-    "date": "2026-05-13",
-    "cat": "Cybersécurité",
-    "desc": "Saisi par la Chambre syndicale des importateurs français de fruits et légumes, le Conseil d’État juge aujourd’hui que le Gouvernement pouvait légalement suspendre l’importation d’aliments provenant de pays hors Union européenne qui contiennent des résidus de certains pesticides interdits en Europe. ",
-    "auto": true
-  },
-  {
-    "id": "auto-1778667404-0",
-    "title": "Confidentialité de l’euro numérique : où en sommes-nous ?",
-    "url": "https://www.cnil.fr/fr/confidentialite-de-leuro-numerique-ou-en-sommes-nous",
-    "source": "CNIL",
-    "date": "2026-05-13",
-    "cat": "RGPD",
-    "desc": "La proposition de règlement sur l’euro numérique est en cours de vote au Parlement européen et l'Eurosystème se prépare à son émission d'ici 2029. La CNIL et l’autorité fédérale allemande de protection des données (BfDI) reviennent sur les enjeux et travaux sur la vie privée des européens.",
     "auto": true
   }
 ]
