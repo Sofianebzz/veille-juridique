@@ -1,6 +1,56 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-24T10:43:21
+// Dernière collecte : 2026-06-25T10:37:05
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1782383806-3",
+    title: "L’ANSSI publie un kit d’exercice de crise pour le secteur agroalimentaire.",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-un-kit-dexercice-de-crise-pour-le-secteur-agroalimentaire/",
+    source: "ANSSI",
+    date: "2026-06-25",
+    cat: "Cybersécurité",
+    desc: "A l’heure où la menace cyber est omniprésente, les organisations et les entreprises doivent se préparer et réagir rapidement en […]",
+    auto: true
+  },
+  {
+    id: "auto-1782383806-40",
+    title: "One-Stop-Shop case digest on right to object and right to erasure updated",
+    url: "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
+    source: "EDPB",
+    date: "2026-06-25",
+    cat: "RGPD",
+    desc: "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which aims to support cooperation among Data Protection Authorities (DPAs). Thematic one-stop-shop case digests are dr",
+    auto: true
+  },
+  {
+    id: "auto-1782383806-0",
+    title: "Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens",
+    url: "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
+    source: "CNIL",
+    date: "2026-06-24",
+    cat: "RGPD",
+    desc: "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026, Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall et Yixin Zou ont reçu le 2ème prix CNIL/EHESS pour leur article sur la régulation de l’intelligence artificielle et son alignement avec les attentes citoyennes.",
+    auto: true
+  },
+  {
+    id: "auto-1782383806-1",
+    title: "Informations publiques",
+    url: "https://www.cnil.fr/fr/informations-publiques",
+    source: "CNIL",
+    date: "2026-06-24",
+    cat: "RGPD",
+    desc: "Cette page recense les informations publiques de la CNIL (documents, vidéos, open data).",
+    auto: true
+  },
+  {
+    id: "auto-1782383806-2",
+    title: "Remise du prix « Protection de la vie privée » 2026 par la CNIL et l’Inria",
+    url: "https://www.cnil.fr/fr/prix-inria-cnil-2026",
+    source: "CNIL",
+    date: "2026-06-24",
+    cat: "RGPD",
+    desc: "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026,&amp;nbsp;la CNIL et l’Inria ont remis le prix 2026 de la protection de la vie privée à une équipe de chercheurs internationaux pour leur article portant sur l’articulation entre la réglementation et la recherche concernant les designs trompeurs et les bandeaux cookies.",
+    auto: true
+  },
   {
     id: "auto-1782297764-0",
     title: "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le 21 mai 2026, journée mondiale de sensibilisation à l’accessibilité, le Cigref publie son nouveau rapport intitulé « Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations ». Fruit d’une année de travail, ce document propose un cadre méthodologique et des retours d&#8217;expérience (REX) con",
     auto: true
   },
-  {
-    id: "auto-1779362135-24",
-    title: "Marc Guillaume nommé vice-président du Conseil d’État",
-    url: "https://www.conseil-etat.fr/actualites/marc-guillaume-nomme-vice-president-du-conseil-d-etat",
-    source: "Conseil d'État",
-    date: "2026-05-21",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1779362135-25",
-    title: "Ateliers de la simplification du Conseil d’État : nouvelle étude sur le contrôle des incapacités des professionnels et des bénévoles en contact ave...",
-    url: "https://www.conseil-etat.fr/actualites/ateliers-de-la-simplification-du-conseil-d-etat-nouvelle-etude-sur-le-controle-des-incapacites-des-professionnels-et-des-benevoles-en-contact-ave",
-    source: "Conseil d'État",
-    date: "2026-05-20",
-    cat: "Jurisprudence",
-    desc: "En 2024, le Conseil d’État a lancé les « ateliers de la simplification » pour accompagner le Gouvernement dans la simplification de la norme existante afin de faciliter la mise en œuvre de l’action publique. Une nouvelle étude est disponible sur le contrôle des incapacités des professionnels et béné",
-    auto: true
-  },
-  {
-    id: "auto-1782134901-40",
-    title: "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
-    url: "https://www.edpb.europa.eu/news/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while-protecting_en",
-    source: "EDPB",
-    date: "2026-05-19",
-    cat: "Cybersécurité",
-    desc: "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) Directive . On 20 January 2026, the Commission publ",
-    auto: true
-  },
-  {
-    id: "auto-1779362135-26",
-    title: "Le rapport public 2025 de la juridiction administrative est en ligne",
-    url: "https://www.conseil-etat.fr/actualites/le-rapport-public-2025-de-la-juridiction-administrative-est-en-ligne",
-    source: "Conseil d'État",
-    date: "2026-05-19",
-    cat: "Jurisprudence",
-    desc: "Le rapport public du Conseil d’État présente l’activité juridictionnelle et consultative de la juridiction administrative en 2025.",
-    auto: true
-  },
-  {
-    id: "auto-1779273875-24",
-    title: "Le rapport d’activité 2025 de la juridiction administrative est en ligne",
-    url: "https://www.conseil-etat.fr/actualites/le-rapport-d-activite-2025-de-la-juridiction-administrative-est-en-ligne",
-    source: "Conseil d'État",
-    date: "2026-05-19",
-    cat: "Jurisprudence",
-    desc: "Le rapport public du Conseil d’État présente l’activité juridictionnelle et consultative de la juridiction administrative en 2025.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-24T10:43:21";
+window.AUTO_VEILLE_UPDATED = "2026-06-25T10:37:05";
