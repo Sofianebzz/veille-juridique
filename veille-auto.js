@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-25T10:37:05
+// Dernière collecte : 2026-06-26T10:45:37
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1782470713-48",
+    title: "2026 Strasbourg European Digital Summit Notebooks – “Digital mutations: from ambition to action”",
+    url: "https://www.cigref.fr/2026-strasbourg-european-digital-summit-notebooks-digital-mutations-from-ambition-to-action",
+    source: "CIGREF",
+    date: "2026-06-25",
+    cat: "Contrats IT",
+    desc: "This third edition of the Notebooks reports on the strategic thinking of 200 digital decision-makers at the Strasbourg European Digital Summit, held from 15 to 17 April 2026. In particular, it sets out the commitments and recommendations made by the participants to the ecosystem and public authorities at the end of this major annual gathering [&#82",
+    auto: true
+  },
+  {
+    id: "auto-1782470713-49",
+    title: "Cahiers des RNS 2026 – « Mutations numériques : de l’ambition à l’action »",
+    url: "https://www.cigref.fr/cahiers-des-rns-2026-mutations-numeriques-de-lambition-a-laction",
+    source: "CIGREF",
+    date: "2026-06-25",
+    cat: "Contrats IT",
+    desc: "Cette troisième édition des Cahiers des RNS rend compte des travaux de réflexion stratégique menés par 200 décideurs du numérique lors des Rencontres Numériques de Strasbourg qui se sont tenues du 15 au 17 avril 2026. Ils restituent notamment les engagements et recommandations, adressés par les participants à l’écosystème et aux pouvoirs publics, à",
+    auto: true
+  },
   {
     id: "auto-1782383806-3",
     title: "L’ANSSI publie un kit d’exercice de crise pour le secteur agroalimentaire.",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Enquête annuelle « Pour un numérique soutenable » : La consommation électrique des centres de données continue de progresser (+ 38% en 3 ans)",
     auto: true
   },
-  {
-    id: "auto-1779446631-26",
-    title: "Marc Guillaume nouveau vice-président du Conseil d’État",
-    url: "https://www.conseil-etat.fr/actualites/marc-guillaume-nouveau-vice-president-du-conseil-d-etat",
-    source: "Conseil d'État",
-    date: "2026-05-21",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
-  {
-    id: "auto-1779446631-50",
-    title: "Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations",
-    url: "https://www.cigref.fr/accessibilite-numerique-organiser-piloter-et-outiller-le-passage-a-lechelle-dans-les-grandes-organisations",
-    source: "CIGREF",
-    date: "2026-05-21",
-    cat: "Contrats IT",
-    desc: "Le 21 mai 2026, journée mondiale de sensibilisation à l’accessibilité, le Cigref publie son nouveau rapport intitulé « Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations ». Fruit d’une année de travail, ce document propose un cadre méthodologique et des retours d&#8217;expérience (REX) con",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-25T10:37:05";
+window.AUTO_VEILLE_UPDATED = "2026-06-26T10:45:37";
