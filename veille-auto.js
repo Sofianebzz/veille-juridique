@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-06-26T10:45:37
+// Dernière collecte : 2026-06-27T09:59:12
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1782554299-0",
+    title: "Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés",
+    url: "https://www.cnil.fr/fr/g7-technologies-protection-mineurs",
+    source: "CNIL",
+    date: "2026-06-26",
+    cat: "RGPD",
+    desc: "Les autorités de protection des données des pays du G7 se sont réunies à Paris les 25 et 26 juin à l’invitation de la CNIL dans le cadre de la présidence française du G7. Elles ont adopté une déclaration sur les mécanismes de vérification de l’âge respectueux de la vie privée, ainsi qu’un document sur le développement d’objets connectés respectant ",
+    auto: true
+  },
   {
     id: "auto-1782470713-48",
     title: "2026 Strasbourg European Digital Summit Notebooks – “Digital mutations: from ambition to action”",
@@ -732,6 +742,26 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1782554299-15",
+    title: "Marc Guillaume nouveau vice-président du Conseil d’État",
+    url: "https://www.conseil-etat.fr/actualites/marc-guillaume-nouveau-vice-president-du-conseil-d-etat",
+    source: "Conseil d'État",
+    date: "2026-05-21",
+    cat: "Jurisprudence",
+    desc: "",
+    auto: true
+  },
+  {
+    id: "auto-1782554299-40",
+    title: "Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations",
+    url: "https://www.cigref.fr/accessibilite-numerique-organiser-piloter-et-outiller-le-passage-a-lechelle-dans-les-grandes-organisations",
+    source: "CIGREF",
+    date: "2026-05-21",
+    cat: "Contrats IT",
+    desc: "Le 21 mai 2026, journée mondiale de sensibilisation à l’accessibilité, le Cigref publie son nouveau rapport intitulé « Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations ». Fruit d’une année de travail, ce document propose un cadre méthodologique et des retours d&#8217;expérience (REX) con",
+    auto: true
+  },
+  {
     id: "auto-1780053710-29",
     title: "Décision n° 2026-1200 QPC du 22 mai 2026",
     url: "https://www.conseil-constitutionnel.fr/decision/2026/20261200QPC.htm",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L’Arcep publie une mise en demeure relative aux conditions techniques, tarifaires et contractuelles proposées par France Messagerie pour l’année 2026.",
     auto: true
   },
-  {
-    id: "auto-1779446631-0",
-    title: "Ordre du jour de la séance plénière du 21 mai 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-mai-2026",
-    source: "CNIL",
-    date: "2026-05-21",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 21 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1779446631-1",
-    title: "Mise à jour du référentiel d’exigences PACS en version 2.0",
-    url: "http://cyber.gouv.fr/actualites/mise-a-jour-du-referentiel-pacs/",
-    source: "ANSSI",
-    date: "2026-05-21",
-    cat: "Cybersécurité",
-    desc: "Découvrez la nouvelle version du référentiel pour la qualification des prestataires d'accompagnement et de conseil en sécurité des systèmes d'information publié par l'ANSSI.",
-    auto: true
-  },
-  {
-    id: "auto-1779446631-25",
-    title: "Environnement",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-eapns-210526.html",
-    source: "ARCEP",
-    date: "2026-05-21",
-    cat: "Plateformes",
-    desc: "Enquête annuelle « Pour un numérique soutenable » : La consommation électrique des centres de données continue de progresser (+ 38% en 3 ans)",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-06-26T10:45:37";
+window.AUTO_VEILLE_UPDATED = "2026-06-27T09:59:12";
