@@ -740,6 +740,16 @@
     "auto": true
   },
   {
+    "id": "auto-1782642139-0",
+    "title": "Mise à jour du référentiel d’exigences PACS en version 2.0",
+    "url": "http://cyber.sites.beta.gouv.fr/actualites/mise-a-jour-du-referentiel-pacs/",
+    "source": "ANSSI",
+    "date": "2026-05-21",
+    "cat": "Cybersécurité",
+    "desc": "Découvrez la nouvelle version du référentiel pour la qualification des prestataires d'accompagnement et de conseil en sécurité des systèmes d'information publié par l'ANSSI.",
+    "auto": true
+  },
+  {
     "id": "auto-1782554299-15",
     "title": "Marc Guillaume nouveau vice-président du Conseil d’État",
     "url": "https://www.conseil-etat.fr/actualites/marc-guillaume-nouveau-vice-president-du-conseil-d-etat",
@@ -787,16 +797,6 @@
     "date": "2026-05-21",
     "cat": "Jurisprudence",
     "desc": "Dans le cadre du contrôle d’une obligation découlant d’un règlement de différend, l’Arcep a été amenée à prononcer une décision de mise en demeure à l’encontre de la société Réunicable.",
-    "auto": true
-  },
-  {
-    "id": "auto-1779529522-24",
-    "title": "Régulation de la distribution de la presse",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/regulation-de-la-distribution-de-la-presse-210526.html",
-    "source": "ARCEP",
-    "date": "2026-05-21",
-    "cat": "Contrats IT",
-    "desc": "L’Arcep publie une mise en demeure relative aux conditions techniques, tarifaires et contractuelles proposées par France Messagerie pour l’année 2026.",
     "auto": true
   }
 ]
