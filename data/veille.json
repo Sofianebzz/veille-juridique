@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-1782816635-0",
+    "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
+    "url": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
+    "source": "CNIL",
+    "date": "2026-06-30",
+    "cat": "RGPD",
+    "desc": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateurs.",
+    "auto": true
+  },
+  {
+    "id": "auto-1782816635-1",
+    "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
+    "url": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
+    "source": "CNIL",
+    "date": "2026-06-30",
+    "cat": "Cybersécurité",
+    "desc": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
+    "auto": true
+  },
+  {
+    "id": "auto-1782816635-26",
+    "title": "Test",
+    "url": "https://www.conseil-etat.fr/actualites/test3",
+    "source": "Conseil d'État",
+    "date": "2026-06-29",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
+    "id": "auto-1782816635-27",
+    "title": "Autoroute « A69 » : Le Conseil d’État confirme l’arrêt de la CAA de Toulouse autorisant la reprise du projet",
+    "url": "https://www.conseil-etat.fr/actualites/autoroute-a69-le-conseil-d-etat-confirme-l-arret-de-la-caa-de-toulouse-autorisant-la-reprise-du-projet",
+    "source": "Conseil d'État",
+    "date": "2026-06-29",
+    "cat": "Jurisprudence",
+    "desc": "Le Conseil d’État confirme l’arrêt de la Cour administrative d’appel de Toulouse et rejette les recours de plusieurs associations contre les autorisations environnementales du projet autoroutier de l’A69. Le Conseil d’Etat juge que la cour n’a pas fait d’erreur en estimant que le projet répond bien ",
+    "auto": true
+  },
+  {
+    "id": "auto-1782816635-28",
+    "title": "Séminaire bilatéral entre le Conseil d’État français et le Tribunal suprême espagnol",
+    "url": "https://www.conseil-etat.fr/actualites/seminaire-bilateral-entre-le-conseil-d-etat-francais-et-le-tribunal-supreme-espagnol",
+    "source": "Conseil d'État",
+    "date": "2026-06-29",
+    "cat": "Jurisprudence",
+    "desc": "Vendredi 26 juin 2026, une délégation du Conseil d’État conduite par son vice-président, Marc Guillaume, s’est rendue à Madrid pour un séminaire bilatéral avec le Tribunal suprême.",
+    "auto": true
+  },
+  {
     "id": "auto-1782554299-0",
     "title": "Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés",
     "url": "https://www.cnil.fr/fr/g7-technologies-protection-mineurs",
@@ -747,56 +797,6 @@
     "date": "2026-05-21",
     "cat": "Cybersécurité",
     "desc": "Découvrez la nouvelle version du référentiel pour la qualification des prestataires d'accompagnement et de conseil en sécurité des systèmes d'information publié par l'ANSSI.",
-    "auto": true
-  },
-  {
-    "id": "auto-1782554299-15",
-    "title": "Marc Guillaume nouveau vice-président du Conseil d’État",
-    "url": "https://www.conseil-etat.fr/actualites/marc-guillaume-nouveau-vice-president-du-conseil-d-etat",
-    "source": "Conseil d'État",
-    "date": "2026-05-21",
-    "cat": "Jurisprudence",
-    "desc": "",
-    "auto": true
-  },
-  {
-    "id": "auto-1782554299-40",
-    "title": "Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations",
-    "url": "https://www.cigref.fr/accessibilite-numerique-organiser-piloter-et-outiller-le-passage-a-lechelle-dans-les-grandes-organisations",
-    "source": "CIGREF",
-    "date": "2026-05-21",
-    "cat": "Contrats IT",
-    "desc": "Le 21 mai 2026, journée mondiale de sensibilisation à l’accessibilité, le Cigref publie son nouveau rapport intitulé « Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations ». Fruit d’une année de travail, ce document propose un cadre méthodologique et des retours d&#8217;expérience (REX) con",
-    "auto": true
-  },
-  {
-    "id": "auto-1780053710-29",
-    "title": "Décision n° 2026-1200 QPC du 22 mai 2026",
-    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261200QPC.htm",
-    "source": "Conseil constitutionnel",
-    "date": "2026-05-21",
-    "cat": "Jurisprudence",
-    "desc": "M. Yves F. [Expropriation de biens déclarés en état d’abandon manifeste]",
-    "auto": true
-  },
-  {
-    "id": "auto-1780053710-30",
-    "title": "Décision n° 2026-903 DC du 21 mai 2026",
-    "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026903DC.htm",
-    "source": "Conseil constitutionnel",
-    "date": "2026-05-21",
-    "cat": "Jurisprudence",
-    "desc": "LE CONSEIL CONSTITUTIONNEL A ÉTÉ SAISI, dans les conditions prévues au deuxième alinéa de l’article 61 de la Constitution, de la loi de simplification de la vie économique, sous le n° 2026-903 DC, le 21 avril 2026, par M. Boris VALLAUD, Mme Marie-José ALLEMAND, M. Joël AVIRAGNET, MM. Christian BAPTI",
-    "auto": true
-  },
-  {
-    "id": "auto-1779529522-23",
-    "title": "L’Arcep publie une mise en demeure relative au respect d’une obligation découlant d’une décision de règlement de différend",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/med-reunicable-210526.html",
-    "source": "ARCEP",
-    "date": "2026-05-21",
-    "cat": "Jurisprudence",
-    "desc": "Dans le cadre du contrôle d’une obligation découlant d’un règlement de différend, l’Arcep a été amenée à prononcer une décision de mise en demeure à l’encontre de la société Réunicable.",
     "auto": true
   }
 ]
