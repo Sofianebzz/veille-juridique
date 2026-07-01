@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1782904699-60",
+    "title": "Quand l'IA générative entre dans l'entreprise, le CSE doit être consulté",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/quand-l-ia-generative-entre-dans-l-entreprise-le-cse-doit-etre-consulte-DNU100g6",
+    "source": "Lextenso",
+    "date": "2026-07-07",
+    "cat": "IA",
+    "desc": "Alors que les entreprises g&eacute;n&eacute;ralisent le recours aux outils d&#039;IA g&eacute;n&eacute;rative, la question de leurs incidences sur les relations collectives de travail demeure largement inexploit&eacute;e. Par cet arr&ecirc;t du 21&nbsp;mai 2026, la cour d&#039;appel de Paris apporte l&#039;une des premi&egrave;res r&eacute;ponses s",
+    "auto": true
+  },
+  {
+    "id": "auto-1782904699-61",
+    "title": "Digital Markets Act et désignation des contrôleurs d'accès : le sort contrasté des services de Meta",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/digital-markets-act-et-designation-des-controleurs-d-acces-le-sort-contraste-des-services-de-meta-DNU100g5",
+    "source": "Lextenso",
+    "date": "2026-07-07",
+    "cat": "Plateformes",
+    "desc": "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
+    "auto": true
+  },
+  {
     "id": "auto-1782816635-0",
     "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
     "url": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
@@ -777,26 +797,6 @@
     "date": "2026-05-22",
     "cat": "Jurisprudence",
     "desc": "Le Conseil d’État publie la nouvelle édition de son guide de jurisprudence, intitulé « Le Petit Combarnous ». Cet ouvrage propose une sélection des décisions les plus marquantes rendues par le Conseil d’État au cours de l’année 2025.",
-    "auto": true
-  },
-  {
-    "id": "auto-1779529522-32",
-    "title": "CPDP 2026 - Closing remarks",
-    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/cpdp-2026-closing-remarks-0",
-    "source": "EDPS",
-    "date": "2026-05-22",
-    "cat": "RGPD",
-    "desc": "CPDP 2026 - Closing remarks francesco Fri, 05/22/2026 - 18:03 Fri, 05/22/2026 - 12:00 1 Read the speech",
-    "auto": true
-  },
-  {
-    "id": "auto-1782642139-0",
-    "title": "Mise à jour du référentiel d’exigences PACS en version 2.0",
-    "url": "http://cyber.sites.beta.gouv.fr/actualites/mise-a-jour-du-referentiel-pacs/",
-    "source": "ANSSI",
-    "date": "2026-05-21",
-    "cat": "Cybersécurité",
-    "desc": "Découvrez la nouvelle version du référentiel pour la qualification des prestataires d'accompagnement et de conseil en sécurité des systèmes d'information publié par l'ANSSI.",
     "auto": true
   }
 ]
