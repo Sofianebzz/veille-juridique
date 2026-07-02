@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-01T11:18:44
+// Dernière collecte : 2026-07-02T10:31:21
 window.AUTO_VEILLE = [
   {
     id: "auto-1782904699-60",
@@ -19,6 +19,36 @@ window.AUTO_VEILLE = [
     date: "2026-07-07",
     cat: "Plateformes",
     desc: "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
+    auto: true
+  },
+  {
+    id: "auto-1782988262-0",
+    title: "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
+    url: "https://www.cnil.fr/fr/jeux-argent-hasard-application-rgpd",
+    source: "CNIL",
+    date: "2026-07-02",
+    cat: "RGPD",
+    desc: "Les opérateurs de jeux d’argent et de hasard doivent concilier les exigences du RGPD avec leurs obligations sectorielles. Pour accompagner les acteurs dans cette démarche, l’ANJ a élaboré, en concertation avec la CNIL, un guide apportant des repères pratiques.",
+    auto: true
+  },
+  {
+    id: "auto-1782988262-38",
+    title: "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
+    url: "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
+    source: "EDPB",
+    date: "2026-07-01",
+    cat: "RGPD",
+    desc: "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal data. Why information sharing matters The fight against financial crime",
+    auto: true
+  },
+  {
+    id: "auto-1782988262-49",
+    title: "La protection des données sensibles non personnelles : un enjeu de compétitivité pour les organisations européennes",
+    url: "https://www.cigref.fr/la-protection-des-donnees-sensibles-non-personnelles-un-enjeu-de-competitivite-pour-les-organisations-europeennes",
+    source: "CIGREF",
+    date: "2026-07-01",
+    cat: "RGPD",
+    desc: "Dans l’économie numérique contemporaine, la donnée s’est affirmée comme un actif immatériel critique et incontournable. Elle constitue le carburant essentiel qui alimente l’intelligence artificielle, guide les choix décisionnels des dirigeants et structure les chaînes de valeur industrielles. Cependant, cette centralité expose les organisations à u",
     auto: true
   },
   {
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Les MR-001 et MR-003 évoluent&amp;nbsp;: études à l’étranger, information dématérialisée, contrôle qualité à distance, accès aux données d’identification, etc. La CNIL accompagne les acteurs et simplifie les démarches, tout en renforçant la protection des données personnelles.",
     auto: true
   },
-  {
-    id: "auto-1782297764-19",
-    title: "Distribution de la presse",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/distribution-de-la-presse-220526.html",
-    source: "ARCEP",
-    date: "2026-05-22",
-    cat: "Plateformes",
-    desc: "L’Arcep publie son avis sur un avenant à l’accord interprofessionnel « assortiment et plafonnement » relatif à la presse dite « CPPAP hors IPG »",
-    auto: true
-  },
-  {
-    id: "auto-1781783159-15",
-    title: "Services d’intermédiation de données",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques.html",
-    source: "ARCEP",
-    date: "2026-05-22",
-    cat: "Jurisprudence",
-    desc: "L’Arcep publie une décision attribuant le label de « prestataire de services d’intermédiation de données reconnu dans l’Union » à la société Health DataTrust.",
-    auto: true
-  },
-  {
-    id: "auto-1779529522-25",
-    title: "Parution du guide de jurisprudence 2025 du Conseil d’État : « Le Petit Combarnous »",
-    url: "https://www.conseil-etat.fr/actualites/parution-du-guide-de-jurisprudence-2025-du-conseil-d-etat-le-petit-combarnous",
-    source: "Conseil d'État",
-    date: "2026-05-22",
-    cat: "Jurisprudence",
-    desc: "Le Conseil d’État publie la nouvelle édition de son guide de jurisprudence, intitulé « Le Petit Combarnous ». Cet ouvrage propose une sélection des décisions les plus marquantes rendues par le Conseil d’État au cours de l’année 2025.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-01T11:18:44";
+window.AUTO_VEILLE_UPDATED = "2026-07-02T10:31:21";
