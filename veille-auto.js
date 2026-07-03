@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-02T10:31:21
+// Dernière collecte : 2026-07-03T10:29:09
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1783074531-66",
+    title: "Deuxième sanction pour violation du DSA : 200 millions d'euros à l'encontre de Temu",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/deuxieme-sanction-pour-violation-du-dsa-200-millions-d-euros-a-l-encontre-de-temu-DNU100g7",
+    source: "Lextenso",
+    date: "2026-07-07",
+    cat: "Jurisprudence",
+    desc: "Apr&egrave;s avoir sanctionn&eacute; X en d&eacute;cembre 2025 &agrave; hauteur de 120&nbsp;millions d&#039;euros, la Commission europ&eacute;enne a inflig&eacute; &agrave; Temu une amende de 200&nbsp;millions d&#039;euros sur le fondement du DSA. Elle sanctionne une d&eacute;faillance dans l&#039;&eacute;valuation et la gestion des risques syst&ea",
+    auto: true
+  },
   {
     id: "auto-1782904699-60",
     title: "Quand l'IA générative entre dans l'entreprise, le CSE doit être consulté",
@@ -19,6 +29,66 @@ window.AUTO_VEILLE = [
     date: "2026-07-07",
     cat: "Plateformes",
     desc: "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
+    auto: true
+  },
+  {
+    id: "auto-1783074531-0",
+    title: "Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête",
+    url: "https://www.cnil.fr/fr/enquete-dpo-ia",
+    source: "CNIL",
+    date: "2026-07-03",
+    cat: "RGPD",
+    desc: "L’intégration de l’IA dans les pratiques professionnelles et l’entrée en application du règlement IA créent de nouveaux défis pour les DPO et leurs organisations. Afin de mieux comprendre leurs attentes et préoccupations, le ministère du Travail et des Solidarités, l’AFCDP et la CNIL publient les résultats d’une étude lancée en 2025.",
+    auto: true
+  },
+  {
+    id: "auto-1783074531-1",
+    title: "Ordre du jour de la séance plénière du 2 juillet 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-juillet-2026",
+    source: "CNIL",
+    date: "2026-07-02",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1783074531-27",
+    title: "Rapport annuel",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/rapport-annuel-020726.html",
+    source: "ARCEP",
+    date: "2026-07-02",
+    cat: "Plateformes",
+    desc: "L’Arcep publie les deux premiers tomes de son rapport annuel d’activité",
+    auto: true
+  },
+  {
+    id: "auto-1783074531-28",
+    title: "Cloud",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/cloud-020726.html",
+    source: "ARCEP",
+    date: "2026-07-02",
+    cat: "Contrats IT",
+    desc: "Liberté de choix des services cloud pour les entreprises clientes : l’Arcep adopte des lignes directrices sur les frais de changement de fournisseur et de transfert de données dans le cadre du multi-cloud",
+    auto: true
+  },
+  {
+    id: "auto-1783074531-29",
+    title: "Décision n° 2026-1212 QPC du 3 juillet 2026",
+    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261212QPC.htm",
+    source: "Conseil constitutionnel",
+    date: "2026-07-02",
+    cat: "Jurisprudence",
+    desc: "M. Valeriu M. [Circonstances justifiant l’aggravation de la suspension prononcée par l’Agence française de lutte contre le dopage]",
+    auto: true
+  },
+  {
+    id: "auto-1783074531-57",
+    title: "Charge de la preuve : qualifier d’abord la signature électronique",
+    url: "https://www.legalis.net/actualite/charge-de-la-preuve-qualifier-dabord-la-signature-electronique/",
+    source: "Legalis",
+    date: "2026-07-02",
+    cat: "Jurisprudence",
+    desc: "Dans un arrêt particulièrement pédagogique, la Cour de cassation a précisé les règles relatives à la charge de la preuve lorsqu’il y a contestation d’une signature électronique. Elle rappelle qu’on ne peut pas faire peser la charge de la preuve sur le signataire contestataire sans avoir vérifié préalablement si la signature électronique était quali",
     auto: true
   },
   {
@@ -731,75 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Conférence annuelle « Telconomics » : les investissements sur le marché des télécoms continuent de baisser, en lien avec la fin des déploiements des réseaux dans plusieurs territoires",
     auto: true
   },
-  {
-    id: "auto-1779967880-0",
-    title: "Données de santé : sanction de 5 millions d’euros à l’encontre de la société IQVIA",
-    url: "https://www.cnil.fr/fr/donnees-sante-sanction-5-millions-iqvia",
-    source: "CNIL",
-    date: "2026-05-28",
-    cat: "Jurisprudence",
-    desc: "Le 26 mai 2026, la société IQVIA OPERATIONS FRANCE a été sanctionnée d’une amende de 5&amp;nbsp;millions d’euros, notamment pour non-respect des garanties visant à limiter les risques pour les personnes dans le cadre de la gestion d’entrepôts de données de santé.",
-    auto: true
-  },
-  {
-    id: "auto-1779967880-49",
-    title: "From technological dependency to economic capture: the cost of cloud & software services inflation to Europe",
-    url: "https://www.cigref.fr/from-technological-dependency-to-economic-capture-the-cost-of-cloud-software-services-inflation-to-europe",
-    source: "CIGREF",
-    date: "2026-05-28",
-    cat: "Contrats IT",
-    desc: "Asterès publishes a second study commissioned by Cigref. Focusing on the capture of economic value linked to technological dependencies, it presents a unique and unequivocal assessment. The rising costs of cloud and software services are no longer merely a budgetary challenge; they are becoming a systemic threat to the European economy. In 2025, As",
-    auto: true
-  },
-  {
-    id: "auto-1779967880-50",
-    title: "De la dépendance technologique à la captation économique : ce que les hausses tarifaires du cloud-logiciel coûtent à l’Europe",
-    url: "https://www.cigref.fr/de-la-dependance-technologique-a-la-captation-economique-ce-que-les-hausses-tarifaires-du-cloud-logiciel-coutent-a-leurope",
-    source: "CIGREF",
-    date: "2026-05-28",
-    cat: "Contrats IT",
-    desc: "Asterès publie une seconde étude commandée par le Cigref. Consacrée à la captation de valeur économique liée aux dépendances technologiques, elle dresse un constat inédit et sans appel. L’inflation tarifaire des services de cloud et de logiciels n’est plus seulement un défi budgétaire, elle devient une menace systémique pour l’économie européenne.&",
-    auto: true
-  },
-  {
-    id: "auto-1780053710-28",
-    title: "Le Conseil constitutionnel tient sa 13e audience hors-les-murs le mercredi 27 mai 2026 à 11 heures au tribunal judiciaire de Mende.",
-    url: "https://www.conseil-constitutionnel.fr/actualites/le-conseil-constitutionnel-tient-sa-13e-audience-hors-les-murs-le-mercredi-27-mai-2026-a-11-heures",
-    source: "Conseil constitutionnel",
-    date: "2026-05-27",
-    cat: "Plateformes",
-    desc: "Actualité 27 mai 2026 Le Conseil constitutionnel tient sa 13e audience hors-les-murs le mercredi 27 mai 2026 à 11 heures au tribunal judiciaire de Mende. Share more Partager sur Twitter Partager sur Facebook Partager sur LinkedIn Copier l'URL https://www.conseil-constitutionnel.fr/actualites/le-cons",
-    auto: true
-  },
-  {
-    id: "auto-1779967880-1",
-    title: "« IA générative et vie privée » : une affiche coproduite par la PIPC et la CNIL pour sensibiliser les utilisateurs d’IA à la protection de leurs données",
-    url: "https://www.cnil.fr/fr/ia-generative-et-vie-privee-affiche-coproduite-pipc-cnil",
-    source: "CNIL",
-    date: "2026-05-27",
-    cat: "RGPD",
-    desc: "Dans le cadre de leur partenariat, la CNIL et la PIPC (autorité de protection des données de la Corée du Sud) ont produit une affiche pour expliquer comment protéger ses données personnelles lorsqu'on utilise des services d'IA générative.",
-    auto: true
-  },
-  {
-    id: "auto-1779881507-0",
-    title: "Cyberattaque : le sous-traitant au centre de la crise",
-    url: "https://www.cnil.fr/fr/cyberattaque-le-sous-traitant-au-centre-de-la-crise",
-    source: "CNIL",
-    date: "2026-05-27",
-    cat: "Cybersécurité",
-    desc: "Régulièrement, la CNIL communique sur des violations de données typiques inspirées d’incidents réels qui lui sont notifiés. Cette publication a pour objectif de permettre à tous les professionnels de comprendre et de prévenir les risques d’accès à des données détenues par les sous-traitants.",
-    auto: true
-  },
-  {
-    id: "auto-1779881507-1",
-    title: "Recherche en santé : la CNIL met à jour et élargit le champ des méthodologies de référence 001 et 003",
-    url: "https://www.cnil.fr/fr/recherche-en-sante-la-cnil-met-jour-et-elargit-le-champ-des-methodologies-de-reference-001-et-003",
-    source: "CNIL",
-    date: "2026-05-26",
-    cat: "RGPD",
-    desc: "Les MR-001 et MR-003 évoluent&amp;nbsp;: études à l’étranger, information dématérialisée, contrôle qualité à distance, accès aux données d’identification, etc. La CNIL accompagne les acteurs et simplifie les démarches, tout en renforçant la protection des données personnelles.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-02T10:31:21";
+window.AUTO_VEILLE_UPDATED = "2026-07-03T10:29:09";
