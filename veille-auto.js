@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-03T10:29:09
+// Dernière collecte : 2026-07-04T10:02:31
 window.AUTO_VEILLE = [
   {
     id: "auto-1783074531-66",
@@ -29,6 +29,16 @@ window.AUTO_VEILLE = [
     date: "2026-07-07",
     cat: "Plateformes",
     desc: "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
+    auto: true
+  },
+  {
+    id: "auto-1783159330-38",
+    title: "Registration is Now Open for the CEDPO DPO Conference 2026",
+    url: "https://cedpo.eu/registration-cedpo-dpo-conference-2026/",
+    source: "CEDPO",
+    date: "2026-07-03",
+    cat: "RGPD",
+    desc: "Der Beitrag Registration is Now Open for the CEDPO DPO Conference 2026 erschien zuerst auf Confederation of European Data Protection Organisations .",
     auto: true
   },
   {
@@ -762,6 +772,26 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1783159330-48",
+    title: "From technological dependency to economic capture: the cost of cloud & software services inflation to Europe",
+    url: "https://www.cigref.fr/from-technological-dependency-to-economic-capture-the-cost-of-cloud-software-services-inflation-to-europe",
+    source: "CIGREF",
+    date: "2026-05-28",
+    cat: "Contrats IT",
+    desc: "Asterès publishes a second study commissioned by the Cigref. Focusing on the capture of economic value linked to technological dependencies, it presents an original and unequivocal assessment. The rising costs of cloud and software services are no longer merely a budgetary challenge; they are becoming a systemic threat to the European economy. In a",
+    auto: true
+  },
+  {
+    id: "auto-1783159330-49",
+    title: "De la dépendance technologique à la captation économique : ce que les hausses tarifaires du cloud-logiciel coûtent à l’Europe",
+    url: "https://www.cigref.fr/de-la-dependance-technologique-a-la-captation-economique-ce-que-les-hausses-tarifaires-du-cloud-logiciel-coutent-a-leurope",
+    source: "CIGREF",
+    date: "2026-05-28",
+    cat: "Contrats IT",
+    desc: "Asterès publie une seconde étude commandée par le Cigref. Consacrée à la captation de valeur économique liée aux dépendances technologiques, elle dresse un constat inédit et sans appel. L’inflation tarifaire des services de cloud et de logiciels n’est plus seulement un défi budgétaire, elle devient une menace systémique pour l’économie européenne.&",
+    auto: true
+  },
+  {
     id: "auto-1782212215-0",
     title: "Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée",
     url: "https://www.cnil.fr/fr/privacy-research-day-2026",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La cinquième édition de la Journée de recherche sur la vie privée (Privacy Research Day) se tiendra le 24 juin 2026, dans le cadre du G7 des autorités de protection des données accueilli par la CNIL. Cet évènement international, reliant le monde académique aux acteurs de la régulation des données, s’adresse aux experts, aux chercheurs et aux admini",
     auto: true
   },
-  {
-    id: "auto-1780053710-0",
-    title: "Ordre du jour de la séance plénière du 28 mai 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-28-mai-2026",
-    source: "CNIL",
-    date: "2026-05-28",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 28 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1780053710-1",
-    title: "Quelles qualifications pour les acteurs de l’informatique en nuage (cloud) ?",
-    url: "https://www.cnil.fr/fr/quelles-qualifications-pour-les-acteurs-de-linformatique-en-nuage-cloud",
-    source: "CNIL",
-    date: "2026-05-28",
-    cat: "RGPD",
-    desc: "Avant de traiter des données personnelles, il est essentiel que les acteurs identifient leurs rôles. La CNIL fournit des orientations pour aider ceux du secteur de l’informatique en nuage (cloud) à identifier leurs responsabilités avec des exemples concrets.",
-    auto: true
-  },
-  {
-    id: "auto-1780053710-27",
-    title: "Marché français des télécoms",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-francais-des-telecoms-280526.html",
-    source: "ARCEP",
-    date: "2026-05-28",
-    cat: "Plateformes",
-    desc: "Conférence annuelle « Telconomics » : les investissements sur le marché des télécoms continuent de baisser, en lien avec la fin des déploiements des réseaux dans plusieurs territoires",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-03T10:29:09";
+window.AUTO_VEILLE_UPDATED = "2026-07-04T10:02:31";
