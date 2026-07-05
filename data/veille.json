@@ -770,6 +770,16 @@
     "auto": true
   },
   {
+    "id": "auto-1783245895-15",
+    "title": "Marché français des télécoms",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-francais-des-telecoms-280526.html",
+    "source": "ARCEP",
+    "date": "2026-05-28",
+    "cat": "Plateformes",
+    "desc": "Conférence annuelle « Telconomics » : les investissements sur le marché des télécoms continuent de baisser, en lien avec la fin des déploiements des réseaux dans plusieurs territoires",
+    "auto": true
+  },
+  {
     "id": "auto-1783159330-48",
     "title": "From technological dependency to economic capture: the cost of cloud & software services inflation to Europe",
     "url": "https://www.cigref.fr/from-technological-dependency-to-economic-capture-the-cost-of-cloud-software-services-inflation-to-europe",
@@ -787,16 +797,6 @@
     "date": "2026-05-28",
     "cat": "Contrats IT",
     "desc": "Asterès publie une seconde étude commandée par le Cigref. Consacrée à la captation de valeur économique liée aux dépendances technologiques, elle dresse un constat inédit et sans appel. L’inflation tarifaire des services de cloud et de logiciels n’est plus seulement un défi budgétaire, elle devient une menace systémique pour l’économie européenne.&",
-    "auto": true
-  },
-  {
-    "id": "auto-1782212215-0",
-    "title": "Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée",
-    "url": "https://www.cnil.fr/fr/privacy-research-day-2026",
-    "source": "CNIL",
-    "date": "2026-05-28",
-    "cat": "RGPD",
-    "desc": "La cinquième édition de la Journée de recherche sur la vie privée (Privacy Research Day) se tiendra le 24 juin 2026, dans le cadre du G7 des autorités de protection des données accueilli par la CNIL. Cet évènement international, reliant le monde académique aux acteurs de la régulation des données, s’adresse aux experts, aux chercheurs et aux admini",
     "auto": true
   }
 ]
