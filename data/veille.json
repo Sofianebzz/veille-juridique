@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1783339066-60",
+    "title": "La mise en balance entre droit à l'information et droit à l'effacement d'une condamnation pénale",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-mise-en-balance-entre-droit-a-l-information-et-droit-a-l-effacement-d-une-condamnation-penale-DNU100g8",
+    "source": "Lextenso",
+    "date": "2026-07-07",
+    "cat": "RGPD",
+    "desc": "La Cour de cassation pr&eacute;cise les conditions de la mise en balance entre le droit &agrave; l&#039;effacement d&#039;une condamnation p&eacute;nale et la libert&eacute; d&#039;expression et d&#039;information, en consacrant sept crit&egrave;res comme grille d&#039;analyse de r&eacute;f&eacute;rence, et rappelle que la charge de la preuve du pr",
+    "auto": true
+  },
+  {
     "id": "auto-1783074531-66",
     "title": "Deuxième sanction pour violation du DSA : 200 millions d'euros à l'encontre de Temu",
     "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/deuxieme-sanction-pour-violation-du-dsa-200-millions-d-euros-a-l-encontre-de-temu-DNU100g7",
@@ -27,6 +37,26 @@
     "date": "2026-07-07",
     "cat": "Plateformes",
     "desc": "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
+    "auto": true
+  },
+  {
+    "id": "auto-1783339066-0",
+    "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
+    "url": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
+    "source": "CNIL",
+    "date": "2026-07-06",
+    "cat": "RGPD",
+    "desc": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
+    "auto": true
+  },
+  {
+    "id": "auto-1783339066-1",
+    "title": "L’ANSSI, l’ACPR et la Banque de France signe un accord de coopération",
+    "url": "http://cyber.sites.beta.gouv.fr/actualites/lanssi-lacpr-et-la-banque-de-france-signe-un-accord-de-cooperation/",
+    "source": "ANSSI",
+    "date": "2026-07-06",
+    "cat": "Cybersécurité",
+    "desc": "Les entités du secteur financier sont des cibles privilégiées en raison de la sensibilité des données qu’elles gèrent et des […]",
     "auto": true
   },
   {
@@ -767,36 +797,6 @@
     "date": "2026-06-02",
     "cat": "Jurisprudence",
     "desc": "Le mercredi 27 mai, le Conseil constitutionnel a tenu sa 13e audience publique « hors-les murs » au Tribunal judiciaire de Mende. Cette audience portait sur deux questions prioritaires de constitutionnalité (QPC) dont l’affaire 2026-1201 QPC relative à la notification du droit de se taire lors d’une procédure de sanction administrative en droit de ",
-    "auto": true
-  },
-  {
-    "id": "auto-1783245895-15",
-    "title": "Marché français des télécoms",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-francais-des-telecoms-280526.html",
-    "source": "ARCEP",
-    "date": "2026-05-28",
-    "cat": "Plateformes",
-    "desc": "Conférence annuelle « Telconomics » : les investissements sur le marché des télécoms continuent de baisser, en lien avec la fin des déploiements des réseaux dans plusieurs territoires",
-    "auto": true
-  },
-  {
-    "id": "auto-1783159330-48",
-    "title": "From technological dependency to economic capture: the cost of cloud & software services inflation to Europe",
-    "url": "https://www.cigref.fr/from-technological-dependency-to-economic-capture-the-cost-of-cloud-software-services-inflation-to-europe",
-    "source": "CIGREF",
-    "date": "2026-05-28",
-    "cat": "Contrats IT",
-    "desc": "Asterès publishes a second study commissioned by the Cigref. Focusing on the capture of economic value linked to technological dependencies, it presents an original and unequivocal assessment. The rising costs of cloud and software services are no longer merely a budgetary challenge; they are becoming a systemic threat to the European economy. In a",
-    "auto": true
-  },
-  {
-    "id": "auto-1783159330-49",
-    "title": "De la dépendance technologique à la captation économique : ce que les hausses tarifaires du cloud-logiciel coûtent à l’Europe",
-    "url": "https://www.cigref.fr/de-la-dependance-technologique-a-la-captation-economique-ce-que-les-hausses-tarifaires-du-cloud-logiciel-coutent-a-leurope",
-    "source": "CIGREF",
-    "date": "2026-05-28",
-    "cat": "Contrats IT",
-    "desc": "Asterès publie une seconde étude commandée par le Cigref. Consacrée à la captation de valeur économique liée aux dépendances technologiques, elle dresse un constat inédit et sans appel. L’inflation tarifaire des services de cloud et de logiciels n’est plus seulement un défi budgétaire, elle devient une menace systémique pour l’économie européenne.&",
     "auto": true
   }
 ]
