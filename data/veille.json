@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1783421348-0",
+    "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
+    "url": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
+    "source": "CNIL",
+    "date": "2026-07-07",
+    "cat": "RGPD",
+    "desc": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
+    "auto": true
+  },
+  {
+    "id": "auto-1783421348-1",
+    "title": "Géolocalisation et applications mobiles : comment protéger vos données ?",
+    "url": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-proteger-vos-donnees",
+    "source": "CNIL",
+    "date": "2026-07-07",
+    "cat": "RGPD",
+    "desc": "Les applications météo, de sport ou de rencontres utilisent souvent votre localisation. Mais savez-vous qui peut accéder à ces données et pourquoi&amp;nbsp;? La CNIL vous aide à comprendre les enjeux et à garder le contrôle sur vos données.",
+    "auto": true
+  },
+  {
     "id": "auto-1783339066-60",
     "title": "La mise en balance entre droit à l'information et droit à l'effacement d'une condamnation pénale",
     "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-mise-en-balance-entre-droit-a-l-information-et-droit-a-l-effacement-d-une-condamnation-penale-DNU100g8",
@@ -777,26 +797,6 @@
     "date": "2026-06-04",
     "cat": "RGPD",
     "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 4 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    "auto": true
-  },
-  {
-    "id": "auto-1780658436-54",
-    "title": "Souveraineté et résilience numériques : note de position doctrinale du Cigref",
-    "url": "https://www.cigref.fr/souverainete-et-resilience-numeriques-note-de-position-doctrinale-du-cigref",
-    "source": "CIGREF",
-    "date": "2026-06-04",
-    "cat": "Cybersécurité",
-    "desc": "Face à l&#8217;intensification des rivalités géopolitiques et à l&#8217;état de polycrise permanent, le concept de « souveraineté numérique » est devenu omniprésent. Cependant, son utilisation excessive par les acteurs du marché l&#8217;a progressivement transformé en un simple argument marketing, créant une profonde confusion sémantique et opérati",
-    "auto": true
-  },
-  {
-    "id": "auto-1780739856-15",
-    "title": "Décision n° 2026-1201 QPC du 2 juin 2026 - Communiqué de presse",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1201-qpc-du-2-juin-2026-communique-de-presse",
-    "source": "Conseil constitutionnel",
-    "date": "2026-06-02",
-    "cat": "Jurisprudence",
-    "desc": "Le mercredi 27 mai, le Conseil constitutionnel a tenu sa 13e audience publique « hors-les murs » au Tribunal judiciaire de Mende. Cette audience portait sur deux questions prioritaires de constitutionnalité (QPC) dont l’affaire 2026-1201 QPC relative à la notification du droit de se taire lors d’une procédure de sanction administrative en droit de ",
     "auto": true
   }
 ]
