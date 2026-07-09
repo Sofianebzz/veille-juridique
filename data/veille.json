@@ -1,5 +1,75 @@
 [
   {
+    "id": "auto-1783594681-0",
+    "title": "Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs",
+    "url": "https://www.cnil.fr/fr/cepd-ia-generative-chaines-blocs",
+    "source": "CNIL",
+    "date": "2026-07-09",
+    "cat": "IA",
+    "desc": "Le 7 juillet 2026, le CEPD a adopté des lignes directrices sur l’anonymisation et des lignes directrices sur le moissonnage dans le contexte de l’IA générative. Il a aussi adopté la version finale de ses lignes directrices sur le traitement des données au moyen des technologies de la chaîne de blocs.",
+    "auto": true
+  },
+  {
+    "id": "auto-1783594681-38",
+    "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
+    "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+    "source": "EDPB",
+    "date": "2026-07-08",
+    "cat": "IA",
+    "desc": "Brussels, 8 July– During its latest plenary, the EDPB has adopted guidelines on anonymisation and guidelines on web scraping in the context of generative AI. In addition, the Board has adopted the final version of its guidelines on the processing of personal data through blockchain technologies. Understanding anonymous data The new EDPB guidelines ",
+    "auto": true
+  },
+  {
+    "id": "auto-1783594681-39",
+    "title": "New CEDPO Paper: Double Agents: The Opportunities and Risks of Agentic AI",
+    "url": "https://cedpo.eu/cedpo-paper-double-agents-the-opportunities-and-risks-of-agentic-ai/",
+    "source": "CEDPO",
+    "date": "2026-07-08",
+    "cat": "RGPD",
+    "desc": "Der Beitrag New CEDPO Paper: Double Agents: The Opportunities and Risks of Agentic AI erschien zuerst auf Confederation of European Data Protection Organisations .",
+    "auto": true
+  },
+  {
+    "id": "auto-1783594681-40",
+    "title": "CEDPO Responds to the EDPB Consultation on the Draft DPIA Template",
+    "url": "https://cedpo.eu/cedpo-responds-to-the-edpb-consultation-on-the-draft-dpia-template/",
+    "source": "CEDPO",
+    "date": "2026-07-08",
+    "cat": "RGPD",
+    "desc": "Der Beitrag CEDPO Responds to the EDPB Consultation on the Draft DPIA Template erschien zuerst auf Confederation of European Data Protection Organisations .",
+    "auto": true
+  },
+  {
+    "id": "auto-1783594681-63",
+    "title": "Paquet souveraineté technologique : l'Europe ne veut plus seulement réguler le numérique, elle entend le construire à sa façon, ouvert et souverain",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/paquet-souverainete-technologique-l-europe-ne-veut-plus-seulement-reguler-le-numerique-elle-entend-le-construire-a-sa-facon-ouvert-et-souverain-DNU100h1",
+    "source": "Lextenso",
+    "date": "2026-07-07",
+    "cat": "Contrats IT",
+    "desc": "Pr&eacute;sent&eacute; le 3&nbsp;juin 2026, le paquet europ&eacute;en sur la souverainet&eacute; technologique r&eacute;unit une communication assortie d&#039;une strat&eacute;gie Open Source, deux propositions de r&egrave;glement, le Cloud and AI Development Act (CADA) et le Chips Act 2.0, ainsi qu&#039;une feuille de route num&eacute;rique pour l",
+    "auto": true
+  },
+  {
+    "id": "auto-1783594681-64",
+    "title": "Les données de santé des Français suffisamment protégées selon le Conseil d'État",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/les-donnees-de-sante-des-francais-suffisamment-protegees-selon-le-conseil-d-etat-DNU100h0",
+    "source": "Lextenso",
+    "date": "2026-07-07",
+    "cat": "Jurisprudence",
+    "desc": "L&#039;h&eacute;bergement des donn&eacute;es de sant&eacute; par Microsoft est encore une fois l&#039;objet d&#039;une controverse. Le Conseil d&#039;&Eacute;tat tente de trouver un &eacute;quilibre entre la n&eacute;cessit&eacute; de permettre des recherches gr&acirc;ce aux donn&eacute;es de sant&eacute; et les garanties offertes par le droit de l",
+    "auto": true
+  },
+  {
+    "id": "auto-1783594681-65",
+    "title": "Recherche scientifique et certification : les critères du Comité européen de la protection des données",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/recherche-scientifique-et-certification-les-criteres-du-comite-europeen-de-la-protection-des-donnees-DNU100g9",
+    "source": "Lextenso",
+    "date": "2026-07-07",
+    "cat": "RGPD",
+    "desc": "Le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es a adopt&eacute;, le 15&nbsp;avril 2026, trois actes pr&eacute;cisant le r&eacute;gime europ&eacute;en de la protection des donn&eacute;es. Les lignes directrices 1/2026 d&eacute;finissent la recherche scientifique au sens du RGPD. Elles encadrent le broad consent et consacrent une",
+    "auto": true
+  },
+  {
     "id": "auto-1783505397-14",
     "title": "Infrastructures",
     "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/infrastructures-070726.html",
@@ -727,76 +797,6 @@
     "date": "2026-06-05",
     "cat": "Jurisprudence",
     "desc": "Le mercredi 27 mai, le Conseil constitutionnel a tenu sa 13e audience publique « hors-les murs » au tribunal judiciaire de Mende. Cette audience portait sur deux questions prioritaires de constitutionnalité (QPC) dont l’affaire 2026-1203 QPC relative à la sanction du défaut de déclaration par le tiers saisi de ses obligations à l’égard du redevable",
-    "auto": true
-  },
-  {
-    "id": "auto-1780739856-16",
-    "title": "Prêt de la Tapisserie de Bayeux : Rejet de la requête dirigée contre la décision du Président de la République qui est liée aux relations interna...",
-    "url": "https://www.conseil-etat.fr/actualites/pret-de-la-tapisserie-de-bayeux-rejet-de-la-requete-dirigee-contre-la-decision-du-president-de-la-republique-qui-est-liee-aux-relations-interna",
-    "source": "Conseil d'État",
-    "date": "2026-06-05",
-    "cat": "Jurisprudence",
-    "desc": "Saisi par une association de défense du patrimoine, le Conseil d’Etat rejette la demande d’annulation de la décision du Président de la République de prêter au Royaume-Uni la Tapisserie de Bayeux. Ce prêt a été annoncé lors d’une visite d’Etat au Royaume-Uni, dans le cadre d’une déclaration relative",
-    "auto": true
-  },
-  {
-    "id": "auto-1782134901-34",
-    "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
-    "url": "https://www.edpb.europa.eu/news/the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-the-confidentiality-of-a_en",
-    "source": "EDPB",
-    "date": "2026-06-04",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 18 December 2025 National case Controller:&nbsp;LTL S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 15 (Right to access by the data s",
-    "auto": true
-  },
-  {
-    "id": "auto-1782134901-35",
-    "title": "The Italian SA fined Poste Vita for data breach",
-    "url": "https://www.edpb.europa.eu/news/the-italian-sa-fined-poste-vita-for-data-breach_en",
-    "source": "EDPB",
-    "date": "2026-06-04",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 10 July 2025 National case Controller: Poste Vita s.p.a. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notification of a personal data breach to the supervisory authority) Decision:&nbsp;Administrative fine Key words: Administrative fine, Clients, Data ",
-    "auto": true
-  },
-  {
-    "id": "auto-1782134901-36",
-    "title": "Imposition of fine on a telecommunications company for violations of data subject’s rights",
-    "url": "https://www.edpb.europa.eu/news/imposition-of-fine-on-a-telecommunications-company-for-violations-of-data-subjects-rights_en",
-    "source": "EDPB",
-    "date": "2026-06-04",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 11 February 2026 National case Controller: Vodafone-Panafon S.A Hellenic Telecommunications Company Legal Reference: Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject, Article 12.2: Facilitation of the exercise of the rights of the data",
-    "auto": true
-  },
-  {
-    "id": "auto-1782134901-37",
-    "title": "The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars",
-    "url": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-fined-a-company-120-000-eur-for-tracking-five-employees-who_en",
-    "source": "EDPB",
-    "date": "2026-06-04",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 27 November 2025 National case Controller: Pioneer Hi-Bred Italia Sementi s.r.l. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), &nbsp;Article 13 (Information to be provided where personal data are collected from the data subject",
-    "auto": true
-  },
-  {
-    "id": "auto-1782134901-38",
-    "title": "Italian SA fines a company for post-sick leave questionnaires",
-    "url": "https://www.edpb.europa.eu/news/italian-sa-fines-a-company-for-post-sick-leave-questionnaires_en",
-    "source": "EDPB",
-    "date": "2026-06-04",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 10 July 2025 National case Controller: Magna PT S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), &nbsp;Article 9 (Processing of special categories of personal data), &nbsp;Article 13 (Information to be provided where person",
-    "auto": true
-  },
-  {
-    "id": "auto-1782134901-39",
-    "title": "The Italian Supervisory Authority has fined Verisure Italia for unlawful processing of personal data for direct marketing purposes",
-    "url": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawful-processing-of_en",
-    "source": "EDPB",
-    "date": "2026-06-04",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 27 November 2025 National case Controller:&nbsp;&nbsp;&nbsp;&nbsp;Verisure Italia srl Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 7 (Conditions for consent), Article 12 (Transparent information, communication and modalities for the exercise of the rights ",
     "auto": true
   }
 ]
