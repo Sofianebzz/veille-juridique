@@ -1,6 +1,66 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-09T10:58:29
+// Dernière collecte : 2026-07-10T10:47:03
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1783680397-0",
+    title: "Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation",
+    url: "https://www.cnil.fr/fr/revoir-le-webinaire-nouveau-teleservice-sante-et-recherche-ce-qui-change-pour-vos-demandes",
+    source: "CNIL",
+    date: "2026-07-10",
+    cat: "RGPD",
+    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au&amp;nbsp;nouveau téléservice santé et recherche de la CNIL.",
+    auto: true
+  },
+  {
+    id: "auto-1783680397-1",
+    title: "Travail, ressources humaines : le contrôle de l’activité des personnes employées",
+    url: "https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees",
+    source: "CNIL",
+    date: "2026-07-09",
+    cat: "Contrats IT",
+    desc: "Un employeur a le pouvoir d’encadrer et de contrôler l’activité des membres du personnel ainsi que leur usage des équipements au travail. Il s’agit d’une contrepartie normale et inhérente au contrat de travail. Néanmoins, ce pouvoir ne peut pas être exercé de manière excessive.",
+    auto: true
+  },
+  {
+    id: "auto-1783680397-26",
+    title: "Mutualisation des réseaux mobiles",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/mutualisation-des-reseaux-mobiles-090726.html",
+    source: "ARCEP",
+    date: "2026-07-09",
+    cat: "Plateformes",
+    desc: "Modification de l’accord de partage entre Bouygues Telecom et SFR : l’Arcep a reçu un nouvel avenant et estime qu’il n’est pas nécessaire de le modifier",
+    auto: true
+  },
+  {
+    id: "auto-1783680397-27",
+    title: "Observatoire des marchés des communications électroniques",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/observatoire-des-marches-des-communications-electroniques-t1-2026-090726.html",
+    source: "ARCEP",
+    date: "2026-07-09",
+    cat: "Plateformes",
+    desc: "L’Arcep publie le suivi de l’observatoire des marchés des communications électroniques au premier trimestre 2026",
+    auto: true
+  },
+  {
+    id: "auto-1783680397-28",
+    title: "Accessibilité",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques.html",
+    source: "ARCEP",
+    date: "2026-07-09",
+    cat: "Plateformes",
+    desc: "L’Arcep publie les indicateurs d’utilisation et de qualité des services téléphoniques accessibles aux personnes sourdes, malentendantes, sourdaveugles et aphasiques au 1er trimestre 2026.",
+    auto: true
+  },
+  {
+    id: "auto-1783680397-29",
+    title: "Décision n° 2026-9 LP du 9 juillet 2026",
+    url: "https://www.conseil-constitutionnel.fr/decision/2026/20269LP.htm",
+    source: "Conseil constitutionnel",
+    date: "2026-07-09",
+    cat: "Jurisprudence",
+    desc: "Loi du pays modifiant le code minier de la Nouvelle-Calédonie (partie législative)",
+    auto: true
+  },
   {
     id: "auto-1783594681-0",
     title: "Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs",
@@ -741,65 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Rachat de SFR : l’Arcep prend acte de la signature d’un protocole d’accord par Bouygues Telecom, le groupe Iliad et Orange",
     auto: true
   },
-  {
-    id: "auto-1780921380-0",
-    title: "G7 : Retour sur la réunion plénière du groupe de travail dédié à la cybersécurité",
-    url: "http://cyber.gouv.fr/actualites/g7-retour-sur-la-r%C3%A9union-pl%C3%A9ni%C3%A8re-du-groupe-de-travail-d%C3%A9di%C3%A9-%C3%A0-la-cybers%C3%A9curit%C3%A9/",
-    source: "ANSSI",
-    date: "2026-06-08",
-    cat: "Cybersécurité",
-    desc: "Dans le cadre de la présidence française du G7, l’ANSSI a accueilli à Paris, le 27 mai 2026, la réunion […]",
-    auto: true
-  },
-  {
-    id: "auto-1780921380-43",
-    title: "Lutte contre le piratage en ligne : la réponse graduée n'est pas conforme au droit européen",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/lutte-contre-le-piratage-en-ligne-la-reponse-graduee-n-est-pas-conforme-au-droit-europeen-DNU100g0",
-    source: "Lextenso",
-    date: "2026-06-08",
-    cat: "Jurisprudence",
-    desc: "Tirant les cons&eacute;quences de l&#039;arr&ecirc;t de la CJUE du 30&nbsp;avril 2024, le Conseil d&#039;&Eacute;tat consid&egrave;re que le dispositif de r&eacute;ponse gradu&eacute;e, mis en place pour lutter contre le piratage en ligne d&#039;&oelig;uvres prot&eacute;g&eacute;es, est contraire au droit de l&#039;Union europ&eacute;enne. CE, 30&n",
-    auto: true
-  },
-  {
-    id: "auto-1780134768-68",
-    title: "Escroquerie en ligne et responsabilité classique des acteurs numériques et bancaires",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/escroquerie-en-ligne-et-responsabilite-classique-des-acteurs-numeriques-et-bancaires-DNU100f9",
-    source: "Lextenso",
-    date: "2026-06-08",
-    cat: "Plateformes",
-    desc: "Saisi d&#039;un litige n&eacute; d&#039;une escroquerie commise par l&#039;interm&eacute;diaire d&#039;un faux profil sur LinkedIn, le tribunal judiciaire de Paris refuse d&#039;engager la responsabilit&eacute; de la soci&eacute;t&eacute; fran&ccedil;aise de la plateforme ainsi que celle de la banque ayant ex&eacute;cut&eacute; les virements litigi",
-    auto: true
-  },
-  {
-    id: "auto-1779967880-66",
-    title: "Pixels de suivi dans les courriels : la CNIL étend la logique des cookies à l'e-mailing",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/pixels-de-suivi-dans-les-courriels-la-cnil-etend-la-logique-des-cookies-a-l-e-mailing-DNU100f8",
-    source: "Lextenso",
-    date: "2026-06-08",
-    cat: "RGPD",
-    desc: "La CNIL a adopt&eacute;, le 12&nbsp;mars 2026, une recommandation relative aux pixels de suivi dans les courriels, destin&eacute;e &agrave; pr&eacute;ciser l&#039;application de l&#039;article&nbsp;82 de la loi Informatique et libert&eacute;s aux dispositifs de tracking ins&eacute;r&eacute;s dans les courriels. CNIL, D&eacute;lib. n&deg;&nbsp;2026-",
-    auto: true
-  },
-  {
-    id: "auto-1779881507-64",
-    title: "Apple condamné pour violation du droit des clauses abusives et du droit des données personnelles",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/apple-condamne-pour-violation-du-droit-des-clauses-abusives-et-du-droit-des-donnees-personnelles-DNU100f7",
-    source: "Lextenso",
-    date: "2026-06-08",
-    cat: "RGPD",
-    desc: "Apr&egrave;s avoir jug&eacute; recevable l&#039;action intent&eacute;e par une association de consommateurs contre la soci&eacute;t&eacute; Apple, la cour d&#039;appel de Paris condamne celle-ci &agrave; r&eacute;parer le pr&eacute;judice caus&eacute; &agrave; l&#039;int&eacute;r&ecirc;t collectif des consommateurs par les clauses abusives et illic",
-    auto: true
-  },
-  {
-    id: "auto-1781870425-30",
-    title: "Décision n° 2026-1203 QPC du 5 juin 2026 - Communiqué de presse",
-    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1203-qpc-du-5-juin-2026-communique-de-presse",
-    source: "Conseil constitutionnel",
-    date: "2026-06-05",
-    cat: "Jurisprudence",
-    desc: "Le mercredi 27 mai, le Conseil constitutionnel a tenu sa 13e audience publique « hors-les murs » au tribunal judiciaire de Mende. Cette audience portait sur deux questions prioritaires de constitutionnalité (QPC) dont l’affaire 2026-1203 QPC relative à la sanction du défaut de déclaration par le tiers saisi de ses obligations à l’égard du redevable",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-09T10:58:29";
+window.AUTO_VEILLE_UPDATED = "2026-07-10T10:47:03";
