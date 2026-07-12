@@ -1,5 +1,265 @@
 [
   {
+    "id": "tech-1783849523-15",
+    "title": "Votre smartphone est-il en train de déformer votre corps sans que vous le sachiez ?",
+    "url": "https://www.01net.com/actualites/votre-smartphone-est-il-en-train-de-deformer-votre-corps-sans-que-vous-le-sachiez.html",
+    "source": "01net",
+    "date": "2026-07-12",
+    "cat": "Numérique & Société",
+    "desc": "Nuque, peau, yeux, mains : nos appareils ne modifient pas seulement notre attention, ils laissent aussi des traces bien réelles sur notre corps. Une enquête de la BBC fait le point avec plusieurs chercheurs sur ce que la science sait vraiment de ces effets, et sur ce qu'on peut y faire.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-16",
+    "title": "Vos photos de vacances sont un danger : avec l’IA, les criminels peuvent vous localiser pour vous piéger",
+    "url": "https://www.01net.com/actualites/photos-vacances-danger-ia-criminels-peuvent-deviner-pieger.html",
+    "source": "01net",
+    "date": "2026-07-12",
+    "cat": "Numérique & Société",
+    "desc": "Une simple photo de vacances est susceptible de vous mettre en danger. Avec l'IA générative, les cybercriminels peuvent facilement deviner où vous êtes parti en vacances. Sur base des informations collectées, ils peuvent ensuite mettre au point des arnaques personnalisées pour tenter de vous piéger… vous ou vos proches restés en France.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-17",
+    "title": "Crypto : exclu d’Europe, le géant Binance négocie déjà son retour",
+    "url": "https://www.01net.com/actualites/crypto-exclu-deurope-le-geant-binance-negocie-deja-son-retour.html",
+    "source": "01net",
+    "date": "2026-07-12",
+    "cat": "Numérique & Société",
+    "desc": "L'entrée en vigueur de MiCA a forcé Binance à quitter l'Europe. Le géant des cryptomonnaies cherche actuellement un moyen pour faire son grand retour, et plusieurs pistes s'offrent déjà à lui.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-18",
+    "title": "Cette Maserati va rouler seule sur l’autoroute en Belgique, sans aucune intervention humaine",
+    "url": "https://www.01net.com/actualites/cette-maserati-va-rouler-seule-sur-lautoroute-en-belgique-sans-aucune-intervention-humaine.html",
+    "source": "01net",
+    "date": "2026-07-12",
+    "cat": "Numérique & Société",
+    "desc": "La start-up belge Aidoptation a reçu le feu vert des autorités pour tester son système de conduite entièrement autonome sur un tronçon de 100 km d'autoroute dans le Limbourg, jusqu'à 120 km/h. Une première dans l'Union européenne.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-19",
+    "title": "Google peut vous prévenir dès qu’une page Web parle de vous, voici comment faire",
+    "url": "https://www.01net.com/astuces/google-peut-vous-prevenir-des-quune-page-web-parle-de-vous-voici-comment-faire.html",
+    "source": "01net",
+    "date": "2026-07-12",
+    "cat": "Big Tech",
+    "desc": "Surveillez facilement les sites Web sur lesquels votre nom est cité en configurant une alerte automatique dès qu’une nouvelle page est mise en ligne.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-20",
+    "title": "Faux paiement Wero : cette arnaque par SMS peut vider votre compte bancaire",
+    "url": "https://www.01net.com/actualites/faux-paiement-wero-cette-arnaque-par-sms-peut-vider-votre-compte-bancaire.html",
+    "source": "01net",
+    "date": "2026-07-12",
+    "cat": "Numérique & Société",
+    "desc": "Bien qu’elle se développe particulièrement sur Vinted et Marketplace, cette arnaque peut cibler n’importe quel bien ou service vendu en ligne. L’escroc fait croire à la victime qu’elle doit confirmer la réception d’un paiement via la plateforme Wero. En réalité, la victime n’interagit jamais avec le véritable service de paiement : elle est redirigé",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-36",
+    "title": "À côté de la plaque, ces hackers chinois laissent leur propre serveur grand ouvert pendant trois semaines",
+    "url": "https://www.numerama.com/cyberguerre/2294119-a-cote-de-la-plaque-ces-hackers-chinois-laissent-leur-propre-serveur-grand-ouvert-pendant-trois-semaines.html",
+    "source": "Numerama",
+    "date": "2026-07-12",
+    "cat": "Sécurité",
+    "desc": "Un groupe cybercriminel a scanné et piégé plus d'un million de sites WordPress et Joomla à l'aide de failles publiques, avant d'oublier de fermer l'accès à son propre serveur de travail, dévoilant tout son mode opératoire aux chercheurs.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-37",
+    "title": "Le gouvernement oriente vos achats de voitures électriques avec l’argent des autres",
+    "url": "https://www.numerama.com/vroom/2294179-le-gouvernement-oriente-vos-achats-de-voitures-electriques-avec-largent-des-autres.html",
+    "source": "Numerama",
+    "date": "2026-07-12",
+    "cat": "Numérique & Société",
+    "desc": "Les aides à la voiture électrique se multiplient, mais l’argent magique n’existe pas. Derrière les certificats d'économies d'énergie (CEE), quelqu’un finit toujours par payer. L'éditorial de la newsletter Watt Else du 9 juillet 2026 était l'occasion d'aborder la face cachée de ces aides.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-0",
+    "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+    "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+    "source": "The Verge",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Roc&#237;o Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-1",
+    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+    "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+    "source": "The Verge",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. As CEO of Image Line, [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-2",
+    "title": "ICE are heavily armed killers. They’re also huge losers",
+    "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+    "source": "The Verge",
+    "date": "2026-07-11",
+    "cat": "Hardware",
+    "desc": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-3",
+    "title": "The perfect kit for all your tiny repairs",
+    "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+    "source": "The Verge",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about cold plunges and Colson Whitehead and the food truck mafia, [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-4",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "source": "TechCrunch",
+    "date": "2026-07-11",
+    "cat": "IA & Modèles",
+    "desc": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-5",
+    "title": "A Jupiter-size planet that escaped its star's death",
+    "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+    "source": "Ars Technica",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "It's unclear how the planet avoided its star's bloated red giant stage.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-6",
+    "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+    "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+    "source": "Ars Technica",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-21",
+    "title": "Streaming Norvège Angleterre : où regarder le match gratuit en direct HD ? 🔴",
+    "url": "https://www.01net.com/bons-plans/streaming-norvege-angleterre-ou-regarder-le-match-gratuit-en-direct-hd.html",
+    "source": "01net",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "Portée par Erling Haaland, la Norvège dispute le premier quart de finale de son histoire face à l'Angleterre, ce samedi 11 juillet à Miami, en Coupe du monde 2026. En France, M6 la diffuse en direct sur son antenne, et en streaming sur M6+. beIN Sports la propose sur abonnement et aussi en streaming sur beIN Connect. Voici comment regarder le strea",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-22",
+    "title": "La FNAC vide ses stocks, -62% sur cet excellent clavier gaming SteelSeries Apex 7",
+    "url": "https://www.01net.com/bons-plans/la-fnac-vide-ses-stocks-62-sur-cet-excellent-clavier-gaming-steelseries-apex-7.html",
+    "source": "01net",
+    "date": "2026-07-11",
+    "cat": "Startups & VC",
+    "desc": "Profitez dès aujourd'hui d'une remise folle de -62% sur le clavier gaming filaire SteelSeries Apex 7 grâce aux soldes FNAC !",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-23",
+    "title": "Pénurie de puces : cette décision chinoise risque encore de faire exploser les prix",
+    "url": "https://www.01net.com/actualites/penurie-de-puces-cette-decision-chinoise-risque-encore-de-faire-exploser-les-prix.html",
+    "source": "01net",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "Pékin coupe ses exportations d'hélium, gaz discret mais vital pour les usines de puces. Après le néon en 2022, la tech redécouvre sa fragilité. Et votre prochaine barrette de RAM pourrait en faire les frais.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-24",
+    "title": "Climatiseur miracle, NASA, complot : une nouvelle arnaque fait rage sur les réseaux sociaux",
+    "url": "https://www.01net.com/actualites/nasa-climatiseur-miracle-complot-nouvelle-arnaque-reseaux-sociaux.html",
+    "source": "01net",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "Sur les réseaux sociaux, une arnaque prétend que deux anciens ingénieurs de la NASA ont conçu un climatiseur révolutionnaire de la taille d’un grille-pain. Selon cette publicité frauduleuse, l’appareil serait capable de faire chuter la température d’une pièce de 15 degrés en seulement 90 secondes. Ce type d’arnaque se multiplie depuis le début de l",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-38",
+    "title": "Les Russes passent au VE faute de carburant, les usines menacées en Hongrie et polémique sur le leasing social 2026 : le récap’ Vroom de la semaine",
+    "url": "https://www.numerama.com/vroom/2294287-les-russes-passent-au-ve-faute-de-carburant-les-usines-menacees-en-hongrie-et-polemique-sur-le-leasing-social-2026-le-recap-vroom-de-la-semaine.html",
+    "source": "Numerama",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "À la une sur Vroom cette semaine :&nbsp;les Russes se tournent vers la voiture électrique à cause de la pénurie de carburant, la Hongrie menace les usines trop polluantes et le leasing social 2026 fait parler lui pour ses nouveaux critères.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-39",
+    "title": "Test de Rhythm Paradise Groove sur Switch 2 : un rêve fiévreux au rythme endiablé",
+    "url": "https://www.numerama.com/pop-culture/2291959-rhythm-paradise-groove-sur-switch-2-est-un-reve-fievreux-au-rythme-endiable.html",
+    "source": "Numerama",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "La série de jeux Rhythm Paradise revient pour un cinquième épisode aussi fun que déjanté, où votre sens du rythme devra se confronter à votre capacité à garder votre sérieux face à des mini-jeux franchement ridicules. Notre test.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-40",
+    "title": "Les meilleurs films Disney+ à voir en famille pour les vacances 2026",
+    "url": "https://www.numerama.com/pop-culture/2292005-les-meilleurs-films-disney-a-voir-en-famille-pour-les-vacances-2026.html",
+    "source": "Numerama",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "Chaque soir, c’est le même cirque : quarante-cinq minutes de négociations tendues devant le menu de Disney+ pour finir par lancer un truc que le grand a déjà vu trois fois ou qui va traumatiser le plus petit. Trouver le compromis parfait entre le film doudou qui n'asphyxie pas le cerveau des parents et le blockbuster qui ne rend pas les ados cyniqu",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-41",
+    "title": "J’ai testé le climatiseur mobile de Dreame, la marque qui fait aussi des hypercars",
+    "url": "https://www.numerama.com/tech/2289565-on-a-teste-le-climatiseur-mobile-de-dreame-la-marque-qui-fait-aussi-des-hypercars.html",
+    "source": "Numerama",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "En pleine canicule, les climatiseurs mobiles se sont arrachés à une vitesse folle. Le Dreame P-Wind10-C a fait partie des premiers modèles à disparaître des rayons. On a quand même réussi à mettre la main dessus. Voici ce qu’il vaut vraiment, avant son éventuelle remise en stock.",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-42",
+    "title": "Apple Watch, Google Fitbit Air, même combat : rendez-moi mon poignet !",
+    "url": "https://www.numerama.com/tech/2293249-apple-watch-google-fitbit-air-meme-combat-rendez-moi-mon-poignet.html",
+    "source": "Numerama",
+    "date": "2026-07-11",
+    "cat": "Big Tech",
+    "desc": "Chaque jeudi, plusieurs milliers de nos lecteurs et lectrices les plus fidèles reçoivent Toujours Plus : un édito léché, un sujet de la semaine décortiqué, une recommandation de lecture et le calendrier secret de la rédaction. Découvrez l'édito de cette semaine et inscrivez-vous ci-dessous !",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-43",
+    "title": "Bryan Johnson veut vaincre la mort, « boules de l’espace » en Australie, aphélie — le récap’ sciences de la semaine",
+    "url": "https://www.numerama.com/sciences/2294109-bryan-johnson-veut-vaincre-la-mort-boules-de-lespace-en-australie-aphelie-le-recap-sciences-de-la-semaine.html",
+    "source": "Numerama",
+    "date": "2026-07-11",
+    "cat": "Sécurité",
+    "desc": "Cette semaine, dans l'actualité scientifique couverte par Numerama : Bryan Johnson, entrepreneur du biohacking, est atteint d'une maladie incurable ; des « boules de l'espace » retrouvées sur une plage australienne ; la Terre passée à l'aphélie. C'est l'heure du récap' !",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-44",
+    "title": "La version 1.0 de Palworld affole déjà les compteurs",
+    "url": "https://www.numerama.com/tech/2294619-la-version-1-0-de-palworld-affole-deja-les-compteurs.html",
+    "source": "Numerama",
+    "date": "2026-07-11",
+    "cat": "Numérique & Société",
+    "desc": "La version 1.0 de Palworld est désormais disponible sur PS5, Xbox Series S, Xbox Series X et PC. Sur Steam, le jeu de Pocketpair affole déjà les compteurs.",
+    "auto": true
+  },
+  {
     "id": "tech-1783761658-5",
     "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
     "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
@@ -127,6 +387,86 @@
     "date": "2026-07-11",
     "cat": "Numérique & Société",
     "desc": "L'Odyssée de Christopher Nolan a beau être l'un des films les plus attendus du moment, ça n'empêche pas les internautes de se moquer de lui, notamment à cause d'une image qui fait couler beaucoup d'encre sur les réseaux sociaux. Du côté de l'animation, le premier épisode de The Ghost in the Shell, nouvelle adaptation du manga, nous tape dans l'œil,",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-45",
+    "title": "☕️ Xavier Niel va devenir le premier actionnaire de Vodafone",
+    "url": "https://next.ink/brief-article/xavier-niel-va-devenir-le-premier-actionnaire-de-vodafone/",
+    "source": "Next.ink",
+    "date": "2026-07-10",
+    "cat": "Numérique & Société",
+    "desc": "L&#8217;opérateur émirati Emirates Telecommunications Corporation, plus connu sous sa marque commerciale Etisalat, ou son logo e&#38;, a annoncé (PDF) vendredi la vente de sa participation dans le groupe Vodafone à une société dédiée intégralement détenue par la famille Niel. Baptisé Vega, ce véhicule d&#8217;investissement se prépare ainsi à achet",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-46",
+    "title": "Microsoft officialise son utilisation intensive de l’IA pour la découverte des failles",
+    "url": "https://next.ink/246980/microsoft-officialise-son-utilisation-intensive-de-lia-pour-la-decouverte-des-failles/",
+    "source": "Next.ink",
+    "date": "2026-07-10",
+    "cat": "IA & Modèles",
+    "desc": "En mai 2026, Microsoft avait indiqué brièvement que ses équipes d’ingénieurs utilisaient de plus en plus les LLM pour chercher les failles de sécurité. Cette fois, l’entreprise détaille sa façon de faire, en insistant sur l’importance que représentent désormais les grands modèles dans la sécurité de ses produits, Windows en tête. Le «&#160;Patch Tu",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-47",
+    "title": "Bloquer les VPN pour protéger les mineurs ? Le débat prend de l’ampleur en Europe",
+    "url": "https://next.ink/246853/bloquer-les-vpn-pour-proteger-les-mineurs-le-debat-prend-de-lampleur-en-europe/",
+    "source": "Next.ink",
+    "date": "2026-07-10",
+    "cat": "Hardware",
+    "desc": "Les VPN sont-ils devenus la nouvelle faille de la protection des mineurs en ligne ? Depuis le durcissement britannique sur la vérification d’âge en ligne, leur usage alimente les inquiétudes politiques. Mais pour les spécialistes, ces outils ne sont qu’un moyen de contournement parmi d’autres, et leur interdiction poserait de sérieux risques pour l",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-48",
+    "title": "Avec GPT-5.6, OpenAI veut faire de ChatGPT sa super app",
+    "url": "https://next.ink/246959/avec-gpt-5-6-openai-veut-faire-de-chatgpt-sa-super-app/",
+    "source": "Next.ink",
+    "date": "2026-07-10",
+    "cat": "IA & Modèles",
+    "desc": "OpenAI profite de la sortie du purgatoire de GPT-5.6 pour lancer une nouvelle offensive afin d&#8217;installer ChatGPT au cœur de tous les usages – aussi bien pour le grand public que pour les professionnels. Les annonces du labo sont un rien désordonnées, alors essayons d&#8217;y voir clair. GPT-5.6 est finalement disponible, après la levée des [&",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-49",
+    "title": "☕️ La FED crée un groupe de travail sur l’IA et son impact sur l’emploi ou la productivité",
+    "url": "https://next.ink/brief-article/la-fed-cree-un-groupe-de-travail-sur-lia-et-son-impact-sur-lemploi-ou-la-productivite/",
+    "source": "Next.ink",
+    "date": "2026-07-10",
+    "cat": "Numérique & Société",
+    "desc": "La Réserve fédérale des États-Unis (FED) vient de créer cinq groupes de travail, composés de personnalités issues de la société civile et chargés d&#8217;aider la banque centrale à élaborer les grands axes de sa politique monétaire. Dans le lot, l&#8217;institution met sur un pied un groupe «&#160;Productivité et emplois&#160;», dédié notamment à l",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-50",
+    "title": "☕️ Fidji Simo, numéro 2 d’OpenAI, se met en retrait pour raisons médicales",
+    "url": "https://next.ink/brief-article/fidji-simo-numero-2-dopenai-se-met-en-retrait-pour-raisons-medicales/",
+    "source": "Next.ink",
+    "date": "2026-07-10",
+    "cat": "IA & Modèles",
+    "desc": "La Française Fidji Simo, «&#160;CEO of applications&#160;» chez OpenAI, a annoncé vendredi sa décision de quitter ses fonctions exécutives, au profit d&#8217;un poste de conseillère à temps partiel. Elle invoque des raisons médicales : une maladie chronique dont elle souffre depuis au moins sept ans, qui l&#8217;avait déjà contrainte à s&#8217;arrê",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-51",
+    "title": "Muse Spark 1.1 : Meta agressif sur les prix pour rattraper les cadors de l’IA",
+    "url": "https://next.ink/246952/muse-spark-1-1-meta-agressif-sur-les-prix-pour-rattraper-les-cadors-de-lia/",
+    "source": "Next.ink",
+    "date": "2026-07-10",
+    "cat": "IA & Modèles",
+    "desc": "Après les premiers pas de sa première version « grand public » début avril, Muse Spark s&#8217;ouvre aux développeurs tiers. Le nouveau modèle IA de Meta est désormais proposé dans une mouture 1.1 qui ne se présente pas comme le champion des benchmarks, mais sous l&#8217;angle du rapport performances/prix. Dire que Meta mise sur sa [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1783849523-52",
+    "title": "☕️ Google généralise le signalement des publicités générées par IA",
+    "url": "https://next.ink/brief-article/google-generalise-le-signalement-des-publicites-generees-par-ia/",
+    "source": "Next.ink",
+    "date": "2026-07-10",
+    "cat": "Big Tech",
+    "desc": "Google, une des plus grandes régies pub du monde, permet aux annonceurs de créer leurs propres réclames en utilisant des outils d&#8217;IA générative. Autant que ça serve à quelque chose après tout. Mais les progrès de l&#8217;intelligence artificielle font qu&#8217;il est devenu impossible de distinguer le vrai du faux. Le géant du web interdit le",
     "auto": true
   },
   {
@@ -457,346 +797,6 @@
     "date": "2026-07-10",
     "cat": "Numérique & Société",
     "desc": "Nous étions à Goodwood pour découvrir la MG GO!, une citadine électrique préfigurant la future MG2. Force est de constater que face à ses rivales, la sino-anglaise a déjà l’argument du style. Quant au prix, il devrait être écrasé pour en faire un carton commercial.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-47",
-    "title": "Streaming Fery Zverev : où regarder gratuitement la demi-finale de Wimbledon 2026 ? 🔴",
-    "url": "https://www.01net.com/bons-plans/streaming-fery-zverev-ou-regarder-gratuitement-la-demi-finale-de-wimbledon-2026.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Ce vendredi 10 juillet, l'invité Arthur Fery, 114e mondial, se dresse devant Alexander Zverev dans le dernier carré de Wimbledon 2026. En France, le match est diffusé uniquement sur beIN Sports, seul détenteur des droits. Cela dit, il est possible de regarder le streaming gratuit Fery Zverev en passant par deux chaînes gratuites chez nos voisins Su",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-48",
-    "title": "Ce que les RSSI demandent aux candidats à la présidentielle",
-    "url": "https://www.silicon.fr/cybersecurite-1371/ce-que-les-rssi-demandent-aux-candidats-a-la-presidentielle-228239",
-    "source": "Silicon.fr",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Dans une lettre ouverte, le CESIN, qui fédère plus de 1 300 responsables de la sécurité numérique, somme les prétendants à l'Élysée de sortir la souveraineté technologique de la case \"sujet technique\" pour en faire une priorité de campagne à part entière. The post Ce que les RSSI demandent aux candidats à la présidentielle appeared first on Silicon",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-49",
-    "title": "LLMD, un serveur d’inférence made in France qui se frotte à vLLM",
-    "url": "https://www.silicon.fr/data-ia-1372/zml-228223",
-    "source": "Silicon.fr",
-    "date": "2026-07-10",
-    "cat": "IA & Modèles",
-    "desc": "Face aux entreprises commerciales qui se structurent autour des serveurs d'inférence open source, la start-up française ZML avance le sien, fondé sur un framework maison qui a ses particularités. The post LLMD, un serveur d&rsquo;inférence made in France qui se frotte à vLLM appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-50",
-    "title": "Scaleway rachète Qarnot pour ses capacités HPC",
-    "url": "https://www.silicon.fr/cloud-1370/scaleway-rachete-qarnot-pour-ses-capacites-hpc-228233",
-    "source": "Silicon.fr",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Scaleway acquiert Qarnot, spécialiste français du calcul haute performance, pour intégrer à son offre cloud des capacités HPC couplées à une technologie de récupération de chaleur des serveurs. The post Scaleway rachète Qarnot pour ses capacités HPC appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-51",
-    "title": "La French Tech signe son meilleur semestre depuis la sortie du Covid",
-    "url": "https://www.silicon.fr/business-1367/la-french-tech-signe-son-meilleur-semestre-depuis-la-sortie-du-covid-228230",
-    "source": "Silicon.fr",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "La French Tech a levé 4,6 milliards € au premier semestre 2026, en hausse de 65 % sur un an, selon le baromètre publié par EY. Un rebond qui cache une réalité plus sélective : moins d'opérations, des tickets plus gros et une concentration inédite du capital sur une poignée de pépites. The post La French Tech signe son meilleur semestre depuis la so",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-64",
-    "title": "Éclipse solaire 2026 : quand aura lieu la prochaine éclipse de Soleil ?",
-    "url": "https://www.numerama.com/sciences/642816-prochaine-eclipse-solaire-date-heure-et-lieux-dobservation-en-2026.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Pour admirer une éclipse solaire, il faut l'anticiper. Quand a lieu la prochaine éclipse de Soleil ? Bonne nouvelle : une éclipse totale est annoncée en août 2026. Et les Français seront bien placés pour la contempler.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-65",
-    "title": "Vous pouvez désormais réserver un drone tueur de moustiques (et c’est français)",
-    "url": "https://www.numerama.com/tech/2294075-vous-pouvez-desormais-reserver-un-drone-tueur-de-moustiques-et-cest-francais.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Hardware",
-    "desc": "Tornyol, une entreprise française, développe de petits drones autonomes capables de traquer et d’éliminer les moustiques. Encore en développement, le système peut déjà être réservé pour 100 dollars.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-66",
-    "title": "La Monnaie de Paris cache une médaille Shenron à 3 500 € dans l’un de ces paquets Dragon Ball",
-    "url": "https://www.numerama.com/pop-culture/2294177-la-monnaie-de-paris-cache-une-medaille-shenron-a-3-500-e-dans-lun-de-ces-paquets-dragon-ball.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Ce n’est pas tous les jours que l’on peut s’offrir de nouveaux goodies à l’effigie de l’un des mangas les plus aimés au monde. Bon, des produits dérivés Dragon Ball, il en existe déjà une montagne, mais ceux de la Monnaie de Paris cachent une surprise de taille : une médaille en or pur d’une valeur de 3 500 €.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-67",
-    "title": "Meilleur smartphone 2026 : quel téléphone choisir selon votre budget ?",
-    "url": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Quel smartphone acheter en 2026 ? Numerama a testé et comparé les principales références d’Apple, Samsung, Google, Nothing et Xiaomi. Voici les meilleurs modèles du moment, du smartphone abordable au très haut de gamme.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-68",
-    "title": "Éclipse solaire du 12 août 2026 : où acheter des lunettes fiables à un mois du jour J ?",
-    "url": "https://www.numerama.com/sciences/2237131-eclipse-solaire-2026-ou-trouver-des-lunettes-vraiment-aux-normes-pour-le-12-aout.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "L’éclipse solaire du 12 août 2026 approche et les premières distributions de lunettes ont déjà commencé en France. Entre les modèles réellement conformes, les offres gratuites et les produits douteux qui pullulent sur les marketplaces, mieux vaut toutefois ne pas choisir sa paire au hasard. Voici où acheter des lunettes fiables — et comment vérifie",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-69",
-    "title": "Après Avengers, Sauvez Willy : le projet le plus improbable des frères Russo bouscule Hollywood",
-    "url": "https://www.numerama.com/pop-culture/2294053-apres-avengers-sauvez-willy-le-projet-le-plus-improbable-des-freres-russo-bouscule-hollywood.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "C'est le pivot le plus improbable de l'industrie cinématographique. Alors qu'on les attendait au tournant sur le prochain mastodonte Marvel,&nbsp;Avengers: Doomsday, les frères Russo s'attaquent désormais à un chantier d’un tout autre genre. Warner Bros vient de leur confier les clés d'une « réinvention » complète de&nbsp;Sauvez Willy.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-70",
-    "title": "Volkswagen veut supprimer un modèle sur deux d’ici à 2030, quid de l’électrique ?",
-    "url": "https://www.numerama.com/vroom/2294039-volkswagen-veut-supprimer-un-modele-sur-deux-dici-a-2030-quid-de-lelectrique.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Après la déflagration des annonces de fermetures d'usines et de licenciements, le groupe allemand Volkswagen a un autre défi en perspective&nbsp;: tailler dans sa gamme et ses options pour rationaliser l’offre.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-71",
-    "title": "OpenAI abandonne déjà un de ses projets phares de 2025 : Google a vaincu",
-    "url": "https://www.numerama.com/tech/2293765-openai-abandonne-deja-un-de-ses-projets-phares-de-2025-google-a-vaincu.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "IA & Modèles",
-    "desc": "OpenAI tire un trait sur ChatGPT Atlas, son navigateur lancé il y a moins d'un an, fin 2025.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-72",
-    "title": "Le Tesla Cybercab intègrerait une version améliorée de l’ordinateur AI4 pour le FSD non supervisé",
-    "url": "https://www.numerama.com/vroom/2293913-le-tesla-cybercab-integrerait-une-version-amelioree-de-lordinateur-ai4-pour-le-fsd-non-supervise.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Selon de récentes indiscrétions, le Tesla Cybercab embarquerait une version améliorée de la brique matérielle AI4, dotée de plus de mémoire vive comparée à celle des Model 3 et Model Y. Un choix matériel qui vise à offrir la puissance de calcul nécessaire pour une conduite autonome sans aucune supervision humaine.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-73",
-    "title": "16 jours pour recevoir un message par pigeon voyageur : le drôle de pari du réseau social Roost",
-    "url": "https://www.numerama.com/tech/2293823-16-jours-pour-recevoir-un-message-par-pigeon-voyageur-le-drole-de-pari-du-reseau-social-roost.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Sur Roost, les messages mettent parfois plusieurs jours à arriver. Ce réseau social, qui revendique plus de 300 000 utilisateurs, mise notamment sur des oiseaux virtuels pour ralentir volontairement nos échanges.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-74",
-    "title": "Apple porte plainte contre OpenAI, « pourrie jusqu’à la moelle »",
-    "url": "https://next.ink/247102/apple-porte-plainte-contre-openai-pourrie-jusqua-la-moelle/",
-    "source": "Next.ink",
-    "date": "2026-07-10",
-    "cat": "IA & Modèles",
-    "desc": "Apple sort l&#8217;artillerie lourde contre OpenAI. Le constructeur informatique a porté plainte contre le labo IA, accusé d&#8217;avoir au minimum organisé la récupération systématique de secrets industriels pour accélérer la conception de futurs appareils grand public. La plainte vise OpenAI, la filiale io Products, et deux anciens cadres d&#8217",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-75",
-    "title": "Scaleway rachète Qarnot et ses activités HPC récemment placées en redressement judiciaire",
-    "url": "https://next.ink/247072/scaleway-rachete-qarnot-et-ses-activites-hpc-recemment-placees-en-redressement-judiciaire/",
-    "source": "Next.ink",
-    "date": "2026-07-10",
-    "cat": "Startups & VC",
-    "desc": "Scaleway, filiale du groupe iliad, a annoncé vendredi l&#8217;acquisition de Qarnot, un spécialiste du calcul haute performance, très engagé historiquement sur la valorisation de la chaleur fatale. Auréolé de plusieurs levées de fonds, Qarnot venait de se placer sous la protection du tribunal de commerce, dans le cadre d&#8217;une procédure de redr",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-76",
-    "title": "Reconnaissance faciale : la politique du chiffre incite la police à violer la loi",
-    "url": "https://next.ink/246913/reconnaissance-faciale-la-politique-du-chiffre-incite-la-police-a-violer-la-loi/",
-    "source": "Next.ink",
-    "date": "2026-07-10",
-    "cat": "Hardware",
-    "desc": "En 2011, la CNIL déplorait l&#8217;absence de base légale du fichier GASPARD de photos biométriques policières. 15 ans plus tard, policiers et gendarmes s&#8217;en servent quotidiennement depuis leurs téléphones portables pour recourir, en toute illégalité, à la reconnaissance faciale lors de simples contrôles d&#8217;identité. Un juge vient de rel",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-77",
-    "title": "☕️ macOS 28 ne prendra plus en charge les volumes au format HFS+ chiffré",
-    "url": "https://next.ink/brief-article/macos-28-ne-prendra-plus-en-charge-les-volumes-au-format-hfs-chiffre/",
-    "source": "Next.ink",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Dans une note technique publiée le 7 juillet, Apple commence à informer d’un changement important à venir dans la mouture 28 de macOS, qui sortira l’année prochaine : la fin de la prise en charge des volumes en HFS+ chiffrés. Ces derniers ne pourront plus être montés dans le système : ils n&#8217;apparaitront tout simplement plus. [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1783761658-78",
-    "title": "☕️ Risques d’addiction : Bruxelles veut de gros changements dans Facebook et Instagram",
-    "url": "https://next.ink/brief-article/risques-daddiction-bruxelles-veut-de-gros-changements-dans-facebook-et-instagram/",
-    "source": "Next.ink",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Meta devra faire de sérieux changements dans ses apps Facebook et Instagram pour respecter les exigences de la Commission européenne. Dans son enquête sur le géant des réseaux sociaux, Bruxelles a déterminé, à titre préliminaire, que la conception même des deux réseaux sociaux contrevenait au règlement sur les services numériques (DSA). La Commissi",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-0",
-    "title": "Microsoft’s carbon emissions went up 25 percent last year",
-    "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-    "source": "The Verge",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expans",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-9",
-    "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-    "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
-    "source": "TechCrunch",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-10",
-    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "source": "TechCrunch",
-    "date": "2026-07-10",
-    "cat": "IA & Modèles",
-    "desc": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-39",
-    "title": "Netflix veut lancer ses propres chaînes TV en direct pour gonfler ses audiences",
-    "url": "https://www.01net.com/actualites/netflix-envisage-lancer-propres-chaines-tv-direct.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Netflix envisage d’intégrer des chaînes linéaires dédiées à des genres ou des franchises à son catalogue, en suivant l’exemple de Disney+. L’objectif est double : capter l’attention de ses utilisateurs et intégrer des publicités impossibles à passer.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-40",
-    "title": "Windows sous les 60 % de part de marché : pourquoi faut-il prendre ce chiffre avec précaution ?",
-    "url": "https://www.01net.com/actualites/windows-sous-les-60-de-part-de-marche-pourquoi-faut-il-prendre-ce-chiffre-avec-precaution.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Windows passe sous les 60 % de part de marché mondiale selon Statcounter, du moins si l'on retient le chiffre principal. On vous explique pourquoi il faut prendre cela avec des pincettes et pourquoi un autre chiffre, 72 %, circule aussi.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-41",
-    "title": "Windows 11 : Microsoft va utiliser l’IA pour corriger plus rapidement les failles de sécurité",
-    "url": "https://www.01net.com/actualites/windows-11-microsoft-va-utiliser-lia-pour-corriger-plus-rapidement-les-failles-de-securite.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Microsoft va moderniser sa stratégie de gestion des vulnérabilités de Windows grâce à l’intelligence artificielle. La firme de Redmond va s’appuyer sur un agent IA pour identifier et corriger les failles plus rapidement.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-42",
-    "title": "OpenAI lance ChatGPT Work, un agent IA qui va travailler à votre place",
-    "url": "https://www.01net.com/actualites/openai-lance-chatgpt-work-agent-ia-qui-travailler-votre-place.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "IA & Modèles",
-    "desc": "OpenAI a dévoilé ChatGPT Word. Basé sur son dernier modèle, cet agent IA peut accéder à vos applications et fichiers pour créer des documents, des diapositives et effectuer des tâches répétitives.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-43",
-    "title": "Pass Ulys Télépéage : comment éviter les bouchons et gagner du temps sur la route ?",
-    "url": "https://www.01net.com/bons-plans/pass-ulys-telepeage-comment-eviter-les-bouchons-et-gagner-du-temps-sur-la-route.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Hardware",
-    "desc": "Pour partir sereinement cet été, quelques bons réflexes peuvent faire toute la différence. Parmi eux : adopter le Pass Ulys Télépéage.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-44",
-    "title": "Microsoft corrige RoguePlanet, la faille Windows qui retournait Defender contre lui-même",
-    "url": "https://www.01net.com/actualites/microsoft-corrige-rogueplanet-la-faille-windows-qui-retournait-defender-contre-lui-meme.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Microsoft vient de corriger une faille critique de Defender, l'antivirus des ordinateurs Windows. Découverte le mois dernier par le chercheur controversé Nightmare Eclipse, elle permet de retourner l'antivirus Defender contre lui-même pour prendre le contrôle total d'un PC Windows.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-45",
-    "title": "Doctolib va utiliser vos données pour entraîner son IA, voici comment s’y opposer",
-    "url": "https://www.01net.com/actualites/doctolib-va-utiliser-vos-donnees-pour-entrainer-son-ia-voici-comment-sy-opposer.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "La plate-forme de prise de rendez-vous médicaux utilisera à compter du mois d’août, les données de santé de ses utilisateurs pour entraîner son IA. Vous pouvez toutefois vous y opposer, voici comment.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-46",
-    "title": "DuckDuckGo remet une pièce dans sa guerre contre les pubs sur YouTube",
-    "url": "https://www.01net.com/actualites/duckduckgo-remet-une-piece-dans-sa-guerre-contre-les-pubs-sur-youtube.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Big Tech",
-    "desc": "Le navigateur de DuckDuckGo bloque désormais la plupart des publicités vidéo de YouTube, sans extension et sans abonnement. La fonction est activée d'office sur Windows, Mac et iPhone. Une attaque frontale contre le modèle publicitaire de Google… et contre YouTube Premium.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-47",
-    "title": "Grâce à Starlink, ce collier connecté peut retrouver votre chien depuis l’espace",
-    "url": "https://www.01net.com/actualites/grace-a-starlink-ce-collier-connecte-peut-retrouver-votre-chien-depuis-lespace.html",
-    "source": "01net",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "Le collier connecté Fi Ultra permet de localiser votre chien dans les zones les plus reculées grâce au système Starlink intégré. Il intègre également un haut-parleur et un retour haptique pour indiquer à votre chien de revenir. Quant à son prix, il pourrait en rebuter plus d’un.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-66",
-    "title": "Alien: Earth sort du silence : la saison 2 donne de ses nouvelles et pille le casting de Game of Thrones",
-    "url": "https://www.numerama.com/pop-culture/2293761-alien-earth-sort-du-silence-la-saison-2-donne-de-ses-nouvelles-et-pille-le-casting-de-game-of-thrones.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "À peine le temps de digérer les premières salves que la machine est déjà relancée. Le tournage de la deuxième saison d’Alien: Earth&nbsp;vient de débuter à Londres, et la production n'a pas fait les choses à moitié pour épaissir les rangs.",
-    "auto": true
-  },
-  {
-    "id": "tech-1783680423-67",
-    "title": "La Chine vient de rattraper pour la première fois une fusée avec un filet géant (vidéos)",
-    "url": "https://www.numerama.com/sciences/2293833-la-chine-vient-de-rattraper-pour-la-premiere-fois-une-fusee-avec-un-filet-geant-video.html",
-    "source": "Numerama",
-    "date": "2026-07-10",
-    "cat": "Numérique & Société",
-    "desc": "C'est une première : un étage de fusée chinoise a été récupéré après son vol, en vue d'une réutilisation. Le tout avec une méthode de capture encore jamais utilisée aux États-Unis.",
     "auto": true
   }
 ]
