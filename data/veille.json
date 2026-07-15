@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1784109278-38",
+    "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
+    "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
+    "source": "EDPB",
+    "date": "2026-07-14",
+    "cat": "RGPD",
+    "desc": "Brussels, 14 July–The EDPB has published its&nbsp; binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*. &nbsp; The decision concerns a &nbsp; dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Televisieomroeporganisatie (VRT) – a public broadcasting company based in Belgium. The com",
+    "auto": true
+  },
+  {
     "id": "auto-1783939979-0",
     "title": "Ciblage et compromission d’entités françaises par le Centre du service fédéral de sécurité de la fédération de Russie (FSB)",
     "url": "http://cyber.sites.beta.gouv.fr/actualites/ciblage-et-compromission-dentites-francaises-par-le-fsb/",
@@ -770,33 +780,23 @@
     "auto": true
   },
   {
-    "id": "auto-1784022614-62",
-    "title": "Pixels de suivi dans les courriels : la CNIL étend la logique des cookies à l'e-mailing",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/pixels-de-suivi-dans-les-courriels-la-cnil-etend-la-logique-des-cookies-a-l-e-mailing-DNU100f8",
-    "source": "Lextenso",
+    "id": "auto-1784109278-0",
+    "title": "G7 : Retour sur la réunion plénière du groupe de travail dédié à la cybersécurité",
+    "url": "http://cyber.sites.beta.gouv.fr/actualites/g7-retour-sur-la-r%C3%A9union-pl%C3%A9ni%C3%A8re-du-groupe-de-travail-d%C3%A9di%C3%A9-%C3%A0-la-cybers%C3%A9curit%C3%A9/",
+    "source": "ANSSI",
     "date": "2026-06-08",
-    "cat": "RGPD",
-    "desc": "La CNIL a adopt&eacute;, le 12&nbsp;mars 2026, une recommandation relative aux pixels de suivi dans les courriels, destin&eacute;e &agrave; pr&eacute;ciser l&#039;application de l&#039;article&nbsp;82 de la loi Informatique et libert&eacute;s aux dispositifs de tracking ins&eacute;r&eacute;s dans les courriels. CNIL, D&eacute;lib. n&deg;&nbsp;2026-",
+    "cat": "Cybersécurité",
+    "desc": "Dans le cadre de la présidence française du G7, l’ANSSI a accueilli à Paris, le 27 mai 2026, la réunion […]",
     "auto": true
   },
   {
-    "id": "auto-1784022614-63",
-    "title": "Lutte contre le piratage en ligne : la réponse graduée n'est pas conforme au droit européen",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/lutte-contre-le-piratage-en-ligne-la-reponse-graduee-n-est-pas-conforme-au-droit-europeen-DNU100g0",
+    "id": "auto-1784109278-63",
+    "title": "Escroquerie en ligne et responsabilité classique des acteurs numériques et bancaires",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/escroquerie-en-ligne-et-responsabilite-classique-des-acteurs-numeriques-et-bancaires-DNU100f9",
     "source": "Lextenso",
     "date": "2026-06-08",
-    "cat": "Jurisprudence",
-    "desc": "Tirant les cons&eacute;quences de l&#039;arr&ecirc;t de la CJUE du 30&nbsp;avril 2024, le Conseil d&#039;&Eacute;tat consid&egrave;re que le dispositif de r&eacute;ponse gradu&eacute;e, mis en place pour lutter contre le piratage en ligne d&#039;&oelig;uvres prot&eacute;g&eacute;es, est contraire au droit de l&#039;Union europ&eacute;enne. CE, 30&n",
-    "auto": true
-  },
-  {
-    "id": "auto-1784022614-64",
-    "title": "Cloud souverain et données sensibles de l'État : le décret du 14 avril 2026, étape attendue d'une souveraineté en chantier",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/cloud-souverain-et-donnees-sensibles-de-l-etat-le-decret-du-14-avril-2026-etape-attendue-d-une-souverainete-en-chantier-DNU100g1",
-    "source": "Lextenso",
-    "date": "2026-06-08",
-    "cat": "Contrats IT",
-    "desc": "Pr&egrave;s de deux ans apr&egrave;s la promulgation de la loi SREN, le d&eacute;cret du 14&nbsp;avril 2026 rend enfin opposable l&#039;obligation, pour les administrations de l&#039;&Eacute;tat, ses op&eacute;rateurs et six groupements d&#039;int&eacute;r&ecirc;t public, de recourir &agrave; des prestataires cloud qualifi&eacute;s SecNumCloud pour",
+    "cat": "Plateformes",
+    "desc": "Saisi d&#039;un litige n&eacute; d&#039;une escroquerie commise par l&#039;interm&eacute;diaire d&#039;un faux profil sur LinkedIn, le tribunal judiciaire de Paris refuse d&#039;engager la responsabilit&eacute; de la soci&eacute;t&eacute; fran&ccedil;aise de la plateforme ainsi que celle de la banque ayant ex&eacute;cut&eacute; les virements litigi",
     "auto": true
   }
 ]
