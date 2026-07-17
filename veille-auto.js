@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-16T10:01:27
+// Dernière collecte : 2026-07-17T09:50:58
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1784281807-37",
+    title: "Condamnée par avoir fait indûment bloquer des vidéos",
+    url: "https://www.legalis.net/actualite/condamnee-par-avoir-fait-indument-bloquer-des-videos/",
+    source: "Legalis",
+    date: "2026-07-16",
+    cat: "Jurisprudence",
+    desc: "Par un jugement du 19 juin 2026, le tribunal judiciaire de Paris a condamné la société productrice du programme de vidéos « Les incorrectibles » diffusé sur Youtube à verser 22 000 € de dommages intérêts à l’association l’« Observatoire du conspirationnisme » pour avoir fait bloquer indûment par Youtube 22 vidéos depuis février 2024. [&#8230;]",
+    auto: true
+  },
   {
     id: "auto-1784109278-38",
     title: "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
@@ -782,24 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1784196063-61",
-    title: "Apple condamné pour violation du droit des clauses abusives et du droit des données personnelles",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/apple-condamne-pour-violation-du-droit-des-clauses-abusives-et-du-droit-des-donnees-personnelles-DNU100f7",
-    source: "Lextenso",
+    id: "auto-1784281807-0",
+    title: "G7 : Retour sur la réunion plénière du groupe de travail dédié à la cybersécurité",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/g7-retour-sur-la-r%C3%A9union-pl%C3%A9ni%C3%A8re-du-groupe-de-travail-d%C3%A9di%C3%A9-%C3%A0-la-cybers%C3%A9curit%C3%A9/",
+    source: "ANSSI",
     date: "2026-06-08",
-    cat: "RGPD",
-    desc: "Apr&egrave;s avoir jug&eacute; recevable l&#039;action intent&eacute;e par une association de consommateurs contre la soci&eacute;t&eacute; Apple, la cour d&#039;appel de Paris condamne celle-ci &agrave; r&eacute;parer le pr&eacute;judice caus&eacute; &agrave; l&#039;int&eacute;r&ecirc;t collectif des consommateurs par les clauses abusives et illic",
-    auto: true
-  },
-  {
-    id: "auto-1784196063-62",
-    title: "Pixels de suivi dans les courriels : la CNIL étend la logique des cookies à l'e-mailing",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n6/pixels-de-suivi-dans-les-courriels-la-cnil-etend-la-logique-des-cookies-a-l-e-mailing-DNU100f8",
-    source: "Lextenso",
-    date: "2026-06-08",
-    cat: "RGPD",
-    desc: "La CNIL a adopt&eacute;, le 12&nbsp;mars 2026, une recommandation relative aux pixels de suivi dans les courriels, destin&eacute;e &agrave; pr&eacute;ciser l&#039;application de l&#039;article&nbsp;82 de la loi Informatique et libert&eacute;s aux dispositifs de tracking ins&eacute;r&eacute;s dans les courriels. CNIL, D&eacute;lib. n&deg;&nbsp;2026-",
+    cat: "Cybersécurité",
+    desc: "Dans le cadre de la présidence française du G7, l’ANSSI a accueilli à Paris, le 27 mai 2026, la réunion […]",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-16T10:01:27";
+window.AUTO_VEILLE_UPDATED = "2026-07-17T09:50:58";
