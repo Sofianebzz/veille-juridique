@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1784366250-37",
+    "title": "EDPB calls for legal basis for cross-regulatory information sharing",
+    "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
+    "source": "EDPB",
+    "date": "2026-07-17",
+    "cat": "RGPD",
+    "desc": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also discussed how to further expand efforts to support a consistent application of the General Data Protection Regu",
+    "auto": true
+  },
+  {
     "id": "auto-1784281807-37",
     "title": "Condamnée par avoir fait indûment bloquer des vidéos",
     "url": "https://www.legalis.net/actualite/condamnee-par-avoir-fait-indument-bloquer-des-videos/",
@@ -787,16 +797,6 @@
     "date": "2026-06-09",
     "cat": "Plateformes",
     "desc": "Rencontre semestrielle des autorités administratives et publiques indépendantes : l’IA au service de la régulation",
-    "auto": true
-  },
-  {
-    "id": "auto-1784281807-0",
-    "title": "G7 : Retour sur la réunion plénière du groupe de travail dédié à la cybersécurité",
-    "url": "http://cyber.sites.beta.gouv.fr/actualites/g7-retour-sur-la-r%C3%A9union-pl%C3%A9ni%C3%A8re-du-groupe-de-travail-d%C3%A9di%C3%A9-%C3%A0-la-cybers%C3%A9curit%C3%A9/",
-    "source": "ANSSI",
-    "date": "2026-06-08",
-    "cat": "Cybersécurité",
-    "desc": "Dans le cadre de la présidence française du G7, l’ANSSI a accueilli à Paris, le 27 mai 2026, la réunion […]",
     "auto": true
   }
 ]
