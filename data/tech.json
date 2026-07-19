@@ -1,5 +1,335 @@
 [
   {
+    "id": "tech-1784454412-24",
+    "title": "Meta rêve d’un coach sportif qui espionne vos émotions",
+    "url": "https://www.01net.com/actualites/meta-reve-dun-coach-sportif-qui-espionne-vos-emotions.html",
+    "source": "01net",
+    "date": "2026-07-19",
+    "cat": "Big Tech",
+    "desc": "Soupirs, éclats de rire, silences gênés : un brevet fraîchement publié décrit une IA Meta qui écoute tout, tout le temps. Amazon avait tenté le même pari. Ses clients s'en souviennent encore.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-25",
+    "title": "Grand Prix de Belgique 2026 : où voir la course de Spa ce dimanche gratuitement en direct",
+    "url": "https://www.01net.com/bons-plans/grand-prix-de-belgique-2026-ou-voir-la-course-de-spa-ce-dimanche-gratuitement-en-direct.html",
+    "source": "01net",
+    "date": "2026-07-19",
+    "cat": "Numérique & Société",
+    "desc": "Dimanche 19 juillet, 15h00 : la Formule 1 s'élance pour 44 tours de Spa-Francorchamps, avec un championnat resserré comme jamais et de la pluie annoncée sur les Ardennes. Kimi Antonelli ne compte plus que 25 points d'avance sur George Russell, et Ferrari vient de gagner à Silverstone. Reste une question très concrète pour le téléspectateur français",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-26",
+    "title": "« Votre carte va être débitée de 1 000 € », n’appelez surtout pas ce numéro de téléphone, c’est une arnaque",
+    "url": "https://www.01net.com/actualites/arnaque-carte-etre-debitee-1-000-e-nappelez-surtout-pas-numero-telephone.html",
+    "source": "01net",
+    "date": "2026-07-19",
+    "cat": "Big Tech",
+    "desc": "Vous avez reçu un mail ou un SMS vous alertant d’un paiement de 1 000 euros sur votre compte Amazon ou Temu ? Attention, il s’agit probablement d’une arnaque. Surtout, n’appelez en aucun cas le numéro mis en avant.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-27",
+    "title": "Essai Alpine A390 GT : ce n’est pas une voiture électrique c’est un jeu vidéo !",
+    "url": "https://www.01net.com/tests/essai-alpine-a390-gt-ce-nest-pas-une-voiture-electrique-cest-un-jeu-video.html",
+    "source": "01net",
+    "date": "2026-07-19",
+    "cat": "Numérique & Société",
+    "desc": "Le SUV sportif d’Alpine est-il au niveau des attentes ? Mérite-t-il ce logo iconique ou est-ce seulement une Renault avec une moustache ?",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-28",
+    "title": "Victime d’un piratage, il perd 25 ans de données : Microsoft dit ne pas pouvoir l’aider",
+    "url": "https://www.01net.com/actualites/victime-piratage-perd-tout-microsoft-pas-pouvoir-laider.html",
+    "source": "01net",
+    "date": "2026-07-19",
+    "cat": "Big Tech",
+    "desc": "Joshua Khane a perdu 25 ans de données stockées sur son compte Microsoft, ainsi que des jeux dont la valeur totale est estimée à plusieurs milliers d'euros. Microsoft affirme ne rien pouvoir faire et lui conseille de créer un nouveau compte.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-44",
+    "title": "Le saviez-vous ? On respire surtout par une seule narine (et le corps alterne toutes les 2 heures)",
+    "url": "https://www.numerama.com/sciences/2296961-le-saviez-vous-on-respire-surtout-par-une-seule-narine-et-le-corps-alterne-toutes-les-2-heures.html",
+    "source": "Numerama",
+    "date": "2026-07-19",
+    "cat": "Numérique & Société",
+    "desc": "Contrairement aux apparences, nous ne respirons presque jamais des deux narines à la fois : découvrez pourquoi notre corps orchestre ce va-et-vient permanent, pour protéger notre santé et booster notre odorat.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-45",
+    "title": "Coros Apex 4 : cette fois, c’est la bonne montre connectée pour grimper",
+    "url": "https://www.numerama.com/tech/2297009-coros-apex-4-cette-fois-cest-la-bonne-montre-connectee-pour-grimper.html",
+    "source": "Numerama",
+    "date": "2026-07-19",
+    "cat": "Numérique & Société",
+    "desc": "Dans mon essai de la Coros Nomad, je vous disais de passer directement sur une Apex 4 pour faire de l'escalade J'ai tenu parole : j'ai testé l'Apex 4. Voici pourquoi elle est, à mon sens, la meilleure montre pour grimper aujourd'hui.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-46",
+    "title": "Une rumeur peut-elle tuer un constructeur automobile ?",
+    "url": "https://www.numerama.com/vroom/2297101-une-rumeur-peut-elle-tuer-un-constructeur-automobile.html",
+    "source": "Numerama",
+    "date": "2026-07-19",
+    "cat": "Numérique & Société",
+    "desc": "Aujourd’hui, un constructeur ne meurt pas seulement à cause d’un mauvais produit. Il peut perdre beaucoup à cause d’une mauvaise rumeur. Une actualité de la semaine a inspiré cet édito de la newsletter Watt Else du 16 juillet 2026.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-47",
+    "title": "Le premier teaser de The Hunt for Gollum est là, Les Sims 4 se met à jour, notre critique de L’Odyssée, le Recap Pop Culture de la semaine",
+    "url": "https://www.numerama.com/pop-culture/2297075-le-premier-teaser-de-the-hunt-for-gollum-est-la-les-sims-4-se-met-a-jour-notre-critique-de-lodyssee-le-recap-pop-culture-de-la-semaine.html",
+    "source": "Numerama",
+    "date": "2026-07-19",
+    "cat": "Numérique & Société",
+    "desc": "The Hunt for Gollum, le nouveau film de la saga Le Seigneur des Anneaux, se dévoile très brièvement dans un teaser making-of qui joue clairement la carte de la nostalgie. Nostalgie également du côté des Sims 4 qui, 12 ans après sa sortie, accueille enfin une fonctionnalité réclamée depuis… 12 ans. Enfin, nous avons pu découvrir L'Odyssée et nous vo",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-0",
+    "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "source": "The Verge",
+    "date": "2026-07-18",
+    "cat": "IA & Modèles",
+    "desc": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-1",
+    "title": "Google might not kneecap the Pixel 11a with an old processor",
+    "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+    "source": "The Verge",
+    "date": "2026-07-18",
+    "cat": "Big Tech",
+    "desc": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a lineup kept the modern [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-2",
+    "title": "Google is open-sourcing its 3D emoji",
+    "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+    "source": "The Verge",
+    "date": "2026-07-18",
+    "cat": "Big Tech",
+    "desc": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-3",
+    "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+    "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+    "source": "The Verge",
+    "date": "2026-07-18",
+    "cat": "Big Tech",
+    "desc": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-4",
+    "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+    "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+    "source": "The Verge",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Press Club Journalism Award, and [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-5",
+    "title": "Surprise! Facial recognition smart locks are actually good",
+    "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+    "source": "The Verge",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-6",
+    "title": "Sony’s flagship RGB LED TV is incredible",
+    "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+    "source": "The Verge",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons &#38; Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying game but had never seen the movie. The landscapes of Faer&#251;n looked natural and [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-7",
+    "title": "More games should be on rails (literally)",
+    "url": "https://www.theverge.com/games/961152/denshattack-review",
+    "source": "The Verge",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years later. Denshattack!, a new game from Undercoders, similarly features levels packed with carefully orchestrated sequences to great [&#",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-8",
+    "title": "Kimi: Threat or menace?",
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "source": "TechCrunch",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-9",
+    "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+    "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+    "source": "TechCrunch",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-10",
+    "title": "Federal employees can download TikTok on their work phones again",
+    "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+    "source": "TechCrunch",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-11",
+    "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+    "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+    "source": "TechCrunch",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-12",
+    "title": "Will AI fix prior authorization—or make it worse?",
+    "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+    "source": "Ars Technica",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-29",
+    "title": "Hausse des prix des iPhone : cette fois, la mémoire n’est pas coupable",
+    "url": "https://www.01net.com/actualites/hausse-des-prix-des-iphone-cette-fois-la-memoire-nest-pas-coupable.html",
+    "source": "01net",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Jusqu'à 11 % de hausse du jour au lendemain : les iPhone flambent au Japon sans explication officielle. Côté français, la vraie menace ne vient pas de là où vous croyez.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-30",
+    "title": "Les offres BIG chez Bouygues vont vous faire économiser gros sur vos forfaits mobiles et fibre cet été",
+    "url": "https://www.01net.com/bons-plans/les-offres-big-chez-bouygues-vont-vous-faire-economiser-gros-sur-vos-forfaits-mobiles-et-fibre-cet-ete.html",
+    "source": "01net",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Avec les offres BIG, Bouygues vous fait économiser de précieux euros sur vos forfaits mobiles et fibre avec des remises jusqu'à 10 euros !",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-31",
+    "title": "En 2 ans, votre voiture électrique est déjà obsolète : le chiffre fou qui vient de Chine",
+    "url": "https://www.01net.com/actualites/a-seulement-2-ans-votre-voiture-electrique-deja-obsolete-chiffre-fou-chine.html",
+    "source": "01net",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "La puissance de frappe des constructeurs chinois a de quoi faire peur. Leurs gammes se renouvellent si vite que la voiture électrique chinoise moyenne en circulation n’a que deux ans ! C’est certainement moins que le smartphone que vous tenez en mains…",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-32",
+    "title": "700 escrocs, 20 centres d’appels : ce réseau criminel a fait des dizaines de milliers de victimes",
+    "url": "https://www.01net.com/actualites/700-escrocs-20-centres-appels-reseau-criminel-dizaines-milliers-victimes.html",
+    "source": "01net",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "La police vient de démanteler un vaste réseau criminel spécialisé dans les arnaques aux faux investissements. Baptisée « Operation Sunflower », l'enquête a duré près de quatre ans et s'est soldée par l'arrestation d'une série de criminels dans différents pays.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-48",
+    "title": "Xpeng frappe fort, une BYD perd son moteur en pleine rue, Tesla gagne moins d’argent : le récap’ Vroom de la semaine",
+    "url": "https://www.numerama.com/vroom/2297069-xpeng-frappe-fort-une-byd-perd-son-moteur-en-pleine-rue-tesla-gagne-moins-dargent-par-voiture-le-recap-vroom-de-la-semaine.html",
+    "source": "Numerama",
+    "date": "2026-07-18",
+    "cat": "Big Tech",
+    "desc": "À la une sur Vroom cette semaine :&nbsp;Xpeng a dévoilé sa L03 à un tarif compétitif, la vidéo d'une BYD traînant son moteur sur la route fait le buzz et Tesla se fait rattraper par Toyota en gagnant beaucoup moins d'argent par voiture :",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-49",
+    "title": "Climatiser la France : qui osera porter politiquement un « droit au froid » ?",
+    "url": "https://www.numerama.com/sciences/2296887-climatiser-la-france-qui-osera-porter-politiquement-un-droit-au-froid.html",
+    "source": "Numerama",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Dans le prolongement de notre vidéo sur les idées reçues liées à la climatisation, nous avons poursuivi la réflexion dans la newsletter ToujoursPlus du 16 juillet autour d'un autre thème : le droit au froid doit être un sujet politique, ne serait-ce que pour protéger celles et ceux qui n'ont pas les moyens de se l'offrir. Qui portera ce sujet en Fr",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-50",
+    "title": "Le kit complet GoPro HERO13 Black avec deux batterie est à son prix le plus bas sur Amazon",
+    "url": "https://www.numerama.com/tech/2297003-le-kit-complet-gopro-hero13-black-avec-deux-batterie-est-a-son-prix-le-plus-bas-sur-amazon.html",
+    "source": "Numerama",
+    "date": "2026-07-18",
+    "cat": "Big Tech",
+    "desc": "[Deal du jour] Envie de filmer vos voyages cet été ? Pourquoi ne pas investir dans du bon matériel qui vous durera longtemps, comme l'action cam HERO13 Black dans son pack Creator en promotion.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-51",
+    "title": "L’Odyssée de Nolan a un gros problème avec son personnage principal",
+    "url": "https://www.numerama.com/pop-culture/2296287-lodyssee-a-un-gros-probleme-avec-son-personnage-principal.html",
+    "source": "Numerama",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Malgré la claque visuelle indiscutable et l’interprétation monumentale de Matt Damon, l'adaptation de&nbsp;L'Odyssée souffre d'un sérieux contresens thématique. En voulant moderniser son personnage principal à tout prix, le scénario de Nolan est tombé dans le piège du héros individualiste typiquement américain.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-52",
+    "title": "Dernière de Deschamps : où voir le match France-Angleterre pour la troisième place du Mondial 2026 ?",
+    "url": "https://www.numerama.com/pop-culture/2296349-maigre-lot-de-consolation-et-derniere-de-deschamps-ou-voir-le-match-france-angleterre-pour-la-troisieme-place-du-mondial-2026.html",
+    "source": "Numerama",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "C'est l'heure de tourner plusieurs pages pour l'équipe de France. Celle du Mondial 2026, mais aussi celle de l'ère Deschamps. Ce samedi 18 juillet, les Bleus affrontent l'Angleterre, elle aussi éliminée en demi-finale de la compétition. Les deux équipes s'affrontent pour la troisième place.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-53",
+    "title": "Nos 6 jeux d’ambiance préférés pour l’été",
+    "url": "https://www.numerama.com/pop-culture/2297293-jeux-dambiance-pour-lete.html",
+    "source": "Numerama",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "L’été, c’est la saison des apéros qui s’éternisent, des terrasses animées et des soirées entre amis. Pour prolonger ces moments, un jeu d’ambiance reste une valeur sûre, facile à sortir et simple à partager. Voici une sélection de quelques jeux, rarement très originaux, mais toujours très efficaces.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-54",
+    "title": "#Flockeries et cahier de vacances : amusez-vous avec Next et tentez de gagner des cadeaux",
+    "url": "https://next.ink/247132/flockeries-et-cahier-de-vacances-amusez-vous-avec-next-et-tentez-de-gagner-des-cadeaux/",
+    "source": "Next.ink",
+    "date": "2026-07-18",
+    "cat": "Numérique & Société",
+    "desc": "Cet été, Next continue évidemment de vous informer sur les enjeux du numérique et de la tech au sens large, mais se propose aussi de vous divertir avec un cahier de vacances spécial geek. On vous a préparé des mini-jeux pour vous occuper sur la plage, à la montagne, en voyage… Cerise sur le gâteau, [&#8230;]",
+    "auto": true
+  },
+  {
     "id": "tech-1784366277-0",
     "title": "Fine, electric mountain bikes don’t suck",
     "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
@@ -117,6 +447,66 @@
     "date": "2026-07-18",
     "cat": "Numérique & Société",
     "desc": "Les États-Unis sur le point d'en finir avec le changement d'heure, pendant que l'Europe est bloquée ; des lunettes d'éclipse non certifiées en vente en France un mois avant l'événement du 12 août 2026 ; de vrais satellites pour la première fois à bord du Starship : c'est l'actualité sciences que vous avez le plus lue cette semaine sur Numerama.",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-55",
+    "title": "Dis Next, ça sert à quoi un noyau et des pilotes dans un système ?",
+    "url": "https://next.ink/247206/dis-next-ca-sert-a-quoi-un-noyau-et-des-pilotes-dans-un-systeme/",
+    "source": "Next.ink",
+    "date": "2026-07-17",
+    "cat": "Sécurité",
+    "desc": "Chez Next, on aime bien proposer des articles reprenant une notion qui semble élémentaire, mais dont beaucoup ignorent le fonctionnement concret. Cette fois, on se penche sur le noyau et les pilotes, des composants essentiels à tout système d’exploitation. Avant de plonger dans ces deux notions, commençons par une question élémentaire&#160;: qu’est",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-56",
+    "title": "En France, les internautes ont envoyé nettement plus de données en 2025",
+    "url": "https://next.ink/247569/en-france-les-internautes-ont-envoye-nettement-plus-de-donnees-en-2025/",
+    "source": "Next.ink",
+    "date": "2026-07-17",
+    "cat": "Numérique & Société",
+    "desc": "Comme chaque année, l&#8217;Arcep vient de publier son rapport sur l’état de l’internet en France. L&#8217;autorité constate une augmentation du trafic entrant de 10 % comparable à 2024 tandis que le trafic sortant bondit de 28 %. Côté IPv6, la transition continue de progresser sur les box grand public, mais les sites web et serveurs [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-57",
+    "title": "Les traders vont pouvoir payer pour accéder plus vite aux messages de Donald Trump",
+    "url": "https://next.ink/247719/les-traders-vont-pouvoir-payer-pour-acceder-plus-vite-aux-messages-de-donald-trump/",
+    "source": "Next.ink",
+    "date": "2026-07-17",
+    "cat": "Numérique & Société",
+    "desc": "Truth Social, le réseau social lancé par Donald Trump, va lancer en août une API sur abonnement permettant de disposer d&#8217;un accès accéléré aux messages des comptes les plus influents sur la plateforme, dont ceux du président des États-Unis. L&#8217;outil cible explicitement le monde de la finance et notamment les traders de Wall Street. Non [",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-58",
+    "title": "☕️ La Chine veut empêcher les humains de tomber amoureux des IA",
+    "url": "https://next.ink/brief-article/la-chine-veut-empecher-les-humains-de-tomber-amoureux-des-ia/",
+    "source": "Next.ink",
+    "date": "2026-07-17",
+    "cat": "Numérique & Société",
+    "desc": "La Chine vient de serrer la vis très fort sur les compagnons IA. Depuis cette semaine, de nouvelles règles interdisent à ces chatbots d&#8217;entretenir l&#8217;illusion d&#8217;une relation poussée avec leur utilisateur. Un problème plus important qu&#8217;il n&#8217;y parait. Les services de compagnonnage IA ont poussé comme des champignons depui",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-59",
+    "title": "Un consortium franco-canadien reprend Micromania",
+    "url": "https://next.ink/247712/un-consortium-franco-canadien-reprend-micromania/",
+    "source": "Next.ink",
+    "date": "2026-07-17",
+    "cat": "Numérique & Société",
+    "desc": "Alors que Sony vient de planter un nouveau clou dans le cercueil des supports physiques de jeux vidéo, est-il bien malin de racheter une enseigne spécialisée dans la vente de… jeux vidéo ? C&#8217;est le pari d&#8217;un consortium franco-canadien qui s&#8217;offre Micromania. Avec la ferme intention de relancer des magasins en perte de vitesse. Ave",
+    "auto": true
+  },
+  {
+    "id": "tech-1784454412-60",
+    "title": "☕️ xAI poursuit un utilisateur de Grok pour création de deepfakes sexualisés",
+    "url": "https://next.ink/brief-article/xai-poursuit-un-utilisateur-de-grok-pour-creation-de-deepfakes-sexualises/",
+    "source": "Next.ink",
+    "date": "2026-07-17",
+    "cat": "Numérique & Société",
+    "desc": "xAI, maison mère du réseau social X et du moteur d’IA générative Grok, poursuit en justice un homme de Caroline du Sud au motif qu’il aurait utilisé Grok pour créer du contenu représentant des agressions sexuelles sur mineurs (Child sexual abuse material, CSAM). L’homme, Terry Harwood, a été arrêté plus tôt dans l’année pour des [&#8230;]",
     "auto": true
   },
   {
@@ -407,396 +797,6 @@
     "date": "2026-07-17",
     "cat": "Numérique & Société",
     "desc": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-31",
-    "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-    "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-    "source": "MIT Tech Review",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,&#8230;",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-41",
-    "title": "DJI Osmo Pocket 3 : la caméra ultime pour faire des vlogs s’effondre à -50%",
-    "url": "https://www.01net.com/bons-plans/dji-osmo-pocket-3-la-camera-ultime-pour-faire-des-vlogs-seffondre-a-50.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "À ce prix fou, cette caméra 4K de poche devient incontournable pour tous les créateurs de contenu.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-42",
-    "title": "La France annonce le blocage de Polymarket, le site de paris crypto qui fait un carton",
-    "url": "https://www.01net.com/actualites/france-annonce-blocage-polymarket-site-paris-crypto-carton.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "L'Autorité nationale des jeux a ordonné le blocage complet de Polymarket en France. On vous explique pourquoi l'autorité a décidé de serrer le vis, deux ans après avoir interdit les paris aux Français. La plateforme attire plus de 200 000 visiteurs uniques français chaque mois.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-43",
-    "title": "Netflix admet avoir utilisé l’IA pour modifier 300 films et séries",
-    "url": "https://www.01net.com/actualites/netflix-admet-avoir-utilise-lia-pour-modifier-300-films-et-series.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Hardware",
-    "desc": "Netflix a annoncé avoir utilisé l'intelligence artificielle pour modifier 300 films et séries en postproduction. La plateforme de streaming assure que certaines scènes n’auraient jamais vu le jour autrement.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-44",
-    "title": "Est-ce illégal d’utiliser un VPN pour contourner un blocage géographique ? La justice européenne répond",
-    "url": "https://www.01net.com/actualites/utiliser-vpn-contourner-blocage-geographique-illegal-justice-europeenne-repond.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "La CJUE estime qu’un fournisseur VPN ne peut pas être tenu responsable du contournement d’un blocage géographique réalisé par un utilisateur pour accéder à des œuvres protégées. L’affaire porte sur la mise en ligne des manuscrits du Journal d’Anne Frank, libres de droits en Belgique mais encore protégés aux Pays-Bas.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-45",
-    "title": "Chez Tesla, la batterie la plus endurante n’est pas celle que vous croyez",
-    "url": "https://www.01net.com/actualites/chez-tesla-la-batterie-la-plus-endurante-nest-pas-celle-que-vous-croyez.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Une nouvelle analyse portant sur près de 10 000 tests réels de batteries de voitures électriques montre qu'une même Tesla Model 3 vieillit très différemment selon la batterie qui se cache sous son plancher, et que c'est justement la version la moins chère qui tient le mieux la distance.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-46",
-    "title": "Google Agenda pourrait bientôt corriger un oubli majeur sur nos smartphones",
-    "url": "https://www.01net.com/actualites/google-agenda-pourrait-bientot-corriger-oubli-majeur-sur-smartphones.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Google Agenda va enfin permettre de créer des sessions de « temps de concentration » directement depuis votre smartphone.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-47",
-    "title": "Un des meilleurs outils de Google change de nom",
-    "url": "https://www.01net.com/actualites/adieu-notebooklm-bonjour-gemini-notebook.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "IA & Modèles",
-    "desc": "Lancé comme un simple projet expérimental en 2023, NotebookLM tire sa révérence et devient officiellement Gemini Notebook.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-48",
-    "title": "Qui est Moonshot AI, l’éditeur de Kimi ?",
-    "url": "https://www.silicon.fr/data-ia-1372/qui-est-moonshot-ai-lediteur-de-kimi-228332",
-    "source": "Silicon.fr",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Avec le lancement fracassant de Kimi K3, Moonshot AI agite la planète IA. Retour sur l'origine de cette pépite pékinoise qui veut jouer dans \"la cour des grands\". The post Qui est Moonshot AI, l&rsquo;éditeur de Kimi ? appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-49",
-    "title": "Broadcom vs CISPE : beaucoup de recours, peu d’effets",
-    "url": "https://www.silicon.fr/cloud-1370/broadcom-cispe-voies-recours-228328",
-    "source": "Silicon.fr",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "En deux ans et demi de bataille contre Broadcom, l'association CISPE a multiplié les voies de recours, pour l'heure sans grand effet. The post Broadcom vs CISPE : beaucoup de recours, peu d&rsquo;effets appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-50",
-    "title": "Meta débauche un poids lourd d’AWS pour préparer son entrée dans le cloud",
-    "url": "https://www.silicon.fr/cloud-1370/meta-debauche-un-poids-lourd-daws-pour-preparer-son-entree-dans-le-cloud-228327",
-    "source": "Silicon.fr",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Meta vient de mettre la main sur l'un des cadres les plus expérimentés d'Amazon Web Services. Une prise de guerre qui confirme qu'elle lorgne désormais le marché du cloud. The post Meta débauche un poids lourd d&rsquo;AWS pour préparer son entrée dans le cloud appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-65",
-    "title": "Apple augmente les prix d’Apple Music en France : voici les nouveaux tarifs",
-    "url": "https://www.numerama.com/pop-culture/2297263-apple-augmente-les-prix-dapple-music-en-france-voici-les-nouveaux-tarifs.html",
-    "source": "Numerama",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Mauvaise surprise du vendredi soir : Apple augmente ses tarifs. L'abonnement Apple Music passe de 10,99 à 11,99 euros par mois, l'abonnement familial de 16,99 à 19,99 euros et l'abonnement étudiant de 5,99 à 6,99 euros par mois. Apple One semble, étrangement, épargné.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-66",
-    "title": "Szhlux, Jiytfu, Dozawa… cette extension masque les marques aux noms improbables sur Amazon",
-    "url": "https://www.numerama.com/tech/2297051-szhlux-jiytfu-dozawa-cette-extension-masque-les-marques-aux-noms-improbables-sur-amazon.html",
-    "source": "Numerama",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Une extension gratuite propose de faire le ménage dans les résultats d’Amazon en masquant les marques inconnues aux noms parfois imprononçables.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-67",
-    "title": "Stranger Things fête ses 10 ans avec une édition VHS sur Netflix qui sent bon la nostalgie",
-    "url": "https://www.numerama.com/pop-culture/2297167-stranger-things-fete-ses-10-ans-avec-une-edition-vhs-sur-netflix-qui-sent-bon-la-nostalgie.html",
-    "source": "Numerama",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Alors que Stranger Things vient de se terminer et que les fans sont encore sous le choc — pour le meilleur ou pour le pire, à vous de décider —, Netflix est déjà plongé dans la nostalgie de la première saison. Une édition spéciale plutôt maligne fait son apparition sur la plateforme.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-68",
-    "title": "La manette pour smartphones Backbone One baisse à moins de 15 € chez Micromania",
-    "url": "https://www.numerama.com/tech/2296751-la-manette-pour-smartphones-backbone-one-baisse-a-moins-de-15-e-chez-micromania.html",
-    "source": "Numerama",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "[Deal du jour] La manette Backbone One permet de jouer sur votre smartphone comme si c'était une vraie console portable, et ainsi profiter de vos titres de la meilleure manière possible. Un peu chère à sa sortie, elle est actuellement trouvable à moins de 15 €.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-69",
-    "title": "Climatiser les hôpitaux avec des appareils mobiles à 300 € : les limites du plan Wauquiez",
-    "url": "https://www.numerama.com/politique/2296741-climatiser-les-hopitaux-avec-des-appareils-mobiles-a-300-e-les-limites-du-plan-wauquiez.html",
-    "source": "Numerama",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "La Région Auvergne-Rhône-Alpes veut constituer une flotte de 1 500 climatiseurs mobiles pour répondre rapidement aux canicules dans les hôpitaux, les Ehpad et les écoles. Une solution de répit immédiatement disponible , mais qui soulève une question sur la pérennité d’une telle opération.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-70",
-    "title": "La Denza Z débarque en France avec un prix qui la place face à Maserati",
-    "url": "https://www.numerama.com/vroom/2296889-la-denza-z-debarque-en-france-avec-un-prix-qui-la-place-face-a-maserati.html",
-    "source": "Numerama",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Denza ouvre les commandes de sa supercar électrique en France. Avec jusqu'à 1 604 ch et un tarif qui la place face à Maserati, la Z affiche clairement ses ambitions.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-71",
-    "title": "C’était la plus grande crainte des astronomes : les miroirs géants en orbite approuvés par les autorités américaines",
-    "url": "https://www.numerama.com/sciences/2296675-cetait-la-plus-grande-crainte-des-astronomes-les-miroirs-geants-en-orbite-approuves-par-les-autorites-americaines.html",
-    "source": "Numerama",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Le projet de satellites-miroirs de Reflect Orbital a été validé par les régulateurs américains. La promesse : apporter la lumière du Soleil à la demande, n'importe où sur la planète à tout moment de la nuit. Mais ce serait aussi une source majeure de pollution lumineuse, ce qui fait craindre le pire à la communauté scientifique.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-72",
-    "title": "Pour la CJUE, le géoblocage peut être « efficace » même s’il est contournable via un VPN",
-    "url": "https://next.ink/247946/pour-la-cjue-le-geoblocage-peut-etre-efficace-meme-sil-est-contournable-via-un-vpn/",
-    "source": "Next.ink",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "La Cour de justice européenne a rendu son arrêt concernant un litige sur l&#8217;œuvre d&#8217;Anne Frank, qui est entrée dans le domaine public en Belgique mais pas aux Pays-Bas. Un géoblocage à la « pointe de la technologie » suffit à être dans les clous, même si des technologies comme un VPN permettent de le [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-73",
-    "title": "☕️ Avec Perception, Microsoft préparerait un concurrent moins cher à Claude Mythos",
-    "url": "https://next.ink/brief-article/avec-perception-microsoft-preparerait-un-concurrent-moins-cher-a-claude-mythos/",
-    "source": "Next.ink",
-    "date": "2026-07-17",
-    "cat": "IA & Modèles",
-    "desc": "Depuis mai, Microsoft s’agite dans le domaine de la cybersécurité. Mi-mai, l’entreprise a ainsi présenté son système MDASH, pour «&#160;Microsoft Security multi-model agentic scanning harness&#160;». Il s’agit d’un réseau d’une centaine d’agents travaillant à partir d’un mix de modèles pour débusquer les failles de sécurité dans le code. On sait qu",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-74",
-    "title": "☕️ La France bloque l’accès à Polymarket",
-    "url": "https://next.ink/brief-article/la-france-bloque-lacces-a-polymarket/",
-    "source": "Next.ink",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Polymarket est désormais bloqué en France. L&#8217;Autorité nationale des jeux (ANJ) a mis en œuvre son pouvoir de blocage administratif (1&#160;290&#160;URL géobloquées l&#8217;an dernier). Le régulateur a ordonné ce jeudi 16 juillet aux fournisseurs d&#8217;accès d&#8217;empêcher l&#8217;accès au site de paris qui « fait la promotion d&#8217;une ",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-75",
-    "title": "☕️ Transparence, accès aux données : Bruxelles valide le plan de X pour se conformer au DSA",
-    "url": "https://next.ink/brief-article/transparence-acces-aux-donnees-bruxelles-valide-le-plan-de-x-pour-se-conformer-au-dsa/",
-    "source": "Next.ink",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Le réseau social X (anciennement Twitter) va pouvoir mettre en œuvre son plan de conformité pour améliorer l&#8217;accès de ses données aux chercheurs et la transparence des publicités. La Commission européenne avait infligé à l&#8217;entreprise d&#8217;Elon Musk une amende en décembre dernier, assortie d&#8217;une obligation de changements. La pre",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-76",
-    "title": "L’IA rend l’édition scientifique « plus lente, de moins bonne qualité et plus chère »",
-    "url": "https://next.ink/247785/lia-rend-ledition-scientifique-plus-lente-de-moins-bonne-qualite-et-plus-chere/",
-    "source": "Next.ink",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Alors que de plus en plus d&#8217;articles scientifiques sont créés en utilisant l&#8217;IA générative, le rédacteur en chef de Science, Holden Thorp, considère qu&#8217;elle fait plus de mal que de bien à l&#8217;édition scientifique. Pour Holden Thorp, le responsable éditorial de toutes les revues de l&#8217;éditeur scientifique Science, l&#8217;",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-77",
-    "title": "Rakuten France baissera le rideau d’ici la fin de l’année",
-    "url": "https://next.ink/247788/rakuten-france-baissera-le-rideau-dici-la-fin-de-lannee/",
-    "source": "Next.ink",
-    "date": "2026-07-17",
-    "cat": "Hardware",
-    "desc": "Rakuten France annonce que faute d&#8217;avoir trouvé un repreneur, sa place de marché fermera ses portes fin 2026. Trois candidats s&#8217;étaient pourtant portés acquéreurs, mais les garanties proposées n&#8217;auraient pas été jugées suffisantes par la direction et le CSE représentant les 180 emplois concernés. Parmi les repreneurs potentiels, P",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-78",
-    "title": "☕️ Microsoft rend open source… son Comic Chat !",
-    "url": "https://next.ink/brief-article/microsoft-rend-open-source-son-comic-chat/",
-    "source": "Next.ink",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Microsoft a annoncé la publication en open source de Microsoft Comic Chat, son célèbre client de messagerie des années 1990. L’application a été initialement développée en 1995 par David Kurlander, qui faisait alors partie de la division Microsoft Research Virtual Worlds. Elle avait ensuite été lancée en 1995 avec Internet Explorer 3, avant d’être ",
-    "auto": true
-  },
-  {
-    "id": "tech-1784366277-79",
-    "title": "Choix du navigateur : Mozilla fustige une nouvelle fois les pratiques de Microsoft",
-    "url": "https://next.ink/247832/choix-du-navigateur-mozilla-fustige-une-nouvelle-fois-les-pratiques-de-microsoft/",
-    "source": "Next.ink",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Mozilla se montre très critique de Microsoft et de certains comportements dans les produits du géant du logiciel. La fondation s’en prend surtout aux dark patterns, forçant la main des utilisateurs sur le navigateur Edge, même si l’Europe échappe à bon nombre de ces pratiques. En janvier 2024, Mozilla fustigeait déjà Edge (PDF), avec un [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-36",
-    "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-    "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-    "source": "MIT Tech Review",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is define",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-37",
-    "title": "The risk of weather data sabotage is rising",
-    "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-    "source": "MIT Tech Review",
-    "date": "2026-07-17",
-    "cat": "Hardware",
-    "desc": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives a",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-44",
-    "title": "WhatsApp commence à activer sa fonction de noms d’utilisateurs",
-    "url": "https://www.01net.com/actualites/whatsapp-commence-a-activer-sa-fonction-de-noms-dutilisateurs.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "La messagerie instantanée est en train de déployer progressivement sa fonction permettant d’utiliser des noms d’utilisateurs à la place d’un numéro de téléphone pour communiquer.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-45",
-    "title": "Pas encore annoncé, le Galaxy Z Fold 8 Ultra se décline dans une version luxe… à plus de 13 000 dollars !",
-    "url": "https://www.01net.com/actualites/samsung-pas-encore-devoile-galaxy-z-fold-8-ultra-droit-version-luxe-13-130.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Alors que Samsung ne l’a même pas encore dévoilé, la marque de luxe Caviar présente déjà un Galaxy Z Fold 8 Ultra en l’honneur de Lionel Messi. Le smartphone pliant arbore un placage en or 24 carats et sera commercialisé en seulement 19 exemplaires à travers le monde. Son prix de départ ? 13 130 dollars.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-46",
-    "title": "Grosse baisse de prix sur le Sony WH-1000XM6 : -36% sur la Rolls des casques 2026 🎧",
-    "url": "https://www.01net.com/bons-plans/grosse-baisse-de-prix-sur-le-sony-wh-1000xm6-36-sur-la-rolls-des-casques-2026.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Le Sony WH-1000XM6 profite d'une réduction exceptionnelle à l'occasion de l'opération \"Promo des vacances\" sur AliExpress. S'il vous tente, vous pouvez vous le procurer à prix réduit, sous la barre des 290 euros.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-47",
-    "title": "SpaceX annule un vol d’essai de Starship à la dernière seconde : ce qui s’est passé",
-    "url": "https://www.01net.com/actualites/spacex-annule-un-vol-dessai-de-starship-a-la-derniere-seconde-ce-qui-sest-passe.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "SpaceX a dû reporter le 13e vol d'essai de son Starship après un problème technique sur ses moteurs Raptor. L'entreprise prépare déjà sa prochaine tentative.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-48",
-    "title": "Arnaques par SMS : les États-Unis saisissent 30 000 cartes SIM dans des fermes criminelles",
-    "url": "https://www.01net.com/actualites/arnaques-par-sms-etats-unis-saisissent-30-000-cartes-sim-fermes-criminelles.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Plus de 30 000 cartes SIM, utilisées par des criminels pour lancer des campagnes massives d'arnaques par SMS, ont été saisies par les services secrets américains. Lors d'une opération d'envergure, les autorités ont démantelé une série de fermes à travers les États-Unis.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-49",
-    "title": "iPad mini : Apple préparerait une mise à jour historique dès cet automne",
-    "url": "https://www.01net.com/actualites/ipad-mini-apple-preparerait-mise-a-jour-historique-des-cet-automne.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Apple s'apprêterait à lancer un nouvel iPad mini équipé d'un écran OLED dès le mois d'octobre. Une évolution majeure qui pourrait creuser l'écart avec le marché des petites tablettes Android, où l'offre haut de gamme reste rare.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-50",
-    "title": "Pour un été serein, ces caméras Reolink voient leurs prix dégringoler",
-    "url": "https://www.01net.com/bons-plans/pour-un-ete-serein-ces-cameras-reolink-voient-leurs-prix-degringoler.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Préparez les vacances. Jusqu’au 21 juillet 2026, les meilleures caméras de surveillance Reolink bénéficient d’offres inédites. C’est à saisir d’urgence.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-51",
-    "title": "Windows 11 24H2 : il ne vous reste plus que 3 mois pour mettre à jour votre PC",
-    "url": "https://www.01net.com/actualites/windows-11-24h2-il-ne-vous-reste-plus-que-3-mois-pour-mettre-a-jour-votre-pc.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Big Tech",
-    "desc": "Microsoft vient de publier un rappel utile à tous les utilisateurs de Windows 11 version 24H2. Dans trois mois, leur PC ne recevra plus aucune mise à jour, à moins qu’ils ne fassent la mise à niveau vers 25H2.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-52",
-    "title": "Voici les nouveaux émojis que vous allez pouvoir utiliser en 2027",
-    "url": "https://www.01net.com/actualites/voici-les-nouveaux-emojis-que-vous-allez-pouvoir-utiliser-en-2027.html",
-    "source": "01net",
-    "date": "2026-07-17",
-    "cat": "Hardware",
-    "desc": "Le Consortium Unicode ajoutera 9 nouveaux émojis avec la mise à jour Emoji 18.0, prévue pour le printemps prochain. Parmi les nouveautés figurent un papillon, une gomme, un visage fissuré ou encore un cornichon. De plus, certains émojis existants bénéficieront d’un petit relooking.",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-59",
-    "title": "Datacenters : le moratoire édulcoré de l’État de New York",
-    "url": "https://www.silicon.fr/business-1367/datacenters-moratoire-new-york-228322",
-    "source": "Silicon.fr",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Début juin, le Parlement de l'État de New York votait un moratoire d'un an sur les datacenters. L'exécutif en a promulgué une version « allégée ». The post Datacenters : le moratoire édulcoré de l&rsquo;État de New York appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1784281859-71",
-    "title": "Clicklock : le nouveau piège qui verrouille votre Mac jusqu’à ce que vous cédiez",
-    "url": "https://www.numerama.com/cyberguerre/2296645-clicklock-le-nouveau-piege-qui-verrouille-votre-mac-jusqua-ce-que-vous-cediez.html",
-    "source": "Numerama",
-    "date": "2026-07-17",
-    "cat": "Numérique & Société",
-    "desc": "Un logiciel malveillant inédit, baptisé ClickLock, bloque littéralement l'écran des utilisateurs de macOS jusqu'à ce qu'ils tapent leur mot de passe.",
     "auto": true
   }
 ]
