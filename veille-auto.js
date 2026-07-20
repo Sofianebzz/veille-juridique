@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-19T09:46:52
+// Dernière collecte : 2026-07-20T10:44:25
 window.AUTO_VEILLE = [
   {
     id: "auto-1784366250-37",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-07-17",
     cat: "RGPD",
     desc: "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also discussed how to further expand efforts to support a consistent application of the General Data Protection Regu",
+    auto: true
+  },
+  {
+    id: "auto-1784544245-0",
+    title: "Ordre du jour de la séance plénière du 16 juillet 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-16-juillet-2026",
+    source: "CNIL",
+    date: "2026-07-16",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 16 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Dans un contexte de fortes tensions géopolitiques mondiales, la présidence française du G7 en 2026 est exposée à de potentielles […]",
     auto: true
   },
-  {
-    id: "auto-1781091214-15",
-    title: "Coopération entre régulateurs",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/cooperation-entre-regulateurs-090626.html",
-    source: "ARCEP",
-    date: "2026-06-09",
-    cat: "Plateformes",
-    desc: "Rencontre semestrielle des autorités administratives et publiques indépendantes : l’IA au service de la régulation",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-19T09:46:52";
+window.AUTO_VEILLE_UPDATED = "2026-07-20T10:44:25";
