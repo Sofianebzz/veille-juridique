@@ -1,5 +1,45 @@
 [
   {
+    "id": "auto-1784629141-2",
+    "title": "Exigences du CRA : Processus de notification pour les organismes notifiés",
+    "url": "http://cyber.sites.beta.gouv.fr/actualites/exigences-du-cra-processus-de-notification-pour-les-organismes-notifies/",
+    "source": "ANSSI",
+    "date": "2026-07-21",
+    "cat": "Cybersécurité",
+    "desc": "Dans un contexte marqué par l’exploitation croissante de vulnérabilités affectant des produits numériques ayant un niveau de cybersécurité insuffisant, le […]",
+    "auto": true
+  },
+  {
+    "id": "auto-1784629141-0",
+    "title": "Le CEPD demande une base légale pour le partage d’informations entre régulateurs",
+    "url": "https://www.cnil.fr/fr/cepd-base-juridique-interregulation",
+    "source": "CNIL",
+    "date": "2026-07-20",
+    "cat": "RGPD",
+    "desc": "Lors d’une réunion à haut niveau qui s’est tenue à Dublin les 16 et 17 juillet 2026, le Comité européen de la protection des données (CEPD) a plaidé en faveur d’une base légale claire pour le partage d’informations entre les régulateurs ayant des compétences différentes.",
+    "auto": true
+  },
+  {
+    "id": "auto-1784629141-1",
+    "title": "IA agentique et données personnelles : la CNIL et le Conseil de l’IA et du Numérique publient une note exploratoire",
+    "url": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
+    "source": "CNIL",
+    "date": "2026-07-20",
+    "cat": "RGPD",
+    "desc": "Les innovations à l’ère de l’IA générative se poursuivent avec la démocratisation de l’IA agentique, désormais capable d’agir sur son environnement à la place de son utilisateur. La délégation des tâches qui lui sont confiées, facilitée par des interactions hyperpersonnalisées, implique des chaînes de traitement complexes, parfois opaques. Dans une",
+    "auto": true
+  },
+  {
+    "id": "auto-1784629141-26",
+    "title": "Fréquences",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/frequences-200726.html",
+    "source": "ARCEP",
+    "date": "2026-07-20",
+    "cat": "Plateformes",
+    "desc": "Réattribution de fréquences pour le service mobile par satellite : l’Arcep lance une nouvelle consultation publique",
+    "auto": true
+  },
+  {
     "id": "auto-1784366250-37",
     "title": "EDPB calls for legal basis for cross-regulatory information sharing",
     "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
@@ -757,46 +797,6 @@
     "date": "2026-06-10",
     "cat": "RGPD",
     "desc": "Lors de sa dernière session plénière, le CEPD a rencontré Michael McGrath, commissaire européen chargé de la démocratie, de la justice, de l'État de droit et de la protection des consommateurs. Par ailleurs, le CEPD a adopté un&amp;nbsp;modèle commun de notification des violations de données.",
-    "auto": true
-  },
-  {
-    "id": "auto-1781179511-1",
-    "title": "Communications par voie électronique aux prospects et clients : quelles règles respecter ?",
-    "url": "https://www.cnil.fr/fr/communication-electronique-quelles-regles",
-    "source": "CNIL",
-    "date": "2026-06-10",
-    "cat": "RGPD",
-    "desc": "Prospection commerciale, messages d’information… les entreprises échangent régulièrement avec leurs prospects et leurs clients. Selon les cas, les personnes doivent soit donner leur accord préalable, soit pouvoir s’opposer facilement.",
-    "auto": true
-  },
-  {
-    "id": "auto-1781179511-28",
-    "title": "Extinction des réseaux mobiles 2G et 3G",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/extinction-des-reseaux-mobiles-2g-et-3g-100626.html",
-    "source": "ARCEP",
-    "date": "2026-06-10",
-    "cat": "Plateformes",
-    "desc": "L’accélération de la migration des terminaux « 2G » doit encore s’amplifier",
-    "auto": true
-  },
-  {
-    "id": "auto-1781179511-34",
-    "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
-    "url": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
-    "source": "EDPB",
-    "date": "2026-06-10",
-    "cat": "Cybersécurité",
-    "desc": "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template . The Board held a meeting with Commissioner McGrath, engaging in a fruitful discussion about common priorities ",
-    "auto": true
-  },
-  {
-    "id": "auto-1781091214-0",
-    "title": "L’ANSSI accompagne les organisateurs dans la cybersécurité du Sommet du G7 à Evian",
-    "url": "http://cyber.gouv.fr/actualites/lanssi-accompagne-les-organisateurs-dans-la-cybersecurite-du-sommet-du-g7-a-evian/",
-    "source": "ANSSI",
-    "date": "2026-06-09",
-    "cat": "Cybersécurité",
-    "desc": "Dans un contexte de fortes tensions géopolitiques mondiales, la présidence française du G7 en 2026 est exposée à de potentielles […]",
     "auto": true
   }
 ]
