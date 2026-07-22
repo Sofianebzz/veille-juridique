@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-1784715540-0",
+    "title": "Revoir le webinaire - Fournisseurs et prestataires de l’écosystème « pixels » : comment implémenter la recommandation CNIL ?",
+    "url": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-fournisseurs-prestataires",
+    "source": "CNIL",
+    "date": "2026-07-22",
+    "cat": "RGPD",
+    "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
+    "auto": true
+  },
+  {
+    "id": "auto-1784715540-1",
+    "title": "Questions-réponses - recommandation relative aux pixels dans les courriers électroniques de la CNIL",
+    "url": "https://www.cnil.fr/fr/faq-recommandation-pixels-courriers-electroniques",
+    "source": "CNIL",
+    "date": "2026-07-22",
+    "cat": "RGPD",
+    "desc": "La CNIL répond aux principales interrogations des professionnels sur la mise en œuvre de sa recommandation sur les pixels.",
+    "auto": true
+  },
+  {
+    "id": "auto-1784715540-2",
+    "title": "Ordre du jour de la séance plénière du 21 juillet 2026",
+    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-juillet-2026",
+    "source": "CNIL",
+    "date": "2026-07-21",
+    "cat": "RGPD",
+    "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 21 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    "auto": true
+  },
+  {
+    "id": "auto-1784715540-27",
+    "title": "Réseaux en fibre optique",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-en-fibre-optique-210726.html",
+    "source": "ARCEP",
+    "date": "2026-07-21",
+    "cat": "Plateformes",
+    "desc": "L’Arcep publie la huitième édition de son observatoire sur la qualité des réseaux en fibre optique",
+    "auto": true
+  },
+  {
+    "id": "auto-1784715540-51",
+    "title": "Sécurité numérique et intelligence artificielle : mutations de la menace et perspectives",
+    "url": "https://www.cigref.fr/securite-numerique-et-intelligence-artificielle-mutations-de-la-menace-et-perspectives",
+    "source": "CIGREF",
+    "date": "2026-07-21",
+    "cat": "Cybersécurité",
+    "desc": "À l’occasion de la publication de sa nouvelle note d’information et d’actualité intitulée « Sécurité numérique et IA : mutations de la menace et perspectives », le Cigref dresse un diagnostic sur la transformation du paysage de la menace cyber. L’industrialisation des attaques à la « vitesse machine » et les tensions géopolitiques autour des [&#823",
+    "auto": true
+  },
+  {
     "id": "auto-1784629141-2",
     "title": "Exigences du CRA : Processus de notification pour les organismes notifiés",
     "url": "http://cyber.sites.beta.gouv.fr/actualites/exigences-du-cra-processus-de-notification-pour-les-organismes-notifies/",
@@ -747,56 +797,6 @@
     "date": "2026-06-12",
     "cat": "Jurisprudence",
     "desc": "Du 10 au 12 juin 2026, le Comité franco-britanno-irlandais de coopération judiciaire* s’est réuni au Conseil d’État et à la Cour de cassation pour un colloque sur la carrière, la formation, la déontologie et la discipline des magistrates et magistrats.",
-    "auto": true
-  },
-  {
-    "id": "auto-1781264325-32",
-    "title": "Coordinated Supervision Committee extends scope to include Eurodac",
-    "url": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
-    "source": "EDPB",
-    "date": "2026-06-12",
-    "cat": "RGPD",
-    "desc": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the fingerprints of asylum applicants and irregular migrants, which has evolved into a full asylum",
-    "auto": true
-  },
-  {
-    "id": "auto-1781698306-17",
-    "title": "Marché du haut et du très haut débit fixe",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-du-haut-et-du-tres-haut-debit-fixe-110626.html",
-    "source": "ARCEP",
-    "date": "2026-06-11",
-    "cat": "Plateformes",
-    "desc": "95 % des locaux sont raccordables à la fibre optique ; elle représente 84% des abonnements internet",
-    "auto": true
-  },
-  {
-    "id": "auto-1781264325-63",
-    "title": "Condamnation pour atteinte au droit à l’image d’un influenceur",
-    "url": "https://www.legalis.net/actualite/condamnation-pour-atteinte-au-droit-a-limage-dun-influenceur/",
-    "source": "Legalis",
-    "date": "2026-06-11",
-    "cat": "Jurisprudence",
-    "desc": "La société qui a rediffusé les vidéos de micro-trottoir d’un influenceur qui figurait sur ces images a été condamnée à lui verser 5 000 € de dommages-intérêts en réparation de l’atteinte à son droit à l’image et 2 000 € en application de l’article 700 du code de procédure civile, par un jugement du 6 mai [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1781179511-27",
-    "title": "Réseaux du futur",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-du-futur-110626.html",
-    "source": "ARCEP",
-    "date": "2026-06-11",
-    "cat": "Plateformes",
-    "desc": "« Les technologies du quantique et leur impact sur les réseaux », cinquième note publiée par l’Arcep dans le cadre de son cycle de réflexion prospective « Réseaux du futur »",
-    "auto": true
-  },
-  {
-    "id": "auto-1781179511-0",
-    "title": "Le CEPD rencontre le commissaire européen McGrath et adopte un modèle commun de notification des violations de données",
-    "url": "https://www.cnil.fr/fr/le-cepd-rencontre-le-commissaire-europeen-mcgrath-et-adopte-un-modele-commun-de-notification-des",
-    "source": "CNIL",
-    "date": "2026-06-10",
-    "cat": "RGPD",
-    "desc": "Lors de sa dernière session plénière, le CEPD a rencontré Michael McGrath, commissaire européen chargé de la démocratie, de la justice, de l'État de droit et de la protection des consommateurs. Par ailleurs, le CEPD a adopté un&amp;nbsp;modèle commun de notification des violations de données.",
     "auto": true
   }
 ]
