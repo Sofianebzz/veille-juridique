@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-22T10:19:19
+// Dernière collecte : 2026-07-23T10:13:56
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1784801605-38",
+    title: "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
+    url: "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
+    source: "EDPB",
+    date: "2026-07-23",
+    cat: "RGPD",
+    desc: "Brussels, 23 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 15 October 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. Th",
+    auto: true
+  },
+  {
+    id: "auto-1784801605-24",
+    title: "Décès de Philippe Josse, président de la section des finances",
+    url: "https://www.conseil-etat.fr/actualites/deces-de-philippe-josse-president-de-la-section-des-finances",
+    source: "Conseil d'État",
+    date: "2026-07-22",
+    cat: "Jurisprudence",
+    desc: "C&#039;est avec une profonde tristesse que les membres et agents du Conseil d’État ont appris le décès de Philippe Josse, président de la section des finances, survenu le dimanche 19 juillet.",
+    auto: true
+  },
   {
     id: "auto-1784715540-0",
     title: "Revoir le webinaire - Fournisseurs et prestataires de l’écosystème « pixels » : comment implémenter la recommandation CNIL ?",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Managing Shadow AI’s Hidden Data Breach Risk francesco Mon, 06/15/2026 - 09:25 Mon, 06/15/2026 - 12:00 The use of unauthorised AI tools that can expose personal data, create regulatory blind spots, and open security vulnerabilities. 1 Read blogpost by Wojciech Wiewiórowski",
     auto: true
   },
-  {
-    id: "auto-1781614054-32",
-    title: "Hired by an algorithm: Data protection and AI regulation in modern HR practices",
-    url: "https://www.edps.europa.eu/press-publications/press-news/news/2026/hired-algorithm-data-protection-and-ai-regulation-modern-hr-practices",
-    source: "EDPS",
-    date: "2026-06-12",
-    cat: "IA",
-    desc: "Hired by an algorithm: Data protection and AI regulation in modern HR practices igkourai Fri, 06/12/2026 - 16:39 Tue, 06/16/2026 - 12:00 On 9 July, together with the EDPB trainees, we invite you to the conference on AI in recruitment. It will look at how artificial intelligence is increasingly used in HR and recruitment processes, along with the da",
-    auto: true
-  },
-  {
-    id: "auto-1781346178-26",
-    title: "Colloque bisannuel du Comité franco-britanno-irlandais de coopération judiciaire",
-    url: "https://www.conseil-etat.fr/actualites/colloque-bisannuel-du-comite-franco-britanno-irlandais-de-cooperation-judiciaire",
-    source: "Conseil d'État",
-    date: "2026-06-12",
-    cat: "Jurisprudence",
-    desc: "Du 10 au 12 juin 2026, le Comité franco-britanno-irlandais de coopération judiciaire* s’est réuni au Conseil d’État et à la Cour de cassation pour un colloque sur la carrière, la formation, la déontologie et la discipline des magistrates et magistrats.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-22T10:19:19";
+window.AUTO_VEILLE_UPDATED = "2026-07-23T10:13:56";
