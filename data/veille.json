@@ -1,5 +1,65 @@
 [
   {
+    "id": "auto-1784887799-50",
+    "title": "IT Job Profiles Nomenclature – 2025 Edition",
+    "url": "https://www.cigref.fr/it-job-profiles-nomenclature-2025-edition",
+    "source": "CIGREF",
+    "date": "2026-07-24",
+    "cat": "Contrats IT",
+    "desc": "For over thirty years, Cigref has been supporting large companies and public organisations in the development of their digital roles. Our IT Job Profiles Nomenclature serves as a reference tool: it does not set out what digital roles ‘should’ be, nor what they ‘will’ be in the future, but accurately describes what they are today [&#8230;] L’article",
+    "auto": true
+  },
+  {
+    "id": "auto-1784887799-24",
+    "title": "Comptabilité réglementaire",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/comptabilite-reglementaire-230726.html",
+    "source": "ARCEP",
+    "date": "2026-07-23",
+    "cat": "Plateformes",
+    "desc": "L'Arcep publie les déclarations de conformité des comptes réglementaires des sociétés agréées de distribution de la presse pour l’exercice 2025, établies par le cabinet KPMG (et expurgées des éléments relevant du secret des affaires)",
+    "auto": true
+  },
+  {
+    "id": "auto-1784887799-25",
+    "title": "L’Arcep publie les chiffres 2025 de l’observatoire du marché télécoms en outre-mer",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/chiffres-2025-observatoire-du-marche-telecoms-en-outre-mer-230726.html",
+    "source": "ARCEP",
+    "date": "2026-07-23",
+    "cat": "Plateformes",
+    "desc": "Au 31 décembre 2025, près des trois quarts des abonnements internet sont en fibre optique de bout en bout en outre-mer.",
+    "auto": true
+  },
+  {
+    "id": "auto-1784887799-26",
+    "title": "Audiovisuel et TNT",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/audiovisuel-et-tnt-230726.html",
+    "source": "ARCEP",
+    "date": "2026-07-23",
+    "cat": "Jurisprudence",
+    "desc": "Nouveau cycle de régulation du marché de gros amont des services de diffusion hertzienne terrestre de programmes télévisuels : l’Arcep lance une consultation publique sur le projet de décision",
+    "auto": true
+  },
+  {
+    "id": "auto-1784887799-51",
+    "title": "Digital accessibility: Organising, managing and equipping large organisations for scaling up",
+    "url": "https://www.cigref.fr/digital-accessibility-organising-managing-and-equipping-large-organisations-for-scaling-up",
+    "source": "CIGREF",
+    "date": "2026-07-23",
+    "cat": "Contrats IT",
+    "desc": "On 21 May 2026, Global Accessibility Awareness Day, Cigref published its new report entitled “Digital accessibility: organising, managing and equipping large organisations for scaling up”. The result of a year’s work, this document sets out a methodological framework and practical feedback to transform a regulatory obligation into an organisation-w",
+    "auto": true
+  },
+  {
+    "id": "auto-1784887799-52",
+    "title": "The protection of sensitive non-personal data: A competitiveness issue for European organisations",
+    "url": "https://www.cigref.fr/the-protection-of-sensitive-non-personal-data-a-competitiveness-issue-for-european-organisations",
+    "source": "CIGREF",
+    "date": "2026-07-23",
+    "cat": "RGPD",
+    "desc": "In today’s digital economy, data has become an indispensable strategic asset—the primary fuel powering artificial intelligence, shaping industrial value chains, and guiding executive decision-making. Yet, this central role creates a fundamental paradox: organisations must circulate data to drive value, while navigating a threat landscape where econ",
+    "auto": true
+  },
+  {
     "id": "auto-1784801605-38",
     "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
     "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
@@ -737,66 +797,6 @@
     "date": "2026-06-17",
     "cat": "Cybersécurité",
     "desc": "La formation au cœur des missions de l’ANSSI A l’heure où le secteur du numérique en général et particulièrement celui […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1781698306-0",
-    "title": "Nomination de Jean-Michel FIETIER au poste de directeur administratif et financier de la CNIL",
-    "url": "https://www.cnil.fr/fr/nomination-jean-michel-fietier",
-    "source": "CNIL",
-    "date": "2026-06-16",
-    "cat": "RGPD",
-    "desc": "À compter du 15 juin 2026, Jean-Michel FIETIER est nommé directeur administratif et financier de la CNIL. Il succède à Jean-Marc SALMON, qui occupait ces fonctions depuis 2020.",
-    "auto": true
-  },
-  {
-    "id": "auto-1781698306-34",
-    "title": "Latest EDPS Newsletter out now",
-    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/latest-edps-newsletter-out-now-1",
-    "source": "EDPS",
-    "date": "2026-06-16",
-    "cat": "Plateformes",
-    "desc": "Latest EDPS Newsletter out now ileanjoh Tue, 06/16/2026 - 17:08 Wed, 06/17/2026 - 12:00 Welcome to the latest edition of the EDPS Newsletter, featuring active AI governance and major supervisory milestones. Catch up on our Annual Report 2025, recommendations for the EU visa platform chatbot, insights from the Digital Omnibus high-level debate, and ",
-    "auto": true
-  },
-  {
-    "id": "auto-1781614054-0",
-    "title": "Appel à manifestation d‘intérêt – Sécurité des écosystèmes de cybersécurité",
-    "url": "http://cyber.sites.beta.gouv.fr/actualites/appel-a-manifestation-dinteret-securite-des-ecosystemes-de-cybersecurite/",
-    "source": "ANSSI",
-    "date": "2026-06-16",
-    "cat": "Cybersécurité",
-    "desc": "L'ANSSI ouvre un appel à manifestation d‘intérêt pour le soutien à la création et le développement d’entités chargées de l’accompagnement […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1781614054-17",
-    "title": "Un mois, une juridiction : le tribunal administratif de Cergy-Pontoise",
-    "url": "https://www.conseil-etat.fr/actualites/un-mois-une-juridiction-le-tribunal-administratif-de-cergy-pontoise2",
-    "source": "Conseil d'État",
-    "date": "2026-06-16",
-    "cat": "Jurisprudence",
-    "desc": "Le 8 juin 2026, le tribunal administratif de Cergy-Pontoise a accueilli le vice-président du Conseil d’État, Marc Guillaume, dans le cadre des rencontres mensuelles en juridiction. L’occasion de découvrir l’activité du tribunal administratif cergyssois, en prise avec le quotidien des citoyens et les",
-    "auto": true
-  },
-  {
-    "id": "auto-1781531342-0",
-    "title": "Revoir le webinaire - Pixels de suivi dans les courriels : présentation des recommandations de la CNIL",
-    "url": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-recommandations-cnil",
-    "source": "CNIL",
-    "date": "2026-06-15",
-    "cat": "RGPD",
-    "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
-    "auto": true
-  },
-  {
-    "id": "auto-1781531342-31",
-    "title": "Managing Shadow AI’s Hidden Data Breach Risk",
-    "url": "https://www.edps.europa.eu/press-publications/press-news/news/2026/managing-shadow-ais-hidden-data-breach-risk",
-    "source": "EDPS",
-    "date": "2026-06-15",
-    "cat": "Cybersécurité",
-    "desc": "Managing Shadow AI’s Hidden Data Breach Risk francesco Mon, 06/15/2026 - 09:25 Mon, 06/15/2026 - 12:00 The use of unauthorised AI tools that can expose personal data, create regulatory blind spots, and open security vulnerabilities. 1 Read blogpost by Wojciech Wiewiórowski",
     "auto": true
   }
 ]
