@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-24T10:10:19
+// Dernière collecte : 2026-07-25T09:40:04
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1784972382-25",
+    title: "Environnement",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-240726.html",
+    source: "ARCEP",
+    date: "2026-07-24",
+    cat: "IA",
+    desc: "L’Arcep met en consultation publique un projet de décision visant à enrichir son enquête annuelle « Pour un numérique soutenable », intégrant les données des fournisseurs d’IA générative",
+    auto: true
+  },
+  {
+    id: "auto-1784972382-50",
+    title: "Digital Security and Artificial Intelligence: Evolving Threats and Perspectives",
+    url: "https://www.cigref.fr/digital-security-and-artificial-intelligence-evolving-threats-and-perspective",
+    source: "CIGREF",
+    date: "2026-07-24",
+    cat: "Cybersécurité",
+    desc: "To mark the publication of its new memo entitled “Digital Security and Artificial Intelligence: Evolving Threats and Perspectives”, Cigref provides an analysis of the changing cyber threat landscape. The industrialisation of attacks at ‘machine speed’ and the geopolitical tensions surrounding cutting-edge artificial intelligence models necessitate ",
+    auto: true
+  },
   {
     id: "auto-1784887799-50",
     title: "IT Job Profiles Nomenclature – 2025 Edition",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Loi relative à la lutte contre les fraudes sociales et fiscales",
     auto: true
   },
-  {
-    id: "auto-1782040275-15",
-    title: "Décision n° 2026-7 RIP du 17 juin 2026 - Communiqué de presse",
-    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-7-rip-du-17-juin-2026-communique-de-presse",
-    source: "Conseil constitutionnel",
-    date: "2026-06-17",
-    cat: "Jurisprudence",
-    desc: "Le Conseil constitutionnel juge que la proposition de loi visant à exclure de la notion de soin la provocation active à la mort ne porte pas sur une « réforme relative à la politique sociale de la nation », au sens de l’article 11 de la Constitution.",
-    auto: true
-  },
-  {
-    id: "auto-1781698306-1",
-    title: "Publication d’un nouveau référentiel de formation dédié au pilotage de la remédiation",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/publication-dun-nouveau-r%C3%A9f%C3%A9rentiel-de-formation-d%C3%A9di%C3%A9-au-pilotage-de-la-rem%C3%A9diation/",
-    source: "ANSSI",
-    date: "2026-06-17",
-    cat: "Cybersécurité",
-    desc: "La formation au cœur des missions de l’ANSSI A l’heure où le secteur du numérique en général et particulièrement celui […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-24T10:10:19";
+window.AUTO_VEILLE_UPDATED = "2026-07-25T09:40:04";
