@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-27T11:13:01
+// Dernière collecte : 2026-07-28T10:28:23
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1785234484-26",
+    title: "Service universel postal",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/service-universel-postal-juillet-aout-2026.html",
+    source: "ARCEP",
+    date: "2026-07-27",
+    cat: "Plateformes",
+    desc: "L’Arcep publie son avis sur les tarifs 2027 du service universel postal",
+    auto: true
+  },
   {
     id: "auto-1784972382-25",
     title: "Environnement",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Loi relative à la lutte contre les fraudes sociales et fiscales",
     auto: true
   },
-  {
-    id: "auto-1781870425-29",
-    title: "Décision n° 2026-904 DC du 18 juin 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/2026904DC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-06-18",
-    cat: "Jurisprudence",
-    desc: "Loi relative à la lutte contre les fraudes sociales et fiscales",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-27T11:13:01";
+window.AUTO_VEILLE_UPDATED = "2026-07-28T10:28:23";
