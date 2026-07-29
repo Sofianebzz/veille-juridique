@@ -40,6 +40,26 @@
     "auto": true
   },
   {
+    "id": "auto-1785321136-26",
+    "title": "Décision n° 2026-906 DC du 23 juillet 2026 - Communiqué de presse",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-906-dc-du-23-juillet-2026-communique-de-presse",
+    "source": "Conseil constitutionnel",
+    "date": "2026-07-23",
+    "cat": "Cybersécurité",
+    "desc": "Saisi de six dispositions de la loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat par plus de 60 députés, d’une part, des groupes « la France insoumise - Nouveau Front Populaire » et « Écologiste et Social » et, d’autre part, du groupe « Socialistes et apparentés », le Conseil constitutionnel en",
+    "auto": true
+  },
+  {
+    "id": "auto-1785321136-27",
+    "title": "Décision n° 2026-908 DC du 23 juillet 2026 - Communiqué de presse",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-908-dc-du-23-juillet-2026-communique-de-presse",
+    "source": "Conseil constitutionnel",
+    "date": "2026-07-23",
+    "cat": "Jurisprudence",
+    "desc": "Saisi de plusieurs dispositions de la loi sur la justice criminelle et le respect des victimes par deux groupes de plus de 60 députés (d’une part, du groupe « Socialistes et apparentés » ; d’autre part, des groupes « la France insoumise », « Écologiste et Social » et « Gauche Démocrate et Républicaine »), le Conseil constitutionnel, qui a dû statue",
+    "auto": true
+  },
+  {
     "id": "auto-1784887799-24",
     "title": "Comptabilité réglementaire",
     "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/comptabilite-reglementaire-230726.html",
@@ -777,26 +797,6 @@
     "date": "2026-06-18",
     "cat": "Plateformes",
     "desc": "L’Arcep publie les données trimestrielles de couverture mobile au premier trimestre 2026.",
-    "auto": true
-  },
-  {
-    "id": "auto-1781870425-1",
-    "title": "Ordre du jour de la séance plénière du 18 juin 2026",
-    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-18-juin-2026",
-    "source": "CNIL",
-    "date": "2026-06-18",
-    "cat": "RGPD",
-    "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 18 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    "auto": true
-  },
-  {
-    "id": "auto-1781870425-28",
-    "title": "Décision n° 2026-904 DC du 18 juin 2026 - Communiqué de presse",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-904-dc-du-18-juin-2026-communique-de-presse",
-    "source": "Conseil constitutionnel",
-    "date": "2026-06-18",
-    "cat": "Jurisprudence",
-    "desc": "Loi relative à la lutte contre les fraudes sociales et fiscales",
     "auto": true
   }
 ]

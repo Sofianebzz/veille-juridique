@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-28T10:28:23
+// Dernière collecte : 2026-07-29T10:32:36
 window.AUTO_VEILLE = [
   {
     id: "auto-1785234484-26",
@@ -39,6 +39,26 @@ window.AUTO_VEILLE = [
     date: "2026-07-24",
     cat: "Contrats IT",
     desc: "For over thirty years, Cigref has been supporting large companies and public organisations in the development of their digital roles. Our IT Job Profiles Nomenclature serves as a reference tool: it does not set out what digital roles ‘should’ be, nor what they ‘will’ be in the future, but accurately describes what they are today [&#8230;] L’article",
+    auto: true
+  },
+  {
+    id: "auto-1785321136-26",
+    title: "Décision n° 2026-906 DC du 23 juillet 2026 - Communiqué de presse",
+    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-906-dc-du-23-juillet-2026-communique-de-presse",
+    source: "Conseil constitutionnel",
+    date: "2026-07-23",
+    cat: "Cybersécurité",
+    desc: "Saisi de six dispositions de la loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat par plus de 60 députés, d’une part, des groupes « la France insoumise - Nouveau Front Populaire » et « Écologiste et Social » et, d’autre part, du groupe « Socialistes et apparentés », le Conseil constitutionnel en",
+    auto: true
+  },
+  {
+    id: "auto-1785321136-27",
+    title: "Décision n° 2026-908 DC du 23 juillet 2026 - Communiqué de presse",
+    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-908-dc-du-23-juillet-2026-communique-de-presse",
+    source: "Conseil constitutionnel",
+    date: "2026-07-23",
+    cat: "Jurisprudence",
+    desc: "Saisi de plusieurs dispositions de la loi sur la justice criminelle et le respect des victimes par deux groupes de plus de 60 députés (d’une part, du groupe « Socialistes et apparentés » ; d’autre part, des groupes « la France insoumise », « Écologiste et Social » et « Gauche Démocrate et Républicaine »), le Conseil constitutionnel, qui a dû statue",
     auto: true
   },
   {
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L’Arcep publie les données trimestrielles de couverture mobile au premier trimestre 2026.",
     auto: true
   },
-  {
-    id: "auto-1781870425-1",
-    title: "Ordre du jour de la séance plénière du 18 juin 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-18-juin-2026",
-    source: "CNIL",
-    date: "2026-06-18",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 18 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1781870425-28",
-    title: "Décision n° 2026-904 DC du 18 juin 2026 - Communiqué de presse",
-    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-904-dc-du-18-juin-2026-communique-de-presse",
-    source: "Conseil constitutionnel",
-    date: "2026-06-18",
-    cat: "Jurisprudence",
-    desc: "Loi relative à la lutte contre les fraudes sociales et fiscales",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-28T10:28:23";
+window.AUTO_VEILLE_UPDATED = "2026-07-29T10:32:36";
