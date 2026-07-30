@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1785406624-43",
+    "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest",
+    "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
+    "source": "EDPB",
+    "date": "2026-07-30",
+    "cat": "RGPD",
+    "desc": "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 15 October 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. Th",
+    "auto": true
+  },
+  {
+    "id": "auto-1785406624-26",
+    "title": "Décision n° 2026-327 L du 29 juillet 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026327L.htm",
+    "source": "Conseil constitutionnel",
+    "date": "2026-07-29",
+    "cat": "Cybersécurité",
+    "desc": "Nature juridique de certaines dispositions de l’article L. 136-1-1 du code de la sécurité sociale",
+    "auto": true
+  },
+  {
     "id": "auto-1785234484-26",
     "title": "Service universel postal",
     "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/service-universel-postal-juillet-aout-2026.html",
@@ -37,6 +57,16 @@
     "date": "2026-07-24",
     "cat": "Contrats IT",
     "desc": "For over thirty years, Cigref has been supporting large companies and public organisations in the development of their digital roles. Our IT Job Profiles Nomenclature serves as a reference tool: it does not set out what digital roles ‘should’ be, nor what they ‘will’ be in the future, but accurately describes what they are today [&#8230;] L’article",
+    "auto": true
+  },
+  {
+    "id": "auto-1785406624-27",
+    "title": "Décision n° 2026-909 DC du 23 juillet 2026 - Communiqué de presse",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-909-dc-du-23-juillet-2026-communique-de-presse",
+    "source": "Conseil constitutionnel",
+    "date": "2026-07-23",
+    "cat": "Jurisprudence",
+    "desc": "Saisi de plusieurs dispositions de la loi sur la justice criminelle et le respect des victimes par deux groupes de plus de 60 députés (d’une part, du groupe « Socialistes et apparentés » ; d’autre part, des groupes « la France insoumise », « Écologiste et Social » et « Gauche Démocrate et Républicaine »), le Conseil constitutionnel, qui a dû statue",
     "auto": true
   },
   {
@@ -767,36 +797,6 @@
     "date": "2026-06-22",
     "cat": "RGPD",
     "desc": "Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the consistent application of the GDPR across Europe, by providing guidance on key GDPR concepts and the interaction of the GDPR with other digita",
-    "auto": true
-  },
-  {
-    "id": "auto-1781870425-0",
-    "title": "Sécurité des données : les règles essentielles pour protéger les données et votre activité",
-    "url": "https://www.cnil.fr/fr/securite-des-donnees-les-regles-essentielles",
-    "source": "CNIL",
-    "date": "2026-06-19",
-    "cat": "Cybersécurité",
-    "desc": "Le numérique offre des opportunités pour développer votre entreprise, mais il s’accompagne aussi de risques concernant la sécurité des données que vous détenez, qu’elles soient personnelles (fichiers clients, employés…) ou non (informations financières, industrielles…). Il est donc impératif de sécuriser les outils que vous utilisez.",
-    "auto": true
-  },
-  {
-    "id": "auto-1781870425-27",
-    "title": "Décision n° 2026-1206 QPC du 19 juin 2026",
-    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261206QPC.htm",
-    "source": "Conseil constitutionnel",
-    "date": "2026-06-19",
-    "cat": "Jurisprudence",
-    "desc": "M. Olivier de L. et autre [Condition de desserte effective pour la qualification de terrains à bâtir dans le cadre de l&#039;évaluation de l&#039;indemnité d&#039;expropriation]",
-    "auto": true
-  },
-  {
-    "id": "auto-1782297764-18",
-    "title": "Couverture mobile",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-180626.html",
-    "source": "ARCEP",
-    "date": "2026-06-18",
-    "cat": "Plateformes",
-    "desc": "L’Arcep publie les données trimestrielles de couverture mobile au premier trimestre 2026.",
     "auto": true
   }
 ]
