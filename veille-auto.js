@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-07-30T10:17:24
+// Dernière collecte : 2026-07-31T10:31:17
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1785493857-0",
+    title: "Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026",
+    url: "https://www.cnil.fr/fr/webinaire-mise-a-jour-mr",
+    source: "CNIL",
+    date: "2026-07-31",
+    cat: "RGPD",
+    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré aux méthodologies de référence en matière de santé.",
+    auto: true
+  },
   {
     id: "auto-1785406624-43",
     title: "Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest",
@@ -9,6 +19,16 @@ window.AUTO_VEILLE = [
     date: "2026-07-30",
     cat: "RGPD",
     desc: "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 15 October 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. Th",
+    auto: true
+  },
+  {
+    id: "auto-1785493857-27",
+    title: "Décision n° 2026-1216 QPC du 31 juillet 2026",
+    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261216QPC.htm",
+    source: "Conseil constitutionnel",
+    date: "2026-07-29",
+    cat: "Cybersécurité",
+    desc: "M. Ianis T. [Exonération de la cotisation foncière des entreprises en faveur de certains avocats pour leurs deux premières années d’exercice]",
     auto: true
   },
   {
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Lorsque le recours au vote électronique est prévu pour les élections professionnelles dans la fonction publique, le système de vote doit faire l’objet d’une expertise indépendante. Dans ce cadre, les rapports d’expertise doivent désormais être transmis à la CNIL.",
     auto: true
   },
-  {
-    id: "auto-1782297764-17",
-    title: "Nouvelle étape pour « Mon réseau mobile »",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/nouvelle-etape-pour-mon-reseau-mobile-230626.html",
-    source: "ARCEP",
-    date: "2026-06-23",
-    cat: "Plateformes",
-    desc: "L'Arcep annonce l'ouverture du code source de son application sous licence GPLv3",
-    auto: true
-  },
-  {
-    id: "auto-1782134901-33",
-    title: "EDPB gets a new look: discover the new website and brand identity",
-    url: "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
-    source: "EDPB",
-    date: "2026-06-22",
-    cat: "RGPD",
-    desc: "Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the consistent application of the GDPR across Europe, by providing guidance on key GDPR concepts and the interaction of the GDPR with other digita",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-07-30T10:17:24";
+window.AUTO_VEILLE_UPDATED = "2026-07-31T10:31:17";
