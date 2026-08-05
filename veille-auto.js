@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-04T10:30:07
+// Dernière collecte : 2026-08-05T10:28:22
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1785925674-0",
+    title: "Puis-je demander à supprimer des données me concernant figurant dans un article de presse diffusé en ligne ?",
+    url: "https://www.cnil.fr/fr/supprimer-mes-donnees-presse",
+    source: "CNIL",
+    date: "2026-08-05",
+    cat: "RGPD",
+    desc: "Toute personne concernée a le droit de demander à un organisme de presse l'effacement de données personnelles la concernant figurant dans un article de presse diffusé en ligne. Il ne s’agit toutefois pas d’un droit absolu&amp;nbsp;: une balance entre les intérêts en présence doit être faite.",
+    auto: true
+  },
+  {
+    id: "auto-1785925674-1",
+    title: "L’ANSSI renforce son engagement dans le Pacifique aux côtés du réseau PaCSON",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/lanssi-renforce-son-engagement-dans-le-pacifique-aux-cotes-du-reseau-pacson/",
+    source: "ANSSI",
+    date: "2026-08-05",
+    cat: "Cybersécurité",
+    desc: "Du 27 au 29 juillet 2026, l’ANSSI a participé à l’assemblée générale du réseau PaCSON (Pacific Cyber Security Operational Network) […]",
+    auto: true
+  },
   {
     id: "auto-1785493857-0",
     title: "Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Des victimes de violations de données personnelles reçoivent des courriels proposant une aide pour faire supprimer leurs informations en ligne. La CNIL invite à la prudence face à ces démarches dont elle n’est pas à l’origine.",
     auto: true
   },
-  {
-    id: "auto-1782297764-29",
-    title: "Supporting GDPR consistency: EDPB launches dedicated form",
-    url: "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
-    source: "EDPB",
-    date: "2026-06-24",
-    cat: "RGPD",
-    desc: "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki Statement on enhanced clarity, support and engagement , aimed at strengthening the dialogue with stakeholders and e",
-    auto: true
-  },
-  {
-    id: "auto-1782297764-1",
-    title: "Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?",
-    url: "https://www.cnil.fr/fr/elections-professionnelles-fonction-publique-vote-electronique",
-    source: "CNIL",
-    date: "2026-06-23",
-    cat: "RGPD",
-    desc: "Lorsque le recours au vote électronique est prévu pour les élections professionnelles dans la fonction publique, le système de vote doit faire l’objet d’une expertise indépendante. Dans ce cadre, les rapports d’expertise doivent désormais être transmis à la CNIL.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-04T10:30:07";
+window.AUTO_VEILLE_UPDATED = "2026-08-05T10:28:22";
