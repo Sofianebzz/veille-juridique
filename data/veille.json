@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1786012304-0",
+    "title": "Collège de la CNIL : 5 nouveaux membres nommés le 2 août 2026",
+    "url": "https://www.cnil.fr/fr/college-de-la-cnil-5-nouveaux-membres-nommes-le-2-aout-2026",
+    "source": "CNIL",
+    "date": "2026-08-05",
+    "cat": "RGPD",
+    "desc": "À partir du 2 août 2026, cinq nouveaux membres intègrent la CNIL. Ces nominations interviennent dans le cadre d’un renouvellement partiel du Collège.",
+    "auto": true
+  },
+  {
     "id": "auto-1785925674-0",
     "title": "Puis-je demander à supprimer des données me concernant figurant dans un article de presse diffusé en ligne ?",
     "url": "https://www.cnil.fr/fr/supprimer-mes-donnees-presse",
@@ -760,6 +770,16 @@
     "auto": true
   },
   {
+    "id": "auto-1786012304-41",
+    "title": "Supporting GDPR consistency: EDPB launches dedicated form",
+    "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
+    "source": "EDPB",
+    "date": "2026-06-24",
+    "cat": "RGPD",
+    "desc": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki Statement on enhanced clarity, support and engagement , aimed at strengthening the dialogue with stakeholders and e",
+    "auto": true
+  },
+  {
     "id": "auto-1782383806-0",
     "title": "Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens",
     "url": "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
@@ -777,26 +797,6 @@
     "date": "2026-06-24",
     "cat": "RGPD",
     "desc": "Cette page recense les informations publiques de la CNIL (documents, vidéos, open data).",
-    "auto": true
-  },
-  {
-    "id": "auto-1782383806-2",
-    "title": "Remise du prix « Protection de la vie privée » 2026 par la CNIL et l’Inria",
-    "url": "https://www.cnil.fr/fr/prix-inria-cnil-2026",
-    "source": "CNIL",
-    "date": "2026-06-24",
-    "cat": "RGPD",
-    "desc": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026,&amp;nbsp;la CNIL et l’Inria ont remis le prix 2026 de la protection de la vie privée à une équipe de chercheurs internationaux pour leur article portant sur l’articulation entre la réglementation et la recherche concernant les designs trompeurs et les bandeaux cookies.",
-    "auto": true
-  },
-  {
-    "id": "auto-1782297764-0",
-    "title": "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
-    "url": "https://www.cnil.fr/fr/vigilance-accompagnement-violation-de-donnees",
-    "source": "CNIL",
-    "date": "2026-06-24",
-    "cat": "RGPD",
-    "desc": "Des victimes de violations de données personnelles reçoivent des courriels proposant une aide pour faire supprimer leurs informations en ligne. La CNIL invite à la prudence face à ces démarches dont elle n’est pas à l’origine.",
     "auto": true
   }
 ]
