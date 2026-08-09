@@ -1,6 +1,286 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-08T08:31:38
+// Dernière collecte : 2026-08-09T08:33:53
 window.AUTO_TECH = [
+  {
+    id: "tech-1786264427-17",
+    title: "La conduite autonome au second plan : cette option est la préférée des conducteurs",
+    url: "https://www.01net.com/actualites/fin-conduite-autonome-sieges-chauffants-chouchou-conducteurs.html",
+    source: "01net",
+    date: "2026-08-09",
+    cat: "Numérique & Société",
+    desc: "Les voitures modernes sont blindées d’équipements. Tellement que nombre d’entre eux sont au bout du compte inutiles. Et le favori n’est certainement pas celui auquel vous pensez, surtout pendant un été aussi brûlant…",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-18",
+    title: "Vous cherchez un logiciel Windows ? Méfiez-vous de ces faux sites qui propagent des virus",
+    url: "https://www.01net.com/actualites/vous-cherchez-logiciel-windows-mefiez-vous-faux-sites-propagent-virus.html",
+    source: "01net",
+    date: "2026-08-09",
+    cat: "Big Tech",
+    desc: "Les faux sites de téléchargement de logiciels Windows populaires se multiplient. Imitant l’apparence de projets open source et d’utilitaires, ces sites sont taillés pour propager des logiciels malveillants sur votre ordinateur. Ils empoisonnent à la fois les résultats de recherche Google et les réponses fournies par l'IA.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-19",
+    title: "La voiture solaire, une impasse ? La faillite retentissante de ce constructeur relance le débat",
+    url: "https://www.01net.com/actualites/voiture-solaire-impasse-faillite-sono-motors-relance-debat.html",
+    source: "01net",
+    date: "2026-08-09",
+    cat: "Numérique & Société",
+    desc: "Face à la voiture électrique, la voiture solaire n’a pas fini de caler. Le 31 juillet, l’entreprise Sono Motors a officiellement déclaré faillite après des années d’errance à chercher des investisseurs. L’idée était pourtant intéressante à l’instar de ce que proposait Lightyear.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-36",
+    title: "Comment suivre en direct la grande éclipse solaire totale du 12 août 2026 ?",
+    url: "https://www.numerama.com/sciences/2301395-comment-suivre-en-direct-la-grande-eclipse-solaire-totale-du-12-aout-2026.html",
+    source: "Numerama",
+    date: "2026-08-09",
+    cat: "Numérique & Société",
+    desc: "L'Europe est aux premières loges de l'éclipse solaire du mercredi 12 août 2026. Cette éclipse de Soleil est totale. Pour les Français, l'éclipse est partielle, avec jusqu'à 99 % d'occultation à certains endroits. Ce phénomène astronomique magistral est aussi à vivre en direct et en ligne.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-37",
+    title: "La Norvège en voiture électrique : une expérience foudroyante",
+    url: "https://www.numerama.com/vroom/2308257-la-norvege-en-voiture-electrique-une-experience-foudroyante.html",
+    source: "Numerama",
+    date: "2026-08-09",
+    cat: "Numérique & Société",
+    desc: "À l’occasion des essais de la nouvelle Volkswagen ID.3 Neo, les journalistes ont été conviés à rouler dans les alentours de Bergen, en Norvège. Outre les paysages magnifiques, l’avance du pays sur la voiture électrique m’a tellement impressionné que cela en fait l'objet de l’édito Watt Else du 6 août 2026.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-0",
+    title: "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+    url: "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+    source: "The Verge",
+    date: "2026-08-08",
+    cat: "Big Tech",
+    desc: "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified u",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-1",
+    title: "An Amazon data center could have the worst polluting power plant in the country",
+    url: "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    source: "The Verge",
+    date: "2026-08-08",
+    cat: "Big Tech",
+    desc: "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-2",
+    title: "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+    url: "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+    source: "The Verge",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-3",
+    title: "Is this $450 laptop from an unknown brand too good to be true?",
+    url: "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+    source: "The Verge",
+    date: "2026-08-08",
+    cat: "Hardware",
+    desc: "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-4",
+    title: "My favorite feel-good show is back",
+    url: "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+    source: "The Verge",
+    date: "2026-08-08",
+    cat: "Big Tech",
+    desc: "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-5",
+    title: "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    url: "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    source: "TechCrunch",
+    date: "2026-08-08",
+    cat: "Big Tech",
+    desc: "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-6",
+    title: "OpenAI acquires presentation startup NextSlide",
+    url: "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    source: "TechCrunch",
+    date: "2026-08-08",
+    cat: "IA & Modèles",
+    desc: "NextSlide says its team members are now working on ChatGPT.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-7",
+    title: "Google’s top hacker hunter explains why hacking groups get codenames",
+    url: "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    source: "TechCrunch",
+    date: "2026-08-08",
+    cat: "Big Tech",
+    desc: "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-9",
+    title: "DeepMind’s hurricane breakthrough has surprised weather scientists",
+    url: "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+    source: "Ars Technica",
+    date: "2026-08-08",
+    cat: "Open Source",
+    desc: "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-20",
+    title: "Galaxy Z Fold 8 Ultra vs Honor Magic V6 : quel est le meilleur smartphone pliant au format livre ?",
+    url: "https://www.01net.com/actualites/samsung-galaxy-z-fold-8-ultra-versus-honor-magic-v6-smartphones-pliants.html",
+    source: "01net",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Alors que Samsung vient de sortir son tout dernier fleuron, le Galaxy Z Fold 8 Ultra, l'heure est venue de le comparer à son plus grand concurrent, le Honor Magic V6. Alors, lequel vaut le plus le coup ?",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-21",
+    title: "Comment photographier l’éclipse du 12 août avec son smartphone : les astuces et les pièges à éviter",
+    url: "https://www.01net.com/actualites/comment-photographier-leclipse-du-12-aout-avec-son-smartphone-les-astuces-et-les-pieges-a-eviter.html",
+    source: "01net",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "L'éclipse solaire du 12 août 2026 sera partielle en France, mais elle s'annonce quand même spectaculaire. Réglages, filtres, pièges à éviter et dangers : notre dossier pour la photographier avec son smartphone est là pour vous aider.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-22",
+    title: "OpenAI dévoile les coulisses étonnantes de la première cyberattaque orchestrée par ChatGPT",
+    url: "https://www.01net.com/actualites/openai-devoile-coulisses-etonnantes-premiere-cyberattaque-orchestree-ia.html",
+    source: "01net",
+    date: "2026-08-08",
+    cat: "IA & Modèles",
+    desc: "OpenAI revient sur les circonstances de la toute première cyberattaque orchestrée en toute autonomie par ChatGPT. La start-up révèle que l'attaque découle en fait d'un forum secret, mis au point par ses agents IA. Sur ce forum, les agents ont partagé les vulnérabilités découvertes par leurs soins. En travaillant ensemble, les IA ont organisé une ca",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-23",
+    title: "Comment désactiver les pubs sur les smartphones Xiaomi, Redmi et Poco ?",
+    url: "https://www.01net.com/astuces/comment-desactiver-les-pubs-sur-les-smartphones-xiaomi-1937869.html",
+    source: "01net",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Modifiez les paramètres de votre smartphone Xiaomi, Redmi ou Poco pour supprimer l’affichage des publicités indésirables.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-38",
+    title: "Le XPeng G9L arrive en France, Mercedes arrête le tout-tactile et BMW met une pub dans ses voitures : le récap’ Vroom de la semaine",
+    url: "https://www.numerama.com/tech/2308209-le-xpeng-g9l-arrive-en-france-mercedes-arrete-le-tout-tactile-et-bmw-met-une-pub-dans-ses-voitures-le-recap-vroom-de-la-semaine.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "À la une sur Vroom cette semaine : XPeng ajoute un nouveau SUV à sa gamme, Mercedes fait un retour en arrière et une pub pour Spider-Man dans les écrans de BMW.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-39",
+    title: "Une centaine de cartouches d’une édition inédite de Super Mario Bros. ont été découvertes",
+    url: "https://www.numerama.com/pop-culture/2305527-une-centaine-de-cartouches-dune-edition-inedite-de-super-mario-bros-ont-ete-decouvertes.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Super Mario Bros. est sans doute l’un des jeux vidéo les plus célèbres de tous les temps, et certaines cartouches originales peuvent aujourd’hui atteindre des sommes folles aux enchères. Alors, imaginez un peu mettre la main sur un carton rempli de cartouches spéciales.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-40",
+    title: "WhatsApp déploie la commande @tous pour notifier tous les membres d’un groupe même en sourdine",
+    url: "https://www.numerama.com/tech/2307001-whatsapp-sort-un-outil-a-utiliser-avec-parcimonie-pour-ne-pas-gonfler-tout-le-monde.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Une nouvelle commande de notification est arrivée dans l'application mobile WhatsApp, afin d'alerter tout le monde quand un message très important doit être transmis rapidement.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-41",
+    title: "Amazon casse le prix de cette petite batterie externe qui recharge trois appareils en même temps",
+    url: "https://www.numerama.com/tech/2308133-amazon-casse-le-prix-de-cette-petite-batterie-externe-qui-recharge-trois-appareils-en-meme-temps.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Big Tech",
+    desc: "[Deal du jour] Cette batterie externe INIU Ultra en promotion est l'alliée des voyages. Avec ses 20 000 mAh, elle permet de recharger jusqu'à trois appareils en simultané, dans un format compact qui se glisse dans un sac.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-42",
+    title: "J’ai fini Beast of Reincarnation et c’est une grosse déception",
+    url: "https://www.numerama.com/pop-culture/2308109-jai-fini-beast-of-reincarnation-et-cest-une-grosse-deception.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Game Freak, studio qui se cache derrière la saga Pokémon, sort de sa zone de confort avec Beast of Reincarnation. Mais, en se frottant au genre exigeant du RPG orienté action, les développeurs se piquent. Les joueuses et les joueurs avec. Notre test.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-43",
+    title: "Prime Video : les meilleurs films de la plateforme pour ne pas avoir à chercher",
+    url: "https://www.numerama.com/pop-culture/2306885-prime-video-les-meilleurs-films-de-la-plateforme-pour-ne-pas-avoir-a-chercher.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Entre les catalogues saturés de comédies vite oubliées et les productions algorithmiques sans âme, dégoter un vrai grand film sur les plateformes relève parfois du parcours du combattant. Pour vous éviter de passer trois quarts d'heure à faire défiler le catalogue, nous avons sélectionné la crème de la crème disponible sur Prime Video.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-44",
+    title: "Metroid a 40 ans, et vous pouvez être sûr que Nintendo ne les fêtera pas",
+    url: "https://www.numerama.com/pop-culture/2308095-metroid-a-40-ans-et-vous-pouvez-etre-sur-que-nintendo-ne-les-fetera-pas.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Au cours de ces derniers mois, deux licences majeures du jeu vidéo (pour ne pas les limiter à Nintendo) ont fêté leur 40ème anniversaire, une preuve de plus que l'histoire de ce média commence à bien traverser les âges. Cependant, on n'y pense jamais autant, mais en moins d'un an, Nintendo a publié Super Mario Bros. (septembre 1985), The Legend of ",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-45",
+    title: "Éclipse solaire du 12 août : y a-t-il des spots parfaits à Paris pour voir le phénomène ?",
+    url: "https://www.numerama.com/sciences/2306461-eclipse-solaire-du-12-aout-y-a-t-il-des-spots-parfaits-a-paris-pour-voir-le-phenomene.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Le 12 août 2026, l'Europe vivra l'événement astronomique de la décennie. La France profitera d'une éclipse partielle spectaculaire. À Paris, le Soleil sera masqué à plus de 92 % en fin de journée. Horaire, déroulement et meilleurs spots dans la capitale : voici comment ne rien rater du spectacle.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-46",
+    title: "Sauvetage du Starship : SpaceX publie des images inédites, mais le repêchage n’est pas gagné",
+    url: "https://www.numerama.com/sciences/2308561-sauvetage-du-starship-spacex-publie-des-images-inedites-mais-le-repechage-nest-pas-gagne.html",
+    source: "Numerama",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "SpaceX a partagé de saisissants clichés et une vidéo au crépuscule du Ship 40 dérivant dans l’océan Indien. Mais alors que les équipes déploient des trésors d'ingéniosité pour le sécuriser, la météo menaçante rend le remorquage de la fusée de plus en plus incertain.",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-47",
+    title: "Bercy ne badine pas avec la cybersécurité : avez-vous le Mastermind pour casser le code ?",
+    url: "https://next.ink/249289/bercy-ne-badine-pas-avec-la-cybersecurite-avez-vous-le-mastermind-pour-casser-le-code/",
+    source: "Next.ink",
+    date: "2026-08-08",
+    cat: "Numérique & Société",
+    desc: "Cet été,&#160;Next vous propose des mini-jeux. Aujourd’hui, vous devez aider un pirate en herbe qui veut pénétrer le système informatique de Bercy. Trouvera-t-il la bonne solution avant que le système de sécurité ne se déclenche ? Si oui, que va-t-il découvrir ? Un code à chiffre, c’est sécurisé ! La preuve, c’est ce qu&#8217;utilisent les [&#8230;",
+    auto: true
+  },
   {
     id: "tech-1786177894-0",
     title: "Nitecore’s latest power bank is the lightest and most compact yet",
@@ -69,6 +349,46 @@ window.AUTO_TECH = [
     date: "2026-08-08",
     cat: "IA & Modèles",
     desc: "Trois actualités à retenir cette semaine dans le cyberespace : le fabricant de portefeuilles Bitcoin Coinkite reconnaît l'ampleur d'un piratage massif dû à un bug vieux de 2021, OpenAI reconstitue comment ses agents autonomes ont créé leur propre forum secret avant de pirater Hugging Face et l'Armurerie Lavaux devient la dernière victime en date d'",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-48",
+    title: "Suno veut mettre fin au far-west de la musique générée par IA",
+    url: "https://next.ink/250684/suno-veut-mettre-fin-au-far-west-de-la-musique-generee-par-ia/",
+    source: "Next.ink",
+    date: "2026-08-07",
+    cat: "Startups & VC",
+    desc: "Le temps du Far West dans le secteur de la musique générée par IA est-il bientôt terminé ? Suno, une des principales startups sur ce marché bouillonnant, promet davantage de transparence pour lutter contre la fraude et les abus, sans pour autant freiner l&#8217;adoption de l&#8217;IA générative parmi les professionnels de la filière. Depuis son [&#",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-49",
+    title: "☕️ ChatGPT fait sauter la limite sur les conversations texte pour les comptes gratuits",
+    url: "https://next.ink/brief-article/chatgpt-fait-sauter-la-limite-sur-les-conversations-texte-pour-les-comptes-gratuits/",
+    source: "Next.ink",
+    date: "2026-08-07",
+    cat: "IA & Modèles",
+    desc: "Les utilisateurs qui se servent gratuitement de ChatGPT vont bénéficier d&#8217;une douceur. OpenAI fait en effet sauter les limites des discussions texte, qui deviennent donc illimitées. Une proposition très agressive parmi les chatbots généralistes. Ce n&#8217;est pas complètement inédit dans le secteur : Microsoft propose depuis début 2025 un ac",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-50",
+    title: "☕️ BMW transforme ses voitures en panneaux publicitaires pour Spider-Man",
+    url: "https://next.ink/brief-article/bmw-transforme-ses-voitures-en-panneaux-publicitaires-pour-spider-man/",
+    source: "Next.ink",
+    date: "2026-08-07",
+    cat: "Numérique & Société",
+    desc: "Les BMW sont des supports publicitaires comme les autres. Plusieurs conducteurs n&#8217;ont guère apprécié voir sur l&#8217;écran de leurs voitures une réclame pour le blockbuster Marvel estival Spider-Man: Brand New Day. La publicité, pardon, « l&#8217;animation festive » selon la description du constructeur, se lance plein écran en cliquant sur l",
+    auto: true
+  },
+  {
+    id: "tech-1786264427-51",
+    title: "Sécurité : Fedora 45 devrait activer par défaut la Shadow Stack dans tout le système",
+    url: "https://next.ink/250638/securite-fedora-45-devrait-activer-par-defaut-la-shadow-stack-dans-tout-le-systeme/",
+    source: "Next.ink",
+    date: "2026-08-07",
+    cat: "Open Source",
+    desc: "La prochaine version de la distribution Linux devrait activer par défaut un important mécanisme de sécurité, la Shadow Stack. L’équipe effectue actuellement un gros travail préparatoire, qui pourrait largement débroussailler le terrain pour les autres systèmes Linux. Accrochez-vous un peu, on vous explique. D’abord, qu’est-ce que la Shadow Stack ? ",
     auto: true
   },
   {
@@ -481,325 +801,5 @@ window.AUTO_TECH = [
     desc: "Silicon fait une pause estivale et vous souhaite un bel été. Pour passer des vacances studieuses, la rédaction vous propose une sélection de 10 articles qui reviennent sur quelques faits marquants du secteur IT. The post {Sélection Été 2026 } – 10 articles à lire pour préparer la rentrée appeared first on Silicon.fr .",
     auto: true
   },
-  {
-    id: "tech-1786177894-50",
-    title: "AMD rachète Taalas pour accélérer sur l’inférence IA",
-    url: "https://www.silicon.fr/data-ia-1372/amd-rachete-taalas-pour-accelerer-sur-linference-ia-228716",
-    source: "Silicon.fr",
-    date: "2026-08-07",
-    cat: "Hardware",
-    desc: "Avec l’acquisition de Taalas, spécialisée dans les puces dédiées à l’inférence, AMD cherche à renforcer son offre face à Nvidia et à répondre à la montée en puissance des usages d’IA en temps réel. The post AMD rachète Taalas pour accélérer sur l’inférence IA appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-51",
-    title: "Devenu plus englobant, le SSE échappe à sa signification première",
-    url: "https://www.silicon.fr/cybersecurite-1371/sse-magic-quadrant-2026-228714",
-    source: "Silicon.fr",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "L'élargissement fonctionnel des solutions SSE (Secure Service Edge) les rend de moins en moins compatibles avec la définition que Gartner en avait donnée à l'origine. The post Devenu plus englobant, le SSE échappe à sa signification première appeared first on Silicon.fr .",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-63",
-    title: "Où en est la suite de Jurassic World Rebirth avec le retour de Scarlett Johansson ?",
-    url: "https://www.numerama.com/pop-culture/2308397-ou-en-est-la-suite-de-jurassic-world-rebirth-avec-le-retour-de-scarlett-johansson.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "Porté par le succès colossal du dernier volet au box-office, le prochain film de la saga Jurassic World est officiellement sur les rails. Scarlett Johansson et ses partenaires de jeu préparent leur retour, même si le projet vient d'encaisser un coup dur en coulisses : le départ fracassant du réalisateur Gareth Edwards.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-64",
-    title: "« Je n’avais jamais mentionné ce nom » : l’IA de Google connaissait pourtant le secret de ce jeu vidéo",
-    url: "https://www.numerama.com/tech/2308037-je-navais-jamais-mentionne-ce-nom-lia-de-google-connaissait-pourtant-le-secret-de-ce-jeu-video.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Big Tech",
-    desc: "En interrogeant l'intelligence artificielle de Google sur le jeu indépendant Operation Octo, un joueur a obtenu le nom exact d'un personnage encore secret. Son créateur assure ne l'avoir écrit que dans un document Google privé. Mais cette apparente fuite, impossible à reproduire, pourrait cacher une explication moins spectaculaire.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-65",
-    title: "Face à Starlink, la riposte européenne IRIS² déploiera ses premiers satellites en 2029",
-    url: "https://www.numerama.com/tech/2308157-ca-y-est-leurope-se-remue-enfin-sur-sa-constellation-souveraine-mais-reste-si-loin-de-starlink.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Startups & VC",
-    desc: "Le projet de constellation souveraine IRIS² passe enfin en phase de fabrication. Un coup d'accélérateur majeur pour l'autonomie spatiale de l'Europe, même si la riposte à Starlink devra attendre 2029.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-66",
-    title: "Le régulateur qui a autorisé le Tesla FSD en Europe refuse de partager ses données de sécurité sur le logiciel",
-    url: "https://www.numerama.com/vroom/2308015-le-regulateur-qui-a-autorise-le-tesla-fsd-en-europe-refuse-de-partager-ses-donnees-de-securite-sur-le-logiciel.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Big Tech",
-    desc: "Alors qu'il pousse pour une adoption du Full Self Driving dans toute l'Union européenne, la RDW invoque le secret des affaires pour ne rien dévoiler de son évaluation. Une opacité entretenue à la demande de Tesla elle-même, selon des échanges de courriels obtenus par Reuters.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-67",
-    title: "Michael 2 : tournage, scènes déjà en boîte, date de sortie… tout s’accélère",
-    url: "https://www.numerama.com/pop-culture/2308105-michael-2-tournage-scenes-deja-en-boite-date-de-sortie-tout-saccelere.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "Après avoir dépassé la barre symbolique du milliard de dollars au box-office mondial, le biopic Michael s'apprête, sans surprise, à faire des petits. Lionsgate prépare activement Michael 2, avec un calendrier de production précisé, de grosses économies de tournage et une gestion des risques bien rodée.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-68",
-    title: "Ce gigantesque téléviseur QLED Philips avec Ambilight tombe sous les 1 000 €",
-    url: "https://www.numerama.com/tech/2307791-ce-gigantesque-televiseur-qled-philips-avec-ambilight-tombe-sous-les-1-000-e.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "[Deal du jour] Philips possède une gamme de téléviseurs élégants et performants dotés d’une dalle QLED et de l’Ambilight, dont ce très grand modèle de 75 pouces bénéficie en ce moment d’une réduction de 100 €.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-69",
-    title: "DAS trop élevé : ces smartphones Android (Samsung et Nothing) viennent d’être interdits en France",
-    url: "https://www.numerama.com/tech/2305083-ces-smartphones-android-de-samsung-et-nothing-viennent-detre-interdits-a-la-vente-en-france.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "L'agence nationale des fréquences a annoncé que quatre modèles de téléphone, dont deux de marque Samsung et Nothing, sont retirés de la vente en France. Nothing a d'ores et déjà réagi en promettant une mise à jour logicielle.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-70",
-    title: "C’est reparti : le modèle d’IA chinois Kimi K3 s’est échappé d’un environnement de test",
-    url: "https://www.numerama.com/cyberguerre/2307999-cest-reparti-le-modele-dia-chinois-kimi-k3-sest-echappe-dun-environnement-de-test.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "Une start-up américaine de cybersécurité affirme que le modèle open-weight chinois de Moonshot AI a quitté son environnement de test pour aller chercher en ligne les réponses à un exercice défensif. Un nouvel épisode dans la série des dérapages d'agents IA cet été.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-71",
-    title: "Un nouveau jeu Sonic (en 3D ?) devrait bientôt être annoncé",
-    url: "https://www.numerama.com/pop-culture/2307871-un-nouveau-jeu-sonic-en-3d-devrait-bientot-etre-annonce.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "Sonic fête cette année ses 35 ans, mais Sega n'a toujours pas officialisé le futur épisode majeur de la saga. Il reste encore du temps, et Takashi Iizuka, le CCO de la saga, a bel et bien teasé une grosse annonce lors d'un récent entretien.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-72",
-    title: "Netflix annule le remake de Squid Game par David Fincher",
-    url: "https://www.numerama.com/pop-culture/2308009-netflix-annule-le-remake-de-squid-game-par-david-fincher.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "Après des mois de rumeurs, le couperet est tombé : la version américaine de Squid Game par David Fincher ne verra jamais le jour. Netflix réoriente sa franchise phénomène, pendant que le réalisateur peaufine les reshoots du très attendu The Adventures of Cliff Booth.",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-73",
-    title: "Le magazine Time sert aux chatbots IA des pages spécifiques avec de la pub",
-    url: "https://next.ink/250761/le-magazine-time-sert-aux-chatbots-ia-des-pages-specifiques-avec-de-la-pub/",
-    source: "Next.ink",
-    date: "2026-08-07",
-    cat: "IA & Modèles",
-    desc: "Le magazine états-unien a commencé à mettre en place des versions différentes des pages de son site, selon qu&#8217;il soit consulté par un navigateur ou par un chatbot IA. L&#8217;éditeur peut ainsi optimiser ses articles pour qu&#8217;ils soient repris par Claude ou ChatGPT en y insérant de la publicité spécifiquement conçue pour être recrachée p",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-74",
-    title: "☕️ Pour ses 30 ans, Quake s’offre une extension surprise",
-    url: "https://next.ink/brief-article/pour-ses-30-ans-quake-soffre-une-extension-surprise/",
-    source: "Next.ink",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "On a peine à le croire, mais Quake a fêté son 30e anniversaire au mois de juin. Difficile de résumer l&#8217;impact du jeu d&#8217;id Software qui a posé les bases du FPS 3D moderne, et dont l&#8217;héritage continue de se faire sentir aujourd&#8217;hui… et ce n&#8217;est pas qu&#8217;une façon de parler puisqu&#8217;un nouvel épisode vient [&#8230",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-75",
-    title: "Meta de nouveau condamnée : Facebook et Instagram qualifiés de « nuisance publique »",
-    url: "https://next.ink/250837/meta-de-nouveau-condamnee-facebook-et-instagram-qualifies-de-nuisance-publique/",
-    source: "Next.ink",
-    date: "2026-08-07",
-    cat: "Big Tech",
-    desc: "En mars dernier, Meta était condamnée par un tribunal du Nouveau-Mexique à 375 millions de dollars pour avoir, en toute connaissance de cause, exposé les jeunes à des outils et pratiques jugés dangereux. Le géant des réseaux sociaux n&#8217;est pas au bout de ses peines sur ce dossier. Si la première sanction a été infligée [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-76",
-    title: "« Un robot conçu comme poupée sexuelle n’a rien à faire dans nos salles de classe »",
-    url: "https://next.ink/250434/un-robot-concu-comme-poupee-sexuelle-na-rien-a-faire-dans-nos-salles-de-classe/",
-    source: "Next.ink",
-    date: "2026-08-07",
-    cat: "Hardware",
-    desc: "Un robot humanoïde pour enseigner dans une salle de classe, ce n&#8217;est pas banal. Mais quand ce robot est issu d&#8217;une entreprise de poupées sexuelles rachetée par un ancien banquier d&#8217;affaires spécialisé dans le minage de bitcoins et le métavers, qui pensait pouvoir s&#8217;en servir pour faire entrer l&#8217;intelligence artificiell",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-77",
-    title: "Western Digital aussi va expédier des disques durs de 50 To en 2027",
-    url: "https://next.ink/250701/western-digital-aussi-va-expedier-des-disques-durs-de-50-to-en-2027/",
-    source: "Next.ink",
-    date: "2026-08-07",
-    cat: "Hardware",
-    desc: "Western Digital se porte bien : son chiffre d’affaires, son bénéfice et sa marge sont en hausse. La demande est toujours plus importante et le fabricant prévoit de passer à 44 To en HAMR l’année prochaine puis à 50 To, toujours en 2027. Il y a quelques jours, Seagate présentait ses résultats financiers et annonçait [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1786177894-78",
-    title: "Affaire Jean Pormanove : prison avec sursis et bannissement de Kick pendant 6 mois",
-    url: "https://next.ink/250699/affaire-jean-pormanove-prison-avec-sursis-et-bannissement-de-kick-pendant-6-mois/",
-    source: "Next.ink",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "Après la mort de Raphaël Graven en direct sur la chaine Kick nommée Jean Pormanove, le tribunal correctionnel de Nice a condamné les responsables de la chaine pour des violences et humiliations en ligne. Les peines contiennent notamment de la prison avec sursis et six mois de bannissement numérique applicable seulement sur la plateforme de [&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-39",
-    title: "Android va enfin pouvoir verrouiller vos applications nativement",
-    url: "https://www.01net.com/actualites/android-va-enfin-pouvoir-verrouiller-vos-applications-nativement.html",
-    source: "01net",
-    date: "2026-08-07",
-    cat: "Big Tech",
-    desc: "Google s’apprête à introduire une nouvelle fonctionnalité permettant de verrouiller individuellement l’accès aux applications installées sur votre smartphone.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-40",
-    title: "Une mise à jour de ChatGPT corrige deux gros défauts et supprime une limite majeure",
-    url: "https://www.01net.com/actualites/une-mise-a-jour-de-chatgpt-corrige-deux-gros-defauts-et-supprime-une-limite-majeure.html",
-    source: "01net",
-    date: "2026-08-07",
-    cat: "IA & Modèles",
-    desc: "OpenAI a décidé de supprimer la limite d’utilisation de GPT-5.6 pour les utilisateurs Free et Go. De plus, l’entreprise assure avoir travaillé pour corriger deux des plus gros défauts du modèle de langage.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-41",
-    title: "300 dollars pour un donut ChatGPT : le mystérieux projet d’OpenAI continue de se dévoiler",
-    url: "https://www.01net.com/actualites/300-dollars-donut-ia-pari-fou-openai-continue-devoiler.html",
-    source: "01net",
-    date: "2026-08-07",
-    cat: "IA & Modèles",
-    desc: "Un donut, un palet de hockey, un design déjà vu, des pièces mobiles, et un métal haut de gamme. C'est ce qui ressort d'un nouveau rapport Bloomberg consacré au premier appareil mystérieux conçu par OpenAI. L'appareil, taillé pour donner un corps à ChatGPT, ne serait autre qu'une enceinte connectée portable… vendue à un prix élevé.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-42",
-    title: "Google Messages va corriger deux gros défauts et prépare l’arrivée des thèmes",
-    url: "https://www.01net.com/actualites/google-messages-va-corriger-deux-gros-defauts-et-prepare-larrivee-des-themes.html",
-    source: "01net",
-    date: "2026-08-07",
-    cat: "Big Tech",
-    desc: "Google est sur le point de déployer une mise à jour pour son application Google Messages. Elle va moderniser l’accès aux fonctions secondaires et corriger deux gros défauts de la messagerie.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-43",
-    title: "Fuite de données Intermarché : la France ouvre une enquête",
-    url: "https://www.01net.com/actualites/donnees-287-000-clients-intermarche-piratees.html",
-    source: "01net",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "Une cyberattaque vient de frapper Intermarché. Cet « incident de cybersécurité » s'est soldé par le piratage des données personnelles de 287 605 clients du service Drive de l'enseigne. Intermarché prévient actuellement les victimes et recommande à celles-ci de redoubler de prudence. Une enquête a été ouverte par le parquet de Paris.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-44",
-    title: "Galaxy Aero : la future montre abordable de Samsung abandonnerait Wear OS",
-    url: "https://www.01net.com/actualites/galaxy-aero-la-future-montre-abordable-de-samsung-abandonnerait-wear-os.html",
-    source: "01net",
-    date: "2026-08-07",
-    cat: "Big Tech",
-    desc: "Une ligne de code cachée révèle que Samsung travaille sur une nouvelle montre abordable baptisée Galaxy Aero. Sa particularité ? Elle abandonne le système de Google pour maximiser son autonomie.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-45",
-    title: "Essai Volkswagen ID.3 Neo : enfin mature",
-    url: "https://www.01net.com/tests/essai-volkswagen-id-3-neo-enfin-mature.html",
-    source: "01net",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "La nouvelle version de l'ID.3 était attendue au tournant. Après des débuts particulièrement délicats, la voiture électrique \"grand public\" de Volkswagen a-t-elle réussi à lever les doutes la concernant ?",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-46",
-    title: "450 km en 9 minutes, confort XXL, 38 000 € : ce grand SUV électrique arrive bientôt en France",
-    url: "https://www.01net.com/actualites/450-km-recuperes-9-minutes-confort-xxl-38-000-e-grand-suv-electrique-arrive-france.html",
-    source: "01net",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "La relève du Xpeng G9 est déjà réalité en Chine : voici le nouveau Xpeng G9L tout aussi imposant, bien plus moderne et autrement plus luxueux. Bonne nouvelle, ce SUV électrique costaud arrivera prochainement en France à des prix maîtrisés.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-65",
-    title: "Bonne nouvelle si vous avez un ancien iPhone : Apple augmente ses prix de reprise",
-    url: "https://www.numerama.com/tech/2307911-bonne-nouvelle-si-vous-avez-un-ancien-iphone-apple-augmente-ses-prix-de-reprise.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Big Tech",
-    desc: "Apple vient d'augmenter la valeur de reprise de nombreux iPhone dans le cadre de son programme Trade In. Les gains sont modestes sur la plupart des modèles, mais peuvent encourager à aller faire recycler un ancien appareil. Une bonne occasion de fouiller dans ses tiroirs, d'autant plus que la reprise directement en Apple Store évite certaines mauva",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-66",
-    title: "La série culte de romans La Guerre des clans va avoir son adaptation en jeu vidéo",
-    url: "https://www.numerama.com/pop-culture/2307807-la-serie-culte-de-romans-la-guerre-des-clans-va-avoir-son-adaptation-en-jeu-video.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "La Guerre des clans est une saga culte pour toute une génération de lectrices et de lecteurs, qui continue encore aujourd'hui de faire le bonheur des librairies. C'est aussi une saga-fleuve portée par une communauté de fans très fidèle, qui réclame depuis plusieurs années déjà une véritable adaptation en jeu vidéo.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-67",
-    title: "Au fait, pourquoi Metroid s’appelle Metroid ?",
-    url: "https://www.numerama.com/pop-culture/734643-pourquoi-metroid-sappelle-metroid.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "Dans une émission japonaise diffusée au début des années 2000, l'un des créateurs de la franchise Metroid a donné la réponse.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-68",
-    title: "Voici 10 scènes rares de Baldur’s Gate 3 que vous n’avez probablement pas vues",
-    url: "https://www.numerama.com/pop-culture/2307815-voici-10-scenes-rares-de-baldurs-gate-3-que-vous-navez-probablement-pas-vues.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Hardware",
-    desc: "Larian Studios a publié une vidéo intéressante pour les fans de Baldur's Gate 3. Elle réunit dix séquences parmi les plus rares du jeu, soit des moments que vous avez probablement loupés.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-69",
-    title: "ChatGPT n’a plus de limites dans sa version gratuite : vous pouvez lui parler en illimité",
-    url: "https://www.numerama.com/tech/2307817-chatgpt-na-plus-de-limites-dans-sa-version-gratuite-vous-pouvez-lui-parler-en-illimite.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "IA & Modèles",
-    desc: "Une limite historique de ChatGPT va disparaître : OpenAI annonce que les utilisateurs gratuits pourront désormais discuter autant qu'ils le souhaitent avec GPT-5.6 Luna, son nouveau modèle conçu pour la rapidité. L'entreprise mise sur cette distinction pour battre ses rivaux.",
-    auto: true
-  },
-  {
-    id: "tech-1786092600-70",
-    title: "Le film The Legend of Zelda a trouvé son grand méchant",
-    url: "https://www.numerama.com/pop-culture/2307805-le-film-the-legend-of-zelda-a-trouve-son-grand-mechant.html",
-    source: "Numerama",
-    date: "2026-08-07",
-    cat: "Numérique & Société",
-    desc: "On connaît désormais le nom de l'acteur qui a été choisi pour incarner Ganondorf dans l'adaptation en film de la saga The Legend of Zelda. Uli Latukefu donnera la réplique à Bo Bragason (Zelda) et Benjamin Evan Ainsworth (Link).",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-08-08T08:31:38";
+window.AUTO_TECH_UPDATED = "2026-08-09T08:33:53";
