@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-09T08:33:47
+// Dernière collecte : 2026-08-10T09:11:10
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1786353051-0",
+    title: "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
+    url: "https://www.cnil.fr/fr/dpo-identifier-gerer-conflits-interets",
+    source: "CNIL",
+    date: "2026-08-10",
+    cat: "RGPD",
+    desc: "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit d’intérêt&amp;nbsp;? Comment y remédier&amp;nbsp;?",
+    auto: true
+  },
   {
     id: "auto-1786012304-0",
     title: "Collège de la CNIL : 5 nouveaux membres nommés le 2 août 2026",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026, Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall et Yixin Zou ont reçu le 2ème prix CNIL/EHESS pour leur article sur la régulation de l’intelligence artificielle et son alignement avec les attentes citoyennes.",
     auto: true
   },
-  {
-    id: "auto-1782383806-1",
-    title: "Informations publiques",
-    url: "https://www.cnil.fr/fr/informations-publiques",
-    source: "CNIL",
-    date: "2026-06-24",
-    cat: "RGPD",
-    desc: "Cette page recense les informations publiques de la CNIL (documents, vidéos, open data).",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-09T08:33:47";
+window.AUTO_VEILLE_UPDATED = "2026-08-10T09:11:10";
