@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-14T09:02:08
+// Dernière collecte : 2026-08-15T08:18:53
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1786781913-25",
+    title: "Décision n° 2026-911 DC du 14 août 2026 - Communiqué de presse",
+    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-911-dc-du-14-aout-2026-communique-de-presse",
+    source: "Conseil constitutionnel",
+    date: "2026-08-14",
+    cat: "Jurisprudence",
+    desc: "Loi visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+    auto: true
+  },
+  {
+    id: "auto-1786781913-26",
+    title: "Décision n° 2026-915 DC du 14 août 2026 - Communiqué de presse",
+    url: "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-915-dc-du-14-aout-2026-communique-de-presse",
+    source: "Conseil constitutionnel",
+    date: "2026-08-14",
+    cat: "Cybersécurité",
+    desc: "Loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
+    auto: true
+  },
   {
     id: "auto-1786353051-0",
     title: "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which aims to support cooperation among Data Protection Authorities (DPAs). Thematic one-stop-shop case digests are dr",
     auto: true
   },
-  {
-    id: "auto-1786012304-41",
-    title: "Supporting GDPR consistency: EDPB launches dedicated form",
-    url: "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
-    source: "EDPB",
-    date: "2026-06-24",
-    cat: "RGPD",
-    desc: "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki Statement on enhanced clarity, support and engagement , aimed at strengthening the dialogue with stakeholders and e",
-    auto: true
-  },
-  {
-    id: "auto-1782383806-0",
-    title: "Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens",
-    url: "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
-    source: "CNIL",
-    date: "2026-06-24",
-    cat: "RGPD",
-    desc: "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026, Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall et Yixin Zou ont reçu le 2ème prix CNIL/EHESS pour leur article sur la régulation de l’intelligence artificielle et son alignement avec les attentes citoyennes.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-14T09:02:08";
+window.AUTO_VEILLE_UPDATED = "2026-08-15T08:18:53";
