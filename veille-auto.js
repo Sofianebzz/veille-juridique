@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-18T08:27:20
+// Dernière collecte : 2026-08-19T08:27:48
 window.AUTO_VEILLE = [
   {
     id: "auto-1787041617-0",
@@ -772,6 +772,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1787128049-30",
+    title: "One-Stop-Shop case digest on right to object and right to erasure updated",
+    url: "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
+    source: "EDPB",
+    date: "2026-06-25",
+    cat: "RGPD",
+    desc: "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which aims to support cooperation among Data Protection Authorities (DPAs). Thematic one-stop-shop case digests are dr",
+    auto: true
+  },
+  {
     id: "auto-1782470713-48",
     title: "2026 Strasbourg European Digital Summit Notebooks – “Digital mutations: from ambition to action”",
     url: "https://www.cigref.fr/2026-strasbourg-european-digital-summit-notebooks-digital-mutations-from-ambition-to-action",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Cette troisième édition des Cahiers des RNS rend compte des travaux de réflexion stratégique menés par 200 décideurs du numérique lors des Rencontres Numériques de Strasbourg qui se sont tenues du 15 au 17 avril 2026. Ils restituent notamment les engagements et recommandations, adressés par les participants à l’écosystème et aux pouvoirs publics, à",
     auto: true
   },
-  {
-    id: "auto-1782383806-3",
-    title: "L’ANSSI publie un kit d’exercice de crise pour le secteur agroalimentaire.",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-un-kit-dexercice-de-crise-pour-le-secteur-agroalimentaire/",
-    source: "ANSSI",
-    date: "2026-06-25",
-    cat: "Cybersécurité",
-    desc: "A l’heure où la menace cyber est omniprésente, les organisations et les entreprises doivent se préparer et réagir rapidement en […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-18T08:27:20";
+window.AUTO_VEILLE_UPDATED = "2026-08-19T08:27:48";
