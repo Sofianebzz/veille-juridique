@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-19T08:27:48
+// Dernière collecte : 2026-08-20T08:29:18
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1787214539-0",
+    title: "Le refus de crédit en questions",
+    url: "https://www.cnil.fr/fr/le-refus-de-credit-en-questions",
+    source: "CNIL",
+    date: "2026-08-19",
+    cat: "RGPD",
+    desc: "Vous avez demandé un crédit et on vous l’a refusé&amp;nbsp;? Vous êtes inscrit dans un fichier géré par la Banque de France ou un fichier tenu par votre banque&amp;nbsp;? Quelles sont les différentes démarches à effectuer&amp;nbsp;?",
+    auto: true
+  },
   {
     id: "auto-1787041617-0",
     title: "Piratage du système d’information des impôts : les vérifications sont en cours",
@@ -772,6 +782,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1787214539-1",
+    title: "L’ANSSI publie un kit d’exercice de crise pour le secteur agroalimentaire.",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-un-kit-dexercice-de-crise-pour-le-secteur-agroalimentaire/",
+    source: "ANSSI",
+    date: "2026-06-25",
+    cat: "Cybersécurité",
+    desc: "A l’heure où la menace cyber est omniprésente, les organisations et les entreprises doivent se préparer et réagir rapidement en […]",
+    auto: true
+  },
+  {
     id: "auto-1787128049-30",
     title: "One-Stop-Shop case digest on right to object and right to erasure updated",
     url: "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which aims to support cooperation among Data Protection Authorities (DPAs). Thematic one-stop-shop case digests are dr",
     auto: true
   },
-  {
-    id: "auto-1782470713-48",
-    title: "2026 Strasbourg European Digital Summit Notebooks – “Digital mutations: from ambition to action”",
-    url: "https://www.cigref.fr/2026-strasbourg-european-digital-summit-notebooks-digital-mutations-from-ambition-to-action",
-    source: "CIGREF",
-    date: "2026-06-25",
-    cat: "Contrats IT",
-    desc: "This third edition of the Notebooks reports on the strategic thinking of 200 digital decision-makers at the Strasbourg European Digital Summit, held from 15 to 17 April 2026. In particular, it sets out the commitments and recommendations made by the participants to the ecosystem and public authorities at the end of this major annual gathering [&#82",
-    auto: true
-  },
-  {
-    id: "auto-1782470713-49",
-    title: "Cahiers des RNS 2026 – « Mutations numériques : de l’ambition à l’action »",
-    url: "https://www.cigref.fr/cahiers-des-rns-2026-mutations-numeriques-de-lambition-a-laction",
-    source: "CIGREF",
-    date: "2026-06-25",
-    cat: "Contrats IT",
-    desc: "Cette troisième édition des Cahiers des RNS rend compte des travaux de réflexion stratégique menés par 200 décideurs du numérique lors des Rencontres Numériques de Strasbourg qui se sont tenues du 15 au 17 avril 2026. Ils restituent notamment les engagements et recommandations, adressés par les participants à l’écosystème et aux pouvoirs publics, à",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-19T08:27:48";
+window.AUTO_VEILLE_UPDATED = "2026-08-20T08:29:18";
