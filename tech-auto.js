@@ -1,6 +1,786 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-20T08:29:22
+// Dernière collecte : 2026-08-21T08:31:40
 window.AUTO_TECH = [
+  {
+    id: "tech-1787301094-9",
+    title: "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+    url: "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+    source: "TechCrunch",
+    date: "2026-08-21",
+    cat: "Big Tech",
+    desc: "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-10",
+    title: "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    url: "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    source: "TechCrunch",
+    date: "2026-08-21",
+    cat: "Startups & VC",
+    desc: "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-39",
+    title: "Allez-vous lui faire confiance ? ChatGPT peut maintenant écrire et envoyer vos textos",
+    url: "https://www.01net.com/actualites/chatgpt-peut-maintenant-ecrire-et-envoyer-vos-textos.html",
+    source: "01net",
+    date: "2026-08-21",
+    cat: "IA & Modèles",
+    desc: "OpenAI lance une extension Apple Messages pour son application macOS qui permet à ChatGPT de lire, chercher et envoyer des textos directement depuis votre ordinateur. Oui, il faut avoir confiance.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-40",
+    title: "1 000 km d’autonomie et recharge en 5 minutes : BYD au sommet avec son nouveau SUV électrique",
+    url: "https://www.01net.com/actualites/1-000-km-autonomie-recharge-5-minutes-byd-au-sommet-nouveau-suv-electrique.html",
+    source: "01net",
+    date: "2026-08-21",
+    cat: "Numérique & Société",
+    desc: "BYD pourrait exploser tous les records avec le Denza N8, son nouveau SUV électrique haut de gamme. Avec plus de 1 000 km d’autonomie et une recharge bouclée en 5 minutes, sa fiche technique est effectivement bluffante.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-41",
+    title: "Test Oppo Reno 16 Pro : sortie précipitée et prix qui explose, mais pourquoi ?",
+    url: "https://www.01net.com/tests/test-oppo-reno-16-pro-sortie-precipitee-et-prix-qui-explose-mais-pourquoi.html",
+    source: "01net",
+    date: "2026-08-21",
+    cat: "Numérique & Société",
+    desc: "Moins de six mois (!) après la sortie du pourtant sympathique Oppo Reno 15 Pro, voilà déjà son successeur, le Oppo Reno 16 Pro. Beaucoup plus onéreux, ce dernier va devoir déployer de sérieux arguments pour justifier son existence si précoce. Place au test.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-69",
+    title: "Le passe Navigo Annuel sur iPhone a déjà de premiers fans, mais des incompréhensions demeurent",
+    url: "https://www.numerama.com/vroom/2315357-le-passe-navigo-annuel-sur-iphone-a-deja-de-premiers-fans-mais-des-incomprehensions-demeurent.html",
+    source: "Numerama",
+    date: "2026-08-21",
+    cat: "Numérique & Société",
+    desc: "Dans un communiqué relayé le 19 août, Île-de-France Mobilités revendique plus de 10 000 usagers du passe Navigo Annuel sur iPhone, seulement une semaine après son déploiement sans grande communication. 1,3 million de Franciliens sont encore éligibles… mais beaucoup expriment leurs doutes sur les réseaux sociaux.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-70",
+    title: "Deux sorties spatiales en une semaine : le défi hors norme de Sophie Adenot sur l’ISS",
+    url: "https://www.numerama.com/sciences/2315347-deux-sorties-spatiales-en-une-semaine-le-defi-hors-norme-de-sophie-adenot-sur-liss.html",
+    source: "Numerama",
+    date: "2026-08-21",
+    cat: "Numérique & Société",
+    desc: "Pas de répit pour Sophie Adenot. Sept jours seulement après son baptême du vide, l'astronaute française devra effectuer une nouvelle sortie spatiale le 25 août pour achever une réparation sur l'ISS. Un véritable marathon orbital.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-71",
+    title: "Le GTA 6 qui a fuité tourne-t-il déjà sur PC ?",
+    url: "https://www.numerama.com/pop-culture/2315125-le-gta-6-qui-a-fuite-tourne-t-il-deja-sur-pc.html",
+    source: "Numerama",
+    date: "2026-08-21",
+    cat: "Numérique & Société",
+    desc: "Plusieurs détails aperçus dans les nouvelles vidéos de GTA 6 ont relancé l’hypothèse d’une version PC déjà fonctionnelle. Mais qu'en est-il vraiment ?",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-72",
+    title: "Riot Games annonce une mauvaise nouvelle pour son jeu de combat 2XKO",
+    url: "https://www.numerama.com/pop-culture/2315259-riot-games-annonce-une-mauvaise-nouvelle-pour-son-jeu-de-combat-2xko.html",
+    source: "Numerama",
+    date: "2026-08-21",
+    cat: "Numérique & Société",
+    desc: "Riot Games a partagé un communiqué qui ne plaira pas aux quelques fans de 2XKO. Les développements actifs sur le jeu de combat paru il y a seulement quelques mois cesseront dès le mois de décembre 2026. Il n'a pas rencontré un succès suffisant pour poursuivre l'aventure.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-82",
+    title: "Snobés par leurs parents devant leur smartphone, les adolescents en insécurité affective",
+    url: "https://next.ink/252578/snobes-par-leurs-parents-devant-leur-smartphone-les-adolescents-en-insecurite-affective/",
+    source: "Next.ink",
+    date: "2026-08-21",
+    cat: "Startups & VC",
+    desc: "Les conséquences de l&#8217;usage du smartphone devant les enfants sont sources d&#8217;inquiétudes. Des psychologues ont mis en place une échelle d&#8217;évaluation des interférences liées aux appareils permettant de mesurer à quels points les pratiques des parents dérangent leurs relations avec leurs enfants. Lorsqu&#8217;on fait une pause, on es",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-83",
+    title: "Le géant chinois Bilibili part à l’assaut de YouTube",
+    url: "https://next.ink/252627/le-geant-chinois-bilibili-part-a-lassaut-de-youtube/",
+    source: "Next.ink",
+    date: "2026-08-21",
+    cat: "Big Tech",
+    desc: "YouTube règne en maître dans le secteur de la vidéo en ligne. Mais même si la plateforme de Google paraît inébranlable, les positions de force peuvent toujours changer à la faveur d&#8217;un nouvel entrant sur le marché. Et celui qui arrive est redoutable. Bilibili est un des géants chinois de la vidéo en ligne. Lancée [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-84",
+    title: "Sur macOS, ChatGPT sait désormais interagir avec l’application Messages et vos SMS",
+    url: "https://next.ink/252635/sur-macos-chatgpt-sait-desormais-interagir-avec-lapplication-messages-et-vos-sms/",
+    source: "Next.ink",
+    date: "2026-08-21",
+    cat: "IA & Modèles",
+    desc: "OpenAI lance un plugin qui permet à l&#8217;application ChatGPT sur macOS d&#8217;interagir directement avec les messages (iMessage, SMS) de l&#8217;utilisateur. Une intégration censée faciliter la vie de l&#8217;utilisateur, mais qui ne va pas sans poser de sérieuses questions quant à la confidentialité des données associées. «&#160;Vos conversati",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-85",
+    title: "☕️ Sur le web, les bots IA écrivent de plus en plus pour les bots",
+    url: "https://next.ink/brief-article/sur-le-web-les-bots-ia-ecrivent-de-plus-en-plus-pour-les-bots/",
+    source: "Next.ink",
+    date: "2026-08-21",
+    cat: "IA & Modèles",
+    desc: "Les bots lisent les bots. Les sites web sont de plus en plus rédigés par des robots IA : plus d&#8217;un tiers des pages web mises en ligne après le lancement de ChatGPT intègre des contenus IA, selon une étude du Pew Research. 10 % des 10 000 pages web en anglais prélevées au mois de juillet [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-0",
+    title: "Google Discover is getting an AI chatbot-tuned feed",
+    url: "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-1",
+    title: "Riot is ending development on its League of Legends fighting game",
+    url: "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "Hardware",
+    desc: "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward sustainability.\" Servers will [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-2",
+    title: "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+    url: "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the bat, the coach-style doors signal that things aren't what they seem with the GV90. When the front and [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-3",
+    title: "Mark Zuckerberg bought an Irish castle",
+    url: "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times. While the exact price of the purchase is unclear, the family could have paid \"anywhere between &#8364;20 million and &#8364;30 million\" for the [&#8",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-4",
+    title: "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+    url: "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing to have sufficient measures in place to prevent contact between adults a",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-5",
+    title: "FCC officially decides gigabit speeds are too good for you",
+    url: "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dre",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-6",
+    title: "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+    url: "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "Hardware",
+    desc: "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework's site at the time of this writing. Upon [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-7",
+    title: "It’s Greg Brockman’s OpenAI now",
+    url: "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-8",
+    title: "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+    url: "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+    source: "The Verge",
+    date: "2026-08-20",
+    cat: "IA & Modèles",
+    desc: "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-11",
+    title: "Learn what VCs actually want, from a founder who’s raised $1B",
+    url: "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Startups & VC",
+    desc: "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzz",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-12",
+    title: "OpenAI is gaining on Anthropic with business users, new data indicates",
+    url: "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "IA & Modèles",
+    desc: "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-13",
+    title: "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    url: "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "IA & Modèles",
+    desc: "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-14",
+    title: "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
+    url: "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-15",
+    title: "OK, can we actually cool data centers with our pee?",
+    url: "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Hardware",
+    desc: "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-16",
+    title: "Someone targeted security researchers using a fake crypto conference as a lure",
+    url: "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Sécurité",
+    desc: "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-17",
+    title: "Mark buys a castle",
+    url: "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-18",
+    title: "Google gives publishers a new way to fight AI-driven traffic losses",
+    url: "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-19",
+    title: "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+    url: "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Cloud & Infra",
+    desc: "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-20",
+    title: "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    url: "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-21",
+    title: "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    url: "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "IA & Modèles",
+    desc: "ChatGPT and other AI models are now authoring and editing much of the new web.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-22",
+    title: "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+    url: "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "Hardware",
+    desc: "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-23",
+    title: "Ramp launches its own AI model router, called Router",
+    url: "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    source: "TechCrunch",
+    date: "2026-08-20",
+    cat: "IA & Modèles",
+    desc: "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-24",
+    title: "US distributor of China’s most popular humanoid robots pivots after US ban",
+    url: "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+    source: "Ars Technica",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-25",
+    title: "Europe cancels planned upgrades for Ariane 6 rocket",
+    url: "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
+    source: "Ars Technica",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-26",
+    title: "They survived 9/11; 25 years later, their bonds remain unbroken",
+    url: "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+    source: "Ars Technica",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited .",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-27",
+    title: "Roblox must make changes after failing to block adults creeping on kids",
+    url: "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+    source: "Ars Technica",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-28",
+    title: "Genesis joins the giant electric SUV club with new GV90",
+    url: "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
+    source: "Ars Technica",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-29",
+    title: "SpaceX’s orbital data centers would create a new category of e-waste",
+    url: "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+    source: "Ars Technica",
+    date: "2026-08-20",
+    cat: "Hardware",
+    desc: "The yeetcycling math resembles asteroid mining in reverse.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-30",
+    title: "Reverse-lookup service exposed millions of photos of people’s faces",
+    url: "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+    source: "Ars Technica",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-31",
+    title: "Grok exfiltrates user data when malicious instructions are encrypted",
+    url: "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    source: "Ars Technica",
+    date: "2026-08-20",
+    cat: "IA & Modèles",
+    desc: "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-32",
+    title: "Debates over AI consciousness are a trap",
+    url: "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    source: "MIT Tech Review",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy o",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-33",
+    title: "The Download: polycrisis support networks and a hydrogen gold rush",
+    url: "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    source: "MIT Tech Review",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-34",
+    title: "The next big thing in hydrogen could be underground",
+    url: "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    source: "MIT Tech Review",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-35",
+    title: "Unlocking hidden revenue streams with market models",
+    url: "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    source: "MIT Tech Review",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, an",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-36",
+    title: "Support networks aim to help kids through the polycrisis",
+    url: "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    source: "MIT Tech Review",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-42",
+    title: "À -72%, l’excellent aspirateur laveur Tineco Floor One S7 Pro n’est plus un luxe",
+    url: "https://www.01net.com/bons-plans/a-72-lexcellent-aspirateur-laveur-tineco-floor-one-s7-pro-nest-plus-un-luxe.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Afin de gagner du temps dans vos tâches ménagères et de les rendre par la même occasion beaucoup plus supportables, le Tineco Floor One S7 Pro est un excellent choix. Ce balai aspirateur et laveur a droit à une énorme remise qui le rend on ne peut plus attractif.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-43",
+    title: "DJI Mini 5 Pro : son prix chute de 32% et les ventes décollent, la gravité n’y peut rien 🌍",
+    url: "https://www.01net.com/bons-plans/dji-mini-5-pro-son-prix-chute-de-32-et-les-ventes-decollent-la-gravite-ny-peut-rien.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "À prix cassé, le drone se vend comme des petits pains. Mieux vaut ne pas trop traîner, car il n'y en aura pas pour tout le monde.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-44",
+    title: "AMD Ryzen 7 9800X3D : à ce prix ratatiné, il serait dommage de passer à côté",
+    url: "https://www.01net.com/bons-plans/amd-ryzen-7-9800x3d-a-ce-prix-ratatine-il-serait-dommage-de-passer-a-cote.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Hardware",
+    desc: "C'est l'un des meilleurs processeurs pour le gaming et les tâches lourdes et il est proposé à un tarif super attractif.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-45",
+    title: "Performant et ultra-endurant, le OnePlus 15R à -37% est la bonne affaire du jour",
+    url: "https://www.01net.com/bons-plans/performant-et-ultra-endurant-le-oneplus-15r-a-37-est-la-bonne-affaire-du-jour.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Le OnePlus 15R est un smartphone premium et récent. Avec cette belle ristourne, vous pouvez vous en équiper à un prix vraiment intéressant.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-46",
+    title: "Abracadabra : Xiaomi enlève 42% au Redmi Note 15 Pro+, le stock s’évapore dans la foulée 🪄",
+    url: "https://www.01net.com/bons-plans/abracadabra-xiaomi-enleve-42-au-redmi-note-15-pro-le-stock-sevapore-dans-la-foulee.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "L'opération Économies douanières suit son cours sur AliExpress. Le marchand n'est pas avare en promo comme en témoigne cette offre magique sur ce smartphone.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-47",
+    title: "Avec les offres fibre Bouygues, profitez de remises folles sur des Smart TV, PS5 ou des Xbox !",
+    url: "https://www.01net.com/bons-plans/avec-les-offres-fibre-bouygues-profitez-de-remises-folles-sur-des-smart-tv-ps5-ou-des-xbox.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Profitez des nouvelles offres Bouygues dès maintenant pour faire un maximum d'économies sur une sélection d'articles !",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-48",
+    title: "40 000 km d’affilée sans toucher le volant : Tesla pousse-t-il ses conducteurs à l’irresponsabilité totale ?",
+    url: "https://www.01net.com/actualites/40-000-km-sans-toucher-volant-tesla-pousse-conducteurs-irresponsabilite-totale.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Un homme a parcouru près de 40 000 km d’une seule traite avec le FSD Tesla. Il s’est vu récompensé par le système, qui encourage vivement un usage intensif de la conduite autonome, quels que soient les risques.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-49",
+    title: "La France est-elle devenue une « passoire » ? Le manque de spécialistes en cybersécurité inquiète",
+    url: "https://www.01net.com/actualites/france-est-elle-devenue-passoire-manque-specialistes-cybersecurite-inquiete.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Le nombre de cyberattaques s’est multiplié ces derniers mois en France. Le marché de la cybersécurité est sous tension et la demande de nouvelles recrues n’a jamais été aussi forte. Le problème : les candidats qualifiés manquent sur le marché.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-50",
+    title: "Coup de théâtre chez Porsche : la voiture électrique iconique de la marque bientôt menacée ?",
+    url: "https://www.01net.com/actualites/coup-theatre-porsche-taycan-bientot-menacee.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Contrairement à ce qui avait été précédemment annoncé, Porsche compte bien mettre un terme à la production de la Taycan selon un nouveau rapport. On ignore cependant si l’auto sera indirectement remplacée ou disparaîtra sans aucune descendance.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-51",
+    title: "Google muscle la recherche sur Android avec une fonction très pratique, mais réservée à quelques appareils",
+    url: "https://www.01net.com/actualites/google-muscle-recherche-sur-android-avec-fonction-tres-pratique-reservee-quelques-appareils.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Google a introduit une nouvelle fonctionnalité sur la série Pixel 11, ainsi que sur les Galaxy Z Fold 8 et Z Fold 8 Ultra. Baptisée Pixel Search, cette fonctionnalité étend les capacités de la barre de recherche du tiroir d'applications du téléphone. D’autres appareils Android pourraient aussi en bénéficier.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-52",
+    title: "Un institut français victime d’une cyberattaque : les données de 7 500 personnes compromises",
+    url: "https://www.01net.com/actualites/institut-francais-victime-cyberattaque-donnees-7500-personnes-compromises.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "L'Institut de recherche pour le développement (IRD) a subi une cyberattaque exposant les données personnelles de 7 500 personnes. Les informations compromises comprennent notamment : nom, numéro de Sécurité sociale, adresse postale ou encore adresse mail. L’IRD appelle les personnes concernées à la vigilance.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-53",
+    title: "La NASA abandonne le sauvetage du télescope Swift, condamné à se désintégrer",
+    url: "https://www.01net.com/actualites/la-nasa-abandonne-le-sauvetage-du-telescope-swift-condamne-a-se-desintegrer.html",
+    source: "01net",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "La NASA et la start-up Katalyst Space Technologies ont annoncé l'échec de leur mission de sauvetage du télescope Swift, en orbite depuis 2004. Une panne de propulseurs et un manque de carburant ont empêché le vaisseau LINK de capturer le télescope pour le repousser vers une orbite plus élevée. Sans intervention, Swift devrait se désintégrer dans l'",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-54",
+    title: "Microsoft met fin à son offre Azure VMware Solution avec licences incluses",
+    url: "https://www.silicon.fr/cloud-1370/microsoft-met-fin-a-son-offre-azure-vmware-solution-avec-licences-incluses-228767",
+    source: "Silicon.fr",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Microsoft va retirer de son catalogue l'offre Azure VMware Solution (AVS) intégrant les licences. Les clients devront désormais apporter leurs propres licences VMware Cloud Foundation (VCF). The post Microsoft met fin à son offre Azure VMware Solution avec licences incluses appeared first on Silicon.fr .",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-55",
+    title: "Avec OpenRouter, Stripe veut contrôler la facture de l’IA",
+    url: "https://www.silicon.fr/business-1367/avec-openrouter-stripe-veut-prendre-le-controle-de-la-facture-ia-228758",
+    source: "Silicon.fr",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Avec le rachat d’OpenRouter, Stripe s’attaque à l’autre versant de l’économie des modèles : le coût de chaque requête, de chaque token et, à terme, de chaque agent IA. The post Avec OpenRouter, Stripe veut contrôler la facture de l’IA appeared first on Silicon.fr .",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-56",
+    title: "Palo Alto Networks lance son programme Frontier AI Critical Defense",
+    url: "https://www.silicon.fr/cybersecurite-1371/palo-alto-networks-lance-son-programme-frontier-ai-critical-defense-228754",
+    source: "Silicon.fr",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "En coalisant des acteurs majeur autour d'un dispositif de correctifs virtuels proactifs, Palo Alto Networks veut combler le décalage entre la vitesse des cyberattaques propulsées par l'IA et la capacité des opérateurs critiques à déployer des correctifs. The post Palo Alto Networks lance son programme Frontier AI Critical Defense appeared first on ",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-73",
+    title: "LOA et LLD voiture électrique : les meilleures offres de leasing auto à saisir à la rentrée 2026",
+    url: "https://www.numerama.com/vroom/1048900-quelles-sont-les-meilleures-voitures-electriques-a-louer-a-partir-de-100-e-par-mois.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Les Locations Longue Durée (LLD) ou Locations avec Option d'Achat (LOA) sont de bonnes alternatives pour acquérir une nouvelle voiture électrique. Beaucoup de constructeurs intègrent des offres de leasing attractives pour leurs modèles 100 % électrique. Profitez des meilleures offres de la rentrée 2026.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-74",
+    title: "C’est fichu : la Nasa doit à regret accepter la fin du télescope Swift après l’échec du remorqueur LINK",
+    url: "https://www.numerama.com/sciences/2314479-cest-fichu-la-nasa-doit-a-regret-accepter-la-fin-du-telescope-swift-apres-lechec-du-remorqueur-link.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Le remorqueur qui devait aller porter secours au satellite Swift ne pourra pas remplir sa mission. Développé en toute hâte, le projet a subi des problèmes techniques et ne pourra pas aller rehausser l'orbite du télescope spatial, en perdition, comme prévu.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-75",
+    title: "« Il fera tout ce que vous lui demanderez » : les versions « uncensored » du modèle d’IA chinois Qwen affolent les réseaux",
+    url: "https://www.numerama.com/cyberguerre/2314343-il-fera-tout-ce-que-vous-lui-demanderez-les-versions-uncensored-du-modele-dia-chinois-qwen-affolent-les-reseaux.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "IA & Modèles",
+    desc: "Depuis sa sortie, Qwen 3.8, le dernier modèle d'IA open source d'Alibaba, a rapidement vu fleurir des versions \"uncensored\" sur Hugging Face, la principale plateforme d'hébergement et de partage de modèles d'IA. Débarrassées de leurs derniers garde-fous, ces variantes circulent librement.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-76",
+    title: "Terence Tao, le Mozart des maths modernes, brandit un mème pour expliquer le souci des maths à l’ère de l’IA",
+    url: "https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Alors que les géants de la tech célèbrent chaque prouesse algorithmique comme une victoire historique, le mathématicien Terence Tao utilise l'ironie d'un mème pour recadrer le débat : générer une démonstration brute avec une IA n'est que la toute première marche de la science.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-77",
+    title: "Nouvelle fuite de données en France : Red by SFR alerte ses clients",
+    url: "https://www.numerama.com/cyberguerre/2314843-nouvelle-fuite-de-donnees-en-france-red-by-sfr-alerte-ses-clients.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Red by SFR a averti ses clients d'un accès non autorisé à leurs données personnelles, détecté début juillet 2026 sur un outil interne.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-78",
+    title: "Tesla annonce son Semi en Europe, mais Mercedes, Volvo et Renault n’ont pas attendu Elon Musk",
+    url: "https://www.numerama.com/vroom/2314807-tesla-annonce-son-semi-en-europe-mais-mercedes-volvo-et-renault-nont-pas-attendu-elon-musk.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Après des années de teasing et de déploiements au compte-gouttes aux États-Unis, Tesla officialise la présentation européenne de son camion Semi en septembre au salon de Hanovre. Sauf qu'entre-temps, Volvo, Mercedes-Benz, Renault et MAN occupent déjà les routes du Vieux Continent.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-79",
+    title: "Starship : la capture inédite par la tour s’éloigne-t-elle ? Elon Musk publie un tweet ambigu",
+    url: "https://www.numerama.com/sciences/2314475-starship-la-capture-inedite-par-la-tour-seloigne-t-elle-elon-musk-publie-un-tweet-ambigu.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Un tweet sibyllin d'Elon Musk jette le flou sur le calendrier de SpaceX. Alors qu'une capture inédite de l'étage supérieur par la tour Mechazilla était pressentie dès le prochain essai, la communauté s'interroge.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-80",
+    title: "Anakin, Padmé, Obi-Wan, Mace… Hayden Christensen veut « reformer le groupe » pour une série Clone Wars en live action",
+    url: "https://www.numerama.com/pop-culture/2314625-anakin-padme-obi-wan-mace-hayden-christensen-veut-reformer-le-groupe-pour-une-serie-clone-wars-en-live-action.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "Au micro du Jonas Podcast, Hayden Christensen a lâché une bombe : il est totalement partant pour un projet The Clone Wars en prises de vues réelles. L'interprète d'Anakin Skywalker est convaincu qu'il est possible de « reformer le groupe » avec Ewan McGregor, Natalie Portman et même Samuel L. Jackson.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-81",
+    title: "L’immense Samsung Odyssey OLED G9 revient en stock à 669 €, son prix le plus bas",
+    url: "https://www.numerama.com/tech/2313753-limmense-samsung-odyssey-oled-g9-revient-en-stock-a-669-e-son-prix-le-plus-bas.html",
+    source: "Numerama",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "[Deal du jour] Brièvement disparue hier, l’offre sur le Samsung Odyssey OLED G9 est déjà de retour chez Carrefour. Cet immense écran OLED de 49 pouces repasse à 669,99 € au lieu de 1 099 €, soit son prix le plus bas jamais observé.",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-86",
+    title: "☕️ SFR prévient ses clients Fibre d’une fuite de données",
+    url: "https://next.ink/brief-article/sfr-previent-ses-clients-fibre-dune-fuite-de-donnees/",
+    source: "Next.ink",
+    date: "2026-08-20",
+    cat: "Numérique & Société",
+    desc: "À chaque jour sa fuite de données, ou presque. SFR a prévenu jeudi 20 août ses clients qu&#8217;un «&#160;incident de sécurité » avait été détecté le 2 juillet. Il a touché un outil de gestion d&#8217;analyse des raccordements fibre, qui a entraîné un accès non autorisé à des données : nom, prénom, civilité, adresse, numéro de [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-87",
+    title: "DMA : plutôt que des grosses amendes, Bruxelles veut des résultats",
+    url: "https://next.ink/252600/dma-plutot-que-des-grosses-amendes-bruxelles-veut-des-resultats/",
+    source: "Next.ink",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Apple et la Commission européenne ont enterré la hache de guerre cette semaine sur le dossier houleux de l&#8217;ouverture de l&#8217;App Store à la concurrence. Un accord qui consacre un certain pragmatisme de Bruxelles, après des années de tensions très vives entrecoupées de grosses amendes. Des résultats. C&#8217;est ce que la Commission europée",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-88",
+    title: "Le logiciel espion « secret défense » de la DGSI était un fork d’un exploit disponible sur GitHub",
+    url: "https://next.ink/252247/le-logiciel-espion-secret-defense-de-la-dgsi-etait-un-fork-dun-exploit-disponible-sur-github/",
+    source: "Next.ink",
+    date: "2026-08-20",
+    cat: "Open Source",
+    desc: "Ayant permis plus de 6 000 arrestations, la saisie de 900M d&#8217;euros et de 270 tonnes de drogues, le piratage du cryptophone Encrochat reposait sur un logiciel espion « secret défense » développé par la DGSI. Il avait en fait été bidouillé à partir d&#8217;un logiciel open source et d&#8217;un exploit téléchargés sur GitHub. Il [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-89",
+    title: "☕️ Thunderbird 154 active Microsoft Graph pour les comptes Microsoft 365",
+    url: "https://next.ink/brief-article/thunderbird-154-active-microsoft-graph-pour-les-comptes-microsoft-365/",
+    source: "Next.ink",
+    date: "2026-08-20",
+    cat: "Big Tech",
+    desc: "Mozilla a annoncé mardi 18 août la disponibilité de Thunderbird 154. La nouvelle mouture de son vénérable client de messagerie inaugure différentes petites nouveautés fonctionnelles, comme l&#8217;aperçu des pièces jointes sur macOS et le déchiffrement des contenus AuthEnvelopedData. Elle apporte également une meilleure gestion des mails joints (pi",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-90",
+    title: "☕️ Aux États-Unis, le boulet électoral des datacenters IA",
+    url: "https://next.ink/brief-article/aux-etats-unis-le-boulet-electoral-des-datacenters-ia/",
+    source: "Next.ink",
+    date: "2026-08-20",
+    cat: "Cloud & Infra",
+    desc: "Les entreprises de l&#8217;IA qui multiplient les projets de centres de données aux États-Unis vont devoir se retrousser les manches pour améliorer leur image. En cette année d&#8217;élections, le stigmate est tel que ces infrastructures sont devenues un risque politique pour les républicains. Le parti sonne l&#8217;alerte. Dans un mémo récupéré pa",
+    auto: true
+  },
+  {
+    id: "tech-1787301094-91",
+    title: "La FCC a approuvé le premier satellite d’une constellation pour éclairer sur Terre la nuit",
+    url: "https://next.ink/252452/la-fcc-a-approuve-le-premier-satellite-dune-constellation-pour-eclairer-sur-terre-la-nuit/",
+    source: "Next.ink",
+    date: "2026-08-20",
+    cat: "Startups & VC",
+    desc: "L&#8217;agence de régulation américaine a autorisé la startup Reflect Orbital à lancer son premier satellite. L&#8217;entreprise projette de lancer des milliers de satellites capables d&#8217;éclairer des parcelles de Terre pour rendre possibles la nuit des activités qui sont normalement diurnes. Des associations et l&#8217;European Southern Observ",
+    auto: true
+  },
   {
     id: "tech-1787214558-37",
     title: "Streaming illégal : ce géant aux 160 millions de visites par mois ferme ses portes le 26 août",
@@ -21,785 +801,5 @@ window.AUTO_TECH = [
     desc: "Claude franchit une nouvelle étape dans son intégration à Gmail : l'assistant IA d'Anthropic peut désormais répondre, transférer et envoyer des e-mails directement, sans validation systématique de l'utilisateur. Une option pratique pour les tâches répétitives, mais qui soulève aussi des questions sur les risques d'une IA capable d'agir sans repasse",
     auto: true
   },
-  {
-    id: "tech-1787214558-39",
-    title: "Le Ryzen 9 9900X3D à -53% est une FOLIE : AMD vide le stock coûte que coûte 😱",
-    url: "https://www.01net.com/bons-plans/le-ryzen-9-9900x3d-a-40-est-une-dinguerie-amd-vide-le-stock-du-processeur-premium.html",
-    source: "01net",
-    date: "2026-08-20",
-    cat: "Hardware",
-    desc: "À sa sortie en France, le Ryzen 9 9950X3D était positionné autour de 829 euros au moment de son lancement. Son tarif a depuis nettement baissé et se situe aujourd’hui autour de 729 euros, notamment sur matériel.net.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-40",
-    title: "Essai Jaecoo 5 : le SUV chinois qui pourrait faire trembler le Dacia Duster",
-    url: "https://www.01net.com/tests/essai-jaecoo-5-le-suv-chinois-qui-pourrait-faire-trembler-le-dacia-duster.html",
-    source: "01net",
-    date: "2026-08-20",
-    cat: "Numérique & Société",
-    desc: "Avec son premier SUV compact hybride destiné au marché européen, la jeune marque chinoise Jaecoo affiche de solides ambitions. Sans révolutionner le segment, le 5 SHS-S combine une motorisation convaincante, un équipement très généreux et des tarifs agressifs qui en font un concurrent sérieux des Renault Captur, Peugeot 2008 ou, surtout, du Dacia D",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-41",
-    title: "Recherche IA et onglets qui se rangent tout seuls : le Smart Window de Firefox 154 snobe l’Europe",
-    url: "https://www.01net.com/actualites/recherche-ia-et-onglets-qui-se-rangent-tout-seuls-le-smart-window-de-firefox-154-snobe-leurope.html",
-    source: "01net",
-    date: "2026-08-20",
-    cat: "Open Source",
-    desc: "Mozilla gonfle sa fenêtre intelligente : recherche IA qui cite ses sources, onglets regroupés tout seuls, doublons chassés en un clic. Les utilisateurs européens, eux, contemplent la démonstration derrière la vitrine.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-52",
-    title: "Après Problemos, Eric Judor parodie le Seigneur des anneaux dans son prochain film",
-    url: "https://www.numerama.com/pop-culture/2314549-apres-problemos-eric-judor-parodie-le-seigneur-des-anneaux-dans-son-prochain-film.html",
-    source: "Numerama",
-    date: "2026-08-20",
-    cat: "Numérique & Société",
-    desc: "Presque dix ans après la satire post-apocalyptique Problemos, Éric Judor repasse derrière la caméra pour signer son troisième long-métrage, Le Roi du Game. En s'emparant de la sous-culture très fermée du jeu de rôle grandeur nature, le comédien prend le pari d'utiliser les elfes et la baston médiévale en mousse pour raconter une crise familiale bie",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-53",
-    title: "Un an de Gemini et 400 Go gratuits : l’offre de Google à ne pas manquer pour la rentrée",
-    url: "https://www.numerama.com/tech/2314469-un-an-de-gemini-et-400-go-gratuits-loffre-de-google-a-ne-pas-manquer-pour-la-rentree.html",
-    source: "Numerama",
-    date: "2026-08-20",
-    cat: "IA & Modèles",
-    desc: "Google remet le couvert pour la rentrée : douze mois de Gemini sont offerts aux étudiants. Le cadeau est néanmoins un peu moins intéressant que l'année dernière : les étudiants français reçoivent Google AI Plus (400 Go de stockage, environ 60 euros de valeur sur douze mois), et non plus l'abonnement AI Pro distribué en 2025.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-54",
-    title: "Meta AI débarque sur Mac pour concurrencer ChatGPT et Claude (et on lui souhaite bon courage)",
-    url: "https://www.numerama.com/tech/2314467-meta-ai-debarque-sur-mac-pour-concurrencer-chatgpt-et-claude-et-on-lui-souhaite-bon-courage.html",
-    source: "Numerama",
-    date: "2026-08-20",
-    cat: "IA & Modèles",
-    desc: "Quelques mois après avoir abandonné son application Messenger sur macOS, Meta lance une version bêta de Meta AI pour Mac, avec pour objectif de concurrencer Claude ou ChatGPT. Pour l'instant, ce sont surtout les créateurs et les entreprises qui sont sa cible.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-55",
-    title: "C’est fini pour Swift : la mission de sauvetage du télescope spatial n’aura pas lieu",
-    url: "https://www.numerama.com/sciences/2314479-cest-fini-pour-swift-la-mission-de-sauvetage-du-telescope-spatial-naura-pas-lieu.html",
-    source: "Numerama",
-    date: "2026-08-20",
-    cat: "Numérique & Société",
-    desc: "Le remorqueur qui devait aller porter secours au satellite Swift ne pourra pas remplir sa mission. Développé en toute hâte, le projet a subi des problèmes techniques et ne pourra pas aller rehausser l'orbite du télescope spatial, en perdition, comme prévu.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-56",
-    title: "Fuites de GTA 6 : pourquoi le « pirate militant » ressemble surtout à une arnaque",
-    url: "https://www.numerama.com/pop-culture/2314443-fuites-de-gta-6-pourquoi-le-pirate-militant-ressemble-surtout-a-une-arnaque.html",
-    source: "Numerama",
-    date: "2026-08-20",
-    cat: "Numérique & Société",
-    desc: "Le groupe CYBERLEEK continue de partager des vidéos extraites de GTA 6, alors que Rockstar Games et Take-Two Interactive n'ont toujours pas pris la parole. Mais des doutes persistent sur les intentions réelles du pirate.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-57",
-    title: "« Tu… es Tony Stark », personne ne croit à ce spoiler d’un acteur d’Avengers: Doomsday",
-    url: "https://www.numerama.com/pop-culture/2314437-tu-es-tony-stark-personne-ne-croit-a-ce-spoiler-dun-acteur-davengers-doomsday.html",
-    source: "Numerama",
-    date: "2026-08-20",
-    cat: "Numérique & Société",
-    desc: "L'acteur David Harbour, vu dans la série Stranger Things, sera prochainement à l'affiche d'Avengers: Doomsday. Il reprend son rôle du Red Guardian. Invité à partager une citation hors contexte, il a fait un drôle de choix.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-58",
-    title: "Ahsoka : l’étrange sabre laser du trailer cache une référence Star Wars vieille de 30 ans",
-    url: "https://www.numerama.com/pop-culture/2314163-ahsoka-letrange-sabre-laser-du-trailer-cache-une-reference-star-wars-vieille-de-30-ans.html",
-    source: "Numerama",
-    date: "2026-08-20",
-    cat: "Numérique & Société",
-    desc: "Un étrange sabre laser à double lame séparée a intrigué les fans dans la dernière bande-annonce d’Ahsoka. Une arme inédite ? Pas vraiment : des internautes viennent de retrouver un design quasi identique dans un vieux magazine Star Wars de 1995, imaginé par un fan lors d’un concours de dessin.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-59",
-    title: "Trade Republic lance le Livret A dans son application et dépasse 400 000 PEA",
-    url: "https://www.numerama.com/business/2314127-trade-republic-lance-le-livret-a-dans-son-application-et-depasse-400-000-pea.html",
-    source: "Numerama",
-    date: "2026-08-20",
-    cat: "Numérique & Société",
-    desc: "Trade Republic ajoute le Livret A à son application et franchit les 400 000 PEA. La néobanque allemande veut passer du statut de courtier à celui de banque principale des Français.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-66",
-    title: "☕️ Protection des mineurs : Mark Zuckerberg a menti, affirme un ancien ingénieur de Meta",
-    url: "https://next.ink/brief-article/protection-des-mineurs-mark-zuckerberg-a-menti-affirme-un-ancien-ingenieur-de-meta/",
-    source: "Next.ink",
-    date: "2026-08-20",
-    cat: "Big Tech",
-    desc: "Meta connaissait les dangers que ses outils créaient pour les mineurs, affirme Arturo Béjar, ancien ingénieur de l’entreprise devenu spécialiste de la sécurité de ses produits. Premier témoin appelé à la barre dans le procès qui oppose la Californie, le Colorado, le Kentucky, le New Jersey et 25 autres États à la société mère de [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-67",
-    title: "L’IA de Google testée pour éviter les traînées de condensation derrière les avions",
-    url: "https://next.ink/252435/lia-de-google-testee-pour-eviter-les-trainees-de-condensation-derriere-les-avions/",
-    source: "Next.ink",
-    date: "2026-08-20",
-    cat: "Big Tech",
-    desc: "Les traînées blanches que l&#8217;on voit derrière les avions vont faire l&#8217;objet d&#8217;une étude au long cours menée dans le corridor aérien de l’Atlantique Nord, entre l&#8217;Europe et l&#8217;Amérique du Nord. Le gouvernement britannique et Google ont mis la main à la poche pour déterminer s&#8217;il est possible d&#8217;éviter la format",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-68",
-    title: "GeForce NOW en version finale pour Linux, GOG et l’Epic Games Store en approche",
-    url: "https://next.ink/252442/geforce-now-en-version-finale-pour-linux-gog-et-lepic-games-store-en-approche/",
-    source: "Next.ink",
-    date: "2026-08-20",
-    cat: "Big Tech",
-    desc: "L&#8217;année 2026 sera celle de Linux… pour le jeu vidéo, du moins. Après GOG, Epic prépare son arrivée sur le système d&#8217;exploitation libre, tandis que NVIDIA vient d&#8217;y lancer la version finale de GeForce NOW. De quoi élargir sérieusement l&#8217;offre au-delà de Steam. Linux, une plateforme de jeux ? Valve a démontré toute la pertinen",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-0",
-    title: "Does giving a camera wings dodge the FCC’s drone ban?",
-    url: "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-    source: "The Verge",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-1",
-    title: "Google Gemini is getting a dedicated student hub",
-    url: "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-    source: "The Verge",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#823",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-2",
-    title: "The wearable future is stuck in weird, experimental, existential limbo",
-    url: "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
-    source: "The Verge",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past week, I've been testing the Google Pixel Watch 5. In many ways, it's a typical, modern smartwatch. [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-3",
-    title: "Grab an iPad Air M4 for its lowest price since the June increase",
-    url: "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
-    source: "The Verge",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new retail price that went into effect (alongside [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-4",
-    title: "OpenAI hit the brakes. Now what?",
-    url: "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-    source: "The Verge",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-5",
-    title: "GTA VI keeps leaking ahead of its gameplay premiere",
-    url: "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-    source: "The Verge",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips seemingly showing off the game, though two have been pulled from the site I [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-6",
-    title: "Meta AI is getting a Mac app",
-    url: "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-    source: "The Verge",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-7",
-    title: "We reviewed the new Pixel lineup, ask us anything",
-    url: "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
-    source: "The Verge",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure. We're giving subscribers a chance to engage with us [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-8",
-    title: "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-    url: "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-9",
-    title: "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-    url: "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-10",
-    title: "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    url: "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-11",
-    title: "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    url: "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-12",
-    title: "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-    url: "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Startups & VC",
-    desc: "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-13",
-    title: "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-    url: "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Startups & VC",
-    desc: "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-14",
-    title: "Gambling on the Little League World Series? Sports bettors have gone too far",
-    url: "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Have we tried turning off society and turning it back on again?",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-15",
-    title: "AI was supposed to win people over by now — it hasn’t",
-    url: "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-16",
-    title: "Google packs Search and Gemini with new AI study tools",
-    url: "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-17",
-    title: "Researchers say OpenAI revoked their access to limited cyber program",
-    url: "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-18",
-    title: "Meet the startup helping Wall Street put a price on AI compute",
-    url: "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Startups & VC",
-    desc: "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;f",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-19",
-    title: "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
-    url: "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Sécurité",
-    desc: "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-20",
-    title: "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-    url: "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Startups & VC",
-    desc: "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-21",
-    title: "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    url: "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Hardware",
-    desc: "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-22",
-    title: "Rivian spinout Also raises another $150M",
-    url: "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-    source: "TechCrunch",
-    date: "2026-08-19",
-    cat: "Startups & VC",
-    desc: "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-23",
-    title: "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-    url: "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-    source: "Ars Technica",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "US residents face trade-offs as delivery drone services such as Prime Air expand.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-24",
-    title: "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-    url: "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-    source: "Ars Technica",
-    date: "2026-08-19",
-    cat: "Hardware",
-    desc: "Framework says it's replacing some out-of-warranty AMD mainboards.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-25",
-    title: "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-    url: "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-    source: "Ars Technica",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-26",
-    title: "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
-    url: "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
-    source: "Ars Technica",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-27",
-    title: "A fantastical journey unfolds in gorgeous Wildwood trailer",
-    url: "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
-    source: "Ars Technica",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "\"I will tear apart this forest and bring back what it took from me.\"",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-28",
-    title: "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
-    url: "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
-    source: "Ars Technica",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "The vaccine reportedly thwarted the cancer's return and spread.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-29",
-    title: "Google Pixel 11 series review: Is the magic fading?",
-    url: "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-    source: "Ars Technica",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Google's new Pixels make some compromises but still manage to be good phones.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-30",
-    title: "Meta ran ads for an app promising to nudify female politicians",
-    url: "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-    source: "Ars Technica",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "One ad featured a pornographic video with deepfake closely resembling a US politician.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-31",
-    title: "The Download: AI’s self-improvement problem, and what’s driving the heat",
-    url: "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    source: "MIT Tech Review",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-32",
-    title: "Child-monitoring apps might need a reboot",
-    url: "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-    source: "MIT Tech Review",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-42",
-    title: "C’est la référence 2026 pour le vlog : la DJI Osmo Pocket 4 s’affiche à prix de rêve",
-    url: "https://www.01net.com/bons-plans/cest-la-reference-2026-pour-le-vlog-la-dji-osmo-pocket-4-saffiche-a-prix-de-reve.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "La DJI Osmo Pocket 4 commence déjà à voir son tarif baisser alors qu’elle n'a que quelques mois d'existence. Et c'est à l'occasion de l'opération Back to School sur AliExpress qu'il est possible de s'en équiper au meilleur prix du moment.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-43",
-    title: "RED by SFR : la fibre à prix bas avec cette offre unique qui fait mal à la concurrence",
-    url: "https://www.01net.com/bons-plans/red-by-sfr-la-fibre-a-prix-bas-avec-cette-offre-unique-qui-fait-mal-a-la-concurrence.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Découvrez dès maintenant l'offre unique fibre RED by SFR, sans engagement, qui vous permet d'en finir avec les offres hors de prix !",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-44",
-    title: "3 fois moins chère qu’une TV OLED, quasi pareil : ce mini LED Xiaomi s’invite dans votre salon (-42%)",
-    url: "https://www.01net.com/bons-plans/3-fois-moins-chere-quune-tv-oled-quasi-pareil-ce-mini-led-xiaomi-sinvite-dans-votre-salon-42.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "En 2026, il n’est plus nécessaire de dépasser les 1 000 euros pour profiter d’une image qui se rapproche de ce que proposent les TV OLED. La Xiaomi TV S Mini LED 55 2025 en est un bon exemple, avec sa dalle QD-Mini LED 4K et ses 308 zones de gradation. Et pendant le Back to School d’AliExpress, elle devient méga abordable..",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-45",
-    title: "Une « nouvelle unité » d’urgence contre les cyberattaques : la France veut une équipe de choc pour contrer les pirates",
-    url: "https://www.01net.com/actualites/nouvelle-unite-urgence-contre-cyberattaques-france-veut-une-riposte-forte-aux-crises-potentielles.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "La France réagit à la vague de cyberattaques contre les services de l'État. Le Premier ministre a décreté la création d'une « nouvelle unité » d'urgence chargée d'agir « en première ligne » en cas de violation de données.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-46",
-    title: "Il met définitivement balai + serpillère au placard : cet aspirateur vapeur laveur est quasi donné (-70%)",
-    url: "https://www.01net.com/bons-plans/il-met-definitivement-balai-serpillere-au-placard-cet-aspirateur-vapeur-laveur-est-quasi-offert-70.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Si vous en avez assez de sortir le balai, puis la serpillière pour venir à bout d’un sol sale, le Tineco Floor One S7 Steam peut vous faire gagner un temps fou.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-47",
-    title: "Rapide et polyvalent, ce SSD NVMe 1 To est à un prix défiant toute concurrence",
-    url: "https://www.01net.com/bons-plans/rapide-et-polyvalent-ce-ssd-nvme-1-to-est-a-un-prix-defiant-toute-concurrence.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "En 2026, trouver un SSD NVMe pas cher est un véritable parcours du combattant. Heureusement, il existe des modèles moins connus mais tout aussi performants. C'est le cas du Netac NV7000, actuellement en promo pour le Back to School sur AliExpress.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-48",
-    title: "Un « niveau critique » : OpenAI suspend le développement de son prochain ChatGPT",
-    url: "https://www.01net.com/actualites/un-seuil-de-capacite-critique-openai-suspend-le-developpement-de-son-prochain-chatgpt.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "OpenAI affronte un problème d'un genre nouveau : son futur modèle Astra progresse si vite en piratage que l'entreprise refuse de le pousser à fond. Et la surveillance qui va avec dévore une part folle de sa puissance de calcul.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-49",
-    title: "Test du Google Pixel 11 Pro : un smartphone surcoté",
-    url: "https://www.01net.com/tests/test-pixel-11-pro-avis-smartphone.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Le Google Pixel 11 Pro confirme l'excellence de Google en design, photo et interface Android, mais il conserve des faiblesses notables en autonomie et en puissance brute qui pourraient freiner certains utilisateurs exigeants. Notre test complet révèle si ce nouveau flagship parvient à combler ses lacunes pour se hisser au sommet du marché ou non.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-50",
-    title: "La Galaxy Watch Ultra 2025 dégringole à -60% et ce n’est pas une farce",
-    url: "https://www.01net.com/bons-plans/la-galaxy-watch-ultra-2025-degringole-a-60-et-ce-nest-pas-une-farce.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "La Galaxy Watch Ultra 2025 est une montre connectée haut de gamme qui offre de nombreuses fonctions pour le sport et la santé. Avec cette baisse de prix démentielle, elle offre un rapport qualité-prix remarquable.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-51",
-    title: "Redémarrage forcé, 24 heures d’attente : Android déploie son parcours anti-APK",
-    url: "https://www.01net.com/actualites/redemarrage-force-24-heures-dattente-android-deploie-son-parcours-anti-apk.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Installer une application hors des boutiques officielles tenait en quelques gestes sur Android. Google active désormais un parcours entièrement repensé pour décourager les plus pressés. Et le calendrier qui suit promet de serrer la vis encore plus fort.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-60",
-    title: "Il vend son compte Dofus pour aider à financer sa boulangerie : que prévoient les règles d’Ankama ?",
-    url: "https://www.numerama.com/pop-culture/2313361-il-a-finance-une-partie-de-sa-boulangerie-avec-un-compte-dofus-quil-navait-pas-le-droit-de-vendre.html",
-    source: "Numerama",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Après vingt ans de jeu, Florent a vendu son compte Dofus pour compléter l’apport nécessaire à l’ouverture de sa boulangerie, rapporte la RTBF. Son histoire met en lumière un marché parallèle où comptes, kamas et services s’échangent contre de l’argent réel, malgré l’interdiction d’Ankama, le studio derrière le MMORPG.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-61",
-    title: "Au fait, que devient le reboot de Wonder Woman par James Gunn ?",
-    url: "https://www.numerama.com/pop-culture/2314277-au-fait-que-devient-le-reboot-de-wonder-woman-par-james-gunn.html",
-    source: "Numerama",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Pendant que James Gunn valide des séries annexes sur Jimmy Olsen ou Gorilla Grodd, la plus grande icône de DC reste au placard. Quatorze mois après la dernière annonce, le reboot de&nbsp;Wonder Woman&nbsp;fait du surplace. Enlisée entre déclarations de façade et projets dérivés gelés, l'héroïne est la dernière roue du carrosse d'un studio en pleine",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-62",
-    title: "Tyler Rake 3 recrute le meilleur James Bond pour la suite",
-    url: "https://www.numerama.com/pop-culture/2314213-tyler-rake-3-recrute-le-meilleur-james-bond-pour-la-suite.html",
-    source: "Numerama",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "En officialisant l'arrivée de Pierce Brosnan au casting de&nbsp;Tyler Rake 3, Netflix s’offre l'ultime icône du film d'espionnage. Face à un Chris Hemsworth toujours aussi brutal, l’ancien agent 007 apporte une caution de classe britannique à une franchise bien décidée à rouler sur la concurrence en 2027.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-63",
-    title: "Pour la première fois, un vaccin contre le cancer à base d’ARNm franchit une étape décisive",
-    url: "https://www.numerama.com/sciences/2314221-cancer-de-la-peau-le-premier-vaccin-a-base-darnm-franchit-une-phase-decisive.html",
-    source: "Numerama",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Pour la première fois, une thérapie à ARNm conçue sur mesure franchit avec succès son grand test de phase 3, dans la perspective de la lutte contre le cancer de la peau. Développé par Moderna et Merck, ce traitement personnalisé réduit significativement le risque de récidive.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-64",
-    title: "« Les cartes zombies sont de retour en ligne » : comment une faille Visa permet de ressusciter des cartes expirées",
-    url: "https://www.numerama.com/cyberguerre/2314109-les-cartes-zombies-sont-de-retour-en-ligne-comment-une-faille-visa-permet-de-ressusciter-des-cartes-expirees.html",
-    source: "Numerama",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Trois chercheurs ont démontré qu'une carte bancaire périmée peut, dans certaines conditions, redevenir opérationnelle en paiement sans contact.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-65",
-    title: "Claude peut désormais envoyer des mails à votre place, même sans validation",
-    url: "https://www.numerama.com/tech/2313921-claude-peut-desormais-envoyer-des-mails-a-votre-place-meme-sans-validation.html",
-    source: "Numerama",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "Claude peut désormais rédiger, transférer et envoyer des mails directement depuis Gmail, a annoncé Anthropic le 18 août 2026. Une nouvelle étape vers un assistant capable d’agir à votre place, avec une validation humaine activée par défaut.",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-69",
-    title: "[MàJ] Stripe rachète OpenRouter pour 7,5 milliards de dollars",
-    url: "https://next.ink/251881/stripe-sapprete-a-racheter-openrouter-pour-7-milliards-de-dollars/",
-    source: "Next.ink",
-    date: "2026-08-19",
-    cat: "Startups & VC",
-    desc: "Stripe a négocié l&#8217;acquisition d&#8217;OpenRouter pour plus de 7 milliards de dollars, révèle Bloomberg. Le géant du paiement avance ainsi ses pions dans le monde de l&#8217;IA, en intégrant l&#8217;un des orchestrateurs les plus populaires du marché. Il poursuit en parallèle les négociations visant à s&#8217;offrir PayPal, après le rejet de ",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-70",
-    title: "Microsoft 365 : de nombreuses données perdues après l’arrêt d’une offre gratuite",
-    url: "https://next.ink/252340/microsoft-365-de-nombreuses-donnees-perdues-apres-larret-dune-offre-gratuite/",
-    source: "Next.ink",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Après l&#8217;arrêt de l&#8217;offre gratuite à 365 Business Premium et Office 365 E1 pour les organismes sans but lucratif, nombre d&#8217;entre eux ont perdu leurs données. Microsoft avait prévenu, mais la communication de l&#8217;entreprise a été bien confuse et les données non récupérables. Pendant des années, Microsoft a offert un accès gratui",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-71",
-    title: "☕️ OpenAI va ouvrir la publicité dans ChatGPT en France et en Europe",
-    url: "https://next.ink/brief-article/openai-va-ouvrir-la-publicite-dans-chatgpt-en-france-et-en-europe/",
-    source: "Next.ink",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "La semaine prochaine, la version gratuite de ChatGPT et la déclinaison Go à 8&#160;euros par mois afficheront de la publicité en France, en Belgique, en Allemagne, en Italie et dans 31 pays européens. Les abonnés Plus, Pro et Enterprise seront épargnés. Le programme, lancé début février, a débuté par les États-Unis puis s&#8217;est étendu au [&#823",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-72",
-    title: "Des chercheurs ont fait « revivre » des cartes VISA sans contact après expiration",
-    url: "https://next.ink/252238/des-chercheurs-ont-fait-revivre-des-cartes-visa-sans-contact-apres-expiration/",
-    source: "Next.ink",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Grâce à des failles dans le protocole de paiement sans contact et à son implémentation par VISA, il est possible d&#8217;effectuer des paiements sans contact alors que les cartes ont expiré. Des cartes de crédits « zombies », c&#8217;est ainsi que des chercheurs de l&#8217;Université du Massachusetts Amherst qualifient certaines cartes de crédits V",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-73",
-    title: "« Techno-diversités » : ce que les Écologistes envisagent pour le secteur du numérique",
-    url: "https://next.ink/252262/techno-diversites-ce-que-les-ecologistes-envisagent-pour-le-secteur-du-numerique/",
-    source: "Next.ink",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Début juillet, les Écologistes publiaient un «&#160;carnet de doctrine numérique&#160;», qui doit servir de «&#160;cadre de pensée&#160;» à ses équipes et à sa secrétaire nationale, Marine Tondelier, candidate à la présidentielle. À la veille des journées d’été du parti, Next se penche sur le modèle de «&#160;technodiversité&#160;» qu’il promeut. À",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-74",
-    title: "☕️ Flockerie d’été : pas facile d’avoir une connexion satellite, aidez Jean-Luc à sauver sa soirée",
-    url: "https://next.ink/brief-article/flockerie-dete-pas-facile-davoir-une-connexion-satellite-aidez-jean-luc-a-sauver-sa-soiree/",
-    source: "Next.ink",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Cet été, Next propose de vous divertir avec un cahier de vacances spécial geek. On vous a préparé des mini-jeux pour vous occuper sur la plage, à la montagne, en voyage… Cerise sur le gâteau, il y a des cadeaux à gagner. Deux fois par semaine, on se donne rendez-vous pour s’amuser et/ou agiter ses [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787214558-75",
-    title: "Apple baisse ses commissions dans l’UE et fait la paix avec Bruxelles",
-    url: "https://next.ink/252213/apple-baisse-ses-commissions-dans-lue-et-fait-la-paix-avec-bruxelles/",
-    source: "Next.ink",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Après des années de dispute, Apple et la Commission européenne pourraient bien avoir enterré la hache de guerre sur une partie importante du dossier houleux du DMA. Le constructeur a en effet revu, une fois encore, les conditions commerciales applicables aux apps distribuées dans l&#8217;Union européenne. Et cette fois, c&#8217;est (semble-t-il) la",
-    auto: true
-  },
-  {
-    id: "tech-1787128069-36",
-    title: "Google Agenda ajoute enfin le bouton qu’on attendait pour bloquer les spams",
-    url: "https://www.01net.com/actualites/google-agenda-ajoute-bouton-on-attendait-pour-bloquer-spams.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Google déploie enfin une fonctionnalité pour bloquer les invitations indésirables dans Google Agenda. Une option très attendue qui permet de faire le ménage en quelques clics.",
-    auto: true
-  },
-  {
-    id: "tech-1787128069-37",
-    title: "Après le piratage des impôts, la France riposte avec un grand « plan d’action » pour protéger vos données",
-    url: "https://www.01net.com/actualites/apres-piratage-impots-france-riposte-grand-plan-action-proteger-donnees.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Startups & VC",
-    desc: "Face aux cyberattaques qui ont frappé les impôts, la France a décidé de réagir avec une série de mesures fortes. Le gouvernement vient d'annoncer un plan d'action centré sur la généralisation de la double authentification, le principal rempart qui aurait permis d'éviter énormément de fuites de données sensibles.",
-    auto: true
-  },
-  {
-    id: "tech-1787128069-38",
-    title: "Google prépare de nouveaux PC portables : la date de présentation est tombée",
-    url: "https://www.01net.com/actualites/googlebook-google-presentera-nouveaux-pc-portables-15-septembre.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Google a envoyé ses invitations. La présentation officielle des Googlebooks se tiendra le 15 septembre 2026 à New York. Ce premier aperçu sera l’occasion de découvrir enfin ces nouveaux PC portables, ainsi que le nouveau système d'exploitation concocté par le géant de Mountain View.",
-    auto: true
-  },
-  {
-    id: "tech-1787128069-39",
-    title: "10 000 mAh et charge 100 W : le prochain monstre d’autonomie de Xiaomi arrive très vite",
-    url: "https://www.01net.com/actualites/10-000-mah-et-charge-100-w-le-prochain-monstre-dautonomie-de-xiaomi-arrive-tres-vite.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Hardware",
-    desc: "Le Xiaomi Redmi Note 17 Pro Max veut marquer les esprits avec sa batterie hors norme de 10 000 mAh, une recharge filaire HyperCharge à 100 W, et des certifications d'étanchéité parmi les plus exigeantes du marché (IP68, IP69K). Présentation officielle le 27 août 2026, avant une arrivée attendue en France.",
-    auto: true
-  },
-  {
-    id: "tech-1787128069-40",
-    title: "Après Anthropic, Amazon découpe à son tour des livres pour entraîner son IA",
-    url: "https://www.01net.com/actualites/apres-anthropic-amazon-decoupe-a-son-tour-des-livres-pour-entrainer-son-ia.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "IA & Modèles",
-    desc: "Un AirTag glissé entre deux pages, des semaines de route, et une découverte au bout : l'ancien libraire du web massicote des livres rares pour nourrir ses modèles. Anthropic avait ouvert la voie, Amazon industrialise.",
-    auto: true
-  },
-  {
-    id: "tech-1787128069-41",
-    title: "Microsoft optimise Windows pour les PC avec 8 Go de RAM…mais refuse toujours le label Copilot+",
-    url: "https://www.01net.com/actualites/microsoft-optimise-windows-pour-les-pc-avec-8-go-de-ram-mais-refuse-toujours-le-label-copilot.html",
-    source: "01net",
-    date: "2026-08-19",
-    cat: "Big Tech",
-    desc: "Windows 11 va enfin apprendre à vivre avec 8 Go de RAM. L'IA maison, elle, campe derrière ses 16 Go. Les PC pas chers auront un système plus léger, et toujours pas de Copilot+.",
-    auto: true
-  },
-  {
-    id: "tech-1787128069-66",
-    title: "Moqué pour son animation « pire que l’IA », ce film chinois est devenu un énorme carton",
-    url: "https://www.numerama.com/pop-culture/2313787-moque-pour-son-animation-pire-que-lia-ce-film-chinois-est-devenu-un-enorme-carton.html",
-    source: "Numerama",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "Réalisé artisanalement par deux personnes, le film d’animation chinois Niu Lai a d’abord été moqué pour sa qualité « pire que l’IA ». Devenu viral, il a finalement vu ses recettes bondir.",
-    auto: true
-  },
-  {
-    id: "tech-1787128069-67",
-    title: "Sauvetage du Starship : SpaceX sort du silence avec de nouvelles images et une vidéo",
-    url: "https://www.numerama.com/sciences/2313743-sauvetage-du-starship-spacex-sort-du-silence-avec-de-nouvelles-images-et-une-video.html",
-    source: "Numerama",
-    date: "2026-08-19",
-    cat: "Numérique & Société",
-    desc: "SpaceX est sorti d'un silence long de plusieurs jours pour donner à son tour des nouvelles de l'étage supérieur de sa fusée Starship. Une prise de parole qui survient juste après la diffusion de clichés d'un photographe qui se trouvait dans les parages.",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-08-20T08:29:22";
+window.AUTO_TECH_UPDATED = "2026-08-21T08:31:40";
