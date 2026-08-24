@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-23T08:21:19
+// Dernière collecte : 2026-08-24T08:39:11
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1787560729-0",
+    title: "Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER",
+    url: "https://www.cnil.fr/fr/decisions-automatisees-sanction-de-pres-de-825-millions-deuros-lencontre-duber",
+    source: "CNIL",
+    date: "2026-08-24",
+    cat: "Jurisprudence",
+    desc: "En coopération avec la CNIL, l’autorité néerlandaise de protection des données a prononcé à l’encontre des sociétés UBER B.V. et UBER TECHNOLOGIES INC. une amende de 824&amp;nbsp;990&amp;nbsp;000 euros pour avoir pris des décisions individuelles automatisées concernant les chauffeurs de sa plateforme.",
+    auto: true
+  },
   {
     id: "auto-1787214539-0",
     title: "Le refus de crédit en questions",
@@ -782,24 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1787473251-50",
-    title: "2026 Strasbourg European Digital Summit Notebooks – “Digital mutations: from ambition to action”",
-    url: "https://www.cigref.fr/2026-strasbourg-european-digital-summit-notebooks-digital-mutations-from-ambition-to-action",
-    source: "CIGREF",
+    id: "auto-1787560729-1",
+    title: "L’ANSSI publie un kit d’exercice de crise pour le secteur agroalimentaire.",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-un-kit-dexercice-de-crise-pour-le-secteur-agroalimentaire/",
+    source: "ANSSI",
     date: "2026-06-25",
-    cat: "Contrats IT",
-    desc: "This third edition of the Notebooks reports on the strategic thinking of 200 digital decision-makers at the Strasbourg European Digital Summit, held from 15 to 17 April 2026. In particular, it sets out the commitments and recommendations made by the participants to the ecosystem and public authorities at the end of this major annual gathering [&#82",
-    auto: true
-  },
-  {
-    id: "auto-1787473251-51",
-    title: "Cahiers des RNS 2026 – « Mutations numériques : de l’ambition à l’action »",
-    url: "https://www.cigref.fr/cahiers-des-rns-2026-mutations-numeriques-de-lambition-a-laction",
-    source: "CIGREF",
-    date: "2026-06-25",
-    cat: "Contrats IT",
-    desc: "Cette troisième édition des Cahiers des RNS rend compte des travaux de réflexion stratégique menés par 200 décideurs du numérique lors des Rencontres Numériques de Strasbourg qui se sont tenues du 15 au 17 avril 2026. Ils restituent notamment les engagements et recommandations, adressés par les participants à l’écosystème et aux pouvoirs publics, à",
+    cat: "Cybersécurité",
+    desc: "A l’heure où la menace cyber est omniprésente, les organisations et les entreprises doivent se préparer et réagir rapidement en […]",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-23T08:21:19";
+window.AUTO_VEILLE_UPDATED = "2026-08-24T08:39:11";
