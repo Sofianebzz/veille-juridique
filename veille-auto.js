@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-24T08:39:11
+// Dernière collecte : 2026-08-25T08:33:35
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1787646796-0",
+    title: "Enseignement supérieur : les règles et bonnes pratiques pour utiliser des outils collaboratifs en ligne",
+    url: "https://www.cnil.fr/fr/enseignement-superieur-bonnes-pratiques-outils-collaboratifs",
+    source: "CNIL",
+    date: "2026-08-24",
+    cat: "RGPD",
+    desc: "Les établissements d’enseignement supérieur souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles applicables pour la mise en œuvre de ces outils.",
+    auto: true
+  },
+  {
+    id: "auto-1787646796-1",
+    title: "Enseignement du premier et du second degrés : les règles et bonnes pratiques pour utiliser les outils collaboratifs en ligne",
+    url: "https://www.cnil.fr/fr/enseignement-premier-second-degres-bonnes-pratiques-outils-collaboratifs",
+    source: "CNIL",
+    date: "2026-08-24",
+    cat: "RGPD",
+    desc: "Les établissements du premier et du second degrés souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles à suivre pour la mise en œuvre de ces outils.",
+    auto: true
+  },
   {
     id: "auto-1787560729-0",
     title: "Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Vendredi 26 juin 2026, une délégation du Conseil d’État conduite par son vice-président, Marc Guillaume, s’est rendue à Madrid pour un séminaire bilatéral avec le Tribunal suprême.",
     auto: true
   },
-  {
-    id: "auto-1782554299-0",
-    title: "Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés",
-    url: "https://www.cnil.fr/fr/g7-technologies-protection-mineurs",
-    source: "CNIL",
-    date: "2026-06-26",
-    cat: "RGPD",
-    desc: "Les autorités de protection des données des pays du G7 se sont réunies à Paris les 25 et 26 juin à l’invitation de la CNIL dans le cadre de la présidence française du G7. Elles ont adopté une déclaration sur les mécanismes de vérification de l’âge respectueux de la vie privée, ainsi qu’un document sur le développement d’objets connectés respectant ",
-    auto: true
-  },
-  {
-    id: "auto-1787560729-1",
-    title: "L’ANSSI publie un kit d’exercice de crise pour le secteur agroalimentaire.",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-un-kit-dexercice-de-crise-pour-le-secteur-agroalimentaire/",
-    source: "ANSSI",
-    date: "2026-06-25",
-    cat: "Cybersécurité",
-    desc: "A l’heure où la menace cyber est omniprésente, les organisations et les entreprises doivent se préparer et réagir rapidement en […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-24T08:39:11";
+window.AUTO_VEILLE_UPDATED = "2026-08-25T08:33:35";
