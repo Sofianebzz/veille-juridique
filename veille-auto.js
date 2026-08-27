@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-26T08:34:50
+// Dernière collecte : 2026-08-27T18:42:41
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1787856133-0",
+    title: "Sensibiliser les élèves de CM2 à la protection des données",
+    url: "https://www.cnil.fr/fr/sensibiliser-les-eleves-de-cm2-la-protection-des-donnees",
+    source: "CNIL",
+    date: "2026-08-27",
+    cat: "RGPD",
+    desc: "En 2026, la CNIL a sensibilisé 2&amp;nbsp;500 élèves de CM2 du département de l’Oise aux enjeux du numérique et à la protection des données personnelles. Vous êtes enseignant(e)&amp;nbsp;? Retrouvez, dans cette page, les ressources pour reproduire ce projet pédagogique.",
+    auto: true
+  },
+  {
+    id: "auto-1787856133-1",
+    title: "IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte",
+    url: "https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte",
+    source: "CNIL",
+    date: "2026-08-26",
+    cat: "RGPD",
+    desc: "La CNIL publie une nouvelle version de son démonstrateur permettant d’explorer la généalogie des modèles d’IA publiés en source ouverte. Cette mise à jour améliore notamment les performances de l’outil, son ergonomie et automatise l’actualisation des données. Une version en anglais est désormais disponible.",
+    auto: true
+  },
   {
     id: "auto-1787646796-0",
     title: "Enseignement supérieur : les règles et bonnes pratiques pour utiliser des outils collaboratifs en ligne",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "",
     auto: true
   },
-  {
-    id: "auto-1782816635-27",
-    title: "Autoroute « A69 » : Le Conseil d’État confirme l’arrêt de la CAA de Toulouse autorisant la reprise du projet",
-    url: "https://www.conseil-etat.fr/actualites/autoroute-a69-le-conseil-d-etat-confirme-l-arret-de-la-caa-de-toulouse-autorisant-la-reprise-du-projet",
-    source: "Conseil d'État",
-    date: "2026-06-29",
-    cat: "Jurisprudence",
-    desc: "Le Conseil d’État confirme l’arrêt de la Cour administrative d’appel de Toulouse et rejette les recours de plusieurs associations contre les autorisations environnementales du projet autoroutier de l’A69. Le Conseil d’Etat juge que la cour n’a pas fait d’erreur en estimant que le projet répond bien ",
-    auto: true
-  },
-  {
-    id: "auto-1782816635-28",
-    title: "Séminaire bilatéral entre le Conseil d’État français et le Tribunal suprême espagnol",
-    url: "https://www.conseil-etat.fr/actualites/seminaire-bilateral-entre-le-conseil-d-etat-francais-et-le-tribunal-supreme-espagnol",
-    source: "Conseil d'État",
-    date: "2026-06-29",
-    cat: "Jurisprudence",
-    desc: "Vendredi 26 juin 2026, une délégation du Conseil d’État conduite par son vice-président, Marc Guillaume, s’est rendue à Madrid pour un séminaire bilatéral avec le Tribunal suprême.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-26T08:34:50";
+window.AUTO_VEILLE_UPDATED = "2026-08-27T18:42:41";
