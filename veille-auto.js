@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-27T18:42:41
+// Dernière collecte : 2026-08-28T19:49:24
 window.AUTO_VEILLE = [
   {
     id: "auto-1787856133-0",
@@ -792,14 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1782816635-26",
-    title: "Test",
-    url: "https://www.conseil-etat.fr/actualites/test3",
+    id: "auto-1787946539-26",
+    title: "Autoroute « A69 » : Le Conseil d’État confirme l’arrêt de la CAA de Toulouse autorisant la reprise du projet",
+    url: "https://www.conseil-etat.fr/actualites/autoroute-a69-le-conseil-d-etat-confirme-l-arret-de-la-caa-de-toulouse-autorisant-la-reprise-du-projet",
     source: "Conseil d'État",
     date: "2026-06-29",
     cat: "Jurisprudence",
-    desc: "",
+    desc: "Le Conseil d’État confirme l’arrêt de la Cour administrative d’appel de Toulouse et rejette les recours de plusieurs associations contre les autorisations environnementales du projet autoroutier de l’A69. Le Conseil d’Etat juge que la cour n’a pas fait d’erreur en estimant que le projet répond bien ",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-27T18:42:41";
+window.AUTO_VEILLE_UPDATED = "2026-08-28T19:49:24";
