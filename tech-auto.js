@@ -1,6 +1,236 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-28T19:49:30
+// Dernière collecte : 2026-08-29T13:31:27
 window.AUTO_TECH = [
+  {
+    id: "tech-1788010281-0",
+    title: "Musicians-turned-detectives are hunting for AI grifters",
+    url: "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    source: "The Verge",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using t",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-3",
+    title: "Nvidia’s AI advantage is moving beyond the GPU",
+    url: "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    source: "TechCrunch",
+    date: "2026-08-29",
+    cat: "Hardware",
+    desc: "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-16",
+    title: "Après les courses pas chères, Lidl s’attaque maintenant au cloud face à Amazon et Microsoft",
+    url: "https://www.01net.com/actualites/apres-les-courses-pas-cheres-lidl-sattaque-maintenant-au-cloud-face-a-amazon-et-microsoft.html",
+    source: "01net",
+    date: "2026-08-29",
+    cat: "Big Tech",
+    desc: "Schwarz Digits, la filiale numérique de Lidl, investit jusqu'à 5,6 milliards d'euros dans un data center en Allemagne pour bâtir une alternative européenne au cloud américain.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-17",
+    title: "Mac mini M6 vs Mac mini M4 : tout ce qui change entre les deux générations d’ordinateurs Apple",
+    url: "https://www.01net.com/actualites/mac-mini-m6-vs-mac-mini-m4-tout-ce-qui-change-entre-les-deux-generations-dordinateurs-apple.html",
+    source: "01net",
+    date: "2026-08-29",
+    cat: "Big Tech",
+    desc: "Même boîtier, mêmes 256 Go de base, mais 350 € d'écart avec le prix de lancement du M4. Entre la puce 2 nm, le Wi‑Fi 7 et la pénurie de mémoire, le détail de l'addition chez Apple.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-18",
+    title: "Test du Google Pixel 11 : même recette, nouveaux ingrédients",
+    url: "https://www.01net.com/tests/test-google-pixel-11-avis.html",
+    source: "01net",
+    date: "2026-08-29",
+    cat: "Big Tech",
+    desc: "Le Google Pixel 11 est un très bon smartphone haut de gamme qui améliore la formule du Pixel 10 par petites touches. Mais est-ce suffisant pour en faire une référence face à une concurrence féroce ? La réponse dans ce test.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-19",
+    title: "IKEA dévoile YXSTABY, une collection de 9 meubles et accessoires imaginés avec Xbox",
+    url: "https://www.01net.com/actualites/ikea-devoile-yxstaby-une-collection-de-9-meubles-et-accessoires-imagines-avec-xbox.html",
+    source: "01net",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "IKEA dévoile YXSTABY, une collection conçue en partenariat avec Xbox. Inspirés de l’esthétique de la console, neuf objets composent la collection et seront commercialisés courant octobre dans les magasins IKEA, avec des prix compris entre 14,99 et 129 euros.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-20",
+    title: "Ils importent des voitures Audi et Volkswagen chinoises à 30 000 € en Europe, l’Allemagne exige leur destruction",
+    url: "https://www.01net.com/actualites/audi-volkswagen-chinoises-30-000-euros-importees-europe-allemagne-exige-destruction.html",
+    source: "01net",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "Les AUDI et Volkswagen chinoises sont si séduisantes que certains malins les ont fait importer en Europe. Il faut dire que des grandes berlines électriques vendues 30 000 €, ça fait rêver… Tellement que l’Allemagne a exigé la destruction des véhicules.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-21",
+    title: "Facturation électronique : quelle application choisir avant le 1er septembre 2026 ?",
+    url: "https://www.01net.com/dossiers/facturation-electronique-quelle-application-choisir.html",
+    source: "01net",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "Pour vous aider à vous mettre en conformité avec la réforme de la facturation électronique, voici quelques applications agréées et gratuites à tester.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-22",
+    title: "Pour vider votre compte bancaire, ce virus a trouvé le moyen de désactiver Google Play Protect",
+    url: "https://www.01net.com/actualites/pour-vider-compte-bancaire-virus-trouve-moyen-desactiver-google-play-protect.html",
+    source: "01net",
+    date: "2026-08-29",
+    cat: "Big Tech",
+    desc: "ToxicPanda est de retour. Le malware Android vise désormais des centaines d’applications bancaires, de paiement et de cryptomonnaies dans 16 pays. Dissimulé dans de fausses applis de VPN ou de mise à jour téléchargées hors du Play Store, il désactive Google Play Protect, superpose de faux écrans de connexion et vole des identifiants et des codes PI",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-23",
+    title: "OpenAI veut enterrer définitivement le procès contre Apple pour vol de secrets",
+    url: "https://www.01net.com/actualites/openai-veut-enterrer-definitivement-le-proces-contre-apple-pour-vol-de-secrets.html",
+    source: "01net",
+    date: "2026-08-29",
+    cat: "IA & Modèles",
+    desc: "Apple accuse, OpenAI balaie, et un juge californien tranchera le 1er octobre. La dernière requête en date réclame mieux qu'un simple rejet : l'interdiction pure et simple, pour Apple, de revenir à la charge.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-36",
+    title: "Ces millions de clichés de particules subatomiques sont menacés de disparition",
+    url: "https://www.numerama.com/sciences/2319995-ces-millions-de-cliches-de-particules-subatomiques-patrimoine-invisible-de-la-physique-sont-menaces-de-disparition.html",
+    source: "Numerama",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "Alors que nous célébrons le bicentenaire de la photographie, un patrimoine scientifique et visuel exceptionnel est menacé de disparition silencieuse. Dans les réserves des laboratoires de recherche fondamentale dorment des millions de négatifs qui furent, pendant plusieurs décennies, la matière première de la physique des hautes énergies.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-37",
+    title: "Le Volkswagen ID. Tiguan n’aura plus rien à voir avec l’ID.4",
+    url: "https://www.numerama.com/vroom/2321225-le-volkswagen-id-tiguan-naura-plus-rien-a-voir-avec-lid-4.html",
+    source: "Numerama",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "Un exemplaire encore camouflé de ce qui sera le Volkswagen ID. Tiguan a été présenté en exclusivité par un confrère allemand. À en voir les images, le SUV électrique aura complètement abandonné le style de son prédécesseur, l'ID.4.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-38",
+    title: "Numerama+ baisse son prix pour la rentrée et vous offre un an de VPN Surfshark One",
+    url: "https://www.numerama.com/cyberguerre/2314871-numerama-baisse-son-prix-pour-la-rentree-et-vous-offre-un-an-de-vpn-surfshark-one.html",
+    source: "Numerama",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "Pour la rentrée, Numerama+ revient à 2,49 € par mois, avec un an de Surfshark One offert aux 700 premiers abonnés : VPN, antivirus, bloqueur de traqueurs et plus encore.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-39",
+    title: "J’ai joué à Tides of Annihilation, et c’est un jeu d’action à suivre",
+    url: "https://www.numerama.com/pop-culture/2321203-jai-joue-a-tides-of-annihilation-et-cest-un-jeu-daction-a-suivre.html",
+    source: "Numerama",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "Tides of Annihilation a tapé dans l'œil des amatrices et amateurs d'action depuis sa toute première bande-annonce, diffusée lors d'un State of Play de Sony. J'ai pu y jouer lors de la gamescom 2026, et je suis conquis.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-40",
+    title: "GTA 6 : où est passée la jauge d’essence aperçue dans les fuites ?",
+    url: "https://www.numerama.com/pop-culture/2321199-gta-6-ou-est-passee-la-jauge-dessence-apercue-dans-les-fuites.html",
+    source: "Numerama",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "Dans les vidéos de GTA VI diffusées par le groupe Cyberleek, on pouvait apercevoir une jauge de carburant fonctionnelle dans les voitures. Dans l'aperçu étendu officiel diffusé par Rockstar, cet indicateur ne saute plus aux yeux.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-41",
+    title: "Inondations au Népal, éclipse lunaire, pluie artificielle – le récap’ sciences de la semaine",
+    url: "https://www.numerama.com/sciences/2320561-inondations-au-nepal-eclipse-lunaire-pluie-artificielle-le-recap-sciences-de-la-semaine.html",
+    source: "Numerama",
+    date: "2026-08-29",
+    cat: "Startups & VC",
+    desc: "La semaine du 24 août 2026 a été tristement marquée par la catastrophe climatique qui s'est produite au Népal. Dans le reste de l'actualité scientifique : une pluie artificielle de la startup Rainmaker et une éclipse de Lune visible en France.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-43",
+    title: "Et si vous essayiez de casser notre message chiffré inviolable… hein Flock ?",
+    url: "https://next.ink/249742/et-si-vous-essayiez-de-casser-notre-message-chiffre-inviolable-hein-flock/",
+    source: "Next.ink",
+    date: "2026-08-29",
+    cat: "Numérique & Société",
+    desc: "Cet été,&#160;Next vous propose des mini-jeux. Aujourd’hui, vous devez décrypter un message chiffré (ou le contraire, on ne sait pas trop). À vous de trouver le bon masque jetable. Le chiffrement, sur Next vous en avez déjà entendu parler en long, en large et en travers. Le principe est simple : rendre des données incompréhensibles [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-1",
+    title: "Google further buries search results under AI mode",
+    url: "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+    source: "The Verge",
+    date: "2026-08-28",
+    cat: "Big Tech",
+    desc: "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-2",
+    title: "Xbox CEO calls Project Helix a ‘family of devices’",
+    url: "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+    source: "The Verge",
+    date: "2026-08-28",
+    cat: "Big Tech",
+    desc: "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next generation and a great family of devices for Helix, [&#8230;]",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-4",
+    title: "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+    url: "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+    source: "TechCrunch",
+    date: "2026-08-28",
+    cat: "Big Tech",
+    desc: "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-5",
+    title: "Is the best way to watch a movie on a pair of sunglasses?",
+    url: "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+    source: "TechCrunch",
+    date: "2026-08-28",
+    cat: "Numérique & Société",
+    desc: "Are XREAL's smart glasses the way of the future for home entertainment?",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-6",
+    title: "Neocloud Lambda secures $1B in debt to buy more chips",
+    url: "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    source: "TechCrunch",
+    date: "2026-08-28",
+    cat: "Big Tech",
+    desc: "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    auto: true
+  },
+  {
+    id: "tech-1788010281-42",
+    title: "À Singapour, un rack de serveurs fonctionne avec 16 millions de neurones humains cultivés en labo",
+    url: "https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html",
+    source: "Numerama",
+    date: "2026-08-28",
+    cat: "Hardware",
+    desc: "À Singapour, un rack de serveurs calcule désormais avec de vrais neurones humains cultivés en laboratoire, et non avec des puces en silicium. Derrière ce prototype, un pari : alléger la facture énergétique de l'intelligence artificielle.",
+    auto: true
+  },
   {
     id: "tech-1787946564-0",
     title: "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
@@ -571,235 +801,5 @@ window.AUTO_TECH = [
     desc: "Installer un agrégateur de flux RSS sur un serveur maison est assez simple. Next vous détaille les étapes et vous donne quelques astuces pour en profiter au mieux, notamment avec une intégration Wallabag pour sauvegarder des articles à lire plus tard. Dans la série je récupère la souveraineté de mes données, Next vous explique comment [&#8230;]",
     auto: true
   },
-  {
-    id: "tech-1787946564-82",
-    title: "☕️ En Europe, Google ne dévalorisera plus les contenus sponsorisés des sites de presse",
-    url: "https://next.ink/brief-article/en-europe-google-ne-devalorisera-plus-les-contenus-sponsorises-des-sites-de-presse/",
-    source: "Next.ink",
-    date: "2026-08-28",
-    cat: "Big Tech",
-    desc: "Pour se plier au DMA européen, Google vient d&#8217;annoncer que son moteur de recherche n&#8217;allait plus considérer les contenus sponsorisés publiés automatiquement sur les sites de presse comme du spam. En novembre 2025, la Commission européenne avait annoncé l&#8217;ouverture d&#8217;une enquête contre Google soupçonnant l&#8217;entreprise de",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-83",
-    title: "Pentagone contre Anthropic : la justice considère les mesures illégales et sans fondement",
-    url: "https://next.ink/253542/pentagone-contre-anthropic-la-justice-considere-les-mesures-illegales-et-sans-fondement/",
-    source: "Next.ink",
-    date: "2026-08-28",
-    cat: "IA & Modèles",
-    desc: "L&#8217;administration de Donald Trump avait classé Anthropic dans la liste des entreprises à risque pour la chaîne d&#8217;approvisionnement du Pentagone. La justice états-unienne vient de déclarer cette décision illégale. Donald Trump ne peut pas imposer les sanctions qu&#8217;il avait décidées à Anthropic, a jugé Rita Lin, la juge en charge de l",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-84",
-    title: "Quantique : Pasqal se lance en bourse au Nasdaq",
-    url: "https://next.ink/253543/quantique-pasqal-se-lance-en-bourse-au-nasdaq/",
-    source: "Next.ink",
-    date: "2026-08-28",
-    cat: "Startups & VC",
-    desc: "Pasqal vient de boucler les formalités qui vont lui permettre de se lancer en bourse à New York. Cotée sur le Nasdaq, la startup française du quantique estime pouvoir compter sur 360 millions de dollars de trésorerie à l&#8217;issue de l&#8217;opération. L&#8217;introduction se fait sur la base d&#8217;une valeur d&#8217;entreprise fixée à près de ",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-85",
-    title: "☕️ Bluesky inaugure une option pour diminuer la visibilité de ses posts dans l’algo de découverte",
-    url: "https://next.ink/brief-article/bluesky-inaugure-une-option-pour-diminuer-la-visibilite-de-ses-posts-dans-lalgo-de-decouverte/",
-    source: "Next.ink",
-    date: "2026-08-28",
-    cat: "Numérique & Société",
-    desc: "Bluesky vient de mettre en place une option permettant de limiter la visibilité des publications d&#8217;un compte dans l&#8217;onglet Discover, nourri par l&#8217;algorithme de recommandation du réseau social. Accessible via la rubrique Confidentialité et sécurité du profil, elle ne signifie pas que les publications en question deviennent totaleme",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-86",
-    title: "Mémoire : Google impose de nouvelles règles aux apps Android trop gourmandes",
-    url: "https://next.ink/253490/memoire-google-impose-de-nouvelles-regles-aux-apps-android-trop-gourmandes/",
-    source: "Next.ink",
-    date: "2026-08-28",
-    cat: "Big Tech",
-    desc: "Et si la crise de la mémoire débouchait sur quelque chose de positif ? Les prix vertigineux des nouveaux ordinateurs et smartphones forcent une bonne partie des consommateurs à garder leurs appareils plus longtemps (merci pour la planète !) ou à opter pour des modèles plus chiches en mémoire. Google essaie d&#8217;adapter Android à cette [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-87",
-    title: "☕️ Ariane 6 réussit son premier lancement géostationnaire",
-    url: "https://next.ink/brief-article/ariane-6-reussit-son-premier-lancement-geostationnaire/",
-    source: "Next.ink",
-    date: "2026-08-28",
-    cat: "Numérique & Société",
-    desc: "Ariane 6 a lancé avec succès le satellite MTG-I2, ce jeudi 27 août au soir depuis le port spatial européen de Guyane. Partie à 17h11 heure locale, la fusée européenne entamait son premier lancement géostationnaire pour déployer le 2ème satellite imageur Meteosat Troisième Génération. Celui-ci doit notamment fournir des images « pour la détection pr",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-88",
-    title: "☕️ Playdate : Panic rembourse aux joueurs les surtaxes Trump annulées",
-    url: "https://next.ink/brief-article/playdate-panic-rembourse-aux-joueurs-les-surtaxes-trump-annulees/",
-    source: "Next.ink",
-    date: "2026-08-28",
-    cat: "Numérique & Société",
-    desc: "Les bonnes nouvelles sont rares pour le portefeuille des joueurs, alors saluons Panic, qui a décidé de rembourser aux clients américains de la Playdate les surtaxes douanières de Donald Trump depuis annulées. Les consommateurs qui ont acheté la console pendant que ces droits supplémentaires étaient en vigueur ont commencé à recevoir un petit rembou",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-89",
-    title: "GTA 6 : à la découverte d’un monde plus grand et surtout plus réactif",
-    url: "https://next.ink/253500/gta-6-a-la-decouverte-dun-monde-plus-grand-et-surtout-plus-reactif/",
-    source: "Next.ink",
-    date: "2026-08-28",
-    cat: "Numérique & Société",
-    desc: "Vu de très loin, GTA 6 ressemble à un jeu GTA en beaucoup plus joli. Vu d&#8217;un peu plus près, comme les abonnés Netflix ont pu en profiter avec le «&#160;large aperçu » diffusé hier (maintenant disponible sur YouTube), le futur blockbuster de Rockstar donne la pleine mesure de ce qui attend les joueurs le [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-8",
-    title: "The biggest video game of all time looks like a movie",
-    url: "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
-    source: "The Verge",
-    date: "2026-08-27",
-    cat: "Numérique & Société",
-    desc: "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige crime drama than any video game trailer that [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-9",
-    title: "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
-    url: "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
-    source: "The Verge",
-    date: "2026-08-27",
-    cat: "Big Tech",
-    desc: "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a recording.\" The company's line of [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-22",
-    title: "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    url: "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    source: "TechCrunch",
-    date: "2026-08-27",
-    cat: "IA & Modèles",
-    desc: "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-23",
-    title: "Rivian’s CFO is leaving the company",
-    url: "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-    source: "TechCrunch",
-    date: "2026-08-27",
-    cat: "Numérique & Société",
-    desc: "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-24",
-    title: "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-    url: "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-    source: "TechCrunch",
-    date: "2026-08-27",
-    cat: "Big Tech",
-    desc: "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-30",
-    title: "Anthropic's new hardware standard lets AI agents control the physical world",
-    url: "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-    source: "Ars Technica",
-    date: "2026-08-27",
-    cat: "IA & Modèles",
-    desc: "Standardized driver interface aims to let devices talk to AI and each other.",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-31",
-    title: "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-    url: "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-    source: "Ars Technica",
-    date: "2026-08-27",
-    cat: "Big Tech",
-    desc: "xAI accused of training Grok on real and AI-generated child pornography.",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-32",
-    title: "GOP heads to Supreme Court after losing case over TV election ad prices",
-    url: "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-    source: "Ars Technica",
-    date: "2026-08-27",
-    cat: "Numérique & Société",
-    desc: "GOP campaign committees want quick ruling before election ads ramp up next week.",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-33",
-    title: "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-    url: "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-    source: "Ars Technica",
-    date: "2026-08-27",
-    cat: "IA & Modèles",
-    desc: "Nvidia is nabbing critical infrastructure for open models as interest grows.",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-34",
-    title: "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-    url: "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-    source: "Ars Technica",
-    date: "2026-08-27",
-    cat: "Hardware",
-    desc: "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
-    auto: true
-  },
-  {
-    id: "tech-1787946564-36",
-    title: "A startup claims it’s found a drug to make your blood young",
-    url: "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    source: "MIT Tech Review",
-    date: "2026-08-27",
-    cat: "Startups & VC",
-    desc: "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact",
-    auto: true
-  },
-  {
-    id: "tech-1787856161-0",
-    title: "Google tells Android app developers to cool it on memory use, or else",
-    url: "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
-    source: "The Verge",
-    date: "2026-08-27",
-    cat: "Big Tech",
-    desc: "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage restrictions. The post emphasizes the importance of meeting new memory usage limits for apps, in order \"to help developers navigate",
-    auto: true
-  },
-  {
-    id: "tech-1787856161-1",
-    title: "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-    url: "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-    source: "The Verge",
-    date: "2026-08-27",
-    cat: "Big Tech",
-    desc: "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consen",
-    auto: true
-  },
-  {
-    id: "tech-1787856161-2",
-    title: "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-    url: "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-    source: "The Verge",
-    date: "2026-08-27",
-    cat: "Numérique & Société",
-    desc: "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED [&#8230;]",
-    auto: true
-  },
-  {
-    id: "tech-1787856161-3",
-    title: "Google launches Pokémon Sleep special-edition Fitbit Air",
-    url: "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
-    source: "The Verge",
-    date: "2026-08-27",
-    cat: "Big Tech",
-    desc: "The latest special-edition of Google's Fitbit Air is inspired by the Pok&#233;mon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pok&#233;mon card pretty closely. The special-edition is available to preorder now for $129 and starts shipping Septembe",
-    auto: true
-  },
 ];
-window.AUTO_TECH_UPDATED = "2026-08-28T19:49:30";
+window.AUTO_TECH_UPDATED = "2026-08-29T13:31:27";
