@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-08-30T13:27:22
+// Dernière collecte : 2026-08-31T15:44:07
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1788191024-0",
+    title: "Participez aux Rencontres Informatique & Libertés le 29 septembre 2026",
+    url: "https://www.cnil.fr/fr/ril-2026",
+    source: "CNIL",
+    date: "2026-08-31",
+    cat: "RGPD",
+    desc: "La CNIL organise la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée est l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
+    auto: true
+  },
   {
     id: "auto-1787856133-0",
     title: "Sensibiliser les élèves de CM2 à la protection des données",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
     auto: true
   },
-  {
-    id: "auto-1788096423-26",
-    title: "Autoroute « A69 » : Le Conseil d’État confirme l’arrêt de la CAA de Toulouse autorisant la reprise du projet",
-    url: "https://www.conseil-etat.fr/actualites/autoroute-a69-le-conseil-d-etat-confirme-l-arret-de-la-caa-de-toulouse-autorisant-la-reprise-du-projet",
-    source: "Conseil d'État",
-    date: "2026-06-29",
-    cat: "Jurisprudence",
-    desc: "Le Conseil d’État confirme l’arrêt de la Cour administrative d’appel de Toulouse et rejette les recours de plusieurs associations contre les autorisations environnementales du projet autoroutier de l’A69. Le Conseil d’Etat juge que la cour n’a pas fait d’erreur en estimant que le projet répond bien ",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-08-30T13:27:22";
+window.AUTO_VEILLE_UPDATED = "2026-08-31T15:44:07";
