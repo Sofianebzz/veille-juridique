@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-02T12:26:18
+// Dernière collecte : 2026-09-03T12:26:54
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1788438388-0",
+    title: "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
+    url: "https://www.cnil.fr/fr/sanction-hopital-prive-loire",
+    source: "CNIL",
+    date: "2026-09-03",
+    cat: "Cybersécurité",
+    desc: "Le 3 septembre 2026, la CNIL a prononcé une sanction de 500&amp;nbsp;000&amp;nbsp;€ à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE, pour ne pas avoir pris des mesures adaptées pour assurer la sécurité des données de ses patients et de certains de leurs proches.",
+    auto: true
+  },
+  {
+    id: "auto-1788438388-1",
+    title: "Transition post-quantique, l’ANSSI et ses partenaires du G7 publient un appel à action",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/transition-post-quantique-lanssi-et-ses-partenaires-du-g7-publient-un-appel-a-action/",
+    source: "ANSSI",
+    date: "2026-09-03",
+    cat: "Cybersécurité",
+    desc: "Dans le cadre de la Présidence française du G7 (PFG7) en 2026 , l’ ANSSI a pris la tête du […]",
+    auto: true
+  },
+  {
+    id: "auto-1788438388-45",
+    title: "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
+    url: "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en",
+    source: "EDPB",
+    date: "2026-09-03",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 28 August 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority), Article 34 (Communication of a personal data breach to the data subject",
+    auto: true
+  },
   {
     id: "auto-1788191024-0",
     title: "Participez aux Rencontres Informatique & Libertés le 29 septembre 2026",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal data. Why information sharing matters The fight against financial crime",
     auto: true
   },
-  {
-    id: "auto-1782988262-49",
-    title: "La protection des données sensibles non personnelles : un enjeu de compétitivité pour les organisations européennes",
-    url: "https://www.cigref.fr/la-protection-des-donnees-sensibles-non-personnelles-un-enjeu-de-competitivite-pour-les-organisations-europeennes",
-    source: "CIGREF",
-    date: "2026-07-01",
-    cat: "RGPD",
-    desc: "Dans l’économie numérique contemporaine, la donnée s’est affirmée comme un actif immatériel critique et incontournable. Elle constitue le carburant essentiel qui alimente l’intelligence artificielle, guide les choix décisionnels des dirigeants et structure les chaînes de valeur industrielles. Cependant, cette centralité expose les organisations à u",
-    auto: true
-  },
-  {
-    id: "auto-1782816635-0",
-    title: "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
-    url: "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
-    source: "CNIL",
-    date: "2026-06-30",
-    cat: "RGPD",
-    desc: "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateurs.",
-    auto: true
-  },
-  {
-    id: "auto-1782816635-1",
-    title: "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
-    url: "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
-    source: "CNIL",
-    date: "2026-06-30",
-    cat: "Cybersécurité",
-    desc: "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-02T12:26:18";
+window.AUTO_VEILLE_UPDATED = "2026-09-03T12:26:54";
