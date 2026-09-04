@@ -1,6 +1,56 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-03T12:26:54
+// Dernière collecte : 2026-09-04T12:25:07
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1788524685-67",
+    title: "La souveraineté technologique numérique",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-souverainete-technologique-numerique-DNU100h4",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "La commission d&#039;enqu&ecirc;te parlementaire sur les d&eacute;pendances structurelles et les vuln&eacute;rabilit&eacute;s syst&eacute;miques dans le secteur du num&eacute;rique et les risques pour l&#039;ind&eacute;pendance de la France r&eacute;v&egrave;le une situation nationale faisant courir un risque majeur aux organisations publiques et p",
+    auto: true
+  },
+  {
+    id: "auto-1788524685-68",
+    title: "La dépendance n'est plus un risque stratégique : c'est devenu une obligation juridique qui redéfinit le métier de juriste",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-dependance-n-est-plus-un-risque-strategique-c-est-devenu-une-obligation-juridique-qui-redefinit-le-metier-de-juriste-DNU100h3",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "Le rapport de la commission d&#039;enqu&ecirc;te sur les d&eacute;pendances structurelles dans le secteur du num&eacute;rique, rendu public le 15&nbsp;juillet 2026, met des chiffres sur une d&eacute;pendance largement pressentie. Mais la souverainet&eacute; n&#039;est plus seulement un d&eacute;bat de politique industrielle&nbsp;: quatre r&eacute;g",
+    auto: true
+  },
+  {
+    id: "auto-1788524685-69",
+    title: "Protection des mineurs : conformité au droit européen des mises en demeures individuelles adressées par l'ARCOM aux sites pornographiques étranger",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/protection-des-mineurs-conformite-au-droit-europeen-des-mises-en-demeures-individuelles-adressees-par-l-arcom-aux-sites-pornographiques-etranger-DNU100h2",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "Des prestataires diffusant des contenus pornographiques, bien qu&#039;&eacute;tablis dans d&#039;autres &Eacute;tats membres de l&#039;Union europ&eacute;enne, peuvent faire l&#039;objet, en France, d&#039;une mesure leur imposant, &agrave; titre individuel, de satisfaire &agrave; l&#039;objectif de protection des mineurs. Sont ainsi conformes au d",
+    auto: true
+  },
+  {
+    id: "auto-1788524685-26",
+    title: "[9 septembre] Suivez en direct la Rentrée 2026 du Conseil d’État",
+    url: "https://www.conseil-etat.fr/actualites/9-septembre-suivez-en-direct-la-rentree-2026-du-conseil-d-etat",
+    source: "Conseil d'État",
+    date: "2026-09-04",
+    cat: "Jurisprudence",
+    desc: "Mercredi 9 septembre prochain à 17h, suivez en direct la Rentrée 2026 du Conseil d’Etat. Son vice-président, Marc Guillaume, reviendra sur l&#039;actualité du Conseil d’Etat et de l’ensemble de la juridiction administrative et présentera l&#039;étude annuelle 2026 « La mer et les politiques publique",
+    auto: true
+  },
+  {
+    id: "auto-1788524685-0",
+    title: "Ordre du jour de la séance plénière du 3 septembre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-3-septembre-2026",
+    source: "CNIL",
+    date: "2026-09-03",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 3 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
   {
     id: "auto-1788438388-0",
     title: "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L’Arcep publie les deux premiers tomes de son rapport annuel d’activité",
     auto: true
   },
-  {
-    id: "auto-1783074531-28",
-    title: "Cloud",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/cloud-020726.html",
-    source: "ARCEP",
-    date: "2026-07-02",
-    cat: "Contrats IT",
-    desc: "Liberté de choix des services cloud pour les entreprises clientes : l’Arcep adopte des lignes directrices sur les frais de changement de fournisseur et de transfert de données dans le cadre du multi-cloud",
-    auto: true
-  },
-  {
-    id: "auto-1783074531-29",
-    title: "Décision n° 2026-1212 QPC du 3 juillet 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261212QPC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-07-02",
-    cat: "Jurisprudence",
-    desc: "M. Valeriu M. [Circonstances justifiant l’aggravation de la suspension prononcée par l’Agence française de lutte contre le dopage]",
-    auto: true
-  },
-  {
-    id: "auto-1783074531-57",
-    title: "Charge de la preuve : qualifier d’abord la signature électronique",
-    url: "https://www.legalis.net/actualite/charge-de-la-preuve-qualifier-dabord-la-signature-electronique/",
-    source: "Legalis",
-    date: "2026-07-02",
-    cat: "Jurisprudence",
-    desc: "Dans un arrêt particulièrement pédagogique, la Cour de cassation a précisé les règles relatives à la charge de la preuve lorsqu’il y a contestation d’une signature électronique. Elle rappelle qu’on ne peut pas faire peser la charge de la preuve sur le signataire contestataire sans avoir vérifié préalablement si la signature électronique était quali",
-    auto: true
-  },
-  {
-    id: "auto-1782988262-0",
-    title: "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
-    url: "https://www.cnil.fr/fr/jeux-argent-hasard-application-rgpd",
-    source: "CNIL",
-    date: "2026-07-02",
-    cat: "RGPD",
-    desc: "Les opérateurs de jeux d’argent et de hasard doivent concilier les exigences du RGPD avec leurs obligations sectorielles. Pour accompagner les acteurs dans cette démarche, l’ANJ a élaboré, en concertation avec la CNIL, un guide apportant des repères pratiques.",
-    auto: true
-  },
-  {
-    id: "auto-1782988262-38",
-    title: "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
-    url: "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
-    source: "EDPB",
-    date: "2026-07-01",
-    cat: "RGPD",
-    desc: "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal data. Why information sharing matters The fight against financial crime",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-03T12:26:54";
+window.AUTO_VEILLE_UPDATED = "2026-09-04T12:25:07";
