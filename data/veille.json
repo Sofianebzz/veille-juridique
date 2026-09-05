@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1788607862-60",
+    "title": "Recours de l'administration à des prestataires américains : les conditions du contentieux se précisent",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/recours-de-l-administration-a-des-prestataires-americains-les-conditions-du-contentieux-se-precisent-DNU100h5",
+    "source": "Lextenso",
+    "date": "2026-09-07",
+    "cat": "Jurisprudence",
+    "desc": "Le Conseil d&#039;&Eacute;tat juge que le seul fait qu&#039;un prestataire soit soumis &agrave; la loi am&eacute;ricaine sur la surveillance en mati&egrave;re de renseignement ext&eacute;rieur (Foreign Intelligence Surveillance Act, 1978, FISA) ne suffit pas &agrave; &eacute;tablir l&#039;ill&eacute;galit&eacute; du recours &agrave; ses services pa",
+    "auto": true
+  },
+  {
     "id": "auto-1788524685-67",
     "title": "La souveraineté technologique numérique",
     "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-souverainete-technologique-numerique-DNU100h4",
@@ -780,23 +790,13 @@
     "auto": true
   },
   {
-    "id": "auto-1783074531-1",
-    "title": "Ordre du jour de la séance plénière du 2 juillet 2026",
-    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-juillet-2026",
-    "source": "CNIL",
+    "id": "auto-1788607862-51",
+    "title": "Charge de la preuve : qualifier d’abord la signature électronique",
+    "url": "https://www.legalis.net/actualite/charge-de-la-preuve-qualifier-dabord-la-signature-electronique/",
+    "source": "Legalis",
     "date": "2026-07-02",
-    "cat": "RGPD",
-    "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    "auto": true
-  },
-  {
-    "id": "auto-1783074531-27",
-    "title": "Rapport annuel",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/rapport-annuel-020726.html",
-    "source": "ARCEP",
-    "date": "2026-07-02",
-    "cat": "Plateformes",
-    "desc": "L’Arcep publie les deux premiers tomes de son rapport annuel d’activité",
+    "cat": "Jurisprudence",
+    "desc": "Dans un arrêt particulièrement pédagogique, la Cour de cassation a précisé les règles relatives à la charge de la preuve lorsqu’il y a contestation d’une signature électronique. Elle rappelle qu’on ne peut pas faire peser la charge de la preuve sur le signataire contestataire sans avoir vérifié préalablement si la signature électronique était quali",
     "auto": true
   }
 ]
