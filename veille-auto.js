@@ -1,6 +1,46 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-06T11:51:55
+// Dernière collecte : 2026-09-07T13:51:29
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1788789063-25",
+    title: "Décision n° 2026-911 DC du 14 août 2026",
+    url: "https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm",
+    source: "Conseil constitutionnel",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "Loi visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+    auto: true
+  },
+  {
+    id: "auto-1788789063-67",
+    title: "La modification du règlement sur l'intelligence artificielle, le prétexte de la simplification",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-modification-du-reglement-sur-l-intelligence-artificielle-le-pretexte-de-la-simplification-DNU100h7",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "IA",
+    desc: "La modification du r&egrave;glement sur l&#039;intelligence artificielle a &eacute;t&eacute; annonc&eacute;e en 2025 au regard des &eacute;valuations ex&nbsp;post de la qualit&eacute; de la l&eacute;gislation, des consultations des parties int&eacute;ress&eacute;es et des analyses d&#039;impact. Les changements envisag&eacute;s initialement &eacute",
+    auto: true
+  },
+  {
+    id: "auto-1788789063-68",
+    title: "Piratage sportif : les fournisseurs DNS entrent durablement dans le match",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/piratage-sportif-les-fournisseurs-dns-entrent-durablement-dans-le-match-DNU100h6",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "La cour d&#039;appel de Paris consacre une interpr&eacute;tation large de la notion de &quot;&nbsp;personne susceptible de contribuer &agrave; [rem&eacute;dier &agrave; l&#039;atteinte]&nbsp;&quot; de l&#039;article L. 333-10 du Code du sport, confirmant les injonctions de blocage dirig&eacute;es contre les fournisseurs DNS. Elle unifie la notion a",
+    auto: true
+  },
+  {
+    id: "auto-1788789063-69",
+    title: "Protection des mineurs : conformité au droit européen des mises en demeures individuelles adressées par l'ARCOM aux sites pornographiques étrangers",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/protection-des-mineurs-conformite-au-droit-europeen-des-mises-en-demeures-individuelles-adressees-par-l-arcom-aux-sites-pornographiques-etrangers-DNU100h2",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "Des prestataires diffusant des contenus pornographiques, bien qu&#039;&eacute;tablis dans d&#039;autres &Eacute;tats membres de l&#039;Union europ&eacute;enne, peuvent faire l&#039;objet, en France, d&#039;une mesure leur imposant, &agrave; titre individuel, de satisfaire &agrave; l&#039;objectif de protection des mineurs. Sont ainsi conformes au d",
+    auto: true
+  },
   {
     id: "auto-1788607862-60",
     title: "Recours de l'administration à des prestataires américains : les conditions du contentieux se précisent",
@@ -761,45 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
     auto: true
   },
-  {
-    id: "auto-1783339066-1",
-    title: "L’ANSSI, l’ACPR et la Banque de France signe un accord de coopération",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/lanssi-lacpr-et-la-banque-de-france-signe-un-accord-de-cooperation/",
-    source: "ANSSI",
-    date: "2026-07-06",
-    cat: "Cybersécurité",
-    desc: "Les entités du secteur financier sont des cibles privilégiées en raison de la sensibilité des données qu’elles gèrent et des […]",
-    auto: true
-  },
-  {
-    id: "auto-1783159330-38",
-    title: "Registration is Now Open for the CEDPO DPO Conference 2026",
-    url: "https://cedpo.eu/registration-cedpo-dpo-conference-2026/",
-    source: "CEDPO",
-    date: "2026-07-03",
-    cat: "RGPD",
-    desc: "Der Beitrag Registration is Now Open for the CEDPO DPO Conference 2026 erschien zuerst auf Confederation of European Data Protection Organisations .",
-    auto: true
-  },
-  {
-    id: "auto-1783074531-0",
-    title: "Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête",
-    url: "https://www.cnil.fr/fr/enquete-dpo-ia",
-    source: "CNIL",
-    date: "2026-07-03",
-    cat: "RGPD",
-    desc: "L’intégration de l’IA dans les pratiques professionnelles et l’entrée en application du règlement IA créent de nouveaux défis pour les DPO et leurs organisations. Afin de mieux comprendre leurs attentes et préoccupations, le ministère du Travail et des Solidarités, l’AFCDP et la CNIL publient les résultats d’une étude lancée en 2025.",
-    auto: true
-  },
-  {
-    id: "auto-1788607862-51",
-    title: "Charge de la preuve : qualifier d’abord la signature électronique",
-    url: "https://www.legalis.net/actualite/charge-de-la-preuve-qualifier-dabord-la-signature-electronique/",
-    source: "Legalis",
-    date: "2026-07-02",
-    cat: "Jurisprudence",
-    desc: "Dans un arrêt particulièrement pédagogique, la Cour de cassation a précisé les règles relatives à la charge de la preuve lorsqu’il y a contestation d’une signature électronique. Elle rappelle qu’on ne peut pas faire peser la charge de la preuve sur le signataire contestataire sans avoir vérifié préalablement si la signature électronique était quali",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-06T11:51:55";
+window.AUTO_VEILLE_UPDATED = "2026-09-07T13:51:29";
