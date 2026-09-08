@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-07T13:51:29
+// Dernière collecte : 2026-09-08T12:29:24
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1788870543-0",
+    title: "Cyberattaques : L’ANSSI met en place une capacité renforcée de réaction dédiée aux services de l’État",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/",
+    source: "ANSSI",
+    date: "2026-09-07",
+    cat: "Cybersécurité",
+    desc: "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’Etat, le Premier ministre […]",
+    auto: true
+  },
   {
     id: "auto-1788789063-25",
     title: "Décision n° 2026-911 DC du 14 août 2026",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
     auto: true
   },
-  {
-    id: "auto-1783339066-0",
-    title: "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
-    url: "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
-    source: "CNIL",
-    date: "2026-07-06",
-    cat: "RGPD",
-    desc: "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-07T13:51:29";
+window.AUTO_VEILLE_UPDATED = "2026-09-08T12:29:24";
