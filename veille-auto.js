@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-08T12:29:24
+// Dernière collecte : 2026-09-09T12:37:09
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1788957410-0",
+    title: "Non-respect des droits des personnes : sanction de 300 000 euros à l’encontre de la société EXTIA",
+    url: "https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia",
+    source: "CNIL",
+    date: "2026-09-09",
+    cat: "RGPD",
+    desc: "Le 21 juillet 2026, la CNIL a sanctionné la société EXTIA d’une amende de 300&amp;nbsp;000 euros pour divers manquements relatifs au respect des droits des personnes, notamment du droit à l’effacement des données personnelles («&amp;nbsp;droit à l’oubli&amp;nbsp;»).",
+    auto: true
+  },
+  {
+    id: "auto-1788957410-43",
+    title: "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
+    url: "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
+    source: "EDPB",
+    date: "2026-09-09",
+    cat: "Cybersécurité",
+    desc: "Background information Date of final decision: 3 September 2026 National case Controller: Hôpital Privé de la Loire Legal Reference: Article 32 (Security of processing), Article 34 (Communication of a personal data breach to the data subject),&nbsp; Decision:&nbsp;Administrative fine Keywords: Cybersecurity, Personal data breaches, Health and resea",
+    auto: true
+  },
+  {
+    id: "auto-1788957410-69",
+    title: "Majorité numérique : les limites juridiques d'une interdiction indifférenciée",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/majorite-numerique-les-limites-juridiques-d-une-interdiction-indifferenciee-DNU100h8",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "Le 14&nbsp;ao&ucirc;t 2026, le Conseil constitutionnel a censur&eacute; l&#039;interdiction des r&eacute;seaux sociaux aux moins de 15&nbsp;ans. Quelques semaines auparavant, l&#039;avis circonstanci&eacute; de la Commission europ&eacute;enne avait conduit la commission mixte paritaire &agrave; retrancher du texte les modalit&eacute;s pr&eacute;vue",
+    auto: true
+  },
   {
     id: "auto-1788870543-0",
     title: "Cyberattaques : L’ANSSI met en place une capacité renforcée de réaction dédiée aux services de l’État",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La Cour de cassation pr&eacute;cise les conditions de la mise en balance entre le droit &agrave; l&#039;effacement d&#039;une condamnation p&eacute;nale et la libert&eacute; d&#039;expression et d&#039;information, en consacrant sept crit&egrave;res comme grille d&#039;analyse de r&eacute;f&eacute;rence, et rappelle que la charge de la preuve du pr",
     auto: true
   },
-  {
-    id: "auto-1783074531-66",
-    title: "Deuxième sanction pour violation du DSA : 200 millions d'euros à l'encontre de Temu",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/deuxieme-sanction-pour-violation-du-dsa-200-millions-d-euros-a-l-encontre-de-temu-DNU100g7",
-    source: "Lextenso",
-    date: "2026-07-07",
-    cat: "Jurisprudence",
-    desc: "Apr&egrave;s avoir sanctionn&eacute; X en d&eacute;cembre 2025 &agrave; hauteur de 120&nbsp;millions d&#039;euros, la Commission europ&eacute;enne a inflig&eacute; &agrave; Temu une amende de 200&nbsp;millions d&#039;euros sur le fondement du DSA. Elle sanctionne une d&eacute;faillance dans l&#039;&eacute;valuation et la gestion des risques syst&ea",
-    auto: true
-  },
-  {
-    id: "auto-1782904699-60",
-    title: "Quand l'IA générative entre dans l'entreprise, le CSE doit être consulté",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/quand-l-ia-generative-entre-dans-l-entreprise-le-cse-doit-etre-consulte-DNU100g6",
-    source: "Lextenso",
-    date: "2026-07-07",
-    cat: "IA",
-    desc: "Alors que les entreprises g&eacute;n&eacute;ralisent le recours aux outils d&#039;IA g&eacute;n&eacute;rative, la question de leurs incidences sur les relations collectives de travail demeure largement inexploit&eacute;e. Par cet arr&ecirc;t du 21&nbsp;mai 2026, la cour d&#039;appel de Paris apporte l&#039;une des premi&egrave;res r&eacute;ponses s",
-    auto: true
-  },
-  {
-    id: "auto-1782904699-61",
-    title: "Digital Markets Act et désignation des contrôleurs d'accès : le sort contrasté des services de Meta",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/digital-markets-act-et-designation-des-controleurs-d-acces-le-sort-contraste-des-services-de-meta-DNU100g5",
-    source: "Lextenso",
-    date: "2026-07-07",
-    cat: "Plateformes",
-    desc: "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-08T12:29:24";
+window.AUTO_VEILLE_UPDATED = "2026-09-09T12:37:09";
