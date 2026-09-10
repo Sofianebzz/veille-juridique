@@ -1,6 +1,46 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-09T12:37:09
+// Dernière collecte : 2026-09-10T12:35:26
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1789043700-0",
+    title: "Ordre du jour de la séance plénière du 10 septembre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-10-septembre-2026",
+    source: "CNIL",
+    date: "2026-09-10",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 10 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1789043700-1",
+    title: "Facturation électronique : quels enjeux pour la protection des données personnelles ?",
+    url: "https://www.cnil.fr/fr/facturation-electronique-quels-enjeux",
+    source: "CNIL",
+    date: "2026-09-10",
+    cat: "RGPD",
+    desc: "Depuis le 1er septembre 2026, la réforme relative à la facturation électronique entre entreprises est entrée en vigueur. La CNIL aide les entreprises à comprendre les enjeux et à assurer la sécurité des données traitées.",
+    auto: true
+  },
+  {
+    id: "auto-1789043700-2",
+    title: "La CNIL publie le tome 2 de L’Agence Privacy : une nouvelle enquête pour mieux comprendre la cybercriminalité",
+    url: "https://www.cnil.fr/fr/audeladelecran",
+    source: "CNIL",
+    date: "2026-09-10",
+    cat: "RGPD",
+    desc: "Avec «&amp;nbsp;Au-delà de l’écran&amp;nbsp;», l’Agence Privacy revient avec de nouvelles aventures&amp;nbsp;! Hypertrucage (deepfakes), arnaque aux sentiments, défis nocifs sur les réseaux sociaux, brouteurs : ce tome 2 aborde des risques numériques pour la vie privée auxquels adolescents comme parents peuvent être confrontés.",
+    auto: true
+  },
+  {
+    id: "auto-1789043700-28",
+    title: "[Revoir] Rentrée 2026 : Le Conseil d’État en mouvement pour répondre à des défis inédits",
+    url: "https://www.conseil-etat.fr/actualites/revoir-rentree-2026-le-conseil-d-etat-en-mouvement-pour-repondre-a-des-defis-inedits",
+    source: "Conseil d'État",
+    date: "2026-09-09",
+    cat: "Jurisprudence",
+    desc: "Ce mercredi 9 septembre s’est tenue la rentrée du Conseil d’État devant les autorités de la République et les représentants de nombreuses institutions. L’occasion pour Marc Guillaume, vice-président, de revenir sur les évolutions qui affectent profondément les missions de juge et de conseiller du Co",
+    auto: true
+  },
   {
     id: "auto-1788957410-0",
     title: "Non-respect des droits des personnes : sanction de 300 000 euros à l’encontre de la société EXTIA",
@@ -732,74 +772,34 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1783594681-63",
-    title: "Paquet souveraineté technologique : l'Europe ne veut plus seulement réguler le numérique, elle entend le construire à sa façon, ouvert et souverain",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/paquet-souverainete-technologique-l-europe-ne-veut-plus-seulement-reguler-le-numerique-elle-entend-le-construire-a-sa-facon-ouvert-et-souverain-DNU100h1",
-    source: "Lextenso",
-    date: "2026-07-07",
-    cat: "Contrats IT",
-    desc: "Pr&eacute;sent&eacute; le 3&nbsp;juin 2026, le paquet europ&eacute;en sur la souverainet&eacute; technologique r&eacute;unit une communication assortie d&#039;une strat&eacute;gie Open Source, deux propositions de r&egrave;glement, le Cloud and AI Development Act (CADA) et le Chips Act 2.0, ainsi qu&#039;une feuille de route num&eacute;rique pour l",
-    auto: true
-  },
-  {
-    id: "auto-1783594681-64",
-    title: "Les données de santé des Français suffisamment protégées selon le Conseil d'État",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/les-donnees-de-sante-des-francais-suffisamment-protegees-selon-le-conseil-d-etat-DNU100h0",
+    id: "auto-1789043700-71",
+    title: "Deuxième sanction pour violation du DSA : 200 millions d'euros à l'encontre de Temu",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/deuxieme-sanction-pour-violation-du-dsa-200-millions-d-euros-a-l-encontre-de-temu-DNU100g7",
     source: "Lextenso",
     date: "2026-07-07",
     cat: "Jurisprudence",
-    desc: "L&#039;h&eacute;bergement des donn&eacute;es de sant&eacute; par Microsoft est encore une fois l&#039;objet d&#039;une controverse. Le Conseil d&#039;&Eacute;tat tente de trouver un &eacute;quilibre entre la n&eacute;cessit&eacute; de permettre des recherches gr&acirc;ce aux donn&eacute;es de sant&eacute; et les garanties offertes par le droit de l",
+    desc: "Apr&egrave;s avoir sanctionn&eacute; X en d&eacute;cembre 2025 &agrave; hauteur de 120&nbsp;millions d&#039;euros, la Commission europ&eacute;enne a inflig&eacute; &agrave; Temu une amende de 200&nbsp;millions d&#039;euros sur le fondement du DSA. Elle sanctionne une d&eacute;faillance dans l&#039;&eacute;valuation et la gestion des risques syst&ea",
     auto: true
   },
   {
-    id: "auto-1783594681-65",
-    title: "Recherche scientifique et certification : les critères du Comité européen de la protection des données",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/recherche-scientifique-et-certification-les-criteres-du-comite-europeen-de-la-protection-des-donnees-DNU100g9",
+    id: "auto-1789043700-72",
+    title: "Digital Markets Act et désignation des contrôleurs d'accès : le sort contrasté des services de Meta",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/digital-markets-act-et-designation-des-controleurs-d-acces-le-sort-contraste-des-services-de-meta-DNU100g5",
     source: "Lextenso",
-    date: "2026-07-07",
-    cat: "RGPD",
-    desc: "Le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es a adopt&eacute;, le 15&nbsp;avril 2026, trois actes pr&eacute;cisant le r&eacute;gime europ&eacute;en de la protection des donn&eacute;es. Les lignes directrices 1/2026 d&eacute;finissent la recherche scientifique au sens du RGPD. Elles encadrent le broad consent et consacrent une",
-    auto: true
-  },
-  {
-    id: "auto-1783505397-14",
-    title: "Infrastructures",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/infrastructures-070726.html",
-    source: "ARCEP",
     date: "2026-07-07",
     cat: "Plateformes",
-    desc: "Accès au réseau d’infrastructures de génie civil et non-discrimination entre les opérateurs: l’Arcep présente son bilan sur les processus opérationnels d’Orange",
+    desc: "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
     auto: true
   },
   {
-    id: "auto-1783421348-0",
-    title: "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
-    url: "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
-    source: "CNIL",
-    date: "2026-07-07",
-    cat: "RGPD",
-    desc: "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
-    auto: true
-  },
-  {
-    id: "auto-1783421348-1",
-    title: "Géolocalisation et applications mobiles : comment protéger vos données ?",
-    url: "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-proteger-vos-donnees",
-    source: "CNIL",
-    date: "2026-07-07",
-    cat: "RGPD",
-    desc: "Les applications météo, de sport ou de rencontres utilisent souvent votre localisation. Mais savez-vous qui peut accéder à ces données et pourquoi&amp;nbsp;? La CNIL vous aide à comprendre les enjeux et à garder le contrôle sur vos données.",
-    auto: true
-  },
-  {
-    id: "auto-1783339066-60",
-    title: "La mise en balance entre droit à l'information et droit à l'effacement d'une condamnation pénale",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-mise-en-balance-entre-droit-a-l-information-et-droit-a-l-effacement-d-une-condamnation-penale-DNU100g8",
+    id: "auto-1789043700-73",
+    title: "Quand l'IA générative entre dans l'entreprise, le CSE doit être consulté",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/quand-l-ia-generative-entre-dans-l-entreprise-le-cse-doit-etre-consulte-DNU100g6",
     source: "Lextenso",
     date: "2026-07-07",
-    cat: "RGPD",
-    desc: "La Cour de cassation pr&eacute;cise les conditions de la mise en balance entre le droit &agrave; l&#039;effacement d&#039;une condamnation p&eacute;nale et la libert&eacute; d&#039;expression et d&#039;information, en consacrant sept crit&egrave;res comme grille d&#039;analyse de r&eacute;f&eacute;rence, et rappelle que la charge de la preuve du pr",
+    cat: "IA",
+    desc: "Alors que les entreprises g&eacute;n&eacute;ralisent le recours aux outils d&#039;IA g&eacute;n&eacute;rative, la question de leurs incidences sur les relations collectives de travail demeure largement inexploit&eacute;e. Par cet arr&ecirc;t du 21&nbsp;mai 2026, la cour d&#039;appel de Paris apporte l&#039;une des premi&egrave;res r&eacute;ponses s",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-09T12:37:09";
+window.AUTO_VEILLE_UPDATED = "2026-09-10T12:35:26";
