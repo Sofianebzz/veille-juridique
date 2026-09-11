@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-10T12:35:26
+// Dernière collecte : 2026-09-11T12:29:25
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1789129742-44",
+    title: "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
+    url: "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
+    source: "EDPB",
+    date: "2026-09-11",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 21 July 2026 National case Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 17 (Right to erasure ‘right to be forgotten’) Decision: Administrative fine Key words: Data subject rights Summary of the Decisio",
+    auto: true
+  },
+  {
+    id: "auto-1789129742-25",
+    title: "Marché du haut et du très haut débit fixe",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-du-haut-et-du-tres-haut-debit-fixe-100926.html",
+    source: "ARCEP",
+    date: "2026-09-10",
+    cat: "Plateformes",
+    desc: "Plus de 95 % des locaux sont raccordables à la fibre optique, qui représente 85 % des abonnements internet",
+    auto: true
+  },
+  {
+    id: "auto-1789129742-26",
+    title: "Fréquences - Outre-mer",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/frequences-outre-mer-100926.html",
+    source: "ARCEP",
+    date: "2026-09-10",
+    cat: "Plateformes",
+    desc: "L’Arcep lance une deuxième consultation publique sur l’attribution de fréquences radioélectriques en Guyane",
+    auto: true
+  },
   {
     id: "auto-1789043700-0",
     title: "Ordre du jour de la séance plénière du 10 septembre 2026",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Der Beitrag CEDPO Responds to the EDPB Consultation on the Draft DPIA Template erschien zuerst auf Confederation of European Data Protection Organisations .",
     auto: true
   },
-  {
-    id: "auto-1789043700-71",
-    title: "Deuxième sanction pour violation du DSA : 200 millions d'euros à l'encontre de Temu",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/deuxieme-sanction-pour-violation-du-dsa-200-millions-d-euros-a-l-encontre-de-temu-DNU100g7",
-    source: "Lextenso",
-    date: "2026-07-07",
-    cat: "Jurisprudence",
-    desc: "Apr&egrave;s avoir sanctionn&eacute; X en d&eacute;cembre 2025 &agrave; hauteur de 120&nbsp;millions d&#039;euros, la Commission europ&eacute;enne a inflig&eacute; &agrave; Temu une amende de 200&nbsp;millions d&#039;euros sur le fondement du DSA. Elle sanctionne une d&eacute;faillance dans l&#039;&eacute;valuation et la gestion des risques syst&ea",
-    auto: true
-  },
-  {
-    id: "auto-1789043700-72",
-    title: "Digital Markets Act et désignation des contrôleurs d'accès : le sort contrasté des services de Meta",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/digital-markets-act-et-designation-des-controleurs-d-acces-le-sort-contraste-des-services-de-meta-DNU100g5",
-    source: "Lextenso",
-    date: "2026-07-07",
-    cat: "Plateformes",
-    desc: "Le TUE pr&eacute;cise les crit&egrave;res de d&eacute;signation des contr&ocirc;leurs d&#039;acc&egrave;s au sens du DMA, tout en soulignant la difficult&eacute; pour un op&eacute;rateur de renverser les pr&eacute;somptions quantitatives de l&#039;article 3, &sect;&nbsp;2. Ainsi, un service int&eacute;gr&eacute; peut constituer un &quot;&nbsp;servi",
-    auto: true
-  },
-  {
-    id: "auto-1789043700-73",
-    title: "Quand l'IA générative entre dans l'entreprise, le CSE doit être consulté",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n7/quand-l-ia-generative-entre-dans-l-entreprise-le-cse-doit-etre-consulte-DNU100g6",
-    source: "Lextenso",
-    date: "2026-07-07",
-    cat: "IA",
-    desc: "Alors que les entreprises g&eacute;n&eacute;ralisent le recours aux outils d&#039;IA g&eacute;n&eacute;rative, la question de leurs incidences sur les relations collectives de travail demeure largement inexploit&eacute;e. Par cet arr&ecirc;t du 21&nbsp;mai 2026, la cour d&#039;appel de Paris apporte l&#039;une des premi&egrave;res r&eacute;ponses s",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-10T12:35:26";
+window.AUTO_VEILLE_UPDATED = "2026-09-11T12:29:25";
