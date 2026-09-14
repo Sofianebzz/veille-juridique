@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1789396641-25",
+    "title": "Le Conseil d’État reçoit le ministère de la Justice du Vietnam",
+    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-recoit-le-ministere-de-la-justice-du-vietnam",
+    "source": "Conseil d'État",
+    "date": "2026-09-14",
+    "cat": "Jurisprudence",
+    "desc": "Jeudi 10 septembre 2026, le vice-président du Conseil d’État, Marc Guillaume, a reçu le ministre de la Justice du Vietnam, Hoàng Thanh Tùng, et le directeur général du département de la coopération internationale du ministère de la Justice du Vietnam, Nguyễn Hữu Huyên.",
+    "auto": true
+  },
+  {
+    "id": "auto-1789396641-26",
+    "title": "Journées européennes du patrimoine - Dernières places pour découvrir le Conseil d'État et le Conseil constitutionnel les 19-20 septembre",
+    "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-dernieres-places-pour-decouvrir-le-conseil-d-etat-et-le-conseil-constitutionnel-les-19-20-septembre",
+    "source": "Conseil d'État",
+    "date": "2026-09-13",
+    "cat": "Jurisprudence",
+    "desc": "Derni&egrave;res places disponibles pour d&eacute;couvrir &nbsp; le Conseil d'&Eacute;tat et le Conseil constitutionnel, &nbsp; &agrave; l&rsquo;occasion des Journ&eacute;es europ&eacute;ennes du patrimoine, les 19 et 20 septembre 2026",
+    "auto": true
+  },
+  {
     "id": "auto-1789129742-44",
     "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
     "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
@@ -777,26 +797,6 @@
     "date": "2026-07-08",
     "cat": "IA",
     "desc": "Brussels, 8 July– During its latest plenary, the EDPB has adopted guidelines on anonymisation and guidelines on web scraping in the context of generative AI. In addition, the Board has adopted the final version of its guidelines on the processing of personal data through blockchain technologies. Understanding anonymous data The new EDPB guidelines ",
-    "auto": true
-  },
-  {
-    "id": "auto-1783594681-39",
-    "title": "New CEDPO Paper: Double Agents: The Opportunities and Risks of Agentic AI",
-    "url": "https://cedpo.eu/cedpo-paper-double-agents-the-opportunities-and-risks-of-agentic-ai/",
-    "source": "CEDPO",
-    "date": "2026-07-08",
-    "cat": "RGPD",
-    "desc": "Der Beitrag New CEDPO Paper: Double Agents: The Opportunities and Risks of Agentic AI erschien zuerst auf Confederation of European Data Protection Organisations .",
-    "auto": true
-  },
-  {
-    "id": "auto-1783594681-40",
-    "title": "CEDPO Responds to the EDPB Consultation on the Draft DPIA Template",
-    "url": "https://cedpo.eu/cedpo-responds-to-the-edpb-consultation-on-the-draft-dpia-template/",
-    "source": "CEDPO",
-    "date": "2026-07-08",
-    "cat": "RGPD",
-    "desc": "Der Beitrag CEDPO Responds to the EDPB Consultation on the Draft DPIA Template erschien zuerst auf Confederation of European Data Protection Organisations .",
     "auto": true
   }
 ]
