@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-14T14:37:50
+// Dernière collecte : 2026-09-15T13:02:27
 window.AUTO_VEILLE = [
   {
     id: "auto-1789396641-25",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-09-14",
     cat: "Jurisprudence",
     desc: "Jeudi 10 septembre 2026, le vice-président du Conseil d’État, Marc Guillaume, a reçu le ministre de la Justice du Vietnam, Hoàng Thanh Tùng, et le directeur général du département de la coopération internationale du ministère de la Justice du Vietnam, Nguyễn Hữu Huyên.",
+    auto: true
+  },
+  {
+    id: "auto-1789477321-25",
+    title: "Journées européennes du patrimoine - Plus de places disponibles à la réservation!",
+    url: "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-plus-de-places-disponibles-a-la-reservation",
+    source: "Conseil d'État",
+    date: "2026-09-13",
+    cat: "Jurisprudence",
+    desc: "Plus de places disponibles &agrave; la r&eacute;servation Il&nbsp;vous reste la possibilit&eacute; de suivre une visite, sans r&eacute;servation, en cas de d&eacute;sistement (file d&rsquo;attente d&eacute;di&eacute;e)",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le 7 juillet 2026, le CEPD a adopté des lignes directrices sur l’anonymisation et des lignes directrices sur le moissonnage dans le contexte de l’IA générative. Il a aussi adopté la version finale de ses lignes directrices sur le traitement des données au moyen des technologies de la chaîne de blocs.",
     auto: true
   },
-  {
-    id: "auto-1783594681-38",
-    title: "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
-    url: "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
-    source: "EDPB",
-    date: "2026-07-08",
-    cat: "IA",
-    desc: "Brussels, 8 July– During its latest plenary, the EDPB has adopted guidelines on anonymisation and guidelines on web scraping in the context of generative AI. In addition, the Board has adopted the final version of its guidelines on the processing of personal data through blockchain technologies. Understanding anonymous data The new EDPB guidelines ",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-14T14:37:50";
+window.AUTO_VEILLE_UPDATED = "2026-09-15T13:02:27";
