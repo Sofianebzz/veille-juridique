@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-15T13:02:27
+// Dernière collecte : 2026-09-16T13:00:02
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1789563576-25",
+    title: "Nuit du droit 2026 : le Conseil d’État ouvre ses portes aux étudiants le 5 octobre à 17h",
+    url: "https://www.conseil-etat.fr/actualites/nuit-du-droit-2026-le-conseil-d-etat-ouvre-ses-portes-aux-etudiants-le-5-octobre-a-17h",
+    source: "Conseil d'État",
+    date: "2026-09-16",
+    cat: "Jurisprudence",
+    desc: "Vous êtes étudiant et vous vous intéressez à la justice administrative, son fonctionnement, ses métiers, ses voix d’accès ? À l’occasion de la Nuit du droit, le Conseil d’Etat vous invite à un forum métiers, des ateliers en immersion et des débats animés par des membres de l’institution, des magistr",
+    auto: true
+  },
+  {
+    id: "auto-1789563576-26",
+    title: "Le Conseil d’État reçoit une délégation cambodgienne",
+    url: "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-recoit-une-delegation-cambodgienne",
+    source: "Conseil d'État",
+    date: "2026-09-16",
+    cat: "Jurisprudence",
+    desc: "Mardi 15 septembre 2026, le vice-président du Conseil d’État, Marc Guillaume, a reçu une délégation cambodgienne conduite par son vice-premier ministre, Vissoth Vongsey, ministre chargé de la Présidence du Conseil des ministres.",
+    auto: true
+  },
   {
     id: "auto-1789396641-25",
     title: "Le Conseil d’État reçoit le ministère de la Justice du Vietnam",
@@ -9,6 +29,16 @@ window.AUTO_VEILLE = [
     date: "2026-09-14",
     cat: "Jurisprudence",
     desc: "Jeudi 10 septembre 2026, le vice-président du Conseil d’État, Marc Guillaume, a reçu le ministre de la Justice du Vietnam, Hoàng Thanh Tùng, et le directeur général du département de la coopération internationale du ministère de la Justice du Vietnam, Nguyễn Hữu Huyên.",
+    auto: true
+  },
+  {
+    id: "auto-1789563576-27",
+    title: "Journées européennes du patrimoine - Les inscriptions sont closes",
+    url: "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-les-inscriptions-sont-closes",
+    source: "Conseil d'État",
+    date: "2026-09-13",
+    cat: "Jurisprudence",
+    desc: "Il n'y a plus de places disponibles &agrave; la r&eacute;servation. Il&nbsp;vous reste la possibilit&eacute; de suivre une visite, sans r&eacute;servation, en cas de d&eacute;sistement (file d&rsquo;attente d&eacute;di&eacute;e)",
     auto: true
   },
   {
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L’Arcep publie le suivi de l’observatoire des marchés des communications électroniques au premier trimestre 2026",
     auto: true
   },
-  {
-    id: "auto-1783680397-28",
-    title: "Accessibilité",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques.html",
-    source: "ARCEP",
-    date: "2026-07-09",
-    cat: "Plateformes",
-    desc: "L’Arcep publie les indicateurs d’utilisation et de qualité des services téléphoniques accessibles aux personnes sourdes, malentendantes, sourdaveugles et aphasiques au 1er trimestre 2026.",
-    auto: true
-  },
-  {
-    id: "auto-1783680397-29",
-    title: "Décision n° 2026-9 LP du 9 juillet 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20269LP.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-07-09",
-    cat: "Jurisprudence",
-    desc: "Loi du pays modifiant le code minier de la Nouvelle-Calédonie (partie législative)",
-    auto: true
-  },
-  {
-    id: "auto-1783594681-0",
-    title: "Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs",
-    url: "https://www.cnil.fr/fr/cepd-ia-generative-chaines-blocs",
-    source: "CNIL",
-    date: "2026-07-09",
-    cat: "IA",
-    desc: "Le 7 juillet 2026, le CEPD a adopté des lignes directrices sur l’anonymisation et des lignes directrices sur le moissonnage dans le contexte de l’IA générative. Il a aussi adopté la version finale de ses lignes directrices sur le traitement des données au moyen des technologies de la chaîne de blocs.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-15T13:02:27";
+window.AUTO_VEILLE_UPDATED = "2026-09-16T13:00:02";
