@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1789649743-26",
+    "title": "Journées européennes du patrimoine - Quelques places à nouveau disponibles !",
+    "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-quelques-places-a-nouveau-disponibles",
+    "source": "Conseil d'État",
+    "date": "2026-09-17",
+    "cat": "Jurisprudence",
+    "desc": "Il reste quelques places disponibles &agrave; la r&eacute;servation. Si la billetterie est compl&egrave;te, une file d&rsquo;attente vous permettra le jour J de suivre une visite en cas de d&eacute;sistement (sans r&eacute;servation).",
+    "auto": true
+  },
+  {
     "id": "auto-1789563576-25",
     "title": "Nuit du droit 2026 : le Conseil d’État ouvre ses portes aux étudiants le 5 octobre à 17h",
     "url": "https://www.conseil-etat.fr/actualites/nuit-du-droit-2026-le-conseil-d-etat-ouvre-ses-portes-aux-etudiants-le-5-octobre-a-17h",
@@ -57,6 +67,16 @@
     "date": "2026-09-13",
     "cat": "Jurisprudence",
     "desc": "Derni&egrave;res places disponibles pour d&eacute;couvrir &nbsp; le Conseil d'&Eacute;tat et le Conseil constitutionnel, &nbsp; &agrave; l&rsquo;occasion des Journ&eacute;es europ&eacute;ennes du patrimoine, les 19 et 20 septembre 2026",
+    "auto": true
+  },
+  {
+    "id": "auto-1789649743-25",
+    "title": "Dispositifs à courte portée",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques.html",
+    "source": "ARCEP",
+    "date": "2026-09-11",
+    "cat": "Jurisprudence",
+    "desc": "L’Arcep publie une consultation publique pour recueillir l'avis des parties prenantes sur une modification de la décision n° 2014-1263 en date du 6 novembre 2014 modifiée fixant les conditions d’utilisation des fréquences radioélectriques par des dispositifs à courte portée.",
     "auto": true
   },
   {
@@ -777,26 +797,6 @@
     "date": "2026-07-09",
     "cat": "Contrats IT",
     "desc": "Un employeur a le pouvoir d’encadrer et de contrôler l’activité des membres du personnel ainsi que leur usage des équipements au travail. Il s’agit d’une contrepartie normale et inhérente au contrat de travail. Néanmoins, ce pouvoir ne peut pas être exercé de manière excessive.",
-    "auto": true
-  },
-  {
-    "id": "auto-1783680397-26",
-    "title": "Mutualisation des réseaux mobiles",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/mutualisation-des-reseaux-mobiles-090726.html",
-    "source": "ARCEP",
-    "date": "2026-07-09",
-    "cat": "Plateformes",
-    "desc": "Modification de l’accord de partage entre Bouygues Telecom et SFR : l’Arcep a reçu un nouvel avenant et estime qu’il n’est pas nécessaire de le modifier",
-    "auto": true
-  },
-  {
-    "id": "auto-1783680397-27",
-    "title": "Observatoire des marchés des communications électroniques",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/observatoire-des-marches-des-communications-electroniques-t1-2026-090726.html",
-    "source": "ARCEP",
-    "date": "2026-07-09",
-    "cat": "Plateformes",
-    "desc": "L’Arcep publie le suivi de l’observatoire des marchés des communications électroniques au premier trimestre 2026",
     "auto": true
   }
 ]
