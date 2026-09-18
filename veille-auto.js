@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-17T12:56:09
+// Dernière collecte : 2026-09-18T12:34:28
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1789734844-0",
+    title: "Ordre du jour de la séance plénière du 17 septembre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-17-septembre-2026",
+    source: "CNIL",
+    date: "2026-09-17",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 17 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1789734844-52",
+    title: "The 30 Must-Do Actions for Sustainable IT:Essential and quick-win measures",
+    url: "https://www.cigref.fr/the-30-must-do-actions-for-sustainable-itessential-and-quick-win-measures",
+    source: "CIGREF",
+    date: "2026-09-17",
+    cat: "Contrats IT",
+    desc: "Strategies relating to Digital Responsibility now draw on several years’ experience within large organisations. However, these strategies still face the dual challenge of ensuring their long-term sustainability and scaling them up, particularly in a context where attention to these issues can quickly be diluted by the multitude of other priorities.",
+    auto: true
+  },
+  {
+    id: "auto-1789734844-53",
+    title: "Les 30 « Must Do Actions » du Numérique Responsable : les mesures incontournables et rapidement actionnables",
+    url: "https://www.cigref.fr/les-30-must-do-actions-du-numerique-responsable-les-mesures-incontournables-et-rapidement-actionnables",
+    source: "CIGREF",
+    date: "2026-09-17",
+    cat: "Contrats IT",
+    desc: "Les stratégies liées au Numérique Responsable bénéficient aujourd&#8217;hui de plusieurs années d&#8217;expérience au sein des grandes organisations. Cependant ces stratégies doivent encore relever le double défi de leur pérennisation et de leur passage à l&#8217;échelle, en particulier dans un contexte où l&#8217;attention portée à ces enjeux peut",
+    auto: true
+  },
   {
     id: "auto-1789649743-26",
     title: "Journées européennes du patrimoine - Quelques places à nouveau disponibles !",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 14 July–The EDPB has published its&nbsp; binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*. &nbsp; The decision concerns a &nbsp; dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Televisieomroeporganisatie (VRT) – a public broadcasting company based in Belgium. The com",
     auto: true
   },
-  {
-    id: "auto-1783939979-0",
-    title: "Ciblage et compromission d’entités françaises par le Centre du service fédéral de sécurité de la fédération de Russie (FSB)",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/ciblage-et-compromission-dentites-francaises-par-le-fsb/",
-    source: "ANSSI",
-    date: "2026-07-13",
-    cat: "Cybersécurité",
-    desc: "Depuis 2010, le Centre de coordination des Crises Cyber (C4) a observé le ciblage et la compromission d’entités françaises au […]",
-    auto: true
-  },
-  {
-    id: "auto-1783680397-0",
-    title: "Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation",
-    url: "https://www.cnil.fr/fr/revoir-le-webinaire-nouveau-teleservice-sante-et-recherche-ce-qui-change-pour-vos-demandes",
-    source: "CNIL",
-    date: "2026-07-10",
-    cat: "RGPD",
-    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au&amp;nbsp;nouveau téléservice santé et recherche de la CNIL.",
-    auto: true
-  },
-  {
-    id: "auto-1783680397-1",
-    title: "Travail, ressources humaines : le contrôle de l’activité des personnes employées",
-    url: "https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees",
-    source: "CNIL",
-    date: "2026-07-09",
-    cat: "Contrats IT",
-    desc: "Un employeur a le pouvoir d’encadrer et de contrôler l’activité des membres du personnel ainsi que leur usage des équipements au travail. Il s’agit d’une contrepartie normale et inhérente au contrat de travail. Néanmoins, ce pouvoir ne peut pas être exercé de manière excessive.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-17T12:56:09";
+window.AUTO_VEILLE_UPDATED = "2026-09-18T12:34:28";
