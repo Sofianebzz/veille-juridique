@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1789819879-26",
+    "title": "Journées européennes du patrimoine - COMPLET",
+    "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-complet",
+    "source": "Conseil d'État",
+    "date": "2026-09-17",
+    "cat": "Jurisprudence",
+    "desc": "Les réservations pour les visites sont closes. Une file d’attente vous permettra le jour J de suivre une visite en cas de désistement (sans réservation).",
+    "auto": true
+  },
+  {
     "id": "auto-1789734844-0",
     "title": "Ordre du jour de la séance plénière du 17 septembre 2026",
     "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-17-septembre-2026",
@@ -787,16 +797,6 @@
     "date": "2026-07-16",
     "cat": "Jurisprudence",
     "desc": "Par un jugement du 19 juin 2026, le tribunal judiciaire de Paris a condamné la société productrice du programme de vidéos « Les incorrectibles » diffusé sur Youtube à verser 22 000 € de dommages intérêts à l’association l’« Observatoire du conspirationnisme » pour avoir fait bloquer indûment par Youtube 22 vidéos depuis février 2024. [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "auto-1784109278-38",
-    "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
-    "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
-    "source": "EDPB",
-    "date": "2026-07-14",
-    "cat": "RGPD",
-    "desc": "Brussels, 14 July–The EDPB has published its&nbsp; binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*. &nbsp; The decision concerns a &nbsp; dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Televisieomroeporganisatie (VRT) – a public broadcasting company based in Belgium. The com",
     "auto": true
   }
 ]
