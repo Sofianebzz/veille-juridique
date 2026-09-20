@@ -1,5 +1,335 @@
 [
   {
+    "id": "tech-1789908447-0",
+    "title": "The hidden monopoly behind your TI graphing calculator",
+    "url": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
+    "source": "The Verge",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is joined by The Verge's Nilay Patel and Victoria Song to tell the story of TI graphing [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-1",
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "source": "The Verge",
+    "date": "2026-09-20",
+    "cat": "Sécurité",
+    "desc": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-2",
+    "title": "All roads lead to cable",
+    "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+    "source": "The Verge",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Before Netflix fully committed to [&#",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-16",
+    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "source": "Ars Technica",
+    "date": "2026-09-20",
+    "cat": "Big Tech",
+    "desc": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-17",
+    "title": "T. rex teeth indicate it ran as warm as an elephant",
+    "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+    "source": "Ars Technica",
+    "date": "2026-09-20",
+    "cat": "Hardware",
+    "desc": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-30",
+    "title": "Arnaque au remboursement en cours : attention si vous êtes parti en vacances cet été",
+    "url": "https://www.01net.com/actualites/arnaque-remboursement-cours-attention-parti-vacances-ete.html",
+    "source": "01net",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "Plusieurs semaines après leurs vacances, des vacanciers ont reçu des messages d'arnaque de la part d'hôtels réservés sur Booking. Ces mails promettent le remboursement d'une taxe de séjour facturée en double. Le message, truffé de vraies données de réservation, vise en réalité à voler des coordonnées bancaires de la cible.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-31",
+    "title": "8 000 € pour dire adieu aux câbles : le Porsche Cayenne offre désormais la recharge par induction",
+    "url": "https://www.01net.com/actualites/8-000-euros-plus-avoir-cables-porsche-cayenne-propose-recharge-induction.html",
+    "source": "01net",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "Porsche propose enfin une option très attendue sur le Cayenne électrique. Il s’agit de la recharge par induction permettant de ne plus s’embêter avec les câbles. Le SUV inaugure ainsi cette technologie, mais elle n’est clairement pas donnée…",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-32",
+    "title": "Des robots débarquent dans 30 appartements pour faire le ménage : voici le résultat",
+    "url": "https://www.01net.com/actualites/des-robots-debarquent-dans-30-appartements-pour-faire-le-menage-voici-le-resultat.html",
+    "source": "01net",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "Afin de démontrer les capacités de son nouveau modèle d’IA, Helix 2.5, l’entreprise a réservé 30 logements à San Francisco et y a lâché ses robots Figure 03. Voici les résultats.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-33",
+    "title": "Folie du dimanche : Google vend la version 256 Go du Pixel 10a pour “peanuts” 🥜",
+    "url": "https://www.01net.com/bons-plans/folie-du-dimanche-google-vend-la-version-256-go-du-pixel-10a-pour-peanuts.html",
+    "source": "01net",
+    "date": "2026-09-20",
+    "cat": "Big Tech",
+    "desc": "Il reste moins de 24 heures pour profiter de cette superbe offre qui permet de s'équiper du Pixel 10a en version 256 Go à prix cassé. La remise atteint plus de 200 euros, mais le stock est limité.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-34",
+    "title": "Essai Skoda Epiq : ce petit SUV électrique a tout pour faire un carton",
+    "url": "https://www.01net.com/tests/essai-skoda-epiq-avis.html",
+    "source": "01net",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "Dévoilé dans l’ombre du très imposant Peak, l’Epiq est peut-être la très bonne surprise de Skoda pour cette fin d’année. Ça, c’est pour la théorie. Et en pratique ? On l’a testé pour s’en faire un avis.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-47",
+    "title": "Ce court métrage Metal Gear Solid nous donne envie de voir Snake dans un vrai film d’animation",
+    "url": "https://www.numerama.com/pop-culture/2335867-ce-court-metrage-metal-gear-solid-nous-donne-envie-de-voir-snake-dans-un-vrai-film-danimation.html",
+    "source": "Numerama",
+    "date": "2026-09-20",
+    "cat": "Big Tech",
+    "desc": "Solid Snake nous manque. C'est en tout cas ce que l'on se dit devant cette courte animation mettant en scène le soldat le plus connu des jeux vidéo.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-48",
+    "title": "La Fnac fait tomber l’Oura Ring 4 à 265 € avec la sortie du nouveau modèle",
+    "url": "https://www.numerama.com/tech/2335827-la-fnac-fait-tomber-loura-ring-4-a-265-e-avec-la-sortie-du-nouveau-modele.html",
+    "source": "Numerama",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "[Deal du jour] La bague connectée Oura Ring 4, lancée fin 2024 à 399 €, passe à 265 € à la Fnac. Une baisse de 134 € sur un modèle en titane rarement bradé.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-49",
+    "title": "Pourquoi le retour de Will Smith dans Je suis une légende 2 vire au casse-tête",
+    "url": "https://www.numerama.com/pop-culture/2336107-pourquoi-le-retour-de-will-smith-dans-je-suis-une-legende-2-vire-au-casse-tete.html",
+    "source": "Numerama",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "Quatre ans après l&#8217;annonce triomphale d&#8217;une suite au blockbuster apocalyptique de 2007,&#160;Je suis une légende 2&#160;peine toujours à sortir de l&#8217;enfer du développement. Sorti il y a près de deux décennies,&#160;Je suis une légende&#160;voyait Will Smith déambuler dans un New York dévasté et envahi par des infectés sanguinaires",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-50",
+    "title": "Jours fériés dans l’espace : à quoi les astronautes de l’ISS, comme Sophie Adenot, ont vraiment droit",
+    "url": "https://www.numerama.com/sciences/2331511-jours-feries-dans-lespace-a-quoi-les-astronautes-de-liss-comme-sophie-adenot-ont-vraiment-droit.html",
+    "source": "Numerama",
+    "date": "2026-09-20",
+    "cat": "Numérique & Société",
+    "desc": "Les missions spatiales, comme celle de Sophie Adenot dans l'ISS, ne sont pas de tout repos. Parfois, les astronautes à bord de la station peuvent profiter de jours fériés. Mais ont-ils vraiment le droit de ne rien faire du tout ?",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-3",
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "source": "The Verge",
+    "date": "2026-09-19",
+    "cat": "Big Tech",
+    "desc": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-4",
+    "title": "Trump treads further on free speech with new journalist bans",
+    "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+    "source": "The Verge",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalation in the [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-5",
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "source": "The Verge",
+    "date": "2026-09-19",
+    "cat": "IA & Modèles",
+    "desc": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. Accordin",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-6",
+    "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+    "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+    "source": "The Verge",
+    "date": "2026-09-19",
+    "cat": "Hardware",
+    "desc": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-7",
+    "title": "The colorful, unique Hyte X50 PC case is $50 off",
+    "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+    "source": "The Verge",
+    "date": "2026-09-19",
+    "cat": "Hardware",
+    "desc": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-8",
+    "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "source": "The Verge",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-9",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-10",
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-11",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "cat": "IA & Modèles",
+    "desc": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-12",
+    "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+    "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "cat": "Startups & VC",
+    "desc": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-13",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-14",
+    "title": "AI safety conversations have gotten unbelievable",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-15",
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "cat": "IA & Modèles",
+    "desc": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-51",
+    "title": "Pour la sortie du nouveau film Resident Evil, on a classé tous les films de la saga, du pire au moins pire",
+    "url": "https://www.numerama.com/pop-culture/2333519-pour-la-sortie-du-nouveau-film-resident-evil-on-a-classe-tous-les-films-de-la-saga-du-pire-au-moins-pire.html",
+    "source": "Numerama",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "Pourquoi passer du temps à regarder de bons films ? La vie est trop courte pour se faire plaisir avec de belles images, de jolis cadrages, un montage propre et des actrices et acteurs talentueux. Non, vraiment. Quand la vie vous donne la saga Resident Evil, faites une citronnade. Vous avez compris.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-52",
+    "title": "Ils prédisent l’apocalypse par l’IA, c’est quoi les AI doomers ?",
+    "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
+    "source": "Numerama",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "Né dans la culture meme d'internet, le terme « AI doomer » désigne aujourd'hui un véritable courant de pensée, porté jusque dans les plus grands laboratoires d'IA.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-53",
+    "title": "Une Tesla au bord du vide en FSD, remboursement de Navigo et un camion sans chauffeur livre Lidl: le récap’ Vroom de la semaine",
+    "url": "https://www.numerama.com/vroom/2335871-une-tesla-au-bord-du-vide-en-fsd-remboursement-de-navigo-et-un-camion-sans-chauffeur-livre-lidl-le-recap-vroom-de-la-semaine.html",
+    "source": "Numerama",
+    "date": "2026-09-19",
+    "cat": "Big Tech",
+    "desc": "À la une sur Vroom cette semaine : le Tesla FSD a montré ses capacités de manœuvres complexes sur une route périlleuse, certains voyageurs peuvent se faire rembourser leur pass Navigo et Lidl se fait livrer un magasin par un camion totalement autonome, sans chauffeur à bord.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-54",
+    "title": "Un agent OpenAI s’invente un personnage libre, Revolut piégée par un faux mail et les géants de l’IA qui veulent ralentir : on vous raconte la semaine Cyberguerre",
+    "url": "https://www.numerama.com/cyberguerre/2336053-un-agent-openai-sinvente-un-personnage-libre-revolut-piegee-par-un-faux-mail-et-les-geants-de-lia-qui-veulent-ralentir-on-vous-raconte-la-semaine-cyberguerre.html",
+    "source": "Numerama",
+    "date": "2026-09-19",
+    "cat": "IA & Modèles",
+    "desc": "Trois actualités à retenir cette semaine dans le cyberespace : des agents OpenAI qui apprennent seuls à mentir et à s'affranchir de leurs garde-fous, Revolut piégée par une simple usurpation par mail qui vire au chantage, et l'étrange union sacrée des géants de l'IA autour d'un appel à ralentir.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-55",
+    "title": "Notre cerveau refuse de l’admettre et se trompe lourdement, mais au loto la grille 1-2-3-4-5-6 n’a rien de spécial",
+    "url": "https://www.numerama.com/sciences/2335765-notre-cerveau-refuse-de-ladmettre-et-se-trompe-completement-mais-au-loto-la-grille-1-2-3-4-5-6-na-rien-de-special.html",
+    "source": "Numerama",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "Au loto, le tirage 1-2-3-4-5-6 est tout aussi (peu) probable que 7-13-21-32-45-7. Cela vous paraît-il contre-intuitif ? Découvrez pourquoi notre cerveau juge très mal le hasard. Les sciences cognitives et les probabilités peuvent nous aider à mieux comprendre les jeux de hasard.",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-56",
+    "title": "Pourquoi Pikachu a voyagé dans l’ISS avec Sophie Adenot, et ce que ça change pour les fans de Pokémon",
+    "url": "https://www.numerama.com/sciences/2335725-pourquoi-pikachu-a-voyage-dans-liss-avec-sophie-adenot-et-ce-que-ca-change-pour-les-fans-de-pokemon.html",
+    "source": "Numerama",
+    "date": "2026-09-19",
+    "cat": "Numérique & Société",
+    "desc": "Pokémon s'invite dans l'espace. La célèbre licence a conclu un partenariat avec l'Agence spatiale européenne, en vue d'une série d'événements mêlant les deux univers.",
+    "auto": true
+  },
+  {
     "id": "tech-1789819904-8",
     "title": "India forces caller-ID apps to feed spam reports to telcos",
     "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -147,6 +477,76 @@
     "date": "2026-09-19",
     "cat": "Numérique & Société",
     "desc": "Allons bon. Les murs ont des oreilles ? Pour certains, mieux vaut entendre ça que d’être sourd. Ceci dit, quand on y réfléchit…",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-35",
+    "title": "Perplexity l’emporte en appel contre Amazon",
+    "url": "https://www.silicon.fr/business-1367/amazon-perplexity-appel-229197",
+    "source": "Silicon.fr",
+    "date": "2026-09-18",
+    "cat": "Big Tech",
+    "desc": "Les deux entreprises s'écharpent sur les « accès agentiques » à Amazon via l'assistant IA intégré au navigateur de Perplexity. The post Perplexity l&#8217;emporte en appel contre Amazon appeared first on Silicon.fr .",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-57",
+    "title": "Un de nos serveurs a subi 800 000 attaques en six mois, on vous raconte",
+    "url": "https://next.ink/256946/un-de-nos-serveurs-a-subi-800-000-attaques-en-six-mois-on-vous-raconte/",
+    "source": "Next.ink",
+    "date": "2026-09-18",
+    "cat": "Numérique & Société",
+    "desc": "Sur Internet, les serveurs subissent des attaques non stop, 24/7. Nous en avons laissé un pendant six mois en enregistrant – heure par heure – toutes les tentatives de connexion à distance : plus de 800 000 au total. Nous avons également compilé la liste des mots de passe et des identifiants les plus utilisés [&#8230;]",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-58",
+    "title": "☕️ Linux Mint 23 renforcera sa suite d’applications avec un calendrier et une liseuse",
+    "url": "https://next.ink/brief-article/linux-mint-23-renforcera-sa-suite-dapplications-avec-un-calendrier-et-une-liseuse/",
+    "source": "Next.ink",
+    "date": "2026-09-18",
+    "cat": "Open Source",
+    "desc": "Dans un billet, le développeur principal de Linux Mint, Clément Lefebvre, annonce plusieurs nouveautés, dont la création d’un site dédié aux XApp. Ces dernières sont initialement les applications prévues pour Linux Mint, en reprenant une organisation et une esthétique communes. Le projet a évolué au-delà de Mint depuis et la suite application a mai",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-59",
+    "title": "Chez OpenAI, six nouveaux exemples d’agents « désalignés », dont un s’est servi de Gofile",
+    "url": "https://next.ink/256928/chez-openai-six-nouveaux-exemples-dagents-desalignes-dont-un-sest-servi-de-gofile/",
+    "source": "Next.ink",
+    "date": "2026-09-18",
+    "cat": "IA & Modèles",
+    "desc": "Dans une nouvelle publication, OpenAI évoque de nouveaux engagements sur sa manière de communiquer. L’entreprise promet ainsi de publier systématiquement des rapports quand la situation l’exigera, pour remédier à son irrégularité. Elle commence avec six nouveaux exemples d’agents dont le «&#160;comportement&#160;» a dérapé. Dans son billet du 16 se",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-60",
+    "title": "Meta ajoute de l’IA dans ses abonnements payants avec Meta One",
+    "url": "https://next.ink/256935/meta-ajoute-de-lia-dans-ses-abonnements-payants-avec-meta-one/",
+    "source": "Next.ink",
+    "date": "2026-09-18",
+    "cat": "Big Tech",
+    "desc": "Pas besoin de se soucier des finances de Meta, qui vit très bien de la publicité. Mais le mastodonte des réseaux sociaux aimerait bien créer une autre source de revenus, et les abonnements payants pourraient être cette solution. Beaucoup d&#8217;abonnements payants avec de l&#8217;IA. Après une phase de test débutée en mars et confirmée en [&#8230;",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-61",
+    "title": "☕️ Google ouvre la porte de sa maison connectée aux agents IA",
+    "url": "https://next.ink/brief-article/google-ouvre-la-porte-de-sa-maison-connectee-aux-agents-ia/",
+    "source": "Next.ink",
+    "date": "2026-09-18",
+    "cat": "IA & Modèles",
+    "desc": "Voyons voir, qu&#8217;est-ce qui pourrait mal tourner ? Google a annoncé l&#8217;ouverture de sa plateforme domotique Home aux agents IA compatibles avec le Model Context Protocol (MCP). Cela signifie qu&#8217;un agent autre que Gemini (Claude, OpenClaw, Hermes, un agent conçu avec la plateforme Google Antigravity, ou autres) peut interagir avec le",
+    "auto": true
+  },
+  {
+    "id": "tech-1789908447-62",
+    "title": "☕️ Pour entraîner Grok, SpaceXAI voudrait racheter les données de startups en difficulté",
+    "url": "https://next.ink/brief-article/pour-entrainer-grok-spacexai-voudrait-racheter-les-donnees-de-startups-en-difficulte/",
+    "source": "Next.ink",
+    "date": "2026-09-18",
+    "cat": "Startups & VC",
+    "desc": "Maintenant que les acteurs de l&#8217;IA ont consciencieusement collecté (certains diront pillé) tous les contenus possibles et imaginables sur le web ouvert et même fermé, il faut bien trouver des données ailleurs pour continuer à entraîner les modèles IA. SpaceXAI pourrait acquérir ces trésors auprès de startups en difficulté ou ayant cessé leurs",
     "auto": true
   },
   {
@@ -397,406 +797,6 @@
     "date": "2026-09-18",
     "cat": "Numérique & Société",
     "desc": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-28",
-    "title": "US government website used Chinese model the FBI called \"malicious\"",
-    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "source": "Ars Technica",
-    "date": "2026-09-18",
-    "cat": "Open Source",
-    "desc": "The Federal Register website briefly used an open source Chinese AI search tool.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-29",
-    "title": "Meet the winner of Nikon's Small World in Motion video contest",
-    "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-    "source": "Ars Technica",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-30",
-    "title": "Researchers used Claude to hack OpenAI",
-    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-    "source": "Ars Technica",
-    "date": "2026-09-18",
-    "cat": "IA & Modèles",
-    "desc": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-45",
-    "title": "Garmin Forerunner 265 : -51% ce week-end, une belle affaire pour les vrais sportifs",
-    "url": "https://www.01net.com/bons-plans/garmin-forerunner-265-51-ce-week-end-une-belle-affaire-pour-les-vrais-sportifs.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Hardware",
-    "desc": "Jusqu'à dimanche soir, vous avez une belle opportunité pour vous équiper de la Garmin Forerunner 265 pour plus de la moitié de son prix.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-46",
-    "title": "Xiaomi s’est gouré : il vend le dernier Poco X8 Pro au prix du modèle d’il y a 2 ans 😱",
-    "url": "https://www.01net.com/bons-plans/xiaomi-sest-goure-il-vend-le-dernier-poco-x8-pro-au-prix-du-modele-dil-y-a-2-ans.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "La French Week touche bientôt à sa fin sur AliExpress. Il reste encore d'excellentes affaires à réaliser, notamment sur les smartphones.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-47",
-    "title": "HONOR Magic V5 : bradé à -52 %, il n’a pourtant rien d’un smartphone au rabais, bien au contraire",
-    "url": "https://www.01net.com/bons-plans/honor-magic-v5-brade-a-52-il-na-pourtant-rien-dun-smartphone-au-rabais-bien-au-contraire.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Le Magic V5 se vendait 1 999 euros à sa sortie. En ce moment, on le trouve à 1 299 euros sur le site officiel de la marque. Mais c'est encore 333 euros de plus que l'offre proposée par AliExpress.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-48",
-    "title": "Lunettes connectées : suite à plusieurs plaintes pour harcèlement sexuel, la France lance une enquête",
-    "url": "https://www.01net.com/actualites/lunettes-connectees-suite-a-plusieurs-plaintes-pour-harcelement-sexuel-la-france-lance-une-enquete.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Le parquet de Paris a ouvert une enquête pénale sur les lunettes connectées. L'enquête découle d'une série de plaintes pour harcèlement sexuel. Des individus ont filmé des femmes dans la rue sans leur consentement.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-49",
-    "title": "Le casque à conduction osseuse Shokz à prix cassé : AliExpress le dégomme ce week-end 🥊",
-    "url": "https://www.01net.com/bons-plans/le-casque-a-conduction-osseuse-shokz-a-prix-casse-aliexpress-le-degomme-ce-week-end.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Si vous êtes amateur de sport, vous connaissez probablement déjà Shokz et ses casques à conduction osseuse. Leur conception à oreille ouverte permet d’écouter de la musique tout en restant conscient de ce qui se passe autour de soi. Et pour les derniers jours de la French Week sur AliExpress, le Shokz OpenRun Pro 2 profite d'une remise qui permet d",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-50",
-    "title": "iPhone 18 Pro : on a passé la nouvelle Dynamic Island sous le microscope et voici ce qu’on a découvert",
-    "url": "https://www.01net.com/actualites/iphone-18-pro-on-a-passe-la-nouvelle-dynamic-island-sous-le-microscope-et-voici-ce-quon-a-decouvert.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Le 01lab a passé l'écran de l'iPhone 18 Pro sous le microscope. De quoi voir les sous-pixels de l'écran et faire une découverte étonnante : le capteur infrarouge, obligatoire pour Face ID a été sorti de la Dynamic Island.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-51",
-    "title": "Bon plan : les dernières versions de Microsoft Office 2024 et Windows 11 à partir de 12,25 €",
-    "url": "https://www.01net.com/bons-plans/bon-plan-les-dernieres-versions-de-microsoft-office-2024-et-windows-11-a-partir-de-1225-e.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "Pas besoin de multiplier les abonnements pour équiper correctement son PC. Godeal24 propose actuellement Microsoft Office 2024 Professional à 19,99 € et Windows 11 Pro à 12,25 €, avec des licences perpétuelles que vous achetez une seule fois. Une solution simple pour disposer de ses logiciels sans avoir à payer tous les mois.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-52",
-    "title": "Xiaomi se lâche complet : il pulvérise le prix du 17T Pro sans aucune explication 🤯",
-    "url": "https://www.01net.com/bons-plans/xiaomi-pete-les-plombs-il-pulverise-le-prix-du-17t-pro-sans-aucune-explication.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Dans un peu plus de 48 heures, AliExpress fermera les portes de sa grande opération French Week. En attendant, le Xiaomi 17T Pro est encore disponible à prix cassé pour toutes celles et ceux que ça intéresse.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-53",
-    "title": "L’IA rebat les cartes du pricing des services IT en Inde",
-    "url": "https://www.silicon.fr/business-1367/ia-rebat-les-cartes-du-pricing-des-services-it-en-inde-229075",
-    "source": "Silicon.fr",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Sous la pression des clients, les géants indiens du service IT abandonnent le forfait jour au profit de contrats indexés sur les résultats de l'IA. Quitte à redéployer des dizaines de milliers d'ingénieurs. The post L&rsquo;IA rebat les cartes du pricing des services IT en Inde appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-54",
-    "title": "Comment Microsoft articule la « code de conduite » qui va gouverner ses IA",
-    "url": "https://www.silicon.fr/uncategorized/microsoft-code-conduite-ia-229200",
-    "source": "Silicon.fr",
-    "date": "2026-09-18",
-    "cat": "IA & Modèles",
-    "desc": "Sur le même principe que la Constitution d'Anthropic, Microsoft esquisse un « texte suprême » pour cadrer ses modèles. The post Comment Microsoft articule la « code de conduite » qui va gouverner ses IA appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-55",
-    "title": "Anthropic et OpenAI accélèrent leur course aux « workbenches » scientifiques",
-    "url": "https://www.silicon.fr/uncategorized/anthropic-et-openai-accelerent-leur-course-aux-workbenches-scientifiques-229203",
-    "source": "Silicon.fr",
-    "date": "2026-09-18",
-    "cat": "IA & Modèles",
-    "desc": "Entre Claude Science et GPT-Rosalind, Anthropic et OpenAI se livrent une bataille frontale pour devenir l'infrastructure IA de référence de la recherche pharmaceutique. The post Anthropic et OpenAI accélèrent leur course aux « workbenches » scientifiques appeared first on Silicon.fr .",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-68",
-    "title": "Sophie Adenot a une peluche Pikachu dans l’ISS, et ce n’est pas pour devenir la meilleure dresseuse",
-    "url": "https://www.numerama.com/sciences/2335725-sophie-adenot-a-une-peluche-pikachu-dans-liss-et-ce-nest-pas-pour-devenir-la-meilleure-dresseuse.html",
-    "source": "Numerama",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Pokémon s'invite dans l'espace. La célèbre licence a conclu un partenariat avec l'Agence spatiale européenne, en vue d'une série d'événements mêlant les deux univers.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-69",
-    "title": "La Game Boy en Lego perd près d’un tiers de son prix : difficile de ne pas être nostalgique",
-    "url": "https://www.numerama.com/pop-culture/2058629-la-game-boy-en-lego-perd-pres-dun-tiers-de-son-prix-difficile-de-ne-pas-etre-nostalgique.html",
-    "source": "Numerama",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "Retrouver la Game Boy de son enfance, pièce après pièce : voilà le programme de ce set Lego qui reproduit la console portable de Nintendo. Amazon le propose à 40,99 € au lieu de 59,99 €, soit 19 € de moins pour succomber à la nostalgie.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-70",
-    "title": "Quel iPhone acheter en 2026 ? Ceux qui valent leur prix, ceux qu’on vous déconseille",
-    "url": "https://www.numerama.com/tech/288962-guide-dachat-meilleur-iphone-a-acheter.html",
-    "source": "Numerama",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Le meilleur iPhone et celui qu’on vous conseille d’acheter ne sont pas toujours les mêmes. Du reconditionné aux nouveaux iPhone 18 Pro et Duo, Numerama vous aide à choisir le meilleur iPhone pour vos besoins en 2026, avec un œil sur le prix et l’autre sur les concessions.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-71",
-    "title": "Boulanger fait tomber le clavier Logitech MX Keys S sous la barre des 50 €",
-    "url": "https://www.numerama.com/tech/2335761-amazon-fait-tomber-le-clavier-logitech-mx-keys-s-sous-la-barre-des-50-e.html",
-    "source": "Numerama",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "[Deal du jour] Le clavier sans fil Logitech MX Keys S descend à 49,99 € sur Boulanger, contre 89,90 € en temps normal. Un tarif rare pour ce clavier pensé pour la bureautique et le télétravail.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-72",
-    "title": "Test de Control Resonant, le nouveau chef-d’œuvre de Remedy",
-    "url": "https://www.numerama.com/pop-culture/2335251-test-de-control-resonant-le-nouveau-chef-doeuvre-de-remedy.html",
-    "source": "Numerama",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Avec Control Resonant, Remedy Entertainment propose une nouvelle masterclass. Un plongeon enivrant dans un univers singulier, enrobant une expérience qu'on ne verra nulle part ailleurs. Si Control était l'ébauche d'un univers, cette suite en est la pure consécration. Notre test.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-73",
-    "title": "Devinez quel personnage joue Madds mikkelsen dans le prochain Call of Duty",
-    "url": "https://www.numerama.com/pop-culture/2335755-devinez-quel-personnage-joue-madds-mikkelsen-dans-le-prochain-call-of-duty.html",
-    "source": "Numerama",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Mads Mikkelsen s’apprête à reprendre du service dans un jeu vidéo. Après Death Stranding, l’acteur danois rejoint la campagne de Call of Duty: Modern Warfare 4 dans le rôle d’un mystérieux antagoniste.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-75",
-    "title": "« Un vol d’une ampleur sans précédent » : les documents qui fragilisent OpenAI",
-    "url": "https://next.ink/257017/un-vol-dune-ampleur-sans-precedent-les-documents-qui-fragilisent-openai/",
-    "source": "Next.ink",
-    "date": "2026-09-18",
-    "cat": "IA & Modèles",
-    "desc": "«&#160;Le plus grand vol de travail de l’histoire de l’humanité »&#160;: cette déclaration reprise par le New York Times dans sa procédure en justice contre OpenAI résonne particulièrement fort puisqu’elle émane de Brent Hecht, directeur scientifique de Microsoft. Dans un mémoire de synthèse remis à la justice, l&#8217;éditeur du célèbre quotidien ",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-76",
-    "title": "☕️ Lunettes connectées : le parquet de Paris ouvre une enquête pour harcèlement sexuel",
-    "url": "https://next.ink/brief-article/lunettes-connectees-le-parquet-de-paris-ouvre-une-enquete-pour-harcelement-sexuel/",
-    "source": "Next.ink",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Le parquet de Paris a ouvert « au moins » une enquête pénale suite à des plaintes pour harcèlement sexuel impliquant des lunettes connectées, selon Reuters. Ces appareils et leur caméra intégrée auraient été utilisées pour filmer des femmes dans la rue à leur insu. Les vidéos ont ensuite été publiées sur internet, sans le [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-77",
-    "title": "GrapheneOS déplore l’attitude de Google sur les correctifs de sécurité d’Android",
-    "url": "https://next.ink/256965/grapheneos-deplore-lattitude-de-google-sur-les-correctifs-de-securite-dandroid/",
-    "source": "Next.ink",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "L’équipe de GrapheneOS n’est pas contente. Le nouveau rythme de parution des mises à jour d’Android laisse le système alternatif sur le bord de la route un trimestre sur deux. Dans un fil sur les réseaux sociaux, elle explique les problèmes auxquels elle fait face. «&#160;Android 17 QPR1 est la première version depuis Android Honeycomb [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-78",
-    "title": "☕️ Amazon met fin à la livraison gratuite des livres en consignes automatiques",
-    "url": "https://next.ink/brief-article/amazon-met-fin-a-la-livraison-gratuite-des-livres-en-consignes-automatiques/",
-    "source": "Next.ink",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "Amazon vient de faire une petite concession à ses adversaires dans la bataille qui l&#8217;oppose depuis deux ans aux acteurs de la vente de livres, librairies et grandes surfaces spécialisées. Un porte-parole de la branche française de l&#8217;entreprise a en effet déclaré au Figaro qu&#8217;elle allait mettre un terme à la livraison gratuite de l",
-    "auto": true
-  },
-  {
-    "id": "tech-1789819904-79",
-    "title": "Ablation, ablitération : c’est quoi cette technique pour « débrider » les IA génératives ?",
-    "url": "https://next.ink/256777/ablation-abliteration-cest-quoi-cette-technique-pour-debrider-les-ia-generatives/",
-    "source": "Next.ink",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Ablitérer un modèle de langage permet de supprimer une (plus ou moins grande) partie des protections contre des demandes qu’il juge déplacées, dangereuses ou malveillantes. Mais comment ça fonctionne exactement ? Quelles sont les conséquences ? Next vous explique. L&#8217;entraînement des IA génératives se fait en plusieurs étapes. La première cons",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-0",
-    "title": "Flash floods can strike without warning — this new technology could change that",
-    "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-    "source": "The Verge",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-1",
-    "title": "Waymo says Singapore will be its next international robotaxi city",
-    "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-    "source": "The Verge",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says ",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-10",
-    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-    "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-    "source": "TechCrunch",
-    "date": "2026-09-18",
-    "cat": "Startups & VC",
-    "desc": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-36",
-    "title": "The Download: AI’s extinction risk and bioweapons threat",
-    "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-    "source": "MIT Tech Review",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-37",
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "source": "MIT Tech Review",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-38",
-    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "source": "MIT Tech Review",
-    "date": "2026-09-18",
-    "cat": "IA & Modèles",
-    "desc": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-42",
-    "title": "Ce nouveau télescope de la NASA va chercher des milliers de planètes dans l’univers",
-    "url": "https://www.01net.com/actualites/ce-nouveau-telescope-de-la-nasa-va-chercher-des-milliers-de-planetes-dans-lunivers.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Sécurité",
-    "desc": "Le télescope spatial Roman est en route vers le point de Lagrange L2, à environ 1,6 million de kilomètres de la Terre. Il aura notamment pour mission de cartographier l’Univers et de découvrir des exoplanètes. Pour y parvenir, le télescope exploitera notamment les effets de la gravité. Prévue pour durer 5 ans, sa mission pourrait finalement s’étend",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-43",
-    "title": "Smartphones pliants : l’effet Apple est là, et Samsung en profite… deux fois",
-    "url": "https://www.01net.com/actualites/smartphones-pliants-leffet-apple-est-la-et-samsung-en-profite-deux-fois.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "La sortie de l'iPhone Duo a relancé les ventes du Samsung Galaxy Z Fold 8 en Corée du Sud. Samsung profite de la situation à deux échelles en tant que fournisseur d'Apple.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-44",
-    "title": "Mastercard offre des cartes bancaires aux IA pour dépenser votre argent",
-    "url": "https://www.01net.com/actualites/mastercard-offre-des-cartes-bancaires-aux-ia-pour-depenser-votre-argent.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Confier sa carte à un inconnu reste une mauvaise idée. La confier à un agent d'intelligence artificielle devient un produit officiel chez Mastercard. Les garde-fous, eux, semblent encore écrits au crayon à papier.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-45",
-    "title": "Xiaomi 15T Pro : deal de FOLIE à saisir sur ce best-seller en puissance (-44%) ⚡️",
-    "url": "https://www.01net.com/bons-plans/xiaomi-15t-pro-deal-de-folie-a-saisir-rapidement-sur-ce-best-seller-en-puissance.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Dans 6 jours, le Xiaomi 15T Pro soufflera sa première bougie. Il n'est peut-être pas le dernier modèle en date, mais à ce prix cassé sur AliExpress, il vole la vedette au dernier 17T Pro.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-46",
-    "title": "L’iPhone 18 Pro est trop cher ? Vous n’êtes pas prêts pour la suite",
-    "url": "https://www.01net.com/actualites/liphone-18-pro-est-trop-cher-vous-netes-pas-prets-pour-la-suite.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "Apple aurait passé commande pour approvisionner en mémoire son iPhone 18 Pro au premier trimestre, avec une hausse des coûts entre 30 et 40 % par rapport par rapport au trimestre actuel, et même de 400% d'une année sur l'autre pour le stockage. Une situation qui annonce des négociations musclées pour les concurrents sous Android.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-47",
-    "title": "Révolutionnez le ménage chez vous : cet aspirateur robot tout-en-un est à -72%",
-    "url": "https://www.01net.com/bons-plans/revolutionnez-le-menage-chez-vous-cet-aspirateur-robot-tout-en-un-est-a-72.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "Si vous voulez vous simplifier la vie à l’occasion de la rentrée, c’est maintenant ou jamais.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-48",
-    "title": "iPhone 18 Pro, Apple Watch 12, AirPods 5… : une mise à jour obligatoire vous attend dès le déballage",
-    "url": "https://www.01net.com/actualites/iphone-18-pro-apple-watch-12-airpods-5-mise-jour-obligatoire-attend-deballage.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "Dès aujourd'hui, Apple commercialise l'iPhone 18 Pro, l'iPhone 18 Pro Max, l'Apple Watch Series 12, la Watch Ultra 4 et les AirPods 5. Si vous achetez l'un de ces appareils, ou si vous comptez le faire, il faudra inévitablement effectuer une importante mise à jour logicielle.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-49",
-    "title": "Mauvaise nouvelle si vous achetez des livres sur Amazon",
-    "url": "https://www.01net.com/actualites/amazon-met-fin-livraison-gratuite-livres-dans-lockers.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Big Tech",
-    "desc": "Amazon met fin à la réduction de 5 % et à la livraison gratuite des livres neufs dans ses casiers automatisés (lockers) en France. Le géant du commerce en ligne cherche à calmer un conflit de près de deux ans avec la Fnac, Cultura et les libraires.",
-    "auto": true
-  },
-  {
-    "id": "tech-1789734868-50",
-    "title": "La Redmi Pad 2 est vendue une misère : Xiaomi vide le stock et la fait à -65%",
-    "url": "https://www.01net.com/bons-plans/la-redmi-pad-2-est-vendue-une-misere-xiaomi-vide-le-stock-et-la-fait-a-65.html",
-    "source": "01net",
-    "date": "2026-09-18",
-    "cat": "Numérique & Société",
-    "desc": "La Xiaomi Pad 2 en version 256 Go profite d'une réduction folle à l'occasion des derniers jours de la French Week sur AliExpress.",
     "auto": true
   }
 ]
