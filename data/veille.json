@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1790001872-40",
+    "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
+    "url": "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
+    "source": "EDPB",
+    "date": "2026-09-21",
+    "cat": "Plateformes",
+    "desc": "Brussels, 21 September – During its latest plenary, the EDPB has adopted guidelines on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR and the final version of its guidelines on the interplay between the Digital Services Act (DSA) and the GDPR. The new EDPB guidelines are a major ste",
+    "auto": true
+  },
+  {
+    "id": "auto-1790001872-26",
+    "title": "Journées européennes du patrimoine 2026 : 4500 visiteurs ont découvert le Conseil d'Etat",
+    "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-2026-4500-visiteurs-ont-decouvert-le-conseil-d-etat",
+    "source": "Conseil d'État",
+    "date": "2026-09-20",
+    "cat": "Jurisprudence",
+    "desc": "Le Conseil d’État a accueilli plus de 4500 visiteurs à l’occasion des Journées européennes du patrimoine organisées les 19 et 20 septembre 2026.",
+    "auto": true
+  },
+  {
     "id": "auto-1789819879-26",
     "title": "Journées européennes du patrimoine - COMPLET",
     "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-complet",
@@ -777,26 +797,6 @@
     "date": "2026-07-17",
     "cat": "RGPD",
     "desc": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also discussed how to further expand efforts to support a consistent application of the General Data Protection Regu",
-    "auto": true
-  },
-  {
-    "id": "auto-1784544245-0",
-    "title": "Ordre du jour de la séance plénière du 16 juillet 2026",
-    "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-16-juillet-2026",
-    "source": "CNIL",
-    "date": "2026-07-16",
-    "cat": "RGPD",
-    "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 16 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    "auto": true
-  },
-  {
-    "id": "auto-1784281807-37",
-    "title": "Condamnée par avoir fait indûment bloquer des vidéos",
-    "url": "https://www.legalis.net/actualite/condamnee-par-avoir-fait-indument-bloquer-des-videos/",
-    "source": "Legalis",
-    "date": "2026-07-16",
-    "cat": "Jurisprudence",
-    "desc": "Par un jugement du 19 juin 2026, le tribunal judiciaire de Paris a condamné la société productrice du programme de vidéos « Les incorrectibles » diffusé sur Youtube à verser 22 000 € de dommages intérêts à l’association l’« Observatoire du conspirationnisme » pour avoir fait bloquer indûment par Youtube 22 vidéos depuis février 2024. [&#8230;]",
     "auto": true
   }
 ]
