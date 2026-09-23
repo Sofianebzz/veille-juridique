@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-1790169131-39",
+    "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+    "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
+    "source": "EDPB",
+    "date": "2026-09-23",
+    "cat": "RGPD",
+    "desc": "Background information Date of final decision: 21 September 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to ",
+    "auto": true
+  },
+  {
+    "id": "auto-1790169131-52",
+    "title": "Responsible Digital KPI Framework: A common set of metrics for managing the impacts of digital technology",
+    "url": "https://www.cigref.fr/responsible-digital-kpi-framework-a-common-set-of-metrics-for-managing-the-impacts-of-digital-technology",
+    "source": "CIGREF",
+    "date": "2026-09-23",
+    "cat": "Contrats IT",
+    "desc": "Cigref has published a Responsible Digital KPI Framework, designed to help large organisations move from making commitments to the practical management of their initiatives. Download the presentation booklet for the Excel tool The challenges of management: moving from commitment to operational measurement The result of work carried out by the ‘Digi",
+    "auto": true
+  },
+  {
+    "id": "auto-1790169131-53",
+    "title": "Référentiel de KPI Numérique Responsable : un socle commun de métriques pour piloter les impacts du numérique",
+    "url": "https://www.cigref.fr/referentiel-de-kpi-numerique-responsable-un-socle-commun-de-metriques-pour-piloter-les-impacts-du-numerique",
+    "source": "CIGREF",
+    "date": "2026-09-23",
+    "cat": "Contrats IT",
+    "desc": "Le Cigref publie un Référentiel de KPI Numérique Responsable, conçu pour aider les grandes organisations à passer des engagements au pilotage concret de leurs démarches.&#160; Télécharger le livret de présentation de l’outil Excel. Les enjeux du pilotage : passer de l&#8217;engagement à la mesure opérationnelle Fruit des travaux du groupe « Métriqu",
+    "auto": true
+  },
+  {
     "id": "auto-1790081956-40",
     "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
     "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
@@ -767,36 +797,6 @@
     "date": "2026-07-21",
     "cat": "Cybersécurité",
     "desc": "À l’occasion de la publication de sa nouvelle note d’information et d’actualité intitulée « Sécurité numérique et IA : mutations de la menace et perspectives », le Cigref dresse un diagnostic sur la transformation du paysage de la menace cyber. L’industrialisation des attaques à la « vitesse machine » et les tensions géopolitiques autour des [&#823",
-    "auto": true
-  },
-  {
-    "id": "auto-1784629141-2",
-    "title": "Exigences du CRA : Processus de notification pour les organismes notifiés",
-    "url": "http://cyber.sites.beta.gouv.fr/actualites/exigences-du-cra-processus-de-notification-pour-les-organismes-notifies/",
-    "source": "ANSSI",
-    "date": "2026-07-21",
-    "cat": "Cybersécurité",
-    "desc": "Dans un contexte marqué par l’exploitation croissante de vulnérabilités affectant des produits numériques ayant un niveau de cybersécurité insuffisant, le […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1784629141-0",
-    "title": "Le CEPD demande une base légale pour le partage d’informations entre régulateurs",
-    "url": "https://www.cnil.fr/fr/cepd-base-juridique-interregulation",
-    "source": "CNIL",
-    "date": "2026-07-20",
-    "cat": "RGPD",
-    "desc": "Lors d’une réunion à haut niveau qui s’est tenue à Dublin les 16 et 17 juillet 2026, le Comité européen de la protection des données (CEPD) a plaidé en faveur d’une base légale claire pour le partage d’informations entre les régulateurs ayant des compétences différentes.",
-    "auto": true
-  },
-  {
-    "id": "auto-1784629141-1",
-    "title": "IA agentique et données personnelles : la CNIL et le Conseil de l’IA et du Numérique publient une note exploratoire",
-    "url": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
-    "source": "CNIL",
-    "date": "2026-07-20",
-    "cat": "RGPD",
-    "desc": "Les innovations à l’ère de l’IA générative se poursuivent avec la démocratisation de l’IA agentique, désormais capable d’agir sur son environnement à la place de son utilisateur. La délégation des tâches qui lui sont confiées, facilitée par des interactions hyperpersonnalisées, implique des chaînes de traitement complexes, parfois opaques. Dans une",
     "auto": true
   }
 ]
