@@ -1,6 +1,46 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-23T13:12:29
+// Dernière collecte : 2026-09-24T13:04:30
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1790255051-0",
+    title: "Ordre du jour de la séance plénière du 24 septembre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-24-septembre-2026",
+    source: "CNIL",
+    date: "2026-09-24",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 24 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1790255051-1",
+    title: "Clôture de l’injonction prononcée à l’encontre de la société SOLOCAL MARKETING SERVICES",
+    url: "https://www.cnil.fr/fr/cloture-injonction-solocal-marketing-services",
+    source: "CNIL",
+    date: "2026-09-24",
+    cat: "RGPD",
+    desc: "Par délibération du 17 septembre 2026, la CNIL a clôturé l’injonction prononcée le 15&amp;nbsp;mai 2025 à l’encontre de la société SOLOCAL MARKETING SERVICES.",
+    auto: true
+  },
+  {
+    id: "auto-1790255051-2",
+    title: "Amendes RGPD et interaction avec le règlement sur les services numériques : retour sur la plénière du CEPD du 17 septembre 2026",
+    url: "https://www.cnil.fr/fr/pleniere-cepd-amendes-reglement-services-numeriques",
+    source: "CNIL",
+    date: "2026-09-23",
+    cat: "RGPD",
+    desc: "Le 17 septembre 2026, le CEPD a adopté des lignes directrices sur le pouvoir des autorités de protection des données d’infliger des amendes administratives et la version finale de ses lignes directrices sur l'interaction entre le règlement sur les services numériques (DSA) et le RGPD.",
+    auto: true
+  },
+  {
+    id: "auto-1790255051-4",
+    title: "Cyber Résilience Act : l'ANSSI, l'ANFR et la DGE accompagnent les fabricants dans la conformité des produits numériques",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/cra-lanssi-lanfr-et-la-dge-accompagnent-les-fabricants-dans-la-conformite-des-produits-numeriques/",
+    source: "ANSSI",
+    date: "2026-09-23",
+    cat: "Cybersécurité",
+    desc: "L'ANSSI, l'ANFR et la DGE ont coorganisé un évènement autour du Cyber Resilient Act (CRA) afin d'accompagner les fabricants dans la mise en conformité des produits numériques aux exigences du CRA",
+    auto: true
+  },
   {
     id: "auto-1790169131-39",
     title: "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
@@ -59,6 +99,16 @@ window.AUTO_VEILLE = [
     date: "2026-09-20",
     cat: "Jurisprudence",
     desc: "Le Conseil d’État a accueilli plus de 4500 visiteurs à l’occasion des Journées européennes du patrimoine organisées les 19 et 20 septembre 2026.",
+    auto: true
+  },
+  {
+    id: "auto-1790255051-3",
+    title: "Statut et organisation de la CNIL",
+    url: "https://www.cnil.fr/fr/fonctionnement/statut-et-organisation-de-la-cnil",
+    source: "CNIL",
+    date: "2026-09-17",
+    cat: "RGPD",
+    desc: "Créée en 1978 par la loi Informatique et Libertés, la CNIL est une autorité administrative indépendante, composée d’un Collège de 18 membres et d’une équipe d’agents contractuels de l’État.",
     auto: true
   },
   {
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "C&#039;est avec une profonde tristesse que les membres et agents du Conseil d’État ont appris le décès de Philippe Josse, président de la section des finances, survenu le dimanche 19 juillet.",
     auto: true
   },
-  {
-    id: "auto-1784715540-0",
-    title: "Revoir le webinaire - Fournisseurs et prestataires de l’écosystème « pixels » : comment implémenter la recommandation CNIL ?",
-    url: "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-fournisseurs-prestataires",
-    source: "CNIL",
-    date: "2026-07-22",
-    cat: "RGPD",
-    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
-    auto: true
-  },
-  {
-    id: "auto-1784715540-1",
-    title: "Questions-réponses - recommandation relative aux pixels dans les courriers électroniques de la CNIL",
-    url: "https://www.cnil.fr/fr/faq-recommandation-pixels-courriers-electroniques",
-    source: "CNIL",
-    date: "2026-07-22",
-    cat: "RGPD",
-    desc: "La CNIL répond aux principales interrogations des professionnels sur la mise en œuvre de sa recommandation sur les pixels.",
-    auto: true
-  },
-  {
-    id: "auto-1784715540-2",
-    title: "Ordre du jour de la séance plénière du 21 juillet 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-juillet-2026",
-    source: "CNIL",
-    date: "2026-07-21",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 21 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1784715540-27",
-    title: "Réseaux en fibre optique",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/reseaux-en-fibre-optique-210726.html",
-    source: "ARCEP",
-    date: "2026-07-21",
-    cat: "Plateformes",
-    desc: "L’Arcep publie la huitième édition de son observatoire sur la qualité des réseaux en fibre optique",
-    auto: true
-  },
-  {
-    id: "auto-1784715540-51",
-    title: "Sécurité numérique et intelligence artificielle : mutations de la menace et perspectives",
-    url: "https://www.cigref.fr/securite-numerique-et-intelligence-artificielle-mutations-de-la-menace-et-perspectives",
-    source: "CIGREF",
-    date: "2026-07-21",
-    cat: "Cybersécurité",
-    desc: "À l’occasion de la publication de sa nouvelle note d’information et d’actualité intitulée « Sécurité numérique et IA : mutations de la menace et perspectives », le Cigref dresse un diagnostic sur la transformation du paysage de la menace cyber. L’industrialisation des attaques à la « vitesse machine » et les tensions géopolitiques autour des [&#823",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-23T13:12:29";
+window.AUTO_VEILLE_UPDATED = "2026-09-24T13:04:30";
