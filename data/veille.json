@@ -1,5 +1,45 @@
 [
   {
+    "id": "auto-1790341725-29",
+    "title": "Le Conseil d’État poursuit ses échanges avec la Cour suprême du Bénin",
+    "url": "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-poursuit-ses-echanges-avec-la-cour-supreme-du-benin",
+    "source": "Conseil d'État",
+    "date": "2026-09-25",
+    "cat": "Jurisprudence",
+    "desc": "Dans le cadre de la coopération que le Conseil d’État entretient avec ses homologues des cours suprêmes, Marc Guillaume, vice-président, a reçu Victor Dassi Adossou, président de la Cour Suprême béninoise* et Ibrahim David Salami, président de la chambre administrative de la Cour.",
+    "auto": true
+  },
+  {
+    "id": "auto-1790341725-26",
+    "title": "Couverture mobile",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-240926.html",
+    "source": "ARCEP",
+    "date": "2026-09-24",
+    "cat": "Plateformes",
+    "desc": "L’Arcep publie les données trimestrielles de couverture mobile au second semestre 2026",
+    "auto": true
+  },
+  {
+    "id": "auto-1790341725-27",
+    "title": "Extinction des réseaux mobiles 2G et 3G",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/extinction-des-reseaux-mobiles-2g-et-3g-240926.html",
+    "source": "ARCEP",
+    "date": "2026-09-24",
+    "cat": "Plateformes",
+    "desc": "1,7 millions de terminaux 2G étaient encore actifs fin juin 2026",
+    "auto": true
+  },
+  {
+    "id": "auto-1790341725-28",
+    "title": "Décision n° 2026-1221 QPC du 24 septembre 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261221QPC.htm",
+    "source": "Conseil constitutionnel",
+    "date": "2026-09-24",
+    "cat": "Cybersécurité",
+    "desc": "M. Colas A. [Procédure particulière de déposition des personnels de certains services ou unités spécialisés sans révélation de leur identité]",
+    "auto": true
+  },
+  {
     "id": "auto-1790255051-0",
     "title": "Ordre du jour de la séance plénière du 24 septembre 2026",
     "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-24-septembre-2026",
@@ -247,6 +287,16 @@
     "date": "2026-09-11",
     "cat": "RGPD",
     "desc": "Background information Date of final decision: 21 July 2026 National case Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 17 (Right to erasure ‘right to be forgotten’) Decision: Administrative fine Key words: Data subject rights Summary of the Decisio",
+    "auto": true
+  },
+  {
+    "id": "auto-1790341725-30",
+    "title": "Participation du Conseil d’État aux 20e Journées juridiques et administratives franco-croates",
+    "url": "https://www.conseil-etat.fr/actualites/participation-du-conseil-d-etat-aux-20e-journees-juridiques-et-administratives-franco-croates",
+    "source": "Conseil d'État",
+    "date": "2026-09-10",
+    "cat": "Jurisprudence",
+    "desc": "",
     "auto": true
   },
   {
@@ -747,56 +797,6 @@
     "date": "2026-07-23",
     "cat": "Plateformes",
     "desc": "Au 31 décembre 2025, près des trois quarts des abonnements internet sont en fibre optique de bout en bout en outre-mer.",
-    "auto": true
-  },
-  {
-    "id": "auto-1784887799-26",
-    "title": "Audiovisuel et TNT",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/audiovisuel-et-tnt-230726.html",
-    "source": "ARCEP",
-    "date": "2026-07-23",
-    "cat": "Jurisprudence",
-    "desc": "Nouveau cycle de régulation du marché de gros amont des services de diffusion hertzienne terrestre de programmes télévisuels : l’Arcep lance une consultation publique sur le projet de décision",
-    "auto": true
-  },
-  {
-    "id": "auto-1784887799-51",
-    "title": "Digital accessibility: Organising, managing and equipping large organisations for scaling up",
-    "url": "https://www.cigref.fr/digital-accessibility-organising-managing-and-equipping-large-organisations-for-scaling-up",
-    "source": "CIGREF",
-    "date": "2026-07-23",
-    "cat": "Contrats IT",
-    "desc": "On 21 May 2026, Global Accessibility Awareness Day, Cigref published its new report entitled “Digital accessibility: organising, managing and equipping large organisations for scaling up”. The result of a year’s work, this document sets out a methodological framework and practical feedback to transform a regulatory obligation into an organisation-w",
-    "auto": true
-  },
-  {
-    "id": "auto-1784887799-52",
-    "title": "The protection of sensitive non-personal data: A competitiveness issue for European organisations",
-    "url": "https://www.cigref.fr/the-protection-of-sensitive-non-personal-data-a-competitiveness-issue-for-european-organisations",
-    "source": "CIGREF",
-    "date": "2026-07-23",
-    "cat": "RGPD",
-    "desc": "In today’s digital economy, data has become an indispensable strategic asset—the primary fuel powering artificial intelligence, shaping industrial value chains, and guiding executive decision-making. Yet, this central role creates a fundamental paradox: organisations must circulate data to drive value, while navigating a threat landscape where econ",
-    "auto": true
-  },
-  {
-    "id": "auto-1784801605-38",
-    "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
-    "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
-    "source": "EDPB",
-    "date": "2026-07-23",
-    "cat": "RGPD",
-    "desc": "Brussels, 23 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 15 October 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. Th",
-    "auto": true
-  },
-  {
-    "id": "auto-1784801605-24",
-    "title": "Décès de Philippe Josse, président de la section des finances",
-    "url": "https://www.conseil-etat.fr/actualites/deces-de-philippe-josse-president-de-la-section-des-finances",
-    "source": "Conseil d'État",
-    "date": "2026-07-22",
-    "cat": "Jurisprudence",
-    "desc": "C&#039;est avec une profonde tristesse que les membres et agents du Conseil d’État ont appris le décès de Philippe Josse, président de la section des finances, survenu le dimanche 19 juillet.",
     "auto": true
   }
 ]
