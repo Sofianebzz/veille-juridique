@@ -10,6 +10,16 @@
     "auto": true
   },
   {
+    "id": "auto-1790426152-26",
+    "title": "La décision en bref : décision n°2026-1221 QPC du 24 septembre 2026",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n2026-1221-qpc-du-24-septembre-2026",
+    "source": "Conseil constitutionnel",
+    "date": "2026-09-24",
+    "cat": "Cybersécurité",
+    "desc": "M. Colas A. [Procédure particulière de déposition des personnels de certains services ou unités spécialisés sans révélation de leur identité]",
+    "auto": true
+  },
+  {
     "id": "auto-1790341725-26",
     "title": "Couverture mobile",
     "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-240926.html",
@@ -750,6 +760,36 @@
     "auto": true
   },
   {
+    "id": "auto-1790426152-39",
+    "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
+    "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
+    "source": "EDPB",
+    "date": "2026-07-23",
+    "cat": "RGPD",
+    "desc": "Brussels, 23 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 15 October 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. Th",
+    "auto": true
+  },
+  {
+    "id": "auto-1790426152-52",
+    "title": "Digital accessibility: Organising, managing and equipping large organisations for scaling up",
+    "url": "https://www.cigref.fr/digital-accessibility-organising-managing-and-equipping-large-organisations-for-scaling-up",
+    "source": "CIGREF",
+    "date": "2026-07-23",
+    "cat": "Contrats IT",
+    "desc": "On 21 May 2026, Global Accessibility Awareness Day, Cigref published its new report entitled “Digital accessibility: organising, managing and equipping large organisations for scaling up”. The result of a year’s work, this document sets out a methodological framework and practical feedback to transform a regulatory obligation into an organisation-w",
+    "auto": true
+  },
+  {
+    "id": "auto-1790426152-53",
+    "title": "The protection of sensitive non-personal data: A competitiveness issue for European organisations",
+    "url": "https://www.cigref.fr/the-protection-of-sensitive-non-personal-data-a-competitiveness-issue-for-european-organisations",
+    "source": "CIGREF",
+    "date": "2026-07-23",
+    "cat": "RGPD",
+    "desc": "In today’s digital economy, data has become an indispensable strategic asset—the primary fuel powering artificial intelligence, shaping industrial value chains, and guiding executive decision-making. Yet, this central role creates a fundamental paradox: organisations must circulate data to drive value, while navigating a threat landscape where econ",
+    "auto": true
+  },
+  {
     "id": "auto-1785406624-27",
     "title": "Décision n° 2026-909 DC du 23 juillet 2026 - Communiqué de presse",
     "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-909-dc-du-23-juillet-2026-communique-de-presse",
@@ -757,46 +797,6 @@
     "date": "2026-07-23",
     "cat": "Jurisprudence",
     "desc": "Saisi de plusieurs dispositions de la loi sur la justice criminelle et le respect des victimes par deux groupes de plus de 60 députés (d’une part, du groupe « Socialistes et apparentés » ; d’autre part, des groupes « la France insoumise », « Écologiste et Social » et « Gauche Démocrate et Républicaine »), le Conseil constitutionnel, qui a dû statue",
-    "auto": true
-  },
-  {
-    "id": "auto-1785321136-26",
-    "title": "Décision n° 2026-906 DC du 23 juillet 2026 - Communiqué de presse",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-906-dc-du-23-juillet-2026-communique-de-presse",
-    "source": "Conseil constitutionnel",
-    "date": "2026-07-23",
-    "cat": "Cybersécurité",
-    "desc": "Saisi de six dispositions de la loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat par plus de 60 députés, d’une part, des groupes « la France insoumise - Nouveau Front Populaire » et « Écologiste et Social » et, d’autre part, du groupe « Socialistes et apparentés », le Conseil constitutionnel en",
-    "auto": true
-  },
-  {
-    "id": "auto-1785321136-27",
-    "title": "Décision n° 2026-908 DC du 23 juillet 2026 - Communiqué de presse",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-908-dc-du-23-juillet-2026-communique-de-presse",
-    "source": "Conseil constitutionnel",
-    "date": "2026-07-23",
-    "cat": "Jurisprudence",
-    "desc": "Saisi de plusieurs dispositions de la loi sur la justice criminelle et le respect des victimes par deux groupes de plus de 60 députés (d’une part, du groupe « Socialistes et apparentés » ; d’autre part, des groupes « la France insoumise », « Écologiste et Social » et « Gauche Démocrate et Républicaine »), le Conseil constitutionnel, qui a dû statue",
-    "auto": true
-  },
-  {
-    "id": "auto-1784887799-24",
-    "title": "Comptabilité réglementaire",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/comptabilite-reglementaire-230726.html",
-    "source": "ARCEP",
-    "date": "2026-07-23",
-    "cat": "Plateformes",
-    "desc": "L'Arcep publie les déclarations de conformité des comptes réglementaires des sociétés agréées de distribution de la presse pour l’exercice 2025, établies par le cabinet KPMG (et expurgées des éléments relevant du secret des affaires)",
-    "auto": true
-  },
-  {
-    "id": "auto-1784887799-25",
-    "title": "L’Arcep publie les chiffres 2025 de l’observatoire du marché télécoms en outre-mer",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/chiffres-2025-observatoire-du-marche-telecoms-en-outre-mer-230726.html",
-    "source": "ARCEP",
-    "date": "2026-07-23",
-    "cat": "Plateformes",
-    "desc": "Au 31 décembre 2025, près des trois quarts des abonnements internet sont en fibre optique de bout en bout en outre-mer.",
     "auto": true
   }
 ]
