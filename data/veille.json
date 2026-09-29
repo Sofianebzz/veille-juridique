@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1790692206-0",
+    "title": "L’ANSSI publie le rapport d’incident sur les cyberattaques ayant touché la DGFiP",
+    "url": "http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-le-rapport-dincident-sur-les-cyberattaques-ayant-touche-la-dgfip/",
+    "source": "ANSSI",
+    "date": "2026-09-29",
+    "cat": "Cybersécurité",
+    "desc": "Le Premier ministre a demandé à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) un audit approfondi de la […]",
+    "auto": true
+  },
+  {
     "id": "auto-1790612381-0",
     "title": "Évènement air 2026 : Convaincre ou manipuler ? L'éthique du numérique à l'épreuve des urnes, le 16 novembre à la CNIL",
     "url": "https://www.cnil.fr/fr/air2026",
@@ -787,16 +797,6 @@
     "date": "2026-07-24",
     "cat": "Contrats IT",
     "desc": "For over thirty years, Cigref has been supporting large companies and public organisations in the development of their digital roles. Our IT Job Profiles Nomenclature serves as a reference tool: it does not set out what digital roles ‘should’ be, nor what they ‘will’ be in the future, but accurately describes what they are today [&#8230;] L’article",
-    "auto": true
-  },
-  {
-    "id": "auto-1790426152-39",
-    "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
-    "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
-    "source": "EDPB",
-    "date": "2026-07-23",
-    "cat": "RGPD",
-    "desc": "Brussels, 23 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 15 October 2026 and is an opportunity for stakeholders to inform and support the ongoing work on this topic. Th",
     "auto": true
   }
 ]
