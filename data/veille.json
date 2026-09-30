@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1790778538-0",
+    "title": "Résultat de l'appel à manifestation d‘intérêt – Sécurité des écosystèmes de cybersécurité",
+    "url": "http://cyber.sites.beta.gouv.fr/actualites/resultat-ami-sec/",
+    "source": "ANSSI",
+    "date": "2026-09-30",
+    "cat": "Cybersécurité",
+    "desc": "L’ANSSI a publié le 17 juin 2026 un appel à manifestation d‘intérêt (AMI) pour le soutien à la création et […]",
+    "auto": true
+  },
+  {
     "id": "auto-1790692206-0",
     "title": "L’ANSSI publie le rapport d’incident sur les cyberattaques ayant touché la DGFiP",
     "url": "http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-le-rapport-dincident-sur-les-cyberattaques-ayant-touche-la-dgfip/",
@@ -787,16 +797,6 @@
     "date": "2026-07-24",
     "cat": "Cybersécurité",
     "desc": "To mark the publication of its new memo entitled “Digital Security and Artificial Intelligence: Evolving Threats and Perspectives”, Cigref provides an analysis of the changing cyber threat landscape. The industrialisation of attacks at ‘machine speed’ and the geopolitical tensions surrounding cutting-edge artificial intelligence models necessitate ",
-    "auto": true
-  },
-  {
-    "id": "auto-1784887799-50",
-    "title": "IT Job Profiles Nomenclature – 2025 Edition",
-    "url": "https://www.cigref.fr/it-job-profiles-nomenclature-2025-edition",
-    "source": "CIGREF",
-    "date": "2026-07-24",
-    "cat": "Contrats IT",
-    "desc": "For over thirty years, Cigref has been supporting large companies and public organisations in the development of their digital roles. Our IT Job Profiles Nomenclature serves as a reference tool: it does not set out what digital roles ‘should’ be, nor what they ‘will’ be in the future, but accurately describes what they are today [&#8230;] L’article",
     "auto": true
   }
 ]
