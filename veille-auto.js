@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-09-30T14:29:22
+// Dernière collecte : 2026-10-01T14:59:02
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1790866718-0",
+    title: "Cybermois 2026 : la CNIL et Cybermalveillance.gouv.fr publient une nouvelle ressource pour adopter les bons réflexes face à une violation de données",
+    url: "https://www.cnil.fr/fr/cybermois-2026",
+    source: "CNIL",
+    date: "2026-10-01",
+    cat: "RGPD",
+    desc: "À l’occasion du Mois européen de la cybersécurité, Cybermois en France, la CNIL et Cybermalveillance.gouv.fr s’associent autour d’un nouveau support pratique pour aider les particuliers à réagir en cas de violation de données personnelles et à adopter les bons réflexes pour limiter les risques.",
+    auto: true
+  },
   {
     id: "auto-1790778538-0",
     title: "Résultat de l'appel à manifestation d‘intérêt – Sécurité des écosystèmes de cybersécurité",
@@ -782,24 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1784972382-25",
-    title: "Environnement",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-240726.html",
-    source: "ARCEP",
-    date: "2026-07-24",
-    cat: "IA",
-    desc: "L’Arcep met en consultation publique un projet de décision visant à enrichir son enquête annuelle « Pour un numérique soutenable », intégrant les données des fournisseurs d’IA générative",
-    auto: true
-  },
-  {
-    id: "auto-1784972382-50",
-    title: "Digital Security and Artificial Intelligence: Evolving Threats and Perspectives",
-    url: "https://www.cigref.fr/digital-security-and-artificial-intelligence-evolving-threats-and-perspective",
+    id: "auto-1790866718-48",
+    title: "IT Job Profiles Nomenclature – 2025 Edition",
+    url: "https://www.cigref.fr/it-job-profiles-nomenclature-2025-edition",
     source: "CIGREF",
     date: "2026-07-24",
-    cat: "Cybersécurité",
-    desc: "To mark the publication of its new memo entitled “Digital Security and Artificial Intelligence: Evolving Threats and Perspectives”, Cigref provides an analysis of the changing cyber threat landscape. The industrialisation of attacks at ‘machine speed’ and the geopolitical tensions surrounding cutting-edge artificial intelligence models necessitate ",
+    cat: "Contrats IT",
+    desc: "For over thirty years, Cigref has been supporting large companies and public organisations in the development of their digital roles. Our IT Job Profiles Nomenclature serves as a reference tool: it does not set out what digital roles ‘should’ be, nor what they ‘will’ be in the future, but accurately describes what they are today [&#8230;] L’article",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-09-30T14:29:22";
+window.AUTO_VEILLE_UPDATED = "2026-10-01T14:59:02";
