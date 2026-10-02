@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-01T14:59:02
+// Dernière collecte : 2026-10-02T14:22:02
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1790950897-0",
+    title: "Violations de données personnelles : dans quels cas peut-on être indemnisé ?",
+    url: "https://www.cnil.fr/fr/violations-de-donnees-personnelles-cas-indemnite",
+    source: "CNIL",
+    date: "2026-10-02",
+    cat: "RGPD",
+    desc: "Une fuite ou un vol de données peut causer un préjudice pour les personnes concernées. Si l’incident résulte d’un manquement au RGPD, elles peuvent, sous certaines conditions, demander une indemnisation. C’est au juge, et non à la CNIL, de l’accorder.",
+    auto: true
+  },
+  {
+    id: "auto-1790950897-1",
+    title: "Ordre du jour de la séance plénière du 1er octobre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-1er-octobre-2026",
+    source: "CNIL",
+    date: "2026-10-01",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 1er octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
   {
     id: "auto-1790866718-0",
     title: "Cybermois 2026 : la CNIL et Cybermalveillance.gouv.fr publient une nouvelle ressource pour adopter les bons réflexes face à une violation de données",
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Nature juridique de certaines dispositions de l’article L. 136-1-1 du code de la sécurité sociale",
     auto: true
   },
-  {
-    id: "auto-1785234484-26",
-    title: "Service universel postal",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/service-universel-postal-juillet-aout-2026.html",
-    source: "ARCEP",
-    date: "2026-07-27",
-    cat: "Plateformes",
-    desc: "L’Arcep publie son avis sur les tarifs 2027 du service universel postal",
-    auto: true
-  },
-  {
-    id: "auto-1790866718-48",
-    title: "IT Job Profiles Nomenclature – 2025 Edition",
-    url: "https://www.cigref.fr/it-job-profiles-nomenclature-2025-edition",
-    source: "CIGREF",
-    date: "2026-07-24",
-    cat: "Contrats IT",
-    desc: "For over thirty years, Cigref has been supporting large companies and public organisations in the development of their digital roles. Our IT Job Profiles Nomenclature serves as a reference tool: it does not set out what digital roles ‘should’ be, nor what they ‘will’ be in the future, but accurately describes what they are today [&#8230;] L’article",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-01T14:59:02";
+window.AUTO_VEILLE_UPDATED = "2026-10-02T14:22:02";
