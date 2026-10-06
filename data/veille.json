@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1791297482-65",
+    "title": "Partenariat commercial et hébergement de contenus publicitaires pour des jeux d'argent : champ d'application de la directive e-commerce",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/partenariat-commercial-et-hebergement-de-contenus-publicitaires-pour-des-jeux-d-argent-champ-d-application-de-la-directive-e-commerce-DNU100i0",
+    "source": "Lextenso",
+    "date": "2026-10-08",
+    "cat": "Plateformes",
+    "desc": "L&#039;h&eacute;bergement de vid&eacute;os contenant de la publicit&eacute; pour des jeux d&#039;argent rel&egrave;ve du champ d&#039;application de la directive 2000/31/CE. Toutefois, l&#039;exploitant d&#039;une plateforme de vid&eacute;os en ligne ne peut se pr&eacute;valoir de l&#039;exon&eacute;ration de responsabilit&eacute; b&eacute;n&eacute",
+    "auto": true
+  },
+  {
+    "id": "auto-1791297482-66",
+    "title": "La première notification d'une violation de données causée par un agent IA : du risque à l'imputation",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-premiere-notification-d-une-violation-de-donnees-causee-par-un-agent-ia-du-risque-a-l-imputation-DNU100h9",
+    "source": "Lextenso",
+    "date": "2026-10-08",
+    "cat": "Cybersécurité",
+    "desc": "Apr&egrave;s la premi&egrave;re notification d&#039;une violation de donn&eacute;es dont l&#039;attaque aurait &eacute;t&eacute; perp&eacute;tr&eacute;e par un agent IA, l&#039;autorit&eacute; espagnole de protection des donn&eacute;es (AEPD) alerte sur l&#039;acc&eacute;l&eacute;ration du risque li&eacute;e &agrave; l&#039;IA offensive. Au-del&agr",
+    "auto": true
+  },
+  {
     "id": "auto-1790950897-0",
     "title": "Violations de données personnelles : dans quels cas peut-on être indemnisé ?",
     "url": "https://www.cnil.fr/fr/violations-de-donnees-personnelles-cas-indemnite",
@@ -297,6 +317,16 @@
     "date": "2026-09-17",
     "cat": "Jurisprudence",
     "desc": "Il reste quelques places disponibles &agrave; la r&eacute;servation. Si la billetterie est compl&egrave;te, une file d&rsquo;attente vous permettra le jour J de suivre une visite en cas de d&eacute;sistement (sans r&eacute;servation).",
+    "auto": true
+  },
+  {
+    "id": "auto-1791297482-24",
+    "title": "Nuit du droit 2026 : le Conseil d’État a ouvert ses portes à plusieurs centaines d'étudiants !",
+    "url": "https://www.conseil-etat.fr/actualites/nuit-du-droit-2026-le-conseil-d-etat-a-ouvert-ses-portes-a-plusieurs-centaines-d-etudiants",
+    "source": "Conseil d'État",
+    "date": "2026-09-16",
+    "cat": "Jurisprudence",
+    "desc": "À l’occasion de la Nuit du droit 2026, le Conseil d’Etat a invité plusieurs centaines d&#039;étudiants à découvrir son fonctionnement ainsi que celui des autres juridictions administratives. Au programme : un forum métiers, des ateliers en immersion et des débats animés par des membres de l’institut",
     "auto": true
   },
   {
@@ -767,36 +797,6 @@
     "date": "2026-08-05",
     "cat": "RGPD",
     "desc": "À partir du 2 août 2026, cinq nouveaux membres intègrent la CNIL. Ces nominations interviennent dans le cadre d’un renouvellement partiel du Collège.",
-    "auto": true
-  },
-  {
-    "id": "auto-1785925674-0",
-    "title": "Puis-je demander à supprimer des données me concernant figurant dans un article de presse diffusé en ligne ?",
-    "url": "https://www.cnil.fr/fr/supprimer-mes-donnees-presse",
-    "source": "CNIL",
-    "date": "2026-08-05",
-    "cat": "RGPD",
-    "desc": "Toute personne concernée a le droit de demander à un organisme de presse l'effacement de données personnelles la concernant figurant dans un article de presse diffusé en ligne. Il ne s’agit toutefois pas d’un droit absolu&amp;nbsp;: une balance entre les intérêts en présence doit être faite.",
-    "auto": true
-  },
-  {
-    "id": "auto-1785925674-1",
-    "title": "L’ANSSI renforce son engagement dans le Pacifique aux côtés du réseau PaCSON",
-    "url": "http://cyber.sites.beta.gouv.fr/actualites/lanssi-renforce-son-engagement-dans-le-pacifique-aux-cotes-du-reseau-pacson/",
-    "source": "ANSSI",
-    "date": "2026-08-05",
-    "cat": "Cybersécurité",
-    "desc": "Du 27 au 29 juillet 2026, l’ANSSI a participé à l’assemblée générale du réseau PaCSON (Pacific Cyber Security Operational Network) […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1785493857-0",
-    "title": "Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026",
-    "url": "https://www.cnil.fr/fr/webinaire-mise-a-jour-mr",
-    "source": "CNIL",
-    "date": "2026-07-31",
-    "cat": "RGPD",
-    "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré aux méthodologies de référence en matière de santé.",
     "auto": true
   }
 ]
