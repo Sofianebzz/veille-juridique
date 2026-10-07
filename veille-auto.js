@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-06T14:38:30
+// Dernière collecte : 2026-10-07T14:58:26
 window.AUTO_VEILLE = [
   {
     id: "auto-1791297482-65",
@@ -19,6 +19,16 @@ window.AUTO_VEILLE = [
     date: "2026-10-08",
     cat: "Cybersécurité",
     desc: "Apr&egrave;s la premi&egrave;re notification d&#039;une violation de donn&eacute;es dont l&#039;attaque aurait &eacute;t&eacute; perp&eacute;tr&eacute;e par un agent IA, l&#039;autorit&eacute; espagnole de protection des donn&eacute;es (AEPD) alerte sur l&#039;acc&eacute;l&eacute;ration du risque li&eacute;e &agrave; l&#039;IA offensive. Au-del&agr",
+    auto: true
+  },
+  {
+    id: "auto-1791385081-25",
+    title: "Pôle numérique Arcep - Arcom",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/pole-numerique-arcep-arcom-061026.html",
+    source: "ARCEP",
+    date: "2026-10-06",
+    cat: "IA",
+    desc: "Session commune des collèges pléniers de l’Arcep et de l’Arcom : les deux autorités ont présenté leurs travaux respectifs sur l’intelligence artificielle et ont échangé sur plusieurs sujets d’intérêt partagé.",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit d’intérêt&amp;nbsp;? Comment y remédier&amp;nbsp;?",
     auto: true
   },
-  {
-    id: "auto-1786012304-0",
-    title: "Collège de la CNIL : 5 nouveaux membres nommés le 2 août 2026",
-    url: "https://www.cnil.fr/fr/college-de-la-cnil-5-nouveaux-membres-nommes-le-2-aout-2026",
-    source: "CNIL",
-    date: "2026-08-05",
-    cat: "RGPD",
-    desc: "À partir du 2 août 2026, cinq nouveaux membres intègrent la CNIL. Ces nominations interviennent dans le cadre d’un renouvellement partiel du Collège.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-06T14:38:30";
+window.AUTO_VEILLE_UPDATED = "2026-10-07T14:58:26";
