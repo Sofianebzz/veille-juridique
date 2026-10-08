@@ -1,5 +1,45 @@
 [
   {
+    "id": "auto-1791472001-0",
+    "title": "Clôture de l’injonction prononcée à l’encontre de FRANCE TRAVAIL",
+    "url": "https://www.cnil.fr/fr/cloture-injonction-france-travail",
+    "source": "CNIL",
+    "date": "2026-10-08",
+    "cat": "RGPD",
+    "desc": "Par délibération du 23 septembre 2026, la CNIL a clos l’injonction prononcée le 22&amp;nbsp;janvier 2026 à l’encontre de FRANCE TRAVAIL, sans liquider l’astreinte prévue compte tenu de sa mise en conformité.",
+    "auto": true
+  },
+  {
+    "id": "auto-1791472001-37",
+    "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
+    "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+    "source": "EDPB",
+    "date": "2026-10-08",
+    "cat": "RGPD",
+    "desc": "Background information Cross-border case Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject) Decision: Administrative fine Key words: Automated decision making, profiling and online tracking, fines Summary of th",
+    "auto": true
+  },
+  {
+    "id": "auto-1791472001-67",
+    "title": "La mise en ligne de condamnations pénales « à des fins journalistiques »",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-mise-en-ligne-de-condamnations-penales-a-des-fins-journalistiques-DNU100i2",
+    "source": "Lextenso",
+    "date": "2026-10-08",
+    "cat": "RGPD",
+    "desc": "La simple mise en ligne, contre paiement, de d&eacute;cisions de condamnation p&eacute;nale ne constitue pas, en principe, un traitement de donn&eacute;es personnelles &quot;&nbsp;&agrave; des fins journalistiques&nbsp;&quot;&nbsp;; elle ne saurait d&egrave;s lors justifier des d&eacute;rogations aux garanties pr&eacute;vues par le RGPD. Cette qual",
+    "auto": true
+  },
+  {
+    "id": "auto-1791472001-68",
+    "title": "Les obligations de transparence de l'IA Act éclaircies par les lignes directrices de la Commission",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/les-obligations-de-transparence-de-l-ia-act-eclaircies-par-les-lignes-directrices-de-la-commission-DNU100i1",
+    "source": "Lextenso",
+    "date": "2026-10-08",
+    "cat": "Cybersécurité",
+    "desc": "Les lignes directrices relatives aux obligations de transparence &agrave; la charge des fournisseurs et des d&eacute;ployeurs de certains syst&egrave;mes d&#039;IA (PE et Cons. UE, r&egrave;gl. n&deg;&nbsp;2024/1689, 13&nbsp;juin 2024, dit IA Act, art.&nbsp;50) ont &eacute;t&eacute; publi&eacute;es le 20&nbsp;juillet 2026, en pr&eacute;vision de l&",
+    "auto": true
+  },
+  {
     "id": "auto-1791297482-65",
     "title": "Partenariat commercial et hébergement de contenus publicitaires pour des jeux d'argent : champ d'application de la directive e-commerce",
     "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/partenariat-commercial-et-hebergement-de-contenus-publicitaires-pour-des-jeux-d-argent-champ-d-application-de-la-directive-e-commerce-DNU100i0",
@@ -17,6 +57,16 @@
     "date": "2026-10-08",
     "cat": "Cybersécurité",
     "desc": "Apr&egrave;s la premi&egrave;re notification d&#039;une violation de donn&eacute;es dont l&#039;attaque aurait &eacute;t&eacute; perp&eacute;tr&eacute;e par un agent IA, l&#039;autorit&eacute; espagnole de protection des donn&eacute;es (AEPD) alerte sur l&#039;acc&eacute;l&eacute;ration du risque li&eacute;e &agrave; l&#039;IA offensive. Au-del&agr",
+    "auto": true
+  },
+  {
+    "id": "auto-1791472001-26",
+    "title": "Nuit du droit 2026 : plus de 500 étudiantes et étudiants en immersion au Conseil d’État !",
+    "url": "https://www.conseil-etat.fr/actualites/nuit-du-droit-2026-plus-de-500-etudiantes-et-etudiants-en-immersion-au-conseil-d-etat",
+    "source": "Conseil d'État",
+    "date": "2026-10-07",
+    "cat": "Jurisprudence",
+    "desc": "À l’occasion de la Nuit du droit 2026, le Conseil d’État a ouvert ses portes à plusieurs centaines d&#039;étudiantes et d’étudiants pour leur faire découvrir le fonctionnement de la justice administrative. Retour sur une soirée d’échanges et d&#039;immersion au cœur de la juridiction, organisée en p",
     "auto": true
   },
   {
@@ -747,56 +797,6 @@
     "date": "2026-08-24",
     "cat": "Jurisprudence",
     "desc": "En coopération avec la CNIL, l’autorité néerlandaise de protection des données a prononcé à l’encontre des sociétés UBER B.V. et UBER TECHNOLOGIES INC. une amende de 824&amp;nbsp;990&amp;nbsp;000 euros pour avoir pris des décisions individuelles automatisées concernant les chauffeurs de sa plateforme.",
-    "auto": true
-  },
-  {
-    "id": "auto-1787214539-0",
-    "title": "Le refus de crédit en questions",
-    "url": "https://www.cnil.fr/fr/le-refus-de-credit-en-questions",
-    "source": "CNIL",
-    "date": "2026-08-19",
-    "cat": "RGPD",
-    "desc": "Vous avez demandé un crédit et on vous l’a refusé&amp;nbsp;? Vous êtes inscrit dans un fichier géré par la Banque de France ou un fichier tenu par votre banque&amp;nbsp;? Quelles sont les différentes démarches à effectuer&amp;nbsp;?",
-    "auto": true
-  },
-  {
-    "id": "auto-1787041617-0",
-    "title": "Piratage du système d’information des impôts : les vérifications sont en cours",
-    "url": "https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours",
-    "source": "CNIL",
-    "date": "2026-08-18",
-    "cat": "RGPD",
-    "desc": "La CNIL a été notifiée de violations de données affectant le système d’information de la Direction générale des Finances publiques (DGFiP). Elle est donc d’ores et déjà saisie de ces violations et, dans ce contexte, il n’est plus nécessaire de lui adresser des plaintes individuelles à ce sujet.",
-    "auto": true
-  },
-  {
-    "id": "auto-1786781913-25",
-    "title": "Décision n° 2026-911 DC du 14 août 2026 - Communiqué de presse",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-911-dc-du-14-aout-2026-communique-de-presse",
-    "source": "Conseil constitutionnel",
-    "date": "2026-08-14",
-    "cat": "Jurisprudence",
-    "desc": "Loi visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
-    "auto": true
-  },
-  {
-    "id": "auto-1786781913-26",
-    "title": "Décision n° 2026-915 DC du 14 août 2026 - Communiqué de presse",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-915-dc-du-14-aout-2026-communique-de-presse",
-    "source": "Conseil constitutionnel",
-    "date": "2026-08-14",
-    "cat": "Cybersécurité",
-    "desc": "Loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
-    "auto": true
-  },
-  {
-    "id": "auto-1786353051-0",
-    "title": "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
-    "url": "https://www.cnil.fr/fr/dpo-identifier-gerer-conflits-interets",
-    "source": "CNIL",
-    "date": "2026-08-10",
-    "cat": "RGPD",
-    "desc": "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit d’intérêt&amp;nbsp;? Comment y remédier&amp;nbsp;?",
     "auto": true
   }
 ]
