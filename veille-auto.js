@@ -1,6 +1,86 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-08T15:07:01
+// Dernière collecte : 2026-10-09T14:51:45
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1791557485-37",
+    title: "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
+    url: "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
+    source: "EDPB",
+    date: "2026-10-09",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 23 September 2026 National case Controller: IQVIA Solutions Italy S.r.l Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 9 (Processing of special categories of personal data), &nbsp;Article 13 (Information to be provided where personal data are collected from ",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-38",
+    title: "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
+    url: "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
+    source: "EDPB",
+    date: "2026-10-09",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 6 August 2026 National case Controller: La Patria S.p.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 13 (Information to be provided where personal data are collected from the data subject) and Article",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-39",
+    title: "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
+    url: "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en",
+    source: "EDPB",
+    date: "2026-10-09",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 14 May 2026 National case Controller: Emirates Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to be provided where perso",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-40",
+    title: "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
+    url: "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
+    source: "EDPB",
+    date: "2026-10-09",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), A",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-0",
+    title: "Ordre du jour de la séance plénière du 8 octobre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-8-octobre-2026",
+    source: "CNIL",
+    date: "2026-10-08",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 8 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-26",
+    title: "Observatoire des marchés des communications électroniques",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/observatoire-des-marches-des-communications-electroniques-081026.html",
+    source: "ARCEP",
+    date: "2026-10-08",
+    cat: "Plateformes",
+    desc: "L’Arcep publie le suivi de l’observatoire des marchés des communications électroniques au deuxième trimestre 2026",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-41",
+    title: "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
+    url: "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
+    source: "EDPB",
+    date: "2026-10-08",
+    cat: "Cybersécurité",
+    desc: "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Website topics: Cybersecurity, personal data breaches Summary of the Decision Origin of the case In August 2025, the IT service provider Miljödata was targeted in a cyberattack, during which a",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-42",
+    title: "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
+    url: "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
+    source: "EDPB",
+    date: "2026-10-08",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 28/07/2026 National case Controller: Ministry of Social Cohesion and Family Affairs Legal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority) an",
+    auto: true
+  },
   {
     id: "auto-1791472001-0",
     title: "Clôture de l’injonction prononcée à l’encontre de FRANCE TRAVAIL",
@@ -79,6 +159,16 @@ window.AUTO_VEILLE = [
     date: "2026-10-06",
     cat: "IA",
     desc: "Session commune des collèges pléniers de l’Arcep et de l’Arcom : les deux autorités ont présenté leurs travaux respectifs sur l’intelligence artificielle et ont échangé sur plusieurs sujets d’intérêt partagé.",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-27",
+    title: "Le Conseil d'État rencontre la Cour administrative suprême portugaise",
+    url: "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rencontre-la-cour-administrative-supreme-portugaise",
+    source: "Conseil d'État",
+    date: "2026-10-02",
+    cat: "Jurisprudence",
+    desc: "Une délégation du Conseil d’État conduite par le vice-président Marc Guillaume, s’est rendue à Lisbonne les 1er et 2 octobre 2026, pour participer à un séminaire de travail bilatéral avec le Supremo Tribunal Administrativo, la Cour administrative suprême portugaise.",
     auto: true
   },
   {
@@ -279,6 +369,16 @@ window.AUTO_VEILLE = [
     date: "2026-09-23",
     cat: "Contrats IT",
     desc: "Le Cigref publie un Référentiel de KPI Numérique Responsable, conçu pour aider les grandes organisations à passer des engagements au pilotage concret de leurs démarches.&#160; Télécharger le livret de présentation de l’outil Excel. Les enjeux du pilotage : passer de l&#8217;engagement à la mesure opérationnelle Fruit des travaux du groupe « Métriqu",
+    auto: true
+  },
+  {
+    id: "auto-1791557485-43",
+    title: "The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+    url: "https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
+    source: "EDPB",
+    date: "2026-09-22",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 1 February 2023 National case Controller: SECURITAS DIRECT, S.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Decision: Administrative fine, Compliance order Key words: Data subject rights Summary of the Decisi",
     auto: true
   },
   {
@@ -701,105 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Mercredi 9 septembre prochain à 17h, suivez en direct la Rentrée 2026 du Conseil d’Etat. Son vice-président, Marc Guillaume, reviendra sur l&#039;actualité du Conseil d’Etat et de l’ensemble de la juridiction administrative et présentera l&#039;étude annuelle 2026 « La mer et les politiques publique",
     auto: true
   },
-  {
-    id: "auto-1788524685-0",
-    title: "Ordre du jour de la séance plénière du 3 septembre 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-3-septembre-2026",
-    source: "CNIL",
-    date: "2026-09-03",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 3 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1788438388-0",
-    title: "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
-    url: "https://www.cnil.fr/fr/sanction-hopital-prive-loire",
-    source: "CNIL",
-    date: "2026-09-03",
-    cat: "Cybersécurité",
-    desc: "Le 3 septembre 2026, la CNIL a prononcé une sanction de 500&amp;nbsp;000&amp;nbsp;€ à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE, pour ne pas avoir pris des mesures adaptées pour assurer la sécurité des données de ses patients et de certains de leurs proches.",
-    auto: true
-  },
-  {
-    id: "auto-1788438388-1",
-    title: "Transition post-quantique, l’ANSSI et ses partenaires du G7 publient un appel à action",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/transition-post-quantique-lanssi-et-ses-partenaires-du-g7-publient-un-appel-a-action/",
-    source: "ANSSI",
-    date: "2026-09-03",
-    cat: "Cybersécurité",
-    desc: "Dans le cadre de la Présidence française du G7 (PFG7) en 2026 , l’ ANSSI a pris la tête du […]",
-    auto: true
-  },
-  {
-    id: "auto-1788438388-45",
-    title: "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
-    url: "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en",
-    source: "EDPB",
-    date: "2026-09-03",
-    cat: "RGPD",
-    desc: "Background information Date of final decision: 28 August 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority), Article 34 (Communication of a personal data breach to the data subject",
-    auto: true
-  },
-  {
-    id: "auto-1788191024-0",
-    title: "Participez aux Rencontres Informatique & Libertés le 29 septembre 2026",
-    url: "https://www.cnil.fr/fr/ril-2026",
-    source: "CNIL",
-    date: "2026-08-31",
-    cat: "RGPD",
-    desc: "La CNIL organise la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée est l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
-    auto: true
-  },
-  {
-    id: "auto-1787856133-0",
-    title: "Sensibiliser les élèves de CM2 à la protection des données",
-    url: "https://www.cnil.fr/fr/sensibiliser-les-eleves-de-cm2-la-protection-des-donnees",
-    source: "CNIL",
-    date: "2026-08-27",
-    cat: "RGPD",
-    desc: "En 2026, la CNIL a sensibilisé 2&amp;nbsp;500 élèves de CM2 du département de l’Oise aux enjeux du numérique et à la protection des données personnelles. Vous êtes enseignant(e)&amp;nbsp;? Retrouvez, dans cette page, les ressources pour reproduire ce projet pédagogique.",
-    auto: true
-  },
-  {
-    id: "auto-1787856133-1",
-    title: "IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte",
-    url: "https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte",
-    source: "CNIL",
-    date: "2026-08-26",
-    cat: "RGPD",
-    desc: "La CNIL publie une nouvelle version de son démonstrateur permettant d’explorer la généalogie des modèles d’IA publiés en source ouverte. Cette mise à jour améliore notamment les performances de l’outil, son ergonomie et automatise l’actualisation des données. Une version en anglais est désormais disponible.",
-    auto: true
-  },
-  {
-    id: "auto-1787646796-0",
-    title: "Enseignement supérieur : les règles et bonnes pratiques pour utiliser des outils collaboratifs en ligne",
-    url: "https://www.cnil.fr/fr/enseignement-superieur-bonnes-pratiques-outils-collaboratifs",
-    source: "CNIL",
-    date: "2026-08-24",
-    cat: "RGPD",
-    desc: "Les établissements d’enseignement supérieur souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles applicables pour la mise en œuvre de ces outils.",
-    auto: true
-  },
-  {
-    id: "auto-1787646796-1",
-    title: "Enseignement du premier et du second degrés : les règles et bonnes pratiques pour utiliser les outils collaboratifs en ligne",
-    url: "https://www.cnil.fr/fr/enseignement-premier-second-degres-bonnes-pratiques-outils-collaboratifs",
-    source: "CNIL",
-    date: "2026-08-24",
-    cat: "RGPD",
-    desc: "Les établissements du premier et du second degrés souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles à suivre pour la mise en œuvre de ces outils.",
-    auto: true
-  },
-  {
-    id: "auto-1787560729-0",
-    title: "Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER",
-    url: "https://www.cnil.fr/fr/decisions-automatisees-sanction-de-pres-de-825-millions-deuros-lencontre-duber",
-    source: "CNIL",
-    date: "2026-08-24",
-    cat: "Jurisprudence",
-    desc: "En coopération avec la CNIL, l’autorité néerlandaise de protection des données a prononcé à l’encontre des sociétés UBER B.V. et UBER TECHNOLOGIES INC. une amende de 824&amp;nbsp;990&amp;nbsp;000 euros pour avoir pris des décisions individuelles automatisées concernant les chauffeurs de sa plateforme.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-08T15:07:01";
+window.AUTO_VEILLE_UPDATED = "2026-10-09T14:51:45";
