@@ -1,6 +1,26 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-09T14:51:45
+// Dernière collecte : 2026-10-10T14:08:30
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1791641289-0",
+    title: "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
+    url: "https://www.cnil.fr/fr/ril-2026",
+    source: "CNIL",
+    date: "2026-10-09",
+    cat: "RGPD",
+    desc: "La CNIL a organisé la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée a été l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
+    auto: true
+  },
+  {
+    id: "auto-1791641289-27",
+    title: "Le Conseil constitutionnel a été saisi de 11 recours contre les résultats des élections sénatoriales de septembre 2026",
+    url: "https://www.conseil-constitutionnel.fr/node/34529",
+    source: "Conseil constitutionnel",
+    date: "2026-10-09",
+    cat: "Jurisprudence",
+    desc: "Un délai de dix jours suivant la proclamation des résultats est ouvert à toute personne inscrite sur les listes électorales de la circonscription dans laquelle il a été procédé à l'élection, ainsi qu'aux personnes qui ont fait acte de candidature. À l’expiration de ce délai, le Conseil a enregistré ",
+    auto: true
+  },
   {
     id: "auto-1791557485-37",
     title: "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
@@ -39,6 +59,36 @@ window.AUTO_VEILLE = [
     date: "2026-10-09",
     cat: "RGPD",
     desc: "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), A",
+    auto: true
+  },
+  {
+    id: "auto-1791641289-63",
+    title: "EU KIDS Act : une proposition de règlement encadrant l'accès des mineurs aux services en ligne",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/eu-kids-act-une-proposition-de-reglement-encadrant-l-acces-des-mineurs-aux-services-en-ligne-DNU100i5",
+    source: "Lextenso",
+    date: "2026-10-08",
+    cat: "Plateformes",
+    desc: "Pr&eacute;sent&eacute;e le 17&nbsp;septembre 2026, la proposition de r&egrave;glement &quot;&nbsp;EU KIDS Act&nbsp;&quot; fixe des r&egrave;gles d&#039;&acirc;ge communes pour l&#039;acc&egrave;s aux r&eacute;seaux sociaux et plateformes vid&eacute;o &agrave; risque (aucun compte avant 13 ans, compte supervis&eacute; de 13 &agrave; 14 ans, autonomi",
+    auto: true
+  },
+  {
+    id: "auto-1791641289-64",
+    title: "Commande publique européenne : l'ouverture à l'épreuve des priorités stratégiques",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/commande-publique-europeenne-l-ouverture-a-l-epreuve-des-priorites-strategiques-DNU100i4",
+    source: "Lextenso",
+    date: "2026-10-08",
+    cat: "Jurisprudence",
+    desc: "La proposition de r&egrave;glement sur les march&eacute;s publics et les concessions du 9&nbsp;septembre 2026 organise la commande publique europ&eacute;enne autour de priorit&eacute;s strat&eacute;giques et d&#039;une pr&eacute;f&eacute;rence europ&eacute;enne dont la port&eacute;e, pour le num&eacute;rique, reste limit&eacute;e. Les leviers d&#03",
+    auto: true
+  },
+  {
+    id: "auto-1791641289-65",
+    title: "GEMA c/ Suno : atteintes au droit d'auteur résultant de l'entraînement et de l'utilisation de ses modèles d'IAG",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/gema-c-suno-atteintes-au-droit-d-auteur-resultant-de-l-entrainement-et-de-l-utilisation-de-ses-modeles-d-iag-DNU100i3",
+    source: "Lextenso",
+    date: "2026-10-08",
+    cat: "Jurisprudence",
+    desc: "Par une d&eacute;cision du 31&nbsp;juillet 2026, le tribunal r&eacute;gional de Munich&nbsp;I a condamn&eacute; la soci&eacute;t&eacute; Suno, qui d&eacute;veloppe et exploite une application musicale bas&eacute;e sur l&#039;IA, pour plusieurs atteintes au droit d&#039;auteur li&eacute;es &agrave; l&#039;entra&icirc;nement et &agrave; l&#039;utilis",
     auto: true
   },
   {
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Des prestataires diffusant des contenus pornographiques, bien qu&#039;&eacute;tablis dans d&#039;autres &Eacute;tats membres de l&#039;Union europ&eacute;enne, peuvent faire l&#039;objet, en France, d&#039;une mesure leur imposant, &agrave; titre individuel, de satisfaire &agrave; l&#039;objectif de protection des mineurs. Sont ainsi conformes au d",
     auto: true
   },
-  {
-    id: "auto-1788607862-60",
-    title: "Recours de l'administration à des prestataires américains : les conditions du contentieux se précisent",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/recours-de-l-administration-a-des-prestataires-americains-les-conditions-du-contentieux-se-precisent-DNU100h5",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "Jurisprudence",
-    desc: "Le Conseil d&#039;&Eacute;tat juge que le seul fait qu&#039;un prestataire soit soumis &agrave; la loi am&eacute;ricaine sur la surveillance en mati&egrave;re de renseignement ext&eacute;rieur (Foreign Intelligence Surveillance Act, 1978, FISA) ne suffit pas &agrave; &eacute;tablir l&#039;ill&eacute;galit&eacute; du recours &agrave; ses services pa",
-    auto: true
-  },
-  {
-    id: "auto-1788524685-67",
-    title: "La souveraineté technologique numérique",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-souverainete-technologique-numerique-DNU100h4",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "Jurisprudence",
-    desc: "La commission d&#039;enqu&ecirc;te parlementaire sur les d&eacute;pendances structurelles et les vuln&eacute;rabilit&eacute;s syst&eacute;miques dans le secteur du num&eacute;rique et les risques pour l&#039;ind&eacute;pendance de la France r&eacute;v&egrave;le une situation nationale faisant courir un risque majeur aux organisations publiques et p",
-    auto: true
-  },
-  {
-    id: "auto-1788524685-68",
-    title: "La dépendance n'est plus un risque stratégique : c'est devenu une obligation juridique qui redéfinit le métier de juriste",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-dependance-n-est-plus-un-risque-strategique-c-est-devenu-une-obligation-juridique-qui-redefinit-le-metier-de-juriste-DNU100h3",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "Jurisprudence",
-    desc: "Le rapport de la commission d&#039;enqu&ecirc;te sur les d&eacute;pendances structurelles dans le secteur du num&eacute;rique, rendu public le 15&nbsp;juillet 2026, met des chiffres sur une d&eacute;pendance largement pressentie. Mais la souverainet&eacute; n&#039;est plus seulement un d&eacute;bat de politique industrielle&nbsp;: quatre r&eacute;g",
-    auto: true
-  },
-  {
-    id: "auto-1788524685-69",
-    title: "Protection des mineurs : conformité au droit européen des mises en demeures individuelles adressées par l'ARCOM aux sites pornographiques étranger",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/protection-des-mineurs-conformite-au-droit-europeen-des-mises-en-demeures-individuelles-adressees-par-l-arcom-aux-sites-pornographiques-etranger-DNU100h2",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "Jurisprudence",
-    desc: "Des prestataires diffusant des contenus pornographiques, bien qu&#039;&eacute;tablis dans d&#039;autres &Eacute;tats membres de l&#039;Union europ&eacute;enne, peuvent faire l&#039;objet, en France, d&#039;une mesure leur imposant, &agrave; titre individuel, de satisfaire &agrave; l&#039;objectif de protection des mineurs. Sont ainsi conformes au d",
-    auto: true
-  },
-  {
-    id: "auto-1788524685-26",
-    title: "[9 septembre] Suivez en direct la Rentrée 2026 du Conseil d’État",
-    url: "https://www.conseil-etat.fr/actualites/9-septembre-suivez-en-direct-la-rentree-2026-du-conseil-d-etat",
-    source: "Conseil d'État",
-    date: "2026-09-04",
-    cat: "Jurisprudence",
-    desc: "Mercredi 9 septembre prochain à 17h, suivez en direct la Rentrée 2026 du Conseil d’Etat. Son vice-président, Marc Guillaume, reviendra sur l&#039;actualité du Conseil d’Etat et de l’ensemble de la juridiction administrative et présentera l&#039;étude annuelle 2026 « La mer et les politiques publique",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-09T14:51:45";
+window.AUTO_VEILLE_UPDATED = "2026-10-10T14:08:30";
