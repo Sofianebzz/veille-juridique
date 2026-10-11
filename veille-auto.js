@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-10T14:08:30
+// Dernière collecte : 2026-10-11T14:32:31
 window.AUTO_VEILLE = [
   {
     id: "auto-1791641289-0",
@@ -742,6 +742,36 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1791729126-61",
+    title: "La souveraineté technologique numérique",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/la-souverainete-technologique-numerique-DNU100h4",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "La commission d&#039;enqu&ecirc;te parlementaire sur les d&eacute;pendances structurelles et les vuln&eacute;rabilit&eacute;s syst&eacute;miques dans le secteur du num&eacute;rique et les risques pour l&#039;ind&eacute;pendance de la France r&eacute;v&egrave;le une situation nationale faisant courir un risque majeur aux organisations publiques et p",
+    auto: true
+  },
+  {
+    id: "auto-1791729126-62",
+    title: "La dépendance n'est plus un risque stratégique : c'est devenu une obligation juridique qui redéfinit le métier de juriste",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/la-dependance-n-est-plus-un-risque-strategique-c-est-devenu-une-obligation-juridique-qui-redefinit-le-metier-de-juriste-DNU100h3",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "Le rapport de la commission d&#039;enqu&ecirc;te sur les d&eacute;pendances structurelles dans le secteur du num&eacute;rique, rendu public le 15&nbsp;juillet 2026, met des chiffres sur une d&eacute;pendance largement pressentie. Mais la souverainet&eacute; n&#039;est plus seulement un d&eacute;bat de politique industrielle&nbsp;: quatre r&eacute;g",
+    auto: true
+  },
+  {
+    id: "auto-1791729126-63",
+    title: "Recours de l'administration à des prestataires américains : les conditions du contentieux se précisent",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/recours-de-l-administration-a-des-prestataires-americains-les-conditions-du-contentieux-se-precisent-DNU100h5",
+    source: "Lextenso",
+    date: "2026-09-07",
+    cat: "Jurisprudence",
+    desc: "Le Conseil d&#039;&Eacute;tat juge que le seul fait qu&#039;un prestataire soit soumis &agrave; la loi am&eacute;ricaine sur la surveillance en mati&egrave;re de renseignement ext&eacute;rieur (Foreign Intelligence Surveillance Act, 1978, FISA) ne suffit pas &agrave; &eacute;tablir l&#039;ill&eacute;galit&eacute; du recours &agrave; ses services pa",
+    auto: true
+  },
+  {
     id: "auto-1788957410-69",
     title: "Majorité numérique : les limites juridiques d'une interdiction indifférenciée",
     url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/majorite-numerique-les-limites-juridiques-d-une-interdiction-indifferenciee-DNU100h8",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Loi visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
     auto: true
   },
-  {
-    id: "auto-1788789063-67",
-    title: "La modification du règlement sur l'intelligence artificielle, le prétexte de la simplification",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-modification-du-reglement-sur-l-intelligence-artificielle-le-pretexte-de-la-simplification-DNU100h7",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "IA",
-    desc: "La modification du r&egrave;glement sur l&#039;intelligence artificielle a &eacute;t&eacute; annonc&eacute;e en 2025 au regard des &eacute;valuations ex&nbsp;post de la qualit&eacute; de la l&eacute;gislation, des consultations des parties int&eacute;ress&eacute;es et des analyses d&#039;impact. Les changements envisag&eacute;s initialement &eacute",
-    auto: true
-  },
-  {
-    id: "auto-1788789063-68",
-    title: "Piratage sportif : les fournisseurs DNS entrent durablement dans le match",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/piratage-sportif-les-fournisseurs-dns-entrent-durablement-dans-le-match-DNU100h6",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "Jurisprudence",
-    desc: "La cour d&#039;appel de Paris consacre une interpr&eacute;tation large de la notion de &quot;&nbsp;personne susceptible de contribuer &agrave; [rem&eacute;dier &agrave; l&#039;atteinte]&nbsp;&quot; de l&#039;article L. 333-10 du Code du sport, confirmant les injonctions de blocage dirig&eacute;es contre les fournisseurs DNS. Elle unifie la notion a",
-    auto: true
-  },
-  {
-    id: "auto-1788789063-69",
-    title: "Protection des mineurs : conformité au droit européen des mises en demeures individuelles adressées par l'ARCOM aux sites pornographiques étrangers",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/protection-des-mineurs-conformite-au-droit-europeen-des-mises-en-demeures-individuelles-adressees-par-l-arcom-aux-sites-pornographiques-etrangers-DNU100h2",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "Jurisprudence",
-    desc: "Des prestataires diffusant des contenus pornographiques, bien qu&#039;&eacute;tablis dans d&#039;autres &Eacute;tats membres de l&#039;Union europ&eacute;enne, peuvent faire l&#039;objet, en France, d&#039;une mesure leur imposant, &agrave; titre individuel, de satisfaire &agrave; l&#039;objectif de protection des mineurs. Sont ainsi conformes au d",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-10T14:08:30";
+window.AUTO_VEILLE_UPDATED = "2026-10-11T14:32:31";
