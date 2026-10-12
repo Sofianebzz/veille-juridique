@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-1791825165-62",
+    "title": "DMA : renversement de la présomption de contrôleur d'accès et recours d'un concurrent",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/dma-renversement-de-la-presomption-de-controleur-d-acces-et-recours-d-un-concurrent-DNU100i6",
+    "source": "Lextenso",
+    "date": "2026-11-08",
+    "cat": "Plateformes",
+    "desc": "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    "auto": true
+  },
+  {
+    "id": "auto-1791825165-0",
+    "title": "ECSC 2026 : la Team France à Bochum",
+    "url": "http://cyber.sites.beta.gouv.fr/actualites/ecsc-2026-la-team-france-a-bochum/",
+    "source": "ANSSI",
+    "date": "2026-10-12",
+    "cat": "Cybersécurité",
+    "desc": "Pour aller plus loin European Cybersecurity Challenge ECSC 2026 […]",
+    "auto": true
+  },
+  {
+    "id": "auto-1791825165-35",
+    "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
+    "source": "EDPB",
+    "date": "2026-10-12",
+    "cat": "RGPD",
+    "desc": "Background information Date of final decision: 05/06/2026 National case Controller: Wind Tre S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 1",
+    "auto": true
+  },
+  {
     "id": "auto-1791641289-0",
     "title": "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
     "url": "https://www.cnil.fr/fr/ril-2026",
@@ -740,63 +770,33 @@
     "auto": true
   },
   {
-    "id": "auto-1791729126-61",
-    "title": "La souveraineté technologique numérique",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/la-souverainete-technologique-numerique-DNU100h4",
+    "id": "auto-1791825165-63",
+    "title": "Protection des mineurs : conformité au droit européen des mises en demeures individuelles adressées par l'ARCOM aux sites pornographiques étrangers",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/protection-des-mineurs-conformite-au-droit-europeen-des-mises-en-demeures-individuelles-adressees-par-l-arcom-aux-sites-pornographiques-etrangers-DNU100h2",
     "source": "Lextenso",
     "date": "2026-09-07",
     "cat": "Jurisprudence",
-    "desc": "La commission d&#039;enqu&ecirc;te parlementaire sur les d&eacute;pendances structurelles et les vuln&eacute;rabilit&eacute;s syst&eacute;miques dans le secteur du num&eacute;rique et les risques pour l&#039;ind&eacute;pendance de la France r&eacute;v&egrave;le une situation nationale faisant courir un risque majeur aux organisations publiques et p",
+    "desc": "Des prestataires diffusant des contenus pornographiques, bien qu&#039;&eacute;tablis dans d&#039;autres &Eacute;tats membres de l&#039;Union europ&eacute;enne, peuvent faire l&#039;objet, en France, d&#039;une mesure leur imposant, &agrave; titre individuel, de satisfaire &agrave; l&#039;objectif de protection des mineurs. Sont ainsi conformes au d",
     "auto": true
   },
   {
-    "id": "auto-1791729126-62",
-    "title": "La dépendance n'est plus un risque stratégique : c'est devenu une obligation juridique qui redéfinit le métier de juriste",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/la-dependance-n-est-plus-un-risque-strategique-c-est-devenu-une-obligation-juridique-qui-redefinit-le-metier-de-juriste-DNU100h3",
+    "id": "auto-1791825165-64",
+    "title": "Piratage sportif : les fournisseurs DNS entrent durablement dans le match",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/piratage-sportif-les-fournisseurs-dns-entrent-durablement-dans-le-match-DNU100h6",
     "source": "Lextenso",
     "date": "2026-09-07",
     "cat": "Jurisprudence",
-    "desc": "Le rapport de la commission d&#039;enqu&ecirc;te sur les d&eacute;pendances structurelles dans le secteur du num&eacute;rique, rendu public le 15&nbsp;juillet 2026, met des chiffres sur une d&eacute;pendance largement pressentie. Mais la souverainet&eacute; n&#039;est plus seulement un d&eacute;bat de politique industrielle&nbsp;: quatre r&eacute;g",
+    "desc": "La cour d&#039;appel de Paris consacre une interpr&eacute;tation large de la notion de &quot;&nbsp;personne susceptible de contribuer &agrave; [rem&eacute;dier &agrave; l&#039;atteinte]&nbsp;&quot; de l&#039;article L. 333-10 du Code du sport, confirmant les injonctions de blocage dirig&eacute;es contre les fournisseurs DNS. Elle unifie la notion a",
     "auto": true
   },
   {
-    "id": "auto-1791729126-63",
-    "title": "Recours de l'administration à des prestataires américains : les conditions du contentieux se précisent",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/recours-de-l-administration-a-des-prestataires-americains-les-conditions-du-contentieux-se-precisent-DNU100h5",
+    "id": "auto-1791825165-65",
+    "title": "La modification du règlement sur l'intelligence artificielle, le prétexte de la simplification",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/la-modification-du-reglement-sur-l-intelligence-artificielle-le-pretexte-de-la-simplification-DNU100h7",
     "source": "Lextenso",
     "date": "2026-09-07",
-    "cat": "Jurisprudence",
-    "desc": "Le Conseil d&#039;&Eacute;tat juge que le seul fait qu&#039;un prestataire soit soumis &agrave; la loi am&eacute;ricaine sur la surveillance en mati&egrave;re de renseignement ext&eacute;rieur (Foreign Intelligence Surveillance Act, 1978, FISA) ne suffit pas &agrave; &eacute;tablir l&#039;ill&eacute;galit&eacute; du recours &agrave; ses services pa",
-    "auto": true
-  },
-  {
-    "id": "auto-1788957410-69",
-    "title": "Majorité numérique : les limites juridiques d'une interdiction indifférenciée",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/majorite-numerique-les-limites-juridiques-d-une-interdiction-indifferenciee-DNU100h8",
-    "source": "Lextenso",
-    "date": "2026-09-07",
-    "cat": "Jurisprudence",
-    "desc": "Le 14&nbsp;ao&ucirc;t 2026, le Conseil constitutionnel a censur&eacute; l&#039;interdiction des r&eacute;seaux sociaux aux moins de 15&nbsp;ans. Quelques semaines auparavant, l&#039;avis circonstanci&eacute; de la Commission europ&eacute;enne avait conduit la commission mixte paritaire &agrave; retrancher du texte les modalit&eacute;s pr&eacute;vue",
-    "auto": true
-  },
-  {
-    "id": "auto-1788870543-0",
-    "title": "Cyberattaques : L’ANSSI met en place une capacité renforcée de réaction dédiée aux services de l’État",
-    "url": "http://cyber.sites.beta.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/",
-    "source": "ANSSI",
-    "date": "2026-09-07",
-    "cat": "Cybersécurité",
-    "desc": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’Etat, le Premier ministre […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1788789063-25",
-    "title": "Décision n° 2026-911 DC du 14 août 2026",
-    "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm",
-    "source": "Conseil constitutionnel",
-    "date": "2026-09-07",
-    "cat": "Jurisprudence",
-    "desc": "Loi visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+    "cat": "IA",
+    "desc": "La modification du r&egrave;glement sur l&#039;intelligence artificielle a &eacute;t&eacute; annonc&eacute;e en 2025 au regard des &eacute;valuations ex&nbsp;post de la qualit&eacute; de la l&eacute;gislation, des consultations des parties int&eacute;ress&eacute;es et des analyses d&#039;impact. Les changements envisag&eacute;s initialement &eacute",
     "auto": true
   }
 ]
