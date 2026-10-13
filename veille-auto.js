@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-12T17:13:09
+// Dernière collecte : 2026-10-13T15:28:44
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1791905294-35",
+    title: "EDPB publishes statement on the data protection challenges of smart glasses",
+    url: "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
+    source: "EDPB",
+    date: "2026-10-13",
+    cat: "RGPD",
+    desc: "Brussels, 13 October – During its latest plenary, the EDPB has adopted statement on smart glasses and published the report “The connected gaze. Video recording, surveillance and administering evidence in the age of smart glasses” *, developed in the context of the Support Pool of Expert (SPE) programme **. As smart glasses become widely available a",
     auto: true
   },
   {
@@ -772,34 +782,24 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1791825165-63",
-    title: "Protection des mineurs : conformité au droit européen des mises en demeures individuelles adressées par l'ARCOM aux sites pornographiques étrangers",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/protection-des-mineurs-conformite-au-droit-europeen-des-mises-en-demeures-individuelles-adressees-par-l-arcom-aux-sites-pornographiques-etrangers-DNU100h2",
-    source: "Lextenso",
+    id: "auto-1791905294-0",
+    title: "Cyberattaques : L’ANSSI met en place une capacité renforcée de réaction dédiée aux services de l’État",
+    url: "http://cyber.sites.beta.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/",
+    source: "ANSSI",
     date: "2026-09-07",
-    cat: "Jurisprudence",
-    desc: "Des prestataires diffusant des contenus pornographiques, bien qu&#039;&eacute;tablis dans d&#039;autres &Eacute;tats membres de l&#039;Union europ&eacute;enne, peuvent faire l&#039;objet, en France, d&#039;une mesure leur imposant, &agrave; titre individuel, de satisfaire &agrave; l&#039;objectif de protection des mineurs. Sont ainsi conformes au d",
+    cat: "Cybersécurité",
+    desc: "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’Etat, le Premier ministre […]",
     auto: true
   },
   {
-    id: "auto-1791825165-64",
-    title: "Piratage sportif : les fournisseurs DNS entrent durablement dans le match",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/piratage-sportif-les-fournisseurs-dns-entrent-durablement-dans-le-match-DNU100h6",
+    id: "auto-1791905294-62",
+    title: "Recours de l'administration à des prestataires américains : les conditions du contentieux se précisent",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/recours-de-l-administration-a-des-prestataires-americains-les-conditions-du-contentieux-se-precisent-DNU100h5",
     source: "Lextenso",
     date: "2026-09-07",
     cat: "Jurisprudence",
-    desc: "La cour d&#039;appel de Paris consacre une interpr&eacute;tation large de la notion de &quot;&nbsp;personne susceptible de contribuer &agrave; [rem&eacute;dier &agrave; l&#039;atteinte]&nbsp;&quot; de l&#039;article L. 333-10 du Code du sport, confirmant les injonctions de blocage dirig&eacute;es contre les fournisseurs DNS. Elle unifie la notion a",
-    auto: true
-  },
-  {
-    id: "auto-1791825165-65",
-    title: "La modification du règlement sur l'intelligence artificielle, le prétexte de la simplification",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/la-modification-du-reglement-sur-l-intelligence-artificielle-le-pretexte-de-la-simplification-DNU100h7",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "IA",
-    desc: "La modification du r&egrave;glement sur l&#039;intelligence artificielle a &eacute;t&eacute; annonc&eacute;e en 2025 au regard des &eacute;valuations ex&nbsp;post de la qualit&eacute; de la l&eacute;gislation, des consultations des parties int&eacute;ress&eacute;es et des analyses d&#039;impact. Les changements envisag&eacute;s initialement &eacute",
+    desc: "Le Conseil d&#039;&Eacute;tat juge que le seul fait qu&#039;un prestataire soit soumis &agrave; la loi am&eacute;ricaine sur la surveillance en mati&egrave;re de renseignement ext&eacute;rieur (Foreign Intelligence Surveillance Act, 1978, FISA) ne suffit pas &agrave; &eacute;tablir l&#039;ill&eacute;galit&eacute; du recours &agrave; ses services pa",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-12T17:13:09";
+window.AUTO_VEILLE_UPDATED = "2026-10-13T15:28:44";
