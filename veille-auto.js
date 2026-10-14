@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-13T15:28:44
+// Dernière collecte : 2026-10-14T13:13:55
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,46 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1791983609-0",
+    title: "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
+    url: "https://www.cnil.fr/fr/cloture-injonction-google",
+    source: "CNIL",
+    date: "2026-10-14",
+    cat: "RGPD",
+    desc: "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
+    auto: true
+  },
+  {
+    id: "auto-1791983609-47",
+    title: "Rapport d’orientation stratégique 2026 du Cigref : « De la prospective à l’action : recommandations stratégiques pour 2040 »",
+    url: "https://www.cigref.fr/rapport-dorientation-strategique-2026-du-cigref-de-la-prospective-a-laction-recommandations-strategiques-pour-2040",
+    source: "CIGREF",
+    date: "2026-10-14",
+    cat: "Contrats IT",
+    desc: "L’édition 2026 du Rapport d’Orientation Stratégique (ROS) s’est nourrie des travaux de prospective stratégique portés par le Cigref ces 6 dernières années pour en tirer les principes essentiels et passer de la réflexion à l’action. Pensé comme un outil de projection et de mise à l’épreuve des impensés, ce ROS a pour but d’accompagner les [&#8230;] ",
+    auto: true
+  },
+  {
+    id: "auto-1791983609-1",
+    title: "Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées",
+    url: "https://www.cnil.fr/fr/cepd-declaration-lunettes-connectees",
+    source: "CNIL",
+    date: "2026-10-13",
+    cat: "RGPD",
+    desc: "Lors de sa dernière plénière, le CEPD a adopté une déclaration sur les lunettes connectées et publié le rapport intitulé « Le regard connecté. Une sociologie des usages et des défis liés aux lunettes connectées », élaboré dans le cadre du programme de réserve d’experts (Support Pool of Expert).",
+    auto: true
+  },
+  {
+    id: "auto-1791983609-27",
+    title: "Mutualisation de fréquences",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/mutualisation-de-frequences-131026.html",
+    source: "ARCEP",
+    date: "2026-10-13",
+    cat: "Contrats IT",
+    desc: "L’Arcep autorise les locations réciproques de fréquences dans la bande 1800 MHz entre les opérateurs Bouygues Telecom, Free Mobile, Orange et SFR, dans le cadre de la mise en œuvre de leur contrat de partage de sites mobiles",
     auto: true
   },
   {
@@ -761,45 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Ce mercredi 9 septembre s’est tenue la rentrée du Conseil d’État devant les autorités de la République et les représentants de nombreuses institutions. L’occasion pour Marc Guillaume, vice-président, de revenir sur les évolutions qui affectent profondément les missions de juge et de conseiller du Co",
     auto: true
   },
-  {
-    id: "auto-1788957410-0",
-    title: "Non-respect des droits des personnes : sanction de 300 000 euros à l’encontre de la société EXTIA",
-    url: "https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia",
-    source: "CNIL",
-    date: "2026-09-09",
-    cat: "RGPD",
-    desc: "Le 21 juillet 2026, la CNIL a sanctionné la société EXTIA d’une amende de 300&amp;nbsp;000 euros pour divers manquements relatifs au respect des droits des personnes, notamment du droit à l’effacement des données personnelles («&amp;nbsp;droit à l’oubli&amp;nbsp;»).",
-    auto: true
-  },
-  {
-    id: "auto-1788957410-43",
-    title: "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
-    url: "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
-    source: "EDPB",
-    date: "2026-09-09",
-    cat: "Cybersécurité",
-    desc: "Background information Date of final decision: 3 September 2026 National case Controller: Hôpital Privé de la Loire Legal Reference: Article 32 (Security of processing), Article 34 (Communication of a personal data breach to the data subject),&nbsp; Decision:&nbsp;Administrative fine Keywords: Cybersecurity, Personal data breaches, Health and resea",
-    auto: true
-  },
-  {
-    id: "auto-1791905294-0",
-    title: "Cyberattaques : L’ANSSI met en place une capacité renforcée de réaction dédiée aux services de l’État",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/",
-    source: "ANSSI",
-    date: "2026-09-07",
-    cat: "Cybersécurité",
-    desc: "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’Etat, le Premier ministre […]",
-    auto: true
-  },
-  {
-    id: "auto-1791905294-62",
-    title: "Recours de l'administration à des prestataires américains : les conditions du contentieux se précisent",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n8/recours-de-l-administration-a-des-prestataires-americains-les-conditions-du-contentieux-se-precisent-DNU100h5",
-    source: "Lextenso",
-    date: "2026-09-07",
-    cat: "Jurisprudence",
-    desc: "Le Conseil d&#039;&Eacute;tat juge que le seul fait qu&#039;un prestataire soit soumis &agrave; la loi am&eacute;ricaine sur la surveillance en mati&egrave;re de renseignement ext&eacute;rieur (Foreign Intelligence Surveillance Act, 1978, FISA) ne suffit pas &agrave; &eacute;tablir l&#039;ill&eacute;galit&eacute; du recours &agrave; ses services pa",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-13T15:28:44";
+window.AUTO_VEILLE_UPDATED = "2026-10-14T13:13:55";
