@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-15T12:59:48
+// Dernière collecte : 2026-10-16T12:55:53
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,76 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1792155327-0",
+    title: "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
+    url: "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
+    source: "CNIL",
+    date: "2026-10-16",
+    cat: "RGPD",
+    desc: "La CNIL, l’ICO et la CNPD publient leur étude conjointe «&amp;nbsp;De la protection des données à la création de valeur en finance&amp;nbsp;: évaluation des données, comptabilité, fusions-acquisitions et gouvernance&amp;nbsp;», rassemblant analyses et bonnes pratiques à destination des entreprises et des acteurs financiers.",
+    auto: true
+  },
+  {
+    id: "auto-1792155327-1",
+    title: "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
+    url: "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+    source: "CNIL",
+    date: "2026-10-16",
+    cat: "RGPD",
+    desc: "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont remplies.",
+    auto: true
+  },
+  {
+    id: "auto-1792155327-2",
+    title: "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
+    url: "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
+    source: "CNIL",
+    date: "2026-10-16",
+    cat: "RGPD",
+    desc: "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. La CNIL fait le point sur vos droits.",
+    auto: true
+  },
+  {
+    id: "auto-1792155327-40",
+    title: "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
+    url: "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
+    source: "EDPB",
+    date: "2026-10-16",
+    cat: "RGPD",
+    desc: "Background information Date of final decision: 2 October 2026 National case&nbsp; Controller: Xandr Inc. Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categories of personal data) Decision: Administrative fine Key words: Fines, Basic principles, Marketing, Online platforms Summary of the Decision Origin of",
+    auto: true
+  },
+  {
+    id: "auto-1792155327-3",
+    title: "Ordre du jour de la séance plénière du 15 octobre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
+    source: "CNIL",
+    date: "2026-10-15",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1792155327-30",
+    title: "Fibre optique",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/fibre-optique-151026.html",
+    source: "ARCEP",
+    date: "2026-10-15",
+    cat: "Plateformes",
+    desc: "Pérennité économique des réseaux en fibre optique d’initiative publique : l’Arcep publie un modèle de coûts et un projet de lignes directrices tarifaires",
+    auto: true
+  },
+  {
+    id: "auto-1792155327-51",
+    title: "Assemblée Générale du Cigref 2026 : Trajectoires numériques, compétitivité et performance",
+    url: "https://www.cigref.fr/assemblee-generale-du-cigref-2026-trajectoires-numeriques-competitivite-et-performance",
+    source: "CIGREF",
+    date: "2026-10-15",
+    cat: "Contrats IT",
+    desc: "À l’occasion de son Assemblée Générale ordinaire réunissant les décideurs du numérique des grandes entreprises et administrations publiques françaises, le Cigref a dévoilé sa nouvelle feuille de route stratégique. La séance publique placée sous le thème « Trajectoires numériques, compétitivité et performance » a été l’occasion d&#8217;interroger le",
     auto: true
   },
   {
@@ -731,75 +801,5 @@ window.AUTO_VEILLE = [
     desc: "",
     auto: true
   },
-  {
-    id: "auto-1789129742-25",
-    title: "Marché du haut et du très haut débit fixe",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/marche-du-haut-et-du-tres-haut-debit-fixe-100926.html",
-    source: "ARCEP",
-    date: "2026-09-10",
-    cat: "Plateformes",
-    desc: "Plus de 95 % des locaux sont raccordables à la fibre optique, qui représente 85 % des abonnements internet",
-    auto: true
-  },
-  {
-    id: "auto-1789129742-26",
-    title: "Fréquences - Outre-mer",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/frequences-outre-mer-100926.html",
-    source: "ARCEP",
-    date: "2026-09-10",
-    cat: "Plateformes",
-    desc: "L’Arcep lance une deuxième consultation publique sur l’attribution de fréquences radioélectriques en Guyane",
-    auto: true
-  },
-  {
-    id: "auto-1789043700-0",
-    title: "Ordre du jour de la séance plénière du 10 septembre 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-10-septembre-2026",
-    source: "CNIL",
-    date: "2026-09-10",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 10 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1789043700-1",
-    title: "Facturation électronique : quels enjeux pour la protection des données personnelles ?",
-    url: "https://www.cnil.fr/fr/facturation-electronique-quels-enjeux",
-    source: "CNIL",
-    date: "2026-09-10",
-    cat: "RGPD",
-    desc: "Depuis le 1er septembre 2026, la réforme relative à la facturation électronique entre entreprises est entrée en vigueur. La CNIL aide les entreprises à comprendre les enjeux et à assurer la sécurité des données traitées.",
-    auto: true
-  },
-  {
-    id: "auto-1789043700-2",
-    title: "La CNIL publie le tome 2 de L’Agence Privacy : une nouvelle enquête pour mieux comprendre la cybercriminalité",
-    url: "https://www.cnil.fr/fr/audeladelecran",
-    source: "CNIL",
-    date: "2026-09-10",
-    cat: "RGPD",
-    desc: "Avec «&amp;nbsp;Au-delà de l’écran&amp;nbsp;», l’Agence Privacy revient avec de nouvelles aventures&amp;nbsp;! Hypertrucage (deepfakes), arnaque aux sentiments, défis nocifs sur les réseaux sociaux, brouteurs : ce tome 2 aborde des risques numériques pour la vie privée auxquels adolescents comme parents peuvent être confrontés.",
-    auto: true
-  },
-  {
-    id: "auto-1791218426-36",
-    title: "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
-    url: "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en",
-    source: "EDPB",
-    date: "2026-09-09",
-    cat: "Cybersécurité",
-    desc: "Background information Date of final decision: 3 September 2026 National case Controller: Hôpital Privé de la Loire Legal Reference: Article 32 (Security of processing), Article 34 (Communication of a personal data breach to the data subject),&nbsp; Decision:&nbsp;Administrative fine Keywords: Cybersecurity, Personal data breaches, Health and resea",
-    auto: true
-  },
-  {
-    id: "auto-1789043700-28",
-    title: "[Revoir] Rentrée 2026 : Le Conseil d’État en mouvement pour répondre à des défis inédits",
-    url: "https://www.conseil-etat.fr/actualites/revoir-rentree-2026-le-conseil-d-etat-en-mouvement-pour-repondre-a-des-defis-inedits",
-    source: "Conseil d'État",
-    date: "2026-09-09",
-    cat: "Jurisprudence",
-    desc: "Ce mercredi 9 septembre s’est tenue la rentrée du Conseil d’État devant les autorités de la République et les représentants de nombreuses institutions. L’occasion pour Marc Guillaume, vice-président, de revenir sur les évolutions qui affectent profondément les missions de juge et de conseiller du Co",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-15T12:59:48";
+window.AUTO_VEILLE_UPDATED = "2026-10-16T12:55:53";
