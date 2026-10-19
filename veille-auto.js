@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-18T12:21:58
+// Dernière collecte : 2026-10-19T15:11:43
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1792422680-0",
+    title: "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
+    url: "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
+    source: "CNIL",
+    date: "2026-10-19",
+    cat: "RGPD",
+    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Background information Date of final decision: 21 July 2026 National case Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 17 (Right to erasure ‘right to be forgotten’) Decision: Administrative fine Key words: Data subject rights Summary of the Decisio",
     auto: true
   },
-  {
-    id: "auto-1790341725-30",
-    title: "Participation du Conseil d’État aux 20e Journées juridiques et administratives franco-croates",
-    url: "https://www.conseil-etat.fr/actualites/participation-du-conseil-d-etat-aux-20e-journees-juridiques-et-administratives-franco-croates",
-    source: "Conseil d'État",
-    date: "2026-09-10",
-    cat: "Jurisprudence",
-    desc: "",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-18T12:21:58";
+window.AUTO_VEILLE_UPDATED = "2026-10-19T15:11:43";
