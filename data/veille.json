@@ -10,6 +10,46 @@
     "auto": true
   },
   {
+    "id": "auto-1792501868-0",
+    "title": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
+    "url": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
+    "source": "CNIL",
+    "date": "2026-10-20",
+    "cat": "RGPD",
+    "desc": "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les professionnels.",
+    "auto": true
+  },
+  {
+    "id": "auto-1792501868-27",
+    "title": "New Deal mobile",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/new-deal-mobile-191026.html",
+    "source": "ARCEP",
+    "date": "2026-10-19",
+    "cat": "Plateformes",
+    "desc": "Publication d’une mise en demeure relatives au contrôle des obligations de déploiement liées au New Deal mobile",
+    "auto": true
+  },
+  {
+    "id": "auto-1792501868-28",
+    "title": "Complétude des déploiements de la fibre optique",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/completude-des-deploiements-de-la-fibre-optique-191026.html",
+    "source": "ARCEP",
+    "date": "2026-10-19",
+    "cat": "Plateformes",
+    "desc": "Publication de deux mises en demeure relatives au contrôle de l’obligation de complétude des déploiements de la fibre optique",
+    "auto": true
+  },
+  {
+    "id": "auto-1792501868-29",
+    "title": "Un mois, deux juridictions : la cour administrative d’appel et le tribunal administratif de Nantes",
+    "url": "http://www.conseil-etat.fr/actualites/un-mois-deux-juridictions-la-cour-administrative-d-appel-et-le-tribunal-administratif-de-nantes2",
+    "source": "Conseil d'État",
+    "date": "2026-10-19",
+    "cat": "Jurisprudence",
+    "desc": "Les 12 et 13 octobre 2026, la cour administrative d’appel et le tribunal administratif de Nantes ont accueilli le vice-président du Conseil d’État, Marc Guillaume, dans le cadre de ses rencontres mensuelles dans les juridictions administratives. L’occasion de revenir sur l’activité des deux juridict",
+    "auto": true
+  },
+  {
     "id": "auto-1792422680-0",
     "title": "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
     "url": "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
@@ -757,46 +797,6 @@
     "date": "2026-09-13",
     "cat": "Jurisprudence",
     "desc": "Plus de places disponibles &agrave; la r&eacute;servation Il&nbsp;vous reste la possibilit&eacute; de suivre une visite, sans r&eacute;servation, en cas de d&eacute;sistement (file d&rsquo;attente d&eacute;di&eacute;e)",
-    "auto": true
-  },
-  {
-    "id": "auto-1789396641-26",
-    "title": "Journées européennes du patrimoine - Dernières places pour découvrir le Conseil d'État et le Conseil constitutionnel les 19-20 septembre",
-    "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-dernieres-places-pour-decouvrir-le-conseil-d-etat-et-le-conseil-constitutionnel-les-19-20-septembre",
-    "source": "Conseil d'État",
-    "date": "2026-09-13",
-    "cat": "Jurisprudence",
-    "desc": "Derni&egrave;res places disponibles pour d&eacute;couvrir &nbsp; le Conseil d'&Eacute;tat et le Conseil constitutionnel, &nbsp; &agrave; l&rsquo;occasion des Journ&eacute;es europ&eacute;ennes du patrimoine, les 19 et 20 septembre 2026",
-    "auto": true
-  },
-  {
-    "id": "auto-1791218426-35",
-    "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
-    "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en",
-    "source": "EDPB",
-    "date": "2026-09-11",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 21 July 2026 National case Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 17 (Right to erasure ‘right to be forgotten’) Decision: Administrative fine Key words: Data subject rights Summary of the Decisio",
-    "auto": true
-  },
-  {
-    "id": "auto-1789649743-25",
-    "title": "Dispositifs à courte portée",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques.html",
-    "source": "ARCEP",
-    "date": "2026-09-11",
-    "cat": "Jurisprudence",
-    "desc": "L’Arcep publie une consultation publique pour recueillir l'avis des parties prenantes sur une modification de la décision n° 2014-1263 en date du 6 novembre 2014 modifiée fixant les conditions d’utilisation des fréquences radioélectriques par des dispositifs à courte portée.",
-    "auto": true
-  },
-  {
-    "id": "auto-1789129742-44",
-    "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
-    "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
-    "source": "EDPB",
-    "date": "2026-09-11",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 21 July 2026 National case Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 17 (Right to erasure ‘right to be forgotten’) Decision: Administrative fine Key words: Data subject rights Summary of the Decisio",
     "auto": true
   }
 ]
