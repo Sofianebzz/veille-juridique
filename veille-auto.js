@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-20T13:11:33
+// Dernière collecte : 2026-10-21T13:21:03
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -19,6 +19,16 @@ window.AUTO_VEILLE = [
     date: "2026-10-20",
     cat: "RGPD",
     desc: "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les professionnels.",
+    auto: true
+  },
+  {
+    id: "auto-1792588837-26",
+    title: "Rachat de SFR : l’Arcep publie une nouvelle FAQ",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques.html",
+    source: "ARCEP",
+    date: "2026-10-19",
+    cat: "Plateformes",
+    desc: "Quand le rachat de SFR par Orange, Bouygues Télécom et Free pourrait-il être effectif ? Que va-t-il se passer pour mon abonnement et mon forfait après la vente de SFR ? Dois-je entreprendre des démarches ? Pour répondre aux questions des particuliers sur le rachat de SFR, l’Arcep publie une nouvelle foire aux questions.&nbsp;",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Il n'y a plus de places disponibles &agrave; la r&eacute;servation. Il&nbsp;vous reste la possibilit&eacute; de suivre une visite, sans r&eacute;servation, en cas de d&eacute;sistement (file d&rsquo;attente d&eacute;di&eacute;e)",
     auto: true
   },
-  {
-    id: "auto-1789477321-25",
-    title: "Journées européennes du patrimoine - Plus de places disponibles à la réservation!",
-    url: "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-plus-de-places-disponibles-a-la-reservation",
-    source: "Conseil d'État",
-    date: "2026-09-13",
-    cat: "Jurisprudence",
-    desc: "Plus de places disponibles &agrave; la r&eacute;servation Il&nbsp;vous reste la possibilit&eacute; de suivre une visite, sans r&eacute;servation, en cas de d&eacute;sistement (file d&rsquo;attente d&eacute;di&eacute;e)",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-20T13:11:33";
+window.AUTO_VEILLE_UPDATED = "2026-10-21T13:21:03";
