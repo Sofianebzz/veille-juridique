@@ -10,6 +10,16 @@
     "auto": true
   },
   {
+    "id": "auto-1792675256-26",
+    "title": "Le Conseil d'État participe à un séminaire avec le Conseil d'État belge",
+    "url": "http://www.conseil-etat.fr/actualites/le-conseil-d-etat-participe-a-un-seminaire-avec-le-conseil-d-etat-belge",
+    "source": "Conseil d'État",
+    "date": "2026-10-21",
+    "cat": "Jurisprudence",
+    "desc": "Les 19 et 20 octobre 2026, une délégation du Conseil d’État conduite par le vice-président Marc Guillaume, s’est rendue à Bruxelles, pour participer à un séminaire de travail bilatéral avec le Conseil d’État belge.",
+    "auto": true
+  },
+  {
     "id": "auto-1792501868-0",
     "title": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
     "url": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
@@ -787,16 +797,6 @@
     "date": "2026-09-14",
     "cat": "Jurisprudence",
     "desc": "Jeudi 10 septembre 2026, le vice-président du Conseil d’État, Marc Guillaume, a reçu le ministre de la Justice du Vietnam, Hoàng Thanh Tùng, et le directeur général du département de la coopération internationale du ministère de la Justice du Vietnam, Nguyễn Hữu Huyên.",
-    "auto": true
-  },
-  {
-    "id": "auto-1789563576-27",
-    "title": "Journées européennes du patrimoine - Les inscriptions sont closes",
-    "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-les-inscriptions-sont-closes",
-    "source": "Conseil d'État",
-    "date": "2026-09-13",
-    "cat": "Jurisprudence",
-    "desc": "Il n'y a plus de places disponibles &agrave; la r&eacute;servation. Il&nbsp;vous reste la possibilit&eacute; de suivre une visite, sans r&eacute;servation, en cas de d&eacute;sistement (file d&rsquo;attente d&eacute;di&eacute;e)",
     "auto": true
   }
 ]

@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-21T13:21:03
+// Dernière collecte : 2026-10-22T13:21:20
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1792675256-26",
+    title: "Le Conseil d'État participe à un séminaire avec le Conseil d'État belge",
+    url: "http://www.conseil-etat.fr/actualites/le-conseil-d-etat-participe-a-un-seminaire-avec-le-conseil-d-etat-belge",
+    source: "Conseil d'État",
+    date: "2026-10-21",
+    cat: "Jurisprudence",
+    desc: "Les 19 et 20 octobre 2026, une délégation du Conseil d’État conduite par le vice-président Marc Guillaume, s’est rendue à Bruxelles, pour participer à un séminaire de travail bilatéral avec le Conseil d’État belge.",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Jeudi 10 septembre 2026, le vice-président du Conseil d’État, Marc Guillaume, a reçu le ministre de la Justice du Vietnam, Hoàng Thanh Tùng, et le directeur général du département de la coopération internationale du ministère de la Justice du Vietnam, Nguyễn Hữu Huyên.",
     auto: true
   },
-  {
-    id: "auto-1789563576-27",
-    title: "Journées européennes du patrimoine - Les inscriptions sont closes",
-    url: "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-les-inscriptions-sont-closes",
-    source: "Conseil d'État",
-    date: "2026-09-13",
-    cat: "Jurisprudence",
-    desc: "Il n'y a plus de places disponibles &agrave; la r&eacute;servation. Il&nbsp;vous reste la possibilit&eacute; de suivre une visite, sans r&eacute;servation, en cas de d&eacute;sistement (file d&rsquo;attente d&eacute;di&eacute;e)",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-21T13:21:03";
+window.AUTO_VEILLE_UPDATED = "2026-10-22T13:21:20";
