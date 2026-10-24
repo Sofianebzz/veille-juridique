@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-23T12:59:49
+// Dernière collecte : 2026-10-24T12:22:52
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -762,6 +762,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1792844552-48",
+    title: "Les 30 « Must-Do Actions » du Numérique Responsable : les mesures incontournables et rapidement actionnables",
+    url: "https://www.cigref.fr/les-30-must-do-actions-du-numerique-responsable-les-mesures-incontournables-et-rapidement-actionnables",
+    source: "CIGREF",
+    date: "2026-09-17",
+    cat: "Contrats IT",
+    desc: "Les stratégies liées au Numérique Responsable bénéficient aujourd&#8217;hui de plusieurs années d&#8217;expérience au sein des grandes organisations. Cependant ces stratégies doivent encore relever le double défi de leur pérennisation et de leur passage à l&#8217;échelle, en particulier dans un contexte où l&#8217;attention portée à ces enjeux peut",
+    auto: true
+  },
+  {
     id: "auto-1790255051-3",
     title: "Statut et organisation de la CNIL",
     url: "https://www.cnil.fr/fr/fonctionnement/statut-et-organisation-de-la-cnil",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 17 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
     auto: true
   },
-  {
-    id: "auto-1789734844-52",
-    title: "The 30 Must-Do Actions for Sustainable IT:Essential and quick-win measures",
-    url: "https://www.cigref.fr/the-30-must-do-actions-for-sustainable-itessential-and-quick-win-measures",
-    source: "CIGREF",
-    date: "2026-09-17",
-    cat: "Contrats IT",
-    desc: "Strategies relating to Digital Responsibility now draw on several years’ experience within large organisations. However, these strategies still face the dual challenge of ensuring their long-term sustainability and scaling them up, particularly in a context where attention to these issues can quickly be diluted by the multitude of other priorities.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-23T12:59:49";
+window.AUTO_VEILLE_UPDATED = "2026-10-24T12:22:52";
