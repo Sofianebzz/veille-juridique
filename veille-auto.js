@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-25T12:53:26
+// Dernière collecte : 2026-10-26T14:44:16
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1793025826-26",
+    title: "La décision en bref : décision n° 2026-1230/1231 QPC du 23 octobre 2026",
+    url: "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-12301231-qpc-du-23-octobre-2026",
+    source: "Conseil constitutionnel",
+    date: "2026-10-23",
+    cat: "Jurisprudence",
+    desc: "Association des représentants des employeurs des métiers de l’alimentation et autres [Gel temporaire du montant des cotisations d’assurance maladie complémentaire]",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Créée en 1978 par la loi Informatique et Libertés, la CNIL est une autorité administrative indépendante, composée d’un Collège de 18 membres et d’une équipe d’agents contractuels de l’État.",
     auto: true
   },
-  {
-    id: "auto-1789819879-26",
-    title: "Journées européennes du patrimoine - COMPLET",
-    url: "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-complet",
-    source: "Conseil d'État",
-    date: "2026-09-17",
-    cat: "Jurisprudence",
-    desc: "Les réservations pour les visites sont closes. Une file d’attente vous permettra le jour J de suivre une visite en cas de désistement (sans réservation).",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-25T12:53:26";
+window.AUTO_VEILLE_UPDATED = "2026-10-26T14:44:16";

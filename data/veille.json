@@ -10,6 +10,16 @@
     "auto": true
   },
   {
+    "id": "auto-1793025826-26",
+    "title": "La décision en bref : décision n° 2026-1230/1231 QPC du 23 octobre 2026",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-12301231-qpc-du-23-octobre-2026",
+    "source": "Conseil constitutionnel",
+    "date": "2026-10-23",
+    "cat": "Jurisprudence",
+    "desc": "Association des représentants des employeurs des métiers de l’alimentation et autres [Gel temporaire du montant des cotisations d’assurance maladie complémentaire]",
+    "auto": true
+  },
+  {
     "id": "auto-1792760366-29",
     "title": "Décision n° 2026-1230/1231 QPC du 23 octobre 2026 - Communiqué de presse",
     "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-12301231-qpc-du-23-octobre-2026-communique-de-presse",
@@ -787,16 +797,6 @@
     "date": "2026-09-17",
     "cat": "RGPD",
     "desc": "Créée en 1978 par la loi Informatique et Libertés, la CNIL est une autorité administrative indépendante, composée d’un Collège de 18 membres et d’une équipe d’agents contractuels de l’État.",
-    "auto": true
-  },
-  {
-    "id": "auto-1789819879-26",
-    "title": "Journées européennes du patrimoine - COMPLET",
-    "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-complet",
-    "source": "Conseil d'État",
-    "date": "2026-09-17",
-    "cat": "Jurisprudence",
-    "desc": "Les réservations pour les visites sont closes. Une file d’attente vous permettra le jour J de suivre une visite en cas de désistement (sans réservation).",
     "auto": true
   }
 ]
