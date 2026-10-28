@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-27T13:51:07
+// Dernière collecte : 2026-10-28T14:45:47
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1793198720-26",
+    title: "Titre",
+    url: "http://www.conseil-etat.fr/actualites/titre",
+    source: "Conseil d'État",
+    date: "2026-10-27",
+    cat: "Jurisprudence",
+    desc: "",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Les stratégies liées au Numérique Responsable bénéficient aujourd&#8217;hui de plusieurs années d&#8217;expérience au sein des grandes organisations. Cependant ces stratégies doivent encore relever le double défi de leur pérennisation et de leur passage à l&#8217;échelle, en particulier dans un contexte où l&#8217;attention portée à ces enjeux peut",
     auto: true
   },
-  {
-    id: "auto-1790255051-3",
-    title: "Statut et organisation de la CNIL",
-    url: "https://www.cnil.fr/fr/fonctionnement/statut-et-organisation-de-la-cnil",
-    source: "CNIL",
-    date: "2026-09-17",
-    cat: "RGPD",
-    desc: "Créée en 1978 par la loi Informatique et Libertés, la CNIL est une autorité administrative indépendante, composée d’un Collège de 18 membres et d’une équipe d’agents contractuels de l’État.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-27T13:51:07";
+window.AUTO_VEILLE_UPDATED = "2026-10-28T14:45:47";

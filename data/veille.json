@@ -10,6 +10,16 @@
     "auto": true
   },
   {
+    "id": "auto-1793198720-26",
+    "title": "Titre",
+    "url": "http://www.conseil-etat.fr/actualites/titre",
+    "source": "Conseil d'État",
+    "date": "2026-10-27",
+    "cat": "Jurisprudence",
+    "desc": "",
+    "auto": true
+  },
+  {
     "id": "auto-1793025826-26",
     "title": "La décision en bref : décision n° 2026-1230/1231 QPC du 23 octobre 2026",
     "url": "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-12301231-qpc-du-23-octobre-2026",
@@ -787,16 +797,6 @@
     "date": "2026-09-17",
     "cat": "Contrats IT",
     "desc": "Les stratégies liées au Numérique Responsable bénéficient aujourd&#8217;hui de plusieurs années d&#8217;expérience au sein des grandes organisations. Cependant ces stratégies doivent encore relever le double défi de leur pérennisation et de leur passage à l&#8217;échelle, en particulier dans un contexte où l&#8217;attention portée à ces enjeux peut",
-    "auto": true
-  },
-  {
-    "id": "auto-1790255051-3",
-    "title": "Statut et organisation de la CNIL",
-    "url": "https://www.cnil.fr/fr/fonctionnement/statut-et-organisation-de-la-cnil",
-    "source": "CNIL",
-    "date": "2026-09-17",
-    "cat": "RGPD",
-    "desc": "Créée en 1978 par la loi Informatique et Libertés, la CNIL est une autorité administrative indépendante, composée d’un Collège de 18 membres et d’une équipe d’agents contractuels de l’État.",
     "auto": true
   }
 ]
