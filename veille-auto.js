@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-28T14:45:47
+// Dernière collecte : 2026-10-29T14:52:12
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1793285512-0",
+    title: "Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+    url: "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+    source: "CNIL",
+    date: "2026-10-29",
+    cat: "Jurisprudence",
+    desc: "Le 22 octobre 2026, la CNIL a sanctionné les sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT d’une amende de 7&amp;nbsp;millions d’euros pour non-respect des règles applicables en matière de traceurs (cookies).",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Strategies relating to Digital Responsibility now draw on several years’ experience within large organisations. However, these strategies still face the dual challenge of ensuring their long-term sustainability and scaling them up, particularly in a context where attention to these issues can quickly be diluted by the multitude of other priorities.",
     auto: true
   },
-  {
-    id: "auto-1792844552-48",
-    title: "Les 30 « Must-Do Actions » du Numérique Responsable : les mesures incontournables et rapidement actionnables",
-    url: "https://www.cigref.fr/les-30-must-do-actions-du-numerique-responsable-les-mesures-incontournables-et-rapidement-actionnables",
-    source: "CIGREF",
-    date: "2026-09-17",
-    cat: "Contrats IT",
-    desc: "Les stratégies liées au Numérique Responsable bénéficient aujourd&#8217;hui de plusieurs années d&#8217;expérience au sein des grandes organisations. Cependant ces stratégies doivent encore relever le double défi de leur pérennisation et de leur passage à l&#8217;échelle, en particulier dans un contexte où l&#8217;attention portée à ces enjeux peut",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-28T14:45:47";
+window.AUTO_VEILLE_UPDATED = "2026-10-29T14:52:12";
