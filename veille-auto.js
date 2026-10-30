@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-10-29T14:52:12
+// Dernière collecte : 2026-10-30T14:44:26
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1793371442-26",
+    title: "Prévention des conflits d’intérêts : Le Conseil d’État précise les règles et l’office de la Haute autorité pour la transparence de la vie publique",
+    url: "http://www.conseil-etat.fr/actualites/prevention-des-conflits-d-interets-le-conseil-d-etat-precise-les-regles-et-l-office-de-la-haute-autorite-pour-la-transparence-de-la-vie-publique",
+    source: "Conseil d'État",
+    date: "2026-10-29",
+    cat: "Jurisprudence",
+    desc: "À l’occasion de deux recours distincts contre trois délibérations de la HATVP, l’assemblée du contentieux du Conseil d’État se prononce pour la première fois sur le contrôle d’une déclaration d’intérêts d’un ministre et précise les règles de contrôle des projets de mobilité des agents publics vers l",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le Conseil d’État a accueilli plus de 4500 visiteurs à l’occasion des Journées européennes du patrimoine organisées les 19 et 20 septembre 2026.",
     auto: true
   },
-  {
-    id: "auto-1792932780-48",
-    title: "The 30 Must-Do Actions for Sustainable IT:Essential and quick-win measures",
-    url: "https://www.cigref.fr/the-30-must-do-actions-for-sustainable-itessential-and-quick-win-measures",
-    source: "CIGREF",
-    date: "2026-09-17",
-    cat: "Contrats IT",
-    desc: "Strategies relating to Digital Responsibility now draw on several years’ experience within large organisations. However, these strategies still face the dual challenge of ensuring their long-term sustainability and scaling them up, particularly in a context where attention to these issues can quickly be diluted by the multitude of other priorities.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-10-29T14:52:12";
+window.AUTO_VEILLE_UPDATED = "2026-10-30T14:44:26";

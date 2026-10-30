@@ -10,6 +10,16 @@
     "auto": true
   },
   {
+    "id": "auto-1793371442-26",
+    "title": "Prévention des conflits d’intérêts : Le Conseil d’État précise les règles et l’office de la Haute autorité pour la transparence de la vie publique",
+    "url": "http://www.conseil-etat.fr/actualites/prevention-des-conflits-d-interets-le-conseil-d-etat-precise-les-regles-et-l-office-de-la-haute-autorite-pour-la-transparence-de-la-vie-publique",
+    "source": "Conseil d'État",
+    "date": "2026-10-29",
+    "cat": "Jurisprudence",
+    "desc": "À l’occasion de deux recours distincts contre trois délibérations de la HATVP, l’assemblée du contentieux du Conseil d’État se prononce pour la première fois sur le contrôle d’une déclaration d’intérêts d’un ministre et précise les règles de contrôle des projets de mobilité des agents publics vers l",
+    "auto": true
+  },
+  {
     "id": "auto-1793285512-0",
     "title": "Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
     "url": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
@@ -787,16 +797,6 @@
     "date": "2026-09-20",
     "cat": "Jurisprudence",
     "desc": "Le Conseil d’État a accueilli plus de 4500 visiteurs à l’occasion des Journées européennes du patrimoine organisées les 19 et 20 septembre 2026.",
-    "auto": true
-  },
-  {
-    "id": "auto-1792932780-48",
-    "title": "The 30 Must-Do Actions for Sustainable IT:Essential and quick-win measures",
-    "url": "https://www.cigref.fr/the-30-must-do-actions-for-sustainable-itessential-and-quick-win-measures",
-    "source": "CIGREF",
-    "date": "2026-09-17",
-    "cat": "Contrats IT",
-    "desc": "Strategies relating to Digital Responsibility now draw on several years’ experience within large organisations. However, these strategies still face the dual challenge of ensuring their long-term sustainability and scaling them up, particularly in a context where attention to these issues can quickly be diluted by the multitude of other priorities.",
     "auto": true
   }
 ]
