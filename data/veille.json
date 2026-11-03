@@ -10,6 +10,16 @@
     "auto": true
   },
   {
+    "id": "auto-1793720488-26",
+    "title": "Retrouvez toute l’actualité du Conseil constitutionnel sur notre site internet",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/retrouvez-toute-l-actualite-du-conseil-constitutionnel-sur-notre-site-internet",
+    "source": "Conseil constitutionnel",
+    "date": "2026-11-03",
+    "cat": "Jurisprudence",
+    "desc": "L’application mobile du Conseil constitutionnel cessera de fonctionner à compter du lundi 16 novembre prochain&nbsp;; nous vous invitons à retrouver l’ensemble des actualités sur www.conseil-constitutionnel.fr",
+    "auto": true
+  },
+  {
     "id": "auto-1793371442-26",
     "title": "Prévention des conflits d’intérêts : Le Conseil d’État précise les règles et l’office de la Haute autorité pour la transparence de la vie publique",
     "url": "http://www.conseil-etat.fr/actualites/prevention-des-conflits-d-interets-le-conseil-d-etat-precise-les-regles-et-l-office-de-la-haute-autorite-pour-la-transparence-de-la-vie-publique",
@@ -787,16 +797,6 @@
     "date": "2026-09-21",
     "cat": "Plateformes",
     "desc": "Brussels, 21 September – During its latest plenary, the EDPB has adopted guidelines on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR and the final version of its guidelines on the interplay between the Digital Services Act (DSA) and the GDPR. The new EDPB guidelines are a major ste",
-    "auto": true
-  },
-  {
-    "id": "auto-1790001872-26",
-    "title": "Journées européennes du patrimoine 2026 : 4500 visiteurs ont découvert le Conseil d'Etat",
-    "url": "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-2026-4500-visiteurs-ont-decouvert-le-conseil-d-etat",
-    "source": "Conseil d'État",
-    "date": "2026-09-20",
-    "cat": "Jurisprudence",
-    "desc": "Le Conseil d’État a accueilli plus de 4500 visiteurs à l’occasion des Journées européennes du patrimoine organisées les 19 et 20 septembre 2026.",
     "auto": true
   }
 ]

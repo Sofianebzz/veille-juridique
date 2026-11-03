@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-02T17:39:49
+// Dernière collecte : 2026-11-03T15:41:50
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1793720488-26",
+    title: "Retrouvez toute l’actualité du Conseil constitutionnel sur notre site internet",
+    url: "https://www.conseil-constitutionnel.fr/actualites/retrouvez-toute-l-actualite-du-conseil-constitutionnel-sur-notre-site-internet",
+    source: "Conseil constitutionnel",
+    date: "2026-11-03",
+    cat: "Jurisprudence",
+    desc: "L’application mobile du Conseil constitutionnel cessera de fonctionner à compter du lundi 16 novembre prochain&nbsp;; nous vous invitons à retrouver l’ensemble des actualités sur www.conseil-constitutionnel.fr",
     auto: true
   },
   {
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Brussels, 21 September – During its latest plenary, the EDPB has adopted guidelines on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR and the final version of its guidelines on the interplay between the Digital Services Act (DSA) and the GDPR. The new EDPB guidelines are a major ste",
     auto: true
   },
-  {
-    id: "auto-1790001872-26",
-    title: "Journées européennes du patrimoine 2026 : 4500 visiteurs ont découvert le Conseil d'Etat",
-    url: "https://www.conseil-etat.fr/actualites/journees-europeennes-du-patrimoine-2026-4500-visiteurs-ont-decouvert-le-conseil-d-etat",
-    source: "Conseil d'État",
-    date: "2026-09-20",
-    cat: "Jurisprudence",
-    desc: "Le Conseil d’État a accueilli plus de 4500 visiteurs à l’occasion des Journées européennes du patrimoine organisées les 19 et 20 septembre 2026.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-02T17:39:49";
+window.AUTO_VEILLE_UPDATED = "2026-11-03T15:41:50";
