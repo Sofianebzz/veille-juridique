@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-03T15:41:50
+// Dernière collecte : 2026-11-04T15:54:13
 window.AUTO_VEILLE = [
   {
     id: "auto-1791825165-62",
@@ -9,6 +9,46 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1793807621-0",
+    title: "Privacy for Kids : le CEPD lance une plateforme dédiée à la vie privée des enfants",
+    url: "https://www.cnil.fr/fr/cepd-privacy-for-kids",
+    source: "CNIL",
+    date: "2026-11-04",
+    cat: "RGPD",
+    desc: "Le Comité européen de la protection des données (CEPD), en lien avec différentes autorités de protection de données, dont la CNIL, lance sa plateforme Privacy for kids dédiée à l’éducation au numérique.",
+    auto: true
+  },
+  {
+    id: "auto-1793807621-39",
+    title: "CEDPO welcomes DPO pro as a new member",
+    url: "https://cedpo.eu/cedpo-welcomes-dpo-pro-as-a-new-member/",
+    source: "CEDPO",
+    date: "2026-11-04",
+    cat: "RGPD",
+    desc: "Der Beitrag CEDPO welcomes DPO pro as a new member erschien zuerst auf Confederation of European Data Protection Organisations .",
+    auto: true
+  },
+  {
+    id: "auto-1793807621-40",
+    title: "CEDPO responds to EDPB consultation on data breach notification",
+    url: "https://cedpo.eu/cedpo-responds-to-edpb-consultation-on-data-breach-notification/",
+    source: "CEDPO",
+    date: "2026-11-04",
+    cat: "RGPD",
+    desc: "Der Beitrag CEDPO responds to EDPB consultation on data breach notification erschien zuerst auf Confederation of European Data Protection Organisations .",
+    auto: true
+  },
+  {
+    id: "auto-1793807621-27",
+    title: "Le Conseil constitutionnel à Bobigny pour une nouvelle audience délocalisée de question prioritaire de constitutionnalité",
+    url: "https://www.conseil-constitutionnel.fr/actualites/le-conseil-constitutionnel-a-bobigny-pour-une-nouvelle-audience-delocalisee-de-question-prioritaire",
+    source: "Conseil constitutionnel",
+    date: "2026-11-03",
+    cat: "Jurisprudence",
+    desc: "Le Conseil constitutionnel siègera le 24 novembre 2026 au tribunal judiciaire de Bobigny pour sa 14e audience délocalisée de question prioritaire de constitutionnalité.",
     auto: true
   },
   {
@@ -761,45 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Le Cigref publie un Référentiel de KPI Numérique Responsable, conçu pour aider les grandes organisations à passer des engagements au pilotage concret de leurs démarches.&#160; Télécharger le livret de présentation de l’outil Excel. Les enjeux du pilotage : passer de l&#8217;engagement à la mesure opérationnelle Fruit des travaux du groupe « Métriqu",
     auto: true
   },
-  {
-    id: "auto-1791557485-43",
-    title: "The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-    url: "https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
-    source: "EDPB",
-    date: "2026-09-22",
-    cat: "RGPD",
-    desc: "Background information Date of final decision: 1 February 2023 National case Controller: SECURITAS DIRECT, S.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Decision: Administrative fine, Compliance order Key words: Data subject rights Summary of the Decisi",
-    auto: true
-  },
-  {
-    id: "auto-1791218426-34",
-    title: "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-    url: "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
-    source: "EDPB",
-    date: "2026-09-22",
-    cat: "RGPD",
-    desc: "Background information Date of final decision: 1 February 2023 National case Controller: SECURITAS DIRECT, S.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Decision: Administrative fine, Compliance order Key words: Data subject rights Summary of the Decisi",
-    auto: true
-  },
-  {
-    id: "auto-1790081956-40",
-    title: "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-    url: "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
-    source: "EDPB",
-    date: "2026-09-22",
-    cat: "RGPD",
-    desc: "Background information Date of final decision: 1 February 2023 National case Controller: SECURITAS DIRECT, S.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Decision: Administrative fine, Compliance order Key words: Data subject rights Summary of the Decisi",
-    auto: true
-  },
-  {
-    id: "auto-1790001872-40",
-    title: "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
-    url: "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
-    source: "EDPB",
-    date: "2026-09-21",
-    cat: "Plateformes",
-    desc: "Brussels, 21 September – During its latest plenary, the EDPB has adopted guidelines on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR and the final version of its guidelines on the interplay between the Digital Services Act (DSA) and the GDPR. The new EDPB guidelines are a major ste",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-03T15:41:50";
+window.AUTO_VEILLE_UPDATED = "2026-11-04T15:54:13";
