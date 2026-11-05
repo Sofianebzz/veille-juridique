@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-04T15:54:13
+// Dernière collecte : 2026-11-05T15:59:01
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1793894314-63",
+    title: "La conciliation entre la publicité des sociétés et la protection des données personnelles des actionnaires",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-conciliation-entre-la-publicite-des-societes-et-la-protection-des-donnees-personnelles-des-actionnaires-DNU100i7",
+    source: "Lextenso",
+    date: "2026-11-08",
+    cat: "RGPD",
+    desc: "La mise &agrave; disposition en ligne des donn&eacute;es personnelles de tous les actionnaires de soci&eacute;t&eacute;s anonymes, sans aucune condition d&#039;acc&egrave;s, est contraire aux principes et aux conditions de lic&eacute;it&eacute; du r&egrave;glement 2016/679 (RGPD). D&#039;une part, la directive 2017/1132 impose la publication de don",
+    auto: true
+  },
   {
     id: "auto-1791825165-62",
     title: "DMA : renversement de la présomption de contrôleur d'accès et recours d'un concurrent",
@@ -9,6 +19,26 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1793894314-0",
+    title: "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
+    url: "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
+    source: "CNIL",
+    date: "2026-11-05",
+    cat: "RGPD",
+    desc: "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&amp;nbsp;?",
+    auto: true
+  },
+  {
+    id: "auto-1793894314-1",
+    title: "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
+    url: "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
+    source: "CNIL",
+    date: "2026-11-05",
+    cat: "RGPD",
+    desc: "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
     auto: true
   },
   {
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L'ANSSI, l'ANFR et la DGE ont coorganisé un évènement autour du Cyber Resilient Act (CRA) afin d'accompagner les fabricants dans la mise en conformité des produits numériques aux exigences du CRA",
     auto: true
   },
-  {
-    id: "auto-1790169131-39",
-    title: "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
-    url: "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-    source: "EDPB",
-    date: "2026-09-23",
-    cat: "RGPD",
-    desc: "Background information Date of final decision: 21 September 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to ",
-    auto: true
-  },
-  {
-    id: "auto-1790169131-52",
-    title: "Responsible Digital KPI Framework: A common set of metrics for managing the impacts of digital technology",
-    url: "https://www.cigref.fr/responsible-digital-kpi-framework-a-common-set-of-metrics-for-managing-the-impacts-of-digital-technology",
-    source: "CIGREF",
-    date: "2026-09-23",
-    cat: "Contrats IT",
-    desc: "Cigref has published a Responsible Digital KPI Framework, designed to help large organisations move from making commitments to the practical management of their initiatives. Download the presentation booklet for the Excel tool The challenges of management: moving from commitment to operational measurement The result of work carried out by the ‘Digi",
-    auto: true
-  },
-  {
-    id: "auto-1790169131-53",
-    title: "Référentiel de KPI Numérique Responsable : un socle commun de métriques pour piloter les impacts du numérique",
-    url: "https://www.cigref.fr/referentiel-de-kpi-numerique-responsable-un-socle-commun-de-metriques-pour-piloter-les-impacts-du-numerique",
-    source: "CIGREF",
-    date: "2026-09-23",
-    cat: "Contrats IT",
-    desc: "Le Cigref publie un Référentiel de KPI Numérique Responsable, conçu pour aider les grandes organisations à passer des engagements au pilotage concret de leurs démarches.&#160; Télécharger le livret de présentation de l’outil Excel. Les enjeux du pilotage : passer de l&#8217;engagement à la mesure opérationnelle Fruit des travaux du groupe « Métriqu",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-04T15:54:13";
+window.AUTO_VEILLE_UPDATED = "2026-11-05T15:59:01";
