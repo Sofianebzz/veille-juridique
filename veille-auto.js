@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-05T15:59:01
+// Dernière collecte : 2026-11-06T15:31:28
 window.AUTO_VEILLE = [
   {
     id: "auto-1793894314-63",
@@ -19,6 +19,26 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1793979057-0",
+    title: "Recherches internes : quelles sont les obligations pour les professionnels de santé ?",
+    url: "https://www.cnil.fr/fr/recherches-internes-sante-quelles-obligations",
+    source: "CNIL",
+    date: "2026-11-06",
+    cat: "RGPD",
+    desc: "Votre établissement emploie des professionnels de santé qui mènent des recherches internes&amp;nbsp;? La CNIL rappelle les règles.",
+    auto: true
+  },
+  {
+    id: "auto-1793979057-1",
+    title: "Ordre du jour de la séance plénière du 5 novembre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-novembre-2026",
+    source: "CNIL",
+    date: "2026-11-05",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 5 novembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
     auto: true
   },
   {
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Par délibération du 17 septembre 2026, la CNIL a clôturé l’injonction prononcée le 15&amp;nbsp;mai 2025 à l’encontre de la société SOLOCAL MARKETING SERVICES.",
     auto: true
   },
-  {
-    id: "auto-1790255051-2",
-    title: "Amendes RGPD et interaction avec le règlement sur les services numériques : retour sur la plénière du CEPD du 17 septembre 2026",
-    url: "https://www.cnil.fr/fr/pleniere-cepd-amendes-reglement-services-numeriques",
-    source: "CNIL",
-    date: "2026-09-23",
-    cat: "RGPD",
-    desc: "Le 17 septembre 2026, le CEPD a adopté des lignes directrices sur le pouvoir des autorités de protection des données d’infliger des amendes administratives et la version finale de ses lignes directrices sur l'interaction entre le règlement sur les services numériques (DSA) et le RGPD.",
-    auto: true
-  },
-  {
-    id: "auto-1790255051-4",
-    title: "Cyber Résilience Act : l'ANSSI, l'ANFR et la DGE accompagnent les fabricants dans la conformité des produits numériques",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/cra-lanssi-lanfr-et-la-dge-accompagnent-les-fabricants-dans-la-conformite-des-produits-numeriques/",
-    source: "ANSSI",
-    date: "2026-09-23",
-    cat: "Cybersécurité",
-    desc: "L'ANSSI, l'ANFR et la DGE ont coorganisé un évènement autour du Cyber Resilient Act (CRA) afin d'accompagner les fabricants dans la mise en conformité des produits numériques aux exigences du CRA",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-05T15:59:01";
+window.AUTO_VEILLE_UPDATED = "2026-11-06T15:31:28";
