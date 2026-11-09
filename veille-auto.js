@@ -1,6 +1,46 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-08T14:40:54
+// Dernière collecte : 2026-11-09T18:05:40
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1794247515-0",
+    title: "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
+    url: "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
+    source: "CNIL",
+    date: "2026-11-09",
+    cat: "Cybersécurité",
+    desc: "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
+    auto: true
+  },
+  {
+    id: "auto-1794247515-1",
+    title: "Campagnes de déstabilisation et sabotage menées à l’encontre des intérêts français par la République islamique d’Iran",
+    url: "https://cyber.gouv.fr/actualites/campagnes-de-d%C3%A9stabilisation-et-sabotage-men%C3%A9es-%C3%A0-lencontre-des-int%C3%A9r%C3%AAts-fran%C3%A7ais-par-la-r%C3%A9publique-islamique-diran/",
+    source: "ANSSI",
+    date: "2026-11-09",
+    cat: "Cybersécurité",
+    desc: "Depuis les années 2020, le Centre de coordination des Crises Cyber (C4) [1] a observé des attaques à but de déstabilisation et [...]",
+    auto: true
+  },
+  {
+    id: "auto-1794247515-65",
+    title: "Facilité ne fait pas fair use !",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/facilite-ne-fait-pas-fair-use-DNU100i9",
+    source: "Lextenso",
+    date: "2026-11-08",
+    cat: "Jurisprudence",
+    desc: "Dans l&#039;affaire Thomson Reuters c. Ross Intelligence, la cour d&#039;appel des &Eacute;tats-Unis pour le troisi&egrave;me circuit confirme que l&#039;utilisation des headnotes de Westlaw pour entra&icirc;ner un moteur de recherche juridique fond&eacute; sur l&#039;IA ne rel&egrave;ve pas du fair use. Les headnotes sont jug&eacute;es originales ",
+    auto: true
+  },
+  {
+    id: "auto-1794247515-66",
+    title: "Crypto-actifs : le référé-suspension contre les obligations déclaratives rejeté faute d'urgence",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/crypto-actifs-le-refere-suspension-contre-les-obligations-declaratives-rejete-faute-d-urgence-DNU100i8",
+    source: "Lextenso",
+    date: "2026-11-08",
+    cat: "Jurisprudence",
+    desc: "Le juge des r&eacute;f&eacute;r&eacute;s du Conseil d&#039;&Eacute;tat refuse de suspendre le d&eacute;cret du 19&nbsp;d&eacute;cembre 2025 qui impose aux prestataires de services sur crypto-actifs de collecter, conserver et d&eacute;clarer les donn&eacute;es de leurs utilisateurs. Faute d&#039;urgence, il &eacute;carte les atteintes all&eacute;gu&",
+    auto: true
+  },
   {
     id: "auto-1793894314-63",
     title: "La conciliation entre la publicité des sociétés et la protection des données personnelles des actionnaires",
@@ -19,6 +59,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-08",
     cat: "Plateformes",
     desc: "Un &eacute;diteur de navigateur concurrent est directement et individuellement concern&eacute; par la d&eacute;cision refusant de d&eacute;signer Microsoft comme contr&ocirc;leur d&#039;acc&egrave;s pour Edge. Recevable, son recours est toutefois rejet&eacute;&nbsp;: le Tribunal valide le renversement de la pr&eacute;somption de point d&#039;acc&eg",
+    auto: true
+  },
+  {
+    id: "auto-1794247515-2",
+    title: "Participation de l’ANSSI à l’European Cyber Week (ECW) 2026",
+    url: "https://cyber.gouv.fr/actualites/anssi-ecw-2026/",
+    source: "ANSSI",
+    date: "2026-11-06",
+    cat: "Cybersécurité",
+    desc: "Du 16 au 19 novembre 2026, l’ANSSI participera à l’European Cyber Week (ECW), le grand rendez-vous européen des acteurs de la [...]",
     auto: true
   },
   {
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "M. Colas A. [Procédure particulière de déposition des personnels de certains services ou unités spécialisés sans révélation de leur identité]",
     auto: true
   },
-  {
-    id: "auto-1790341725-26",
-    title: "Couverture mobile",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/couverture-mobile-240926.html",
-    source: "ARCEP",
-    date: "2026-09-24",
-    cat: "Plateformes",
-    desc: "L’Arcep publie les données trimestrielles de couverture mobile au second semestre 2026",
-    auto: true
-  },
-  {
-    id: "auto-1790341725-27",
-    title: "Extinction des réseaux mobiles 2G et 3G",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/extinction-des-reseaux-mobiles-2g-et-3g-240926.html",
-    source: "ARCEP",
-    date: "2026-09-24",
-    cat: "Plateformes",
-    desc: "1,7 millions de terminaux 2G étaient encore actifs fin juin 2026",
-    auto: true
-  },
-  {
-    id: "auto-1790341725-28",
-    title: "Décision n° 2026-1221 QPC du 24 septembre 2026",
-    url: "https://www.conseil-constitutionnel.fr/decision/2026/20261221QPC.htm",
-    source: "Conseil constitutionnel",
-    date: "2026-09-24",
-    cat: "Cybersécurité",
-    desc: "M. Colas A. [Procédure particulière de déposition des personnels de certains services ou unités spécialisés sans révélation de leur identité]",
-    auto: true
-  },
-  {
-    id: "auto-1790255051-0",
-    title: "Ordre du jour de la séance plénière du 24 septembre 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-24-septembre-2026",
-    source: "CNIL",
-    date: "2026-09-24",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 24 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1790255051-1",
-    title: "Clôture de l’injonction prononcée à l’encontre de la société SOLOCAL MARKETING SERVICES",
-    url: "https://www.cnil.fr/fr/cloture-injonction-solocal-marketing-services",
-    source: "CNIL",
-    date: "2026-09-24",
-    cat: "RGPD",
-    desc: "Par délibération du 17 septembre 2026, la CNIL a clôturé l’injonction prononcée le 15&amp;nbsp;mai 2025 à l’encontre de la société SOLOCAL MARKETING SERVICES.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-08T14:40:54";
+window.AUTO_VEILLE_UPDATED = "2026-11-09T18:05:40";
