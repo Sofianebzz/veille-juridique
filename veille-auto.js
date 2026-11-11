@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-10T15:59:22
+// Dernière collecte : 2026-11-11T15:45:37
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1794411912-25",
+    title: "Environnement",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-101126.html",
+    source: "ARCEP",
+    date: "2026-11-10",
+    cat: "Plateformes",
+    desc: "« Pas de soutenabilité, pas d’avenir (numérique). L’Europe peut tout avoir : pourquoi rendre le numérique soutenable, souverain et compétitif », événement organisé le 9 novembre à Bruxelles, en Belgique",
+    auto: true
+  },
   {
     id: "auto-1794326332-0",
     title: "La CNIL sera présente au Salon des maires et des collectivités locales 2026",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "L’ANSSI a publié le 17 juin 2026 un appel à manifestation d‘intérêt (AMI) pour le soutien à la création et […]",
     auto: true
   },
-  {
-    id: "auto-1790692206-0",
-    title: "L’ANSSI publie le rapport d’incident sur les cyberattaques ayant touché la DGFiP",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-le-rapport-dincident-sur-les-cyberattaques-ayant-touche-la-dgfip/",
-    source: "ANSSI",
-    date: "2026-09-29",
-    cat: "Cybersécurité",
-    desc: "Le Premier ministre a demandé à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) un audit approfondi de la […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-10T15:59:22";
+window.AUTO_VEILLE_UPDATED = "2026-11-11T15:45:37";
