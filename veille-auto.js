@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-11T15:45:37
+// Dernière collecte : 2026-11-12T16:29:07
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1794500922-0",
+    title: "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
+    url: "https://www.cnil.fr/fr/actualite-du-cepd-adequation-de-la-coree-du-sud-versions-finales-des-bcr-st-et-action-coordonnee-sur",
+    source: "CNIL",
+    date: "2026-11-12",
+    cat: "International",
+    desc: "Le 10 novembre 2026, le Comité européen de la protection des données (CEPD) a adopté une déclaration sur l’adéquation de la Corée du Sud en matière de protection des données, ses recommandations finales sur les règles d’entreprises contraignantes et le thème de la sixième action coordonnée (CEF).",
+    auto: true
+  },
   {
     id: "auto-1794411912-25",
     title: "Environnement",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "À l’occasion du Mois européen de la cybersécurité, Cybermois en France, la CNIL et Cybermalveillance.gouv.fr s’associent autour d’un nouveau support pratique pour aider les particuliers à réagir en cas de violation de données personnelles et à adopter les bons réflexes pour limiter les risques.",
     auto: true
   },
-  {
-    id: "auto-1790778538-0",
-    title: "Résultat de l'appel à manifestation d‘intérêt – Sécurité des écosystèmes de cybersécurité",
-    url: "http://cyber.sites.beta.gouv.fr/actualites/resultat-ami-sec/",
-    source: "ANSSI",
-    date: "2026-09-30",
-    cat: "Cybersécurité",
-    desc: "L’ANSSI a publié le 17 juin 2026 un appel à manifestation d‘intérêt (AMI) pour le soutien à la création et […]",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-11T15:45:37";
+window.AUTO_VEILLE_UPDATED = "2026-11-12T16:29:07";
