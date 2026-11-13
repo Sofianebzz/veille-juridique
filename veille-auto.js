@@ -1,6 +1,16 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-12T16:29:07
+// Dernière collecte : 2026-11-13T15:50:20
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1794584999-27",
+    title: "Notification à la Commission européenne – Taux de rémunération du capital",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/notification-a-la-commission-europeenne-taux-de-remuneration-du-capital-121126.html",
+    source: "ARCEP",
+    date: "2026-11-12",
+    cat: "Jurisprudence",
+    desc: "L'Arcep transmet son projet de décision fixant le taux réglementaire de rémunération du capital pour les activités fixes régulées à compter de l’année 2027 à la Commission européenne",
+    auto: true
+  },
   {
     id: "auto-1794500922-0",
     title: "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
@@ -791,15 +801,5 @@ window.AUTO_VEILLE = [
     desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 1er octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
     auto: true
   },
-  {
-    id: "auto-1790866718-0",
-    title: "Cybermois 2026 : la CNIL et Cybermalveillance.gouv.fr publient une nouvelle ressource pour adopter les bons réflexes face à une violation de données",
-    url: "https://www.cnil.fr/fr/cybermois-2026",
-    source: "CNIL",
-    date: "2026-10-01",
-    cat: "RGPD",
-    desc: "À l’occasion du Mois européen de la cybersécurité, Cybermois en France, la CNIL et Cybermalveillance.gouv.fr s’associent autour d’un nouveau support pratique pour aider les particuliers à réagir en cas de violation de données personnelles et à adopter les bons réflexes pour limiter les risques.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-12T16:29:07";
+window.AUTO_VEILLE_UPDATED = "2026-11-13T15:50:20";
