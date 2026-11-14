@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-13T15:50:20
+// Dernière collecte : 2026-11-14T14:41:07
 window.AUTO_VEILLE = [
   {
     id: "auto-1794584999-27",
@@ -802,4 +802,4 @@ window.AUTO_VEILLE = [
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-13T15:50:20";
+window.AUTO_VEILLE_UPDATED = "2026-11-14T14:41:07";
