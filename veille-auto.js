@@ -1,6 +1,36 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-15T15:10:43
+// Dernière collecte : 2026-11-16T17:45:42
 window.AUTO_VEILLE = [
+  {
+    id: "auto-1794851111-69",
+    title: "Exécuter le DSA sans méconnaître le RGPD : les lignes directrices définitives du CEPD sur l'articulation des deux règlements",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/executer-le-dsa-sans-meconnaitre-le-rgpd-les-lignes-directrices-definitives-du-cepd-sur-l-articulation-des-deux-reglements-DNU100j3",
+    source: "Lextenso",
+    date: "2026-12-08",
+    cat: "RGPD",
+    desc: "Au terme d&#039;une consultation publique, le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es (CEPD) a adopt&eacute; la version d&eacute;finitive de ses lignes directrices sur l&#039;articulation du DSA et du RGPD. Mod&eacute;ration des contenus, interfaces, publicit&eacute;, recommandation, protection des mineurs&nbsp;: les oblig",
+    auto: true
+  },
+  {
+    id: "auto-1794851111-28",
+    title: "Déploiement de la fibre optique à Mayotte",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/deploiement-de-la-fibre-optique-a-mayotte-161126.html",
+    source: "ARCEP",
+    date: "2026-11-16",
+    cat: "Plateformes",
+    desc: "L'Arcep publie deux avis rendus à la demande de l’Autorité de la concurrence",
+    auto: true
+  },
+  {
+    id: "auto-1794851111-0",
+    title: "Ordre du jour de la séance plénière du 12 novembre 2026",
+    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
+    source: "CNIL",
+    date: "2026-11-12",
+    cat: "RGPD",
+    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+    auto: true
+  },
   {
     id: "auto-1794584999-27",
     title: "Notification à la Commission européenne – Taux de rémunération du capital",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Session commune des collèges pléniers de l’Arcep et de l’Arcom : les deux autorités ont présenté leurs travaux respectifs sur l’intelligence artificielle et ont échangé sur plusieurs sujets d’intérêt partagé.",
     auto: true
   },
-  {
-    id: "auto-1791557485-27",
-    title: "Le Conseil d'État rencontre la Cour administrative suprême portugaise",
-    url: "https://www.conseil-etat.fr/actualites/le-conseil-d-etat-rencontre-la-cour-administrative-supreme-portugaise",
-    source: "Conseil d'État",
-    date: "2026-10-02",
-    cat: "Jurisprudence",
-    desc: "Une délégation du Conseil d’État conduite par le vice-président Marc Guillaume, s’est rendue à Lisbonne les 1er et 2 octobre 2026, pour participer à un séminaire de travail bilatéral avec le Supremo Tribunal Administrativo, la Cour administrative suprême portugaise.",
-    auto: true
-  },
-  {
-    id: "auto-1790950897-0",
-    title: "Violations de données personnelles : dans quels cas peut-on être indemnisé ?",
-    url: "https://www.cnil.fr/fr/violations-de-donnees-personnelles-cas-indemnite",
-    source: "CNIL",
-    date: "2026-10-02",
-    cat: "RGPD",
-    desc: "Une fuite ou un vol de données peut causer un préjudice pour les personnes concernées. Si l’incident résulte d’un manquement au RGPD, elles peuvent, sous certaines conditions, demander une indemnisation. C’est au juge, et non à la CNIL, de l’accorder.",
-    auto: true
-  },
-  {
-    id: "auto-1790950897-1",
-    title: "Ordre du jour de la séance plénière du 1er octobre 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-1er-octobre-2026",
-    source: "CNIL",
-    date: "2026-10-01",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 1er octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-15T15:10:43";
+window.AUTO_VEILLE_UPDATED = "2026-11-16T17:45:42";
