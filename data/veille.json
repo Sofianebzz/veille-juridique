@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-1794935760-70",
+    "title": "Téléphone saisi en flagrance : contrôle indépendant exigé, annulation subordonnée à un préjudice",
+    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/telephone-saisi-en-flagrance-controle-independant-exige-annulation-subordonnee-a-un-prejudice-DNU100j4",
+    "source": "Lextenso",
+    "date": "2026-12-08",
+    "cat": "Jurisprudence",
+    "desc": "L&#039;article 60-3 du Code de proc&eacute;dure p&eacute;nale, qui permet d&#039;extraire les donn&eacute;es d&#039;un t&eacute;l&eacute;phone saisi sans autorisation judiciaire, est, faute de contr&ocirc;le pr&eacute;alable ind&eacute;pendant, contraire &agrave; l&#039;article 4, &sect;&nbsp;1, c), de la directive &quot;&nbsp;Police-Justice&nbsp;&",
+    "auto": true
+  },
+  {
     "id": "auto-1794851111-69",
     "title": "Exécuter le DSA sans méconnaître le RGPD : les lignes directrices définitives du CEPD sur l'articulation des deux règlements",
     "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/executer-le-dsa-sans-meconnaitre-le-rgpd-les-lignes-directrices-definitives-du-cepd-sur-l-articulation-des-deux-reglements-DNU100j3",
@@ -7,6 +17,46 @@
     "date": "2026-12-08",
     "cat": "RGPD",
     "desc": "Au terme d&#039;une consultation publique, le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es (CEPD) a adopt&eacute; la version d&eacute;finitive de ses lignes directrices sur l&#039;articulation du DSA et du RGPD. Mod&eacute;ration des contenus, interfaces, publicit&eacute;, recommandation, protection des mineurs&nbsp;: les oblig",
+    "auto": true
+  },
+  {
+    "id": "auto-1794935760-0",
+    "title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
+    "url": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
+    "source": "CNIL",
+    "date": "2026-11-17",
+    "cat": "RGPD",
+    "desc": "Cookies, sécurité des données, prospection commerciale, non-coopération&amp;nbsp;: entre juin et octobre 2026, la CNIL a prononcé 38&amp;nbsp;nouvelles sanctions dans le cadre de la procédure simplifiée, dont 23 ont pour origine des plaintes.",
+    "auto": true
+  },
+  {
+    "id": "auto-1794935760-28",
+    "title": "Qualité des services mobiles en France hexagonale",
+    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/qualite-des-services-mobiles-en-france-hexagonale-171126.html",
+    "source": "ARCEP",
+    "date": "2026-11-17",
+    "cat": "Plateformes",
+    "desc": "L’Arcep publie les résultats de sa campagne de mesures 2026 : des performances élevées dans les zones denses et intermédiaires, en retrait dans les zones rurales et dans les TER et les trains grandes lignes",
+    "auto": true
+  },
+  {
+    "id": "auto-1794935760-52",
+    "title": "Stratégie vers une gouvernance dynamique des compétences",
+    "url": "https://www.cigref.fr/strategie-vers-une-gouvernance-dynamique-des-competences",
+    "source": "CIGREF",
+    "date": "2026-11-17",
+    "cat": "Jurisprudence",
+    "desc": "L&#8217;écosystème numérique actuel ne vit pas une banale transformation : il subit l&#8217;accélération de l&#8217;accélération. Alors que les ruptures technologiques s&#8217;enchaînent, les cycles de décision des ressources humaines ne peuvent plus rester linéaires. Face à l&#8217;obsolescence rapide des savoir-faire techniques, la gestion des ca",
+    "auto": true
+  },
+  {
+    "id": "auto-1794935760-29",
+    "title": "Le Conseil d'Etat ouvre un nouveau cycle de conférences sur « Les politiques publiques face aux drogues »",
+    "url": "http://www.conseil-etat.fr/actualites/le-conseil-d-etat-ouvre-un-nouveau-cycle-de-conferences-sur-les-politiques-publiques-face-aux-drogues",
+    "source": "Conseil d'État",
+    "date": "2026-11-16",
+    "cat": "Jurisprudence",
+    "desc": "Le Conseil d’État a choisi de consacrer son étude annuelle et son cycle de conférences 2027 aux politiques publiques face aux drogues. Dans le prolongement de ses travaux sur la mer, qui ont notamment souligné l’importance des flux de stupéfiants transitant par les ports, cette nouvelle étude aborde",
     "auto": true
   },
   {
@@ -747,56 +797,6 @@
     "date": "2026-10-08",
     "cat": "RGPD",
     "desc": "La simple mise en ligne, contre paiement, de d&eacute;cisions de condamnation p&eacute;nale ne constitue pas, en principe, un traitement de donn&eacute;es personnelles &quot;&nbsp;&agrave; des fins journalistiques&nbsp;&quot;&nbsp;; elle ne saurait d&egrave;s lors justifier des d&eacute;rogations aux garanties pr&eacute;vues par le RGPD. Cette qual",
-    "auto": true
-  },
-  {
-    "id": "auto-1791472001-68",
-    "title": "Les obligations de transparence de l'IA Act éclaircies par les lignes directrices de la Commission",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/les-obligations-de-transparence-de-l-ia-act-eclaircies-par-les-lignes-directrices-de-la-commission-DNU100i1",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Cybersécurité",
-    "desc": "Les lignes directrices relatives aux obligations de transparence &agrave; la charge des fournisseurs et des d&eacute;ployeurs de certains syst&egrave;mes d&#039;IA (PE et Cons. UE, r&egrave;gl. n&deg;&nbsp;2024/1689, 13&nbsp;juin 2024, dit IA Act, art.&nbsp;50) ont &eacute;t&eacute; publi&eacute;es le 20&nbsp;juillet 2026, en pr&eacute;vision de l&",
-    "auto": true
-  },
-  {
-    "id": "auto-1791297482-65",
-    "title": "Partenariat commercial et hébergement de contenus publicitaires pour des jeux d'argent : champ d'application de la directive e-commerce",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/partenariat-commercial-et-hebergement-de-contenus-publicitaires-pour-des-jeux-d-argent-champ-d-application-de-la-directive-e-commerce-DNU100i0",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Plateformes",
-    "desc": "L&#039;h&eacute;bergement de vid&eacute;os contenant de la publicit&eacute; pour des jeux d&#039;argent rel&egrave;ve du champ d&#039;application de la directive 2000/31/CE. Toutefois, l&#039;exploitant d&#039;une plateforme de vid&eacute;os en ligne ne peut se pr&eacute;valoir de l&#039;exon&eacute;ration de responsabilit&eacute; b&eacute;n&eacute",
-    "auto": true
-  },
-  {
-    "id": "auto-1791297482-66",
-    "title": "La première notification d'une violation de données causée par un agent IA : du risque à l'imputation",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-premiere-notification-d-une-violation-de-donnees-causee-par-un-agent-ia-du-risque-a-l-imputation-DNU100h9",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Cybersécurité",
-    "desc": "Apr&egrave;s la premi&egrave;re notification d&#039;une violation de donn&eacute;es dont l&#039;attaque aurait &eacute;t&eacute; perp&eacute;tr&eacute;e par un agent IA, l&#039;autorit&eacute; espagnole de protection des donn&eacute;es (AEPD) alerte sur l&#039;acc&eacute;l&eacute;ration du risque li&eacute;e &agrave; l&#039;IA offensive. Au-del&agr",
-    "auto": true
-  },
-  {
-    "id": "auto-1791472001-26",
-    "title": "Nuit du droit 2026 : plus de 500 étudiantes et étudiants en immersion au Conseil d’État !",
-    "url": "https://www.conseil-etat.fr/actualites/nuit-du-droit-2026-plus-de-500-etudiantes-et-etudiants-en-immersion-au-conseil-d-etat",
-    "source": "Conseil d'État",
-    "date": "2026-10-07",
-    "cat": "Jurisprudence",
-    "desc": "À l’occasion de la Nuit du droit 2026, le Conseil d’État a ouvert ses portes à plusieurs centaines d&#039;étudiantes et d’étudiants pour leur faire découvrir le fonctionnement de la justice administrative. Retour sur une soirée d’échanges et d&#039;immersion au cœur de la juridiction, organisée en p",
-    "auto": true
-  },
-  {
-    "id": "auto-1791385081-25",
-    "title": "Pôle numérique Arcep - Arcom",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/pole-numerique-arcep-arcom-061026.html",
-    "source": "ARCEP",
-    "date": "2026-10-06",
-    "cat": "IA",
-    "desc": "Session commune des collèges pléniers de l’Arcep et de l’Arcom : les deux autorités ont présenté leurs travaux respectifs sur l’intelligence artificielle et ont échangé sur plusieurs sujets d’intérêt partagé.",
     "auto": true
   }
 ]
