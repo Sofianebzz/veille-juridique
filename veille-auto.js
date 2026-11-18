@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-17T17:16:21
+// Dernière collecte : 2026-11-18T16:51:54
 window.AUTO_VEILLE = [
   {
     id: "auto-1794935760-70",
@@ -19,6 +19,16 @@ window.AUTO_VEILLE = [
     date: "2026-12-08",
     cat: "RGPD",
     desc: "Au terme d&#039;une consultation publique, le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es (CEPD) a adopt&eacute; la version d&eacute;finitive de ses lignes directrices sur l&#039;articulation du DSA et du RGPD. Mod&eacute;ration des contenus, interfaces, publicit&eacute;, recommandation, protection des mineurs&nbsp;: les oblig",
+    auto: true
+  },
+  {
+    id: "auto-1795020690-0",
+    title: "Appel à projets national du NCC-FR « Soutien au développement de solutions de cybersécurité »",
+    url: "https://cyber.gouv.fr/actualites/appel-a-projets-national-du-ncc-fr-soutien-au-developpement-de-solutions-de-cybersecurite/",
+    source: "ANSSI",
+    date: "2026-11-18",
+    cat: "Cybersécurité",
+    desc: "Incarné par l'ANSSI, le Centre de coordination cyber français (NCC-FR) lance son nouvel appel à projets « Soutien au [...]",
     auto: true
   },
   {
@@ -702,6 +712,36 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1795020690-59",
+    title: "La première notification d'une violation de données causée par un agent IA : du risque à l'imputation",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/la-premiere-notification-d-une-violation-de-donnees-causee-par-un-agent-ia-du-risque-a-l-imputation-DNU100h9",
+    source: "Lextenso",
+    date: "2026-10-08",
+    cat: "Cybersécurité",
+    desc: "Apr&egrave;s la premi&egrave;re notification d&#039;une violation de donn&eacute;es dont l&#039;attaque aurait &eacute;t&eacute; perp&eacute;tr&eacute;e par un agent IA, l&#039;autorit&eacute; espagnole de protection des donn&eacute;es (AEPD) alerte sur l&#039;acc&eacute;l&eacute;ration du risque li&eacute;e &agrave; l&#039;IA offensive. Au-del&agr",
+    auto: true
+  },
+  {
+    id: "auto-1795020690-60",
+    title: "Partenariat commercial et hébergement de contenus publicitaires pour des jeux d'argent : champ d'application de la directive e-commerce",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/partenariat-commercial-et-hebergement-de-contenus-publicitaires-pour-des-jeux-d-argent-champ-d-application-de-la-directive-e-commerce-DNU100i0",
+    source: "Lextenso",
+    date: "2026-10-08",
+    cat: "Plateformes",
+    desc: "L&#039;h&eacute;bergement de vid&eacute;os contenant de la publicit&eacute; pour des jeux d&#039;argent rel&egrave;ve du champ d&#039;application de la directive 2000/31/CE. Toutefois, l&#039;exploitant d&#039;une plateforme de vid&eacute;os en ligne ne peut se pr&eacute;valoir de l&#039;exon&eacute;ration de responsabilit&eacute; b&eacute;n&eacute",
+    auto: true
+  },
+  {
+    id: "auto-1795020690-61",
+    title: "Les obligations de transparence de l'IA Act éclaircies par les lignes directrices de la Commission",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/les-obligations-de-transparence-de-l-ia-act-eclaircies-par-les-lignes-directrices-de-la-commission-DNU100i1",
+    source: "Lextenso",
+    date: "2026-10-08",
+    cat: "Cybersécurité",
+    desc: "Les lignes directrices relatives aux obligations de transparence &agrave; la charge des fournisseurs et des d&eacute;ployeurs de certains syst&egrave;mes d&#039;IA (PE et Cons. UE, r&egrave;gl. n&deg;&nbsp;2024/1689, 13&nbsp;juin 2024, dit IA Act, art.&nbsp;50) ont &eacute;t&eacute; publi&eacute;es le 20&nbsp;juillet 2026, en pr&eacute;vision de l&",
+    auto: true
+  },
+  {
     id: "auto-1791641289-63",
     title: "EU KIDS Act : une proposition de règlement encadrant l'accès des mineurs aux services en ligne",
     url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/eu-kids-act-une-proposition-de-reglement-encadrant-l-acces-des-mineurs-aux-services-en-ligne-DNU100i5",
@@ -761,45 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Website topics: Cybersecurity, personal data breaches Summary of the Decision Origin of the case In August 2025, the IT service provider Miljödata was targeted in a cyberattack, during which a",
     auto: true
   },
-  {
-    id: "auto-1791557485-42",
-    title: "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
-    url: "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
-    source: "EDPB",
-    date: "2026-10-08",
-    cat: "RGPD",
-    desc: "Background information Date of final decision: 28/07/2026 National case Controller: Ministry of Social Cohesion and Family Affairs Legal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority) an",
-    auto: true
-  },
-  {
-    id: "auto-1791472001-0",
-    title: "Clôture de l’injonction prononcée à l’encontre de FRANCE TRAVAIL",
-    url: "https://www.cnil.fr/fr/cloture-injonction-france-travail",
-    source: "CNIL",
-    date: "2026-10-08",
-    cat: "RGPD",
-    desc: "Par délibération du 23 septembre 2026, la CNIL a clos l’injonction prononcée le 22&amp;nbsp;janvier 2026 à l’encontre de FRANCE TRAVAIL, sans liquider l’astreinte prévue compte tenu de sa mise en conformité.",
-    auto: true
-  },
-  {
-    id: "auto-1791472001-37",
-    title: "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
-    url: "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
-    source: "EDPB",
-    date: "2026-10-08",
-    cat: "RGPD",
-    desc: "Background information Cross-border case Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject) Decision: Administrative fine Key words: Automated decision making, profiling and online tracking, fines Summary of th",
-    auto: true
-  },
-  {
-    id: "auto-1791472001-67",
-    title: "La mise en ligne de condamnations pénales « à des fins journalistiques »",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-nweb/la-mise-en-ligne-de-condamnations-penales-a-des-fins-journalistiques-DNU100i2",
-    source: "Lextenso",
-    date: "2026-10-08",
-    cat: "RGPD",
-    desc: "La simple mise en ligne, contre paiement, de d&eacute;cisions de condamnation p&eacute;nale ne constitue pas, en principe, un traitement de donn&eacute;es personnelles &quot;&nbsp;&agrave; des fins journalistiques&nbsp;&quot;&nbsp;; elle ne saurait d&egrave;s lors justifier des d&eacute;rogations aux garanties pr&eacute;vues par le RGPD. Cette qual",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-17T17:16:21";
+window.AUTO_VEILLE_UPDATED = "2026-11-18T16:51:54";
