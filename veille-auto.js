@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-18T16:51:54
+// Dernière collecte : 2026-11-19T16:58:46
 window.AUTO_VEILLE = [
   {
     id: "auto-1794935760-70",
@@ -19,6 +19,26 @@ window.AUTO_VEILLE = [
     date: "2026-12-08",
     cat: "RGPD",
     desc: "Au terme d&#039;une consultation publique, le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es (CEPD) a adopt&eacute; la version d&eacute;finitive de ses lignes directrices sur l&#039;articulation du DSA et du RGPD. Mod&eacute;ration des contenus, interfaces, publicit&eacute;, recommandation, protection des mineurs&nbsp;: les oblig",
+    auto: true
+  },
+  {
+    id: "auto-1795107508-0",
+    title: "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
+    url: "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
+    source: "CNIL",
+    date: "2026-11-18",
+    cat: "RGPD",
+    desc: "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret «&amp;nbsp;La Voix des jeunesses&amp;nbsp;», le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête européenne, témoignages, et expertises pour éclairer les enjeux de santé mentale et de vie privée ",
+    auto: true
+  },
+  {
+    id: "auto-1795107508-1",
+    title: "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
+    url: "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
+    source: "CNIL",
+    date: "2026-11-18",
+    cat: "Jurisprudence",
+    desc: "En novembre 2026, la CNIL a infligé une sanction de 5&amp;nbsp;millions d’euros à une société en raison de l’insuffisance des mesures prises pour assurer la sécurité des données de ses clients et d’une durée excessive de conservation des données.",
     auto: true
   },
   {
@@ -712,6 +732,16 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
+    id: "auto-1795107508-68",
+    title: "La mise en ligne de condamnations pénales « à des fins journalistiques »",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/la-mise-en-ligne-de-condamnations-penales-a-des-fins-journalistiques-DNU100i2",
+    source: "Lextenso",
+    date: "2026-10-08",
+    cat: "RGPD",
+    desc: "La simple mise en ligne, contre paiement, de d&eacute;cisions de condamnation p&eacute;nale ne constitue pas, en principe, un traitement de donn&eacute;es personnelles &quot;&nbsp;&agrave; des fins journalistiques&nbsp;&quot;&nbsp;; elle ne saurait d&egrave;s lors justifier des d&eacute;rogations aux garanties pr&eacute;vues par le RGPD. Cette qual",
+    auto: true
+  },
+  {
     id: "auto-1795020690-59",
     title: "La première notification d'une violation de données causée par un agent IA : du risque à l'imputation",
     url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/la-premiere-notification-d-une-violation-de-donnees-causee-par-un-agent-ia-du-risque-a-l-imputation-DNU100h9",
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Par une d&eacute;cision du 31&nbsp;juillet 2026, le tribunal r&eacute;gional de Munich&nbsp;I a condamn&eacute; la soci&eacute;t&eacute; Suno, qui d&eacute;veloppe et exploite une application musicale bas&eacute;e sur l&#039;IA, pour plusieurs atteintes au droit d&#039;auteur li&eacute;es &agrave; l&#039;entra&icirc;nement et &agrave; l&#039;utilis",
     auto: true
   },
-  {
-    id: "auto-1791557485-0",
-    title: "Ordre du jour de la séance plénière du 8 octobre 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-8-octobre-2026",
-    source: "CNIL",
-    date: "2026-10-08",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 8 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1791557485-26",
-    title: "Observatoire des marchés des communications électroniques",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/observatoire-des-marches-des-communications-electroniques-081026.html",
-    source: "ARCEP",
-    date: "2026-10-08",
-    cat: "Plateformes",
-    desc: "L’Arcep publie le suivi de l’observatoire des marchés des communications électroniques au deuxième trimestre 2026",
-    auto: true
-  },
-  {
-    id: "auto-1791557485-41",
-    title: "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
-    url: "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
-    source: "EDPB",
-    date: "2026-10-08",
-    cat: "Cybersécurité",
-    desc: "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Website topics: Cybersecurity, personal data breaches Summary of the Decision Origin of the case In August 2025, the IT service provider Miljödata was targeted in a cyberattack, during which a",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-18T16:51:54";
+window.AUTO_VEILLE_UPDATED = "2026-11-19T16:58:46";
