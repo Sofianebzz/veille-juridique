@@ -20,6 +20,66 @@
     "auto": true
   },
   {
+    "id": "auto-1795192417-29",
+    "title": "Audience délocalisée au tribunal judiciaire de Bobigny",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/audience-delocalisee-au-tribunal-judiciaire-de-bobigny",
+    "source": "Conseil constitutionnel",
+    "date": "2026-11-23",
+    "cat": "Plateformes",
+    "desc": "Actualité 23 novembre 2026 Audience délocalisée au tribunal judiciaire de Bobigny Share more Partager sur Twitter Partager sur Facebook Partager sur LinkedIn Copier l'URL https://www.conseil-constitutionnel.fr/actualites/audience-delocalisee-au-tribunal-judiciaire-de-bobigny Imprimer Télécharger Nou",
+    "auto": true
+  },
+  {
+    "id": "auto-1795192417-0",
+    "title": "IA et éducation : une résolution mondiale pour la protection des données",
+    "url": "https://www.cnil.fr/fr/gpa-ia-education",
+    "source": "CNIL",
+    "date": "2026-11-20",
+    "cat": "RGPD",
+    "desc": "En novembre 2026, l’Assemblée mondiale pour la protection de la vie privée (Global Privacy Assembly) a adopté une résolution sur l’intelligence artificielle dans le secteur de l’éducation. La CNIL revient sur les onze principes clés et les engagements pris.",
+    "auto": true
+  },
+  {
+    "id": "auto-1795192417-1",
+    "title": "48e Assemblée mondiale pour la protection de la vie privée (GPA)",
+    "url": "https://www.cnil.fr/fr/48e-gpa",
+    "source": "CNIL",
+    "date": "2026-11-20",
+    "cat": "RGPD",
+    "desc": "L’Assemblée mondiale pour la protection de la vie privée (ou Global Privacy Assembly), qui rassemble plus de 130 autorités de protection des données de plus de 80 pays, a adopté cinq résolutions dont deux sur l’Intelligence artificielle lors de sa réunion annuelle de novembre 2026.",
+    "auto": true
+  },
+  {
+    "id": "auto-1795192417-2",
+    "title": "Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation",
+    "url": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
+    "source": "CNIL",
+    "date": "2026-11-20",
+    "cat": "RGPD",
+    "desc": "Le 14 avril 2026, la CNIL a publié sa recommandation sur les pixels de suivi dans les courriels. Elle invite désormais les acteurs concernés, expéditeurs de messages et fournisseurs de solutions, à effectuer un retour d’expérience jusqu’au 3 décembre 2026.",
+    "auto": true
+  },
+  {
+    "id": "auto-1795192417-30",
+    "title": "Décision n° 2026-1234 QPC du 20 novembre 2026 - Communiqué de presse",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1234-qpc-du-20-novembre-2026-communique-de-presse",
+    "source": "Conseil constitutionnel",
+    "date": "2026-11-20",
+    "cat": "Jurisprudence",
+    "desc": "Société Alexion Pharma France [Validation législative des montants de la contribution sur le chiffre d’affaires des entreprises exploitant une ou plusieurs spécialités pharmaceutiques]",
+    "auto": true
+  },
+  {
+    "id": "auto-1795192417-31",
+    "title": "Décision n° 2026-1234 QPC du 20 novembre 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261234QPC.htm",
+    "source": "Conseil constitutionnel",
+    "date": "2026-11-19",
+    "cat": "Jurisprudence",
+    "desc": "Société Alexion Pharma France [Validation législative des montants de la contribution sur le chiffre d’affaires des entreprises exploitant une ou plusieurs spécialités pharmaceutiques]",
+    "auto": true
+  },
+  {
     "id": "auto-1795107508-0",
     "title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
     "url": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
@@ -737,66 +797,6 @@
     "date": "2026-10-08",
     "cat": "RGPD",
     "desc": "La simple mise en ligne, contre paiement, de d&eacute;cisions de condamnation p&eacute;nale ne constitue pas, en principe, un traitement de donn&eacute;es personnelles &quot;&nbsp;&agrave; des fins journalistiques&nbsp;&quot;&nbsp;; elle ne saurait d&egrave;s lors justifier des d&eacute;rogations aux garanties pr&eacute;vues par le RGPD. Cette qual",
-    "auto": true
-  },
-  {
-    "id": "auto-1795020690-59",
-    "title": "La première notification d'une violation de données causée par un agent IA : du risque à l'imputation",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/la-premiere-notification-d-une-violation-de-donnees-causee-par-un-agent-ia-du-risque-a-l-imputation-DNU100h9",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Cybersécurité",
-    "desc": "Apr&egrave;s la premi&egrave;re notification d&#039;une violation de donn&eacute;es dont l&#039;attaque aurait &eacute;t&eacute; perp&eacute;tr&eacute;e par un agent IA, l&#039;autorit&eacute; espagnole de protection des donn&eacute;es (AEPD) alerte sur l&#039;acc&eacute;l&eacute;ration du risque li&eacute;e &agrave; l&#039;IA offensive. Au-del&agr",
-    "auto": true
-  },
-  {
-    "id": "auto-1795020690-60",
-    "title": "Partenariat commercial et hébergement de contenus publicitaires pour des jeux d'argent : champ d'application de la directive e-commerce",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/partenariat-commercial-et-hebergement-de-contenus-publicitaires-pour-des-jeux-d-argent-champ-d-application-de-la-directive-e-commerce-DNU100i0",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Plateformes",
-    "desc": "L&#039;h&eacute;bergement de vid&eacute;os contenant de la publicit&eacute; pour des jeux d&#039;argent rel&egrave;ve du champ d&#039;application de la directive 2000/31/CE. Toutefois, l&#039;exploitant d&#039;une plateforme de vid&eacute;os en ligne ne peut se pr&eacute;valoir de l&#039;exon&eacute;ration de responsabilit&eacute; b&eacute;n&eacute",
-    "auto": true
-  },
-  {
-    "id": "auto-1795020690-61",
-    "title": "Les obligations de transparence de l'IA Act éclaircies par les lignes directrices de la Commission",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/les-obligations-de-transparence-de-l-ia-act-eclaircies-par-les-lignes-directrices-de-la-commission-DNU100i1",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Cybersécurité",
-    "desc": "Les lignes directrices relatives aux obligations de transparence &agrave; la charge des fournisseurs et des d&eacute;ployeurs de certains syst&egrave;mes d&#039;IA (PE et Cons. UE, r&egrave;gl. n&deg;&nbsp;2024/1689, 13&nbsp;juin 2024, dit IA Act, art.&nbsp;50) ont &eacute;t&eacute; publi&eacute;es le 20&nbsp;juillet 2026, en pr&eacute;vision de l&",
-    "auto": true
-  },
-  {
-    "id": "auto-1791641289-63",
-    "title": "EU KIDS Act : une proposition de règlement encadrant l'accès des mineurs aux services en ligne",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/eu-kids-act-une-proposition-de-reglement-encadrant-l-acces-des-mineurs-aux-services-en-ligne-DNU100i5",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Plateformes",
-    "desc": "Pr&eacute;sent&eacute;e le 17&nbsp;septembre 2026, la proposition de r&egrave;glement &quot;&nbsp;EU KIDS Act&nbsp;&quot; fixe des r&egrave;gles d&#039;&acirc;ge communes pour l&#039;acc&egrave;s aux r&eacute;seaux sociaux et plateformes vid&eacute;o &agrave; risque (aucun compte avant 13 ans, compte supervis&eacute; de 13 &agrave; 14 ans, autonomi",
-    "auto": true
-  },
-  {
-    "id": "auto-1791641289-64",
-    "title": "Commande publique européenne : l'ouverture à l'épreuve des priorités stratégiques",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/commande-publique-europeenne-l-ouverture-a-l-epreuve-des-priorites-strategiques-DNU100i4",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Jurisprudence",
-    "desc": "La proposition de r&egrave;glement sur les march&eacute;s publics et les concessions du 9&nbsp;septembre 2026 organise la commande publique europ&eacute;enne autour de priorit&eacute;s strat&eacute;giques et d&#039;une pr&eacute;f&eacute;rence europ&eacute;enne dont la port&eacute;e, pour le num&eacute;rique, reste limit&eacute;e. Les leviers d&#03",
-    "auto": true
-  },
-  {
-    "id": "auto-1791641289-65",
-    "title": "GEMA c/ Suno : atteintes au droit d'auteur résultant de l'entraînement et de l'utilisation de ses modèles d'IAG",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/gema-c-suno-atteintes-au-droit-d-auteur-resultant-de-l-entrainement-et-de-l-utilisation-de-ses-modeles-d-iag-DNU100i3",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Jurisprudence",
-    "desc": "Par une d&eacute;cision du 31&nbsp;juillet 2026, le tribunal r&eacute;gional de Munich&nbsp;I a condamn&eacute; la soci&eacute;t&eacute; Suno, qui d&eacute;veloppe et exploite une application musicale bas&eacute;e sur l&#039;IA, pour plusieurs atteintes au droit d&#039;auteur li&eacute;es &agrave; l&#039;entra&icirc;nement et &agrave; l&#039;utilis",
     "auto": true
   }
 ]
