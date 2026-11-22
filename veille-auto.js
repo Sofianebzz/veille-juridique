@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-21T15:50:59
+// Dernière collecte : 2026-11-22T15:50:02
 window.AUTO_VEILLE = [
   {
     id: "auto-1794935760-70",
@@ -792,14 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1795276233-66",
-    title: "GEMA c/ Suno : atteintes au droit d'auteur résultant de l'entraînement et de l'utilisation de ses modèles d'IAG",
-    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/gema-c-suno-atteintes-au-droit-d-auteur-resultant-de-l-entrainement-et-de-l-utilisation-de-ses-modeles-d-iag-DNU100i3",
+    id: "auto-1795362579-66",
+    title: "La première notification d'une violation de données causée par un agent IA : du risque à l'imputation",
+    url: "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/la-premiere-notification-d-une-violation-de-donnees-causee-par-un-agent-ia-du-risque-a-l-imputation-DNU100h9",
     source: "Lextenso",
     date: "2026-10-08",
-    cat: "Jurisprudence",
-    desc: "Par une d&eacute;cision du 31&nbsp;juillet 2026, le tribunal r&eacute;gional de Munich&nbsp;I a condamn&eacute; la soci&eacute;t&eacute; Suno, qui d&eacute;veloppe et exploite une application musicale bas&eacute;e sur l&#039;IA, pour plusieurs atteintes au droit d&#039;auteur li&eacute;es &agrave; l&#039;entra&icirc;nement et &agrave; l&#039;utilis",
+    cat: "Cybersécurité",
+    desc: "Apr&egrave;s la premi&egrave;re notification d&#039;une violation de donn&eacute;es dont l&#039;attaque aurait &eacute;t&eacute; perp&eacute;tr&eacute;e par un agent IA, l&#039;autorit&eacute; espagnole de protection des donn&eacute;es (AEPD) alerte sur l&#039;acc&eacute;l&eacute;ration du risque li&eacute;e &agrave; l&#039;IA offensive. Au-del&agr",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-21T15:50:59";
+window.AUTO_VEILLE_UPDATED = "2026-11-22T15:50:02";
