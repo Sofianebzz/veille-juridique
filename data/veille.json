@@ -20,6 +20,36 @@
     "auto": true
   },
   {
+    "id": "auto-1795462971-0",
+    "title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
+    "url": "https://www.cnil.fr/fr/trophees-des-classes-2027",
+    "source": "CNIL",
+    "date": "2026-11-23",
+    "cat": "RGPD",
+    "desc": "Le ministère de l’Éducation nationale et la CNIL organisent le concours Trophées des classes dont la thématique, pour cette édition 2027, est&amp;nbsp;: «&amp;nbsp;Comment je sécurise mes données personnelles en ligne&amp;nbsp;?&amp;nbsp;».",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-1",
+    "title": "Découvrez les lauréats du concours Trophées des classes 2026 « Comment je protège ma vie privée en ligne ? »",
+    "url": "https://www.cnil.fr/fr/trophees-des-classes-2026-laureats",
+    "source": "CNIL",
+    "date": "2026-11-23",
+    "cat": "RGPD",
+    "desc": "La CNIL et le ministère de l’Éducation nationale dévoilent les classes gagnantes de l’édition 2026 des «&amp;nbsp;Trophées des classes&amp;nbsp;», un concours pour sensibiliser les élèves à leurs droits numériques et à la citoyenneté en ligne.",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-2",
+    "title": "L’ANSSI accompagne les organisations dans leur sécurisation",
+    "url": "https://cyber.gouv.fr/actualites/lanssi-accompagne-les-organisations-dans-leur-securisation/",
+    "source": "ANSSI",
+    "date": "2026-11-23",
+    "cat": "Cybersécurité",
+    "desc": "Toutes les organisations doivent faire face à de potentielles cyberattaques. Relevez votre niveau de sécurité avec le parcours de cybersécurité.",
+    "auto": true
+  },
+  {
     "id": "auto-1795192417-29",
     "title": "Audience délocalisée au tribunal judiciaire de Bobigny",
     "url": "https://www.conseil-constitutionnel.fr/actualites/audience-delocalisee-au-tribunal-judiciaire-de-bobigny",
@@ -70,6 +100,36 @@
     "auto": true
   },
   {
+    "id": "auto-1795462971-43",
+    "title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
+    "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-private-individual-for-credit-check-and-publication-of-personal-data_en",
+    "source": "EDPB",
+    "date": "2026-11-19",
+    "cat": "RGPD",
+    "desc": "Background information Date of final decision: 16/10/2026 National case Controller: Private individual Legal References: Article 6(1) (Lawfulness of processing) Decision: Administrative fine Key words: Legal basis, Fines, GDPR enforcement, Basic principles Summary of the Decision Origin of the case The Data Protection Authority received a complaint",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-44",
+    "title": "EDPB and DPAs from countries and organisation with EU adequacy decision take stock of progress and set 2027 priorities",
+    "url": "https://www.edpb.europa.eu/news/edpb-and-dpas-from-countries-and-organisation-with-eu-adequacy-decision-take-stock-of-progress_en",
+    "source": "EDPB",
+    "date": "2026-11-19",
+    "cat": "RGPD",
+    "desc": "Brussels, 19 November - The EDPB met on 17 November with Commissioners and representatives of the Data Protection Authorities (DPAs) from the countries and the international organisation with an EU adequacy decision. This gathering marked the third of its kind, following the first one in October 2024 and the second one in December 2025 . The meetin",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-45",
+    "title": "The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
+    "url": "https://www.edpb.europa.eu/news/the-norwegian-data-protection-authority-fines-social-garden-as-for-publishing-personal-data_en",
+    "source": "EDPB",
+    "date": "2026-11-19",
+    "cat": "RGPD",
+    "desc": "Background information Date of final decision: 13/11/2026 Cross-border case One-Stop-Shop Procedure: the decision was taken by national supervisory authorities following the One-Stop-Shop cooperation procedure (OSS) If cross-border, LSA: Norway and CSAs: Sweden, Denmark Controller: Social Garden AS Legal References: Article 6 (Lawfulness of process",
+    "auto": true
+  },
+  {
     "id": "auto-1795192417-31",
     "title": "Décision n° 2026-1234 QPC du 20 novembre 2026",
     "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261234QPC.htm",
@@ -77,6 +137,46 @@
     "date": "2026-11-19",
     "cat": "Jurisprudence",
     "desc": "Société Alexion Pharma France [Validation législative des montants de la contribution sur le chiffre d’affaires des entreprises exploitant une ou plusieurs spécialités pharmaceutiques]",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-46",
+    "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
+    "source": "EDPB",
+    "date": "2026-11-18",
+    "cat": "RGPD",
+    "desc": "Background information Date of final decision: 20/10/2026 National case Controller: Techpartner S.r.l. Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 15 (Right to access by the data subjec",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-47",
+    "title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-meta-eur-805-million-for-unlawful-access-to-facebook-users-photo-galleries_en",
+    "source": "EDPB",
+    "date": "2026-11-18",
+    "cat": "Plateformes",
+    "desc": "Background information Date of final decision: 13/11/2026 National case Controller: Meta Platforms Ireland Limited Decision: Administrative fine, Compliance order Key words: Fines, Online platforms Summary of the Decision Origin of the case The Italian Data Protection Authority (DPA) launched an investigation following a complaint submitted in July",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-48",
+    "title": "Italian DPA fines radiology centre and IT provider a combined EUR 28 000 for exposing patient health data",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-radiology-centre-and-it-provider-a-combined-eur-28-000-for-exposing-patient_en",
+    "source": "EDPB",
+    "date": "2026-11-18",
+    "cat": "RGPD",
+    "desc": "Background information Date of final decision: 07/10/2026 National case Controller: Centro Radiologico Madonna della Bruna S.r.l. Processor: MedStore Saronno S.r.l. Legal References: Article 5 (Principles relating to processing of personal data), Article 25 (Data protection by design and by default), Article 32 (Security of processing) Decision: Ad",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-49",
+    "title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
+    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en",
+    "source": "EDPB",
+    "date": "2026-11-18",
+    "cat": "RGPD",
+    "desc": "Background information Date of final decision: 23/09/2026 Controller: Business School S.r.l. Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 15 (Right to access by the data subject), Articl",
     "auto": true
   },
   {
@@ -107,6 +207,16 @@
     "date": "2026-11-18",
     "cat": "Cybersécurité",
     "desc": "Incarné par l'ANSSI, le Centre de coordination cyber français (NCC-FR) lance son nouvel appel à projets « Soutien au [...]",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-50",
+    "title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
+    "url": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
+    "source": "EDPB",
+    "date": "2026-11-17",
+    "cat": "RGPD",
+    "desc": "Background information Date of final decision: 13/11/2026 National case Controller: MTCH Technology Services Limited (“MTCH”) Legal References: Article 15 (Right to access by the data subject) Decision: Administrative fine, Compliance order Key words: GDPR enforcement, Technology, Accountability, Data subjects rights, Fines Summary of the Decision ",
     "auto": true
   },
   {
@@ -160,6 +270,16 @@
     "auto": true
   },
   {
+    "id": "auto-1795462971-51",
+    "title": "EDPB supports use of other models of contractual clauses for onward transfers of personal data",
+    "url": "https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en",
+    "source": "EDPB",
+    "date": "2026-11-13",
+    "cat": "Contrats IT",
+    "desc": "Brussels 13 November – At its latest plenary, the EDPB adopted a statement on the use of other models of contractual clauses for onward transfers of personal data * . The statement welcomes recent updates made by the European Commission on its FAQs on the EU Standard Contractual Clauses (SCCs) **, recognising that the Model Contractual Clauses (MCC",
+    "auto": true
+  },
+  {
     "id": "auto-1794851111-0",
     "title": "Ordre du jour de la séance plénière du 12 novembre 2026",
     "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
@@ -187,6 +307,16 @@
     "date": "2026-11-12",
     "cat": "International",
     "desc": "Le 10 novembre 2026, le Comité européen de la protection des données (CEPD) a adopté une déclaration sur l’adéquation de la Corée du Sud en matière de protection des données, ses recommandations finales sur les règles d’entreprises contraignantes et le thème de la sixième action coordonnée (CEF).",
+    "auto": true
+  },
+  {
+    "id": "auto-1795462971-52",
+    "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
+    "url": "https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en",
+    "source": "EDPB",
+    "date": "2026-11-11",
+    "cat": "International",
+    "desc": "Brussels, 11 November – During its latest plenary, the EDPB has adopted a statement on the first review of the functioning of the adequacy decision of the Republic of Korea and the final version of the recommendations on the application for approval and on the elements and principles to be found in Processor Binding Corporate Rules (BCR-P) . In add",
     "auto": true
   },
   {
@@ -667,136 +797,6 @@
     "date": "2026-10-14",
     "cat": "RGPD",
     "desc": "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
-    "auto": true
-  },
-  {
-    "id": "auto-1791983609-47",
-    "title": "Rapport d’orientation stratégique 2026 du Cigref : « De la prospective à l’action : recommandations stratégiques pour 2040 »",
-    "url": "https://www.cigref.fr/rapport-dorientation-strategique-2026-du-cigref-de-la-prospective-a-laction-recommandations-strategiques-pour-2040",
-    "source": "CIGREF",
-    "date": "2026-10-14",
-    "cat": "Contrats IT",
-    "desc": "L’édition 2026 du Rapport d’Orientation Stratégique (ROS) s’est nourrie des travaux de prospective stratégique portés par le Cigref ces 6 dernières années pour en tirer les principes essentiels et passer de la réflexion à l’action. Pensé comme un outil de projection et de mise à l’épreuve des impensés, ce ROS a pour but d’accompagner les [&#8230;] ",
-    "auto": true
-  },
-  {
-    "id": "auto-1791983609-1",
-    "title": "Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées",
-    "url": "https://www.cnil.fr/fr/cepd-declaration-lunettes-connectees",
-    "source": "CNIL",
-    "date": "2026-10-13",
-    "cat": "RGPD",
-    "desc": "Lors de sa dernière plénière, le CEPD a adopté une déclaration sur les lunettes connectées et publié le rapport intitulé « Le regard connecté. Une sociologie des usages et des défis liés aux lunettes connectées », élaboré dans le cadre du programme de réserve d’experts (Support Pool of Expert).",
-    "auto": true
-  },
-  {
-    "id": "auto-1791983609-27",
-    "title": "Mutualisation de fréquences",
-    "url": "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/mutualisation-de-frequences-131026.html",
-    "source": "ARCEP",
-    "date": "2026-10-13",
-    "cat": "Contrats IT",
-    "desc": "L’Arcep autorise les locations réciproques de fréquences dans la bande 1800 MHz entre les opérateurs Bouygues Telecom, Free Mobile, Orange et SFR, dans le cadre de la mise en œuvre de leur contrat de partage de sites mobiles",
-    "auto": true
-  },
-  {
-    "id": "auto-1791905294-35",
-    "title": "EDPB publishes statement on the data protection challenges of smart glasses",
-    "url": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
-    "source": "EDPB",
-    "date": "2026-10-13",
-    "cat": "RGPD",
-    "desc": "Brussels, 13 October – During its latest plenary, the EDPB has adopted statement on smart glasses and published the report “The connected gaze. Video recording, surveillance and administering evidence in the age of smart glasses” *, developed in the context of the Support Pool of Expert (SPE) programme **. As smart glasses become widely available a",
-    "auto": true
-  },
-  {
-    "id": "auto-1791825165-0",
-    "title": "ECSC 2026 : la Team France à Bochum",
-    "url": "http://cyber.sites.beta.gouv.fr/actualites/ecsc-2026-la-team-france-a-bochum/",
-    "source": "ANSSI",
-    "date": "2026-10-12",
-    "cat": "Cybersécurité",
-    "desc": "Pour aller plus loin European Cybersecurity Challenge ECSC 2026 […]",
-    "auto": true
-  },
-  {
-    "id": "auto-1791825165-35",
-    "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
-    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
-    "source": "EDPB",
-    "date": "2026-10-12",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 05/06/2026 National case Controller: Wind Tre S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 1",
-    "auto": true
-  },
-  {
-    "id": "auto-1791641289-0",
-    "title": "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
-    "url": "https://www.cnil.fr/fr/ril-2026",
-    "source": "CNIL",
-    "date": "2026-10-09",
-    "cat": "RGPD",
-    "desc": "La CNIL a organisé la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée a été l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
-    "auto": true
-  },
-  {
-    "id": "auto-1791641289-27",
-    "title": "Le Conseil constitutionnel a été saisi de 11 recours contre les résultats des élections sénatoriales de septembre 2026",
-    "url": "https://www.conseil-constitutionnel.fr/node/34529",
-    "source": "Conseil constitutionnel",
-    "date": "2026-10-09",
-    "cat": "Jurisprudence",
-    "desc": "Un délai de dix jours suivant la proclamation des résultats est ouvert à toute personne inscrite sur les listes électorales de la circonscription dans laquelle il a été procédé à l'élection, ainsi qu'aux personnes qui ont fait acte de candidature. À l’expiration de ce délai, le Conseil a enregistré ",
-    "auto": true
-  },
-  {
-    "id": "auto-1791557485-37",
-    "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
-    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
-    "source": "EDPB",
-    "date": "2026-10-09",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 23 September 2026 National case Controller: IQVIA Solutions Italy S.r.l Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 9 (Processing of special categories of personal data), &nbsp;Article 13 (Information to be provided where personal data are collected from ",
-    "auto": true
-  },
-  {
-    "id": "auto-1791557485-38",
-    "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
-    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
-    "source": "EDPB",
-    "date": "2026-10-09",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 6 August 2026 National case Controller: La Patria S.p.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 13 (Information to be provided where personal data are collected from the data subject) and Article",
-    "auto": true
-  },
-  {
-    "id": "auto-1791557485-39",
-    "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
-    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en",
-    "source": "EDPB",
-    "date": "2026-10-09",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 14 May 2026 National case Controller: Emirates Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to be provided where perso",
-    "auto": true
-  },
-  {
-    "id": "auto-1791557485-40",
-    "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
-    "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
-    "source": "EDPB",
-    "date": "2026-10-09",
-    "cat": "RGPD",
-    "desc": "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), A",
-    "auto": true
-  },
-  {
-    "id": "auto-1795362579-66",
-    "title": "La première notification d'une violation de données causée par un agent IA : du risque à l'imputation",
-    "url": "http://www.labase-lextenso.fr/l-essentiel-droit-du-numerique/2026-n9/la-premiere-notification-d-une-violation-de-donnees-causee-par-un-agent-ia-du-risque-a-l-imputation-DNU100h9",
-    "source": "Lextenso",
-    "date": "2026-10-08",
-    "cat": "Cybersécurité",
-    "desc": "Apr&egrave;s la premi&egrave;re notification d&#039;une violation de donn&eacute;es dont l&#039;attaque aurait &eacute;t&eacute; perp&eacute;tr&eacute;e par un agent IA, l&#039;autorit&eacute; espagnole de protection des donn&eacute;es (AEPD) alerte sur l&#039;acc&eacute;l&eacute;ration du risque li&eacute;e &agrave; l&#039;IA offensive. Au-del&agr",
     "auto": true
   }
 ]
