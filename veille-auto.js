@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-23T19:43:23
+// Dernière collecte : 2026-11-24T19:15:44
 window.AUTO_VEILLE = [
   {
     id: "auto-1794935760-70",
@@ -19,6 +19,26 @@ window.AUTO_VEILLE = [
     date: "2026-12-08",
     cat: "RGPD",
     desc: "Au terme d&#039;une consultation publique, le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es (CEPD) a adopt&eacute; la version d&eacute;finitive de ses lignes directrices sur l&#039;articulation du DSA et du RGPD. Mod&eacute;ration des contenus, interfaces, publicit&eacute;, recommandation, protection des mineurs&nbsp;: les oblig",
+    auto: true
+  },
+  {
+    id: "auto-1795547713-0",
+    title: "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
+    url: "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
+    source: "CNIL",
+    date: "2026-11-24",
+    cat: "RGPD",
+    desc: "Dans le cadre de leurs activités, les professionnels de la livraison sont amenés à traiter des données personnelles. Dans la plupart des cas, la CNIL considère que le transporteur est responsable de traitement, mais ce n’est pas systématique. Comment clarifier les rôles de chacun&amp;nbsp;?",
+    auto: true
+  },
+  {
+    id: "auto-1795547713-1",
+    title: "Contrôles de la CNIL : une charte pour tout comprendre",
+    url: "https://www.cnil.fr/fr/controles-de-la-cnil-une-charte-pour-tout-comprendre",
+    source: "CNIL",
+    date: "2026-11-23",
+    cat: "RGPD",
+    desc: "La CNIL peut effectuer des contrôles auprès de l’ensemble des organismes qui traitent des données personnelles. Afin d’assurer une plus grande transparence sur cette activité et favoriser le bon déroulement des investigations, la CNIL présente une charte des contrôles.",
     auto: true
   },
   {
@@ -781,25 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Pérennité économique des réseaux en fibre optique d’initiative publique : l’Arcep publie un modèle de coûts et un projet de lignes directrices tarifaires",
     auto: true
   },
-  {
-    id: "auto-1792155327-51",
-    title: "Assemblée Générale du Cigref 2026 : Trajectoires numériques, compétitivité et performance",
-    url: "https://www.cigref.fr/assemblee-generale-du-cigref-2026-trajectoires-numeriques-competitivite-et-performance",
-    source: "CIGREF",
-    date: "2026-10-15",
-    cat: "Contrats IT",
-    desc: "À l’occasion de son Assemblée Générale ordinaire réunissant les décideurs du numérique des grandes entreprises et administrations publiques françaises, le Cigref a dévoilé sa nouvelle feuille de route stratégique. La séance publique placée sous le thème « Trajectoires numériques, compétitivité et performance » a été l’occasion d&#8217;interroger le",
-    auto: true
-  },
-  {
-    id: "auto-1791983609-0",
-    title: "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
-    url: "https://www.cnil.fr/fr/cloture-injonction-google",
-    source: "CNIL",
-    date: "2026-10-14",
-    cat: "RGPD",
-    desc: "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-23T19:43:23";
+window.AUTO_VEILLE_UPDATED = "2026-11-24T19:15:44";
