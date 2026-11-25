@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-24T19:15:44
+// Dernière collecte : 2026-11-25T18:19:52
 window.AUTO_VEILLE = [
   {
     id: "auto-1794935760-70",
@@ -19,6 +19,26 @@ window.AUTO_VEILLE = [
     date: "2026-12-08",
     cat: "RGPD",
     desc: "Au terme d&#039;une consultation publique, le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es (CEPD) a adopt&eacute; la version d&eacute;finitive de ses lignes directrices sur l&#039;articulation du DSA et du RGPD. Mod&eacute;ration des contenus, interfaces, publicit&eacute;, recommandation, protection des mineurs&nbsp;: les oblig",
+    auto: true
+  },
+  {
+    id: "auto-1795630768-26",
+    title: "Audience délocalisée du Conseil constitutionnel au tribunal judiciaire de Bobigny le 24 novembre 2026 : discours d'ouverture de Richard Ferrand, Président du Conseil constitutionnel",
+    url: "https://www.conseil-constitutionnel.fr/actualites/audience-delocalisee-du-conseil-constitutionnel-au-tribunal-judiciaire-de-bobigny-le-24-novembre",
+    source: "Conseil constitutionnel",
+    date: "2026-11-24",
+    cat: "Jurisprudence",
+    desc: "Le 24 novembre 2026, le Conseil constitutionnel a siégé au tribunal judiciare de Bobigny pour sa 14e audience délocalisée de question prioritaire de constitutionnalité. Retrouvez le discours d'ouverture de Richard Ferrand, Président du Conseil constitutionnel&nbsp;:",
+    auto: true
+  },
+  {
+    id: "auto-1795630768-28",
+    title: "Un mois, une juridiction : le tribunal administratif de Montreuil",
+    url: "http://www.conseil-etat.fr/actualites/un-mois-une-juridiction-le-tribunal-administratif-de-montreuil2",
+    source: "Conseil d'État",
+    date: "2026-11-24",
+    cat: "Jurisprudence",
+    desc: "Le 16 novembre 2026, Marc Guillaume, vice-président du Conseil d’État, a rencontré les magistrates, magistrats et personnels de greffe du tribunal administratif de Montreuil dans le cadre de ses déplacements mensuels dans les juridictions administratives. L’occasion de revenir sur l’activité de la j",
     auto: true
   },
   {
@@ -79,6 +99,16 @@ window.AUTO_VEILLE = [
     date: "2026-11-23",
     cat: "Plateformes",
     desc: "Actualité 23 novembre 2026 Audience délocalisée au tribunal judiciaire de Bobigny Share more Partager sur Twitter Partager sur Facebook Partager sur LinkedIn Copier l'URL https://www.conseil-constitutionnel.fr/actualites/audience-delocalisee-au-tribunal-judiciaire-de-bobigny Imprimer Télécharger Nou",
+    auto: true
+  },
+  {
+    id: "auto-1795630768-27",
+    title: "La décision en bref : décision n° 2026-1234 QPC du 20 novembre 2026",
+    url: "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-1234-qpc-du-20-novembre-2026",
+    source: "Conseil constitutionnel",
+    date: "2026-11-20",
+    cat: "Jurisprudence",
+    desc: "Société Alexion Pharma France [Validation législative des montants de la contribution sur le chiffre d’affaires des entreprises exploitant une ou plusieurs spécialités pharmaceutiques]",
     auto: true
   },
   {
@@ -771,35 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. La CNIL fait le point sur vos droits.",
     auto: true
   },
-  {
-    id: "auto-1792155327-40",
-    title: "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
-    url: "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
-    source: "EDPB",
-    date: "2026-10-16",
-    cat: "RGPD",
-    desc: "Background information Date of final decision: 2 October 2026 National case&nbsp; Controller: Xandr Inc. Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categories of personal data) Decision: Administrative fine Key words: Fines, Basic principles, Marketing, Online platforms Summary of the Decision Origin of",
-    auto: true
-  },
-  {
-    id: "auto-1792155327-3",
-    title: "Ordre du jour de la séance plénière du 15 octobre 2026",
-    url: "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
-    source: "CNIL",
-    date: "2026-10-15",
-    cat: "RGPD",
-    desc: "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-    auto: true
-  },
-  {
-    id: "auto-1792155327-30",
-    title: "Fibre optique",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/fibre-optique-151026.html",
-    source: "ARCEP",
-    date: "2026-10-15",
-    cat: "Plateformes",
-    desc: "Pérennité économique des réseaux en fibre optique d’initiative publique : l’Arcep publie un modèle de coûts et un projet de lignes directrices tarifaires",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-24T19:15:44";
+window.AUTO_VEILLE_UPDATED = "2026-11-25T18:19:52";
