@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-26T18:01:01
+// Dernière collecte : 2026-11-27T17:46:03
 window.AUTO_VEILLE = [
   {
     id: "auto-1794935760-70",
@@ -19,6 +19,56 @@ window.AUTO_VEILLE = [
     date: "2026-12-08",
     cat: "RGPD",
     desc: "Au terme d&#039;une consultation publique, le Comit&eacute; europ&eacute;en de la protection des donn&eacute;es (CEPD) a adopt&eacute; la version d&eacute;finitive de ses lignes directrices sur l&#039;articulation du DSA et du RGPD. Mod&eacute;ration des contenus, interfaces, publicit&eacute;, recommandation, protection des mineurs&nbsp;: les oblig",
+    auto: true
+  },
+  {
+    id: "auto-1795801541-0",
+    title: "IA en contexte de soins : accompagner le bon usage avec le guide CNIL et HAS",
+    url: "https://www.cnil.fr/fr/ia-en-soins-guide-has-cnil",
+    source: "CNIL",
+    date: "2026-11-27",
+    cat: "RGPD",
+    desc: "Avec la publication du guide «&amp;nbsp;IA en contexte de soins&amp;nbsp;: accompagner le bon usage&amp;nbsp;» qu’elles ont conjointement élaboré, la Haute Autorité de santé (HAS) et la CNIL se mobilisent pour accompagner les acteurs de la santé en clarifiant les règles et les bonnes pratiques.",
+    auto: true
+  },
+  {
+    id: "auto-1795801541-27",
+    title: "Extinction des réseaux mobiles 2G et 3G",
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/extinction-des-reseaux-mobiles-2g-et-3g-271126.html",
+    source: "ARCEP",
+    date: "2026-11-27",
+    cat: "Plateformes",
+    desc: "Recommandations relatives à l’extinction par les opérateurs mobiles des réseaux 3G",
+    auto: true
+  },
+  {
+    id: "auto-1795801541-28",
+    title: "La décision en bref : décision n° 2026-1238 QPC du 27 novembre 2026",
+    url: "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-1238-qpc-du-27-novembre-2026",
+    source: "Conseil constitutionnel",
+    date: "2026-11-27",
+    cat: "Cybersécurité",
+    desc: "Société d’exploitation des ports du détroit [Obligation de mise à la disposition gratuite de l’État de certains aménagements et installations par les collectivités publiques bénéficiaires du transfert d’un port non autonome relevant de l’État]",
+    auto: true
+  },
+  {
+    id: "auto-1795801541-29",
+    title: "Le Conseil constitutionnel a tenu sa 14e audience publique hors-les-murs au tribunal judiciaire de Bobigny",
+    url: "https://www.conseil-constitutionnel.fr/actualites/le-conseil-constitutionnel-a-tenu-sa-14e-audience-publique-hors-les-murs-au-tribunal-judiciaire-de",
+    source: "Conseil constitutionnel",
+    date: "2026-11-27",
+    cat: "Jurisprudence",
+    desc: "Après s'être déplacé à Metz, Nantes, et Pau en 2019, à Lyon en 2020, à Bourges en 2021, à Marseille et à Montpellier en 2022, à Bordeaux et à Douai en 2023, à Toulouse et à Rennes en 2024, Versailles en 2025, Mende en mai 2026, le Conseil constitutionnel a siégé une nouvelle fois hors de ses murs, l",
+    auto: true
+  },
+  {
+    id: "auto-1795801541-44",
+    title: "CEDPO Webinar – Light Speed or the Right Speed?",
+    url: "https://cedpo.eu/cedpo-webinar-light-speed-or-the-right-speed/",
+    source: "CEDPO",
+    date: "2026-11-26",
+    cat: "RGPD",
+    desc: "Der Beitrag CEDPO Webinar – Light Speed or the Right Speed? erschien zuerst auf Confederation of European Data Protection Organisations .",
     auto: true
   },
   {
@@ -751,55 +801,5 @@ window.AUTO_VEILLE = [
     desc: "Quand le rachat de SFR par Orange, Bouygues Télécom et Free pourrait-il être effectif ? Que va-t-il se passer pour mon abonnement et mon forfait après la vente de SFR ? Dois-je entreprendre des démarches ? Pour répondre aux questions des particuliers sur le rachat de SFR, l’Arcep publie une nouvelle foire aux questions.&nbsp;",
     auto: true
   },
-  {
-    id: "auto-1792501868-27",
-    title: "New Deal mobile",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/new-deal-mobile-191026.html",
-    source: "ARCEP",
-    date: "2026-10-19",
-    cat: "Plateformes",
-    desc: "Publication d’une mise en demeure relatives au contrôle des obligations de déploiement liées au New Deal mobile",
-    auto: true
-  },
-  {
-    id: "auto-1792501868-28",
-    title: "Complétude des déploiements de la fibre optique",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/completude-des-deploiements-de-la-fibre-optique-191026.html",
-    source: "ARCEP",
-    date: "2026-10-19",
-    cat: "Plateformes",
-    desc: "Publication de deux mises en demeure relatives au contrôle de l’obligation de complétude des déploiements de la fibre optique",
-    auto: true
-  },
-  {
-    id: "auto-1792501868-29",
-    title: "Un mois, deux juridictions : la cour administrative d’appel et le tribunal administratif de Nantes",
-    url: "http://www.conseil-etat.fr/actualites/un-mois-deux-juridictions-la-cour-administrative-d-appel-et-le-tribunal-administratif-de-nantes2",
-    source: "Conseil d'État",
-    date: "2026-10-19",
-    cat: "Jurisprudence",
-    desc: "Les 12 et 13 octobre 2026, la cour administrative d’appel et le tribunal administratif de Nantes ont accueilli le vice-président du Conseil d’État, Marc Guillaume, dans le cadre de ses rencontres mensuelles dans les juridictions administratives. L’occasion de revenir sur l’activité des deux juridict",
-    auto: true
-  },
-  {
-    id: "auto-1792422680-0",
-    title: "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
-    url: "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
-    source: "CNIL",
-    date: "2026-10-19",
-    cat: "RGPD",
-    desc: "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
-    auto: true
-  },
-  {
-    id: "auto-1792155327-0",
-    title: "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
-    url: "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
-    source: "CNIL",
-    date: "2026-10-16",
-    cat: "RGPD",
-    desc: "La CNIL, l’ICO et la CNPD publient leur étude conjointe «&amp;nbsp;De la protection des données à la création de valeur en finance&amp;nbsp;: évaluation des données, comptabilité, fusions-acquisitions et gouvernance&amp;nbsp;», rassemblant analyses et bonnes pratiques à destination des entreprises et des acteurs financiers.",
-    auto: true
-  },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-26T18:01:01";
+window.AUTO_VEILLE_UPDATED = "2026-11-27T17:46:03";
