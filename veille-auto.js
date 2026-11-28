@@ -1,5 +1,5 @@
 // Généré automatiquement par GitHub Actions — ne pas modifier.
-// Dernière collecte : 2026-11-27T17:46:03
+// Dernière collecte : 2026-11-28T16:31:43
 window.AUTO_VEILLE = [
   {
     id: "auto-1794935760-70",
@@ -792,14 +792,14 @@ window.AUTO_VEILLE = [
     auto: true
   },
   {
-    id: "auto-1792588837-26",
-    title: "Rachat de SFR : l’Arcep publie une nouvelle FAQ",
-    url: "https://www.arcep.fr/actualites/actualites-et-communiques.html",
-    source: "ARCEP",
+    id: "auto-1795883485-26",
+    title: "Un mois, deux juridictions : la cour administrative d’appel et le tribunal administratif de Nantes",
+    url: "http://www.conseil-etat.fr/actualites/un-mois-deux-juridictions-la-cour-administrative-d-appel-et-le-tribunal-administratif-de-nantes2",
+    source: "Conseil d'État",
     date: "2026-10-19",
-    cat: "Plateformes",
-    desc: "Quand le rachat de SFR par Orange, Bouygues Télécom et Free pourrait-il être effectif ? Que va-t-il se passer pour mon abonnement et mon forfait après la vente de SFR ? Dois-je entreprendre des démarches ? Pour répondre aux questions des particuliers sur le rachat de SFR, l’Arcep publie une nouvelle foire aux questions.&nbsp;",
+    cat: "Jurisprudence",
+    desc: "Les 12 et 13 octobre 2026, la cour administrative d’appel et le tribunal administratif de Nantes ont accueilli le vice-président du Conseil d’État, Marc Guillaume, dans le cadre de ses rencontres mensuelles dans les juridictions administratives. L’occasion de revenir sur l’activité des deux juridict",
     auto: true
   },
 ];
-window.AUTO_VEILLE_UPDATED = "2026-11-27T17:46:03";
+window.AUTO_VEILLE_UPDATED = "2026-11-28T16:31:43";
